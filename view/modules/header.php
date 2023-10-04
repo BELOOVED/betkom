@@ -30,8 +30,7 @@ if ($detect->isMobile()) {
          
          _gs('GSN-526908-Q');
          _gs('set', 'anonymizeIP', true);
-      </script><script type="text/javascript" src="https://19c3d3d6-6ad8-4c01-88e3-2e22c978469c.snippet.antillephone.com/apg-seal.js"></script><script crossorigin="anonymous" type="text/javascript" src="https://widget.stkcdn.com/widget/main.js?1.7"></script><script type="text/javascript" src="https://cdn3-client.btkmcdn.com//config/web/cache_tr_TR.js?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294"></script>
-      <script type="text/javascript">
+      </script>  <script type="text/javascript">
          Configurator = {
          	language                : "tr_TR",
          	translate_language      : "tr_TR",
