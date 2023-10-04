@@ -21,11 +21,9 @@ function logIn() {
             return;
           } else {
             if (locate == 0) {
-              window.location.reload()
-              openmodal('deposit');
+              window.location.href = "deposit";
             } else {
-              window.location.reload()
-              openmodal('deposit');
+              window.location.href = "/";
             }
           }
         },
