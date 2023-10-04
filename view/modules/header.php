@@ -5,41 +5,28 @@ if ($detect->isMobile()) {
    exit; // Yönlendirme sonrası scriptin geri kalanını çalıştırmamak için exit kullanılır.
 }
  ?>
-<html lang="tr" dir="ltr" class=" webp webp-alpha webp-animation webp-lossless" style="--mobile-header-main-section-height: 49px; --mobile-header-navigation-height: 40px; --mobile-header-full-height: 89px; --dynamic-header: 0px; --window-height: 1000px; --hero: #ea2323; --brand: #16C72E; --secondary: #06A9AA; --accent: #ea2323; --oc-1: #ea2323; --oc-2: #FFFFFF; --oc-3: #ff3449; --odd-up: #16C72E; --odd-down: #ff3449; --b: #282C37; --header: #282C37; --menu: #282C37; --tab-navigation: #282C37; --hero-hover: #EE5252; --hero-sc: #FFFFFF; --hero-sc-rgb: 255, 255, 255; --hero-rgb: 234, 35, 35; --brand-hover: #119923; --brand-sc: #000000; --brand-sc-rgb: 0, 0, 0; --brand-rgb: 22, 199, 46; --secondary-hover: #047879; --secondary-sc: #000000; --secondary-sc-rgb: 0, 0, 0; --secondary-rgb: 6, 169, 170; --accent-hover: #EE5252; --accent-sc: #FFFFFF; --accent-sc-rgb: 255, 255, 255; --accent-rgb: 234, 35, 35; --oc-1-hover: #EE5252; --oc-1-sc: #FFFFFF; --oc-1-sc-rgb: 255, 255, 255; --oc-1-rgb: 234, 35, 35; --oc-2-hover: #E6E6E6; --oc-2-sc: #000000; --oc-2-sc-rgb: 0, 0, 0; --oc-2-rgb: 255, 255, 255; --oc-3-hover: #FF6777; --oc-3-sc: #FFFFFF; --oc-3-sc-rgb: 255, 255, 255; --oc-3-rgb: 255, 52, 73; --odd-up-hover: #119923; --odd-up-sc: #000000; --odd-up-sc-rgb: 0, 0, 0; --odd-up-rgb: 22, 199, 46; --odd-down-hover: #FF6777; --odd-down-sc: #FFFFFF; --odd-down-sc-rgb: 255, 255, 255; --odd-down-rgb: 255, 52, 73; --b-hover: #3D4455; --b-sc: #FFFFFF; --b-sc-rgb: 255, 255, 255; --b-rgb: 40, 44, 55; --header-hover: #3D4455; --header-sc: #FFFFFF; --header-sc-rgb: 255, 255, 255; --header-rgb: 40, 44, 55; --menu-hover: #3D4455; --menu-sc: #FFFFFF; --menu-sc-rgb: 255, 255, 255; --menu-rgb: 40, 44, 55; --tab-navigation-hover: #3D4455; --tab-navigation-sc: #FFFFFF; --tab-navigation-sc-rgb: 255, 255, 255; --tab-navigation-rgb: 40, 44, 55;">
+<html lang="tr" dir="">
    <head>
-      <meta http-equiv="origin-trial" content="A89JPrWYXvEpNQ/xE+PjjlGJiBu/L2GfQcplC/QkDJOS1fBoX5Q4/HLfT1dXpD1td7C2peXE3bSCJiYdwoFcNgQAAACSeyJvcmlnaW4iOiJodHRwczovL3JlY2FwdGNoYS5uZXQ6NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZyIsImV4cGlyeSI6MTcyNTQwNzk5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=">
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,viewport-fit=cover">
-      <meta name="revisit-after" content="1 Days">
-      <meta name="Robots" content="all">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="robots" data-reactroot="">
+      <meta charset="UTF-8">
       <meta name="google" content="notranslate">
-      <link rel="stylesheet" href="assets/static//custom.css" id="app-custom-css">
-      <link rel="shortcut icon" href="/favicon.ico?version=1694433549751">
-      <link rel="manifest" href="/manifest.json">
-      <meta name="author" data-rh="true" content="Trendbet">
-      <meta name="language" data-rh="true" content="Türkçe">
-      <title>Trendbet | Türkiye'nin en güvenilir şans oyunları sitesi</title>
-      <link href="assets/static/css/635.030ebb42.chunk.css" rel="stylesheet">
-      <link href="assets/static/css/main.23481f8b.chunk.css" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/201.e4788484.chunk.css">
-      <link rel="home" href="https://www.trendbet525.com" data-rh="true">
-      <meta property="og:site_name" content="www.trendbet525.com" data-rh="true">
-      <meta property="og:type" content="website" data-rh="true">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/37.9afbe1e9.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/18.581535d3.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/81.3b9ebd89.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/35.dcf20575.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/4.ebaebce9.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/5.13c08f10.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/79.aa10eb0a.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/44.46194963.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/106.ae5b8620.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/111.b6175e22.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/97.89261299.chunk.css">
-      <meta name="keywords" content="Trendbet, Promosyonlar, Bonuslar, Hoşgeldin Bonusu, Kayıp İade Bonusu, Kampanyalar, Avantajlar, Online Bahis" data-rh="true">
-      <meta name="description" content="Trendbet Promosyonlar - Hoşgeldin bonusları, kayıp iade bonusları ve daha pek çok avantajlı kampanya ile kazancınızı artırın! Trendbet ile en iyi bonus ve promosyonları kaçırmayın." data-rh="true">
-      <meta property="og:title" content="Trendbet | Promosyonlar" data-rh="true">
-      <meta property="og:description" content="Trendbet Promosyonlar - Hoşgeldin bonusları, kayıp iade bonusları ve daha pek çok avantajlı kampanya ile kazancınızı artırın! Trendbet ile en iyi bonus ve promosyonları kaçırmayın." data-rh="true">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+      <link rel="apple-touch-icon" sizes="76x76" href="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/apple-touch-icon.png?v=2">
+      <link rel="icon" type="image/png" sizes="32x32" href="https://cdn2-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-32x32.png?v=2">
+      <link rel="icon" type="image/png" sizes="16x16" href="https://cdn3-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-16x16.png?v=2">
+     
+      <link rel="stylesheet" href="https://cdn1-client.btkmcdn.com/build/themes/web/turkish/betkom/css/style.css?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294" id="current_theme">
+      
+      <meta name="description" content="Betkom.com | Canlı mərc | İdman mərcləri | Kazino | Poker. Ən çox qazandıran və yeni nəsil məşhur oyunların yeganə ünvanı Betkom-ə xoş gəlmisiniz. ✅ 2500 TL ilk depozit bonusu, Tək depozit üçün üç Bonus, Hədiyyələr, Bir Birindən cəzb edici bonuslar və s.">
+      <meta name="keywords" content="Betkom, Sportsbook, sports betting, live betting, Games, Live Games">
+      <link rel="canonical" href="https://betkom.com/en/">
+      <meta property="og:site_name" content="betkom.com">
+      <meta property="og:description" content="Betkom.com | Canlı mərc | İdman mərcləri | Kazino | Poker. Ən çox qazandıran və yeni nəsil məşhur oyunların yeganə ünvanı Betkom-ə xoş gəlmisiniz. ✅ 2500 TL ilk depozit bonusu, Tək depozit üçün üç Bonus, Hədiyyələr, Bir Birindən cəzb edici bonuslar və s.">
+      <meta property="og:url" content="https://betkom.com/en/">
+      <title>Betkom Canlı bahis ve Casino Oyunları</title>
+      <meta property="og:title" content="Betkom Canlı bahis ve Casino Oyunları">
+      <style type="text/css" data-styled-components="" data-styled-components-is-local="true"></style>
       <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
       <script src="/assets/js/script.js"></script>
@@ -87,1176 +74,265 @@ div:where(.swal2-icon).swal2-warning {
 }
     </style>
    </head>
-   <body>
-      <noscript>You need to enable JavaScript to run this app.</noscript>
-      <div id="root" class="layout-bc theme-default smart-panel-is-visible betslip-Hidden promotion-page">
-         <div class="Toastify"></div>
-         <div class="layout-header-holder-bc">
-            <header class="header-bc">
-            <div class="hdr-main-content-bc">
-               <div class="logo-container">
-                  <a class="logo" href="/">
-                  <img class="hdr-logo-bc" src="/logo.png?v=09/11/2023-16:23" alt="">
-                  </a>
-                  <a href="#" target="_blank" class=" header-icon">
-                  <img src="assets/curacao.png" alt="">
-                  </a>
-               </div>
-               <div class="smartPanel-bc">
-                  <?php if(isset($us['id'])){ ?>
-          <div class="hdr-smart-panel-holder-arrow-bc">
-            <div class="hdr-smart-panel-holder-bc">
-               <button class="sp-button-bc " title="YENİLİKLER" data-component="Notifications" style=""  onclick="openmodal('notifications')">
-                  <i id="smart-panel-notification-button-id" class="sp-button-icon-bc bc-i-notification"></i>
-                  <i class="  count-blink-even " data-badge=""></i>
-               </button>
-               <button class="sp-button-bc " title="FAVORİLER" data-component="FavoriteGames" style=""  onclick="openmodal('favourites')">
-                  <i id="smart-panel-favorites-button-id" class="sp-button-icon-bc bc-i-favorite"></i>
-                  <i class="  count-blink-even " data-badge=""></i>
-               </button>
-               <button class="sp-button-bc " title="MESAJLAR" data-component="Messages" style=""  onclick="openmodal('messages')">
-                  <i class="sp-button-icon-bc bc-i-message"></i>
-                  <i class="  count-blink-even " data-badge=""></i>
-               </button>
-               <button class="sp-button-bc " title="BONUSLAR" data-component="Bonuses" onclick="openmodal('bonuses')">
-                  <i class="sp-button-icon-bc bc-i-bonus"></i>
-                  <i class="  count-blink-even " data-badge=""></i>
-               </button>
-               <button class="sp-button-bc " title="Ayarlar" data-component="Settings" style="" onclick="openmodal('settings')">
-                  <i id="smart-panel-settings-button-id" class="sp-button-icon-bc bc-i-settings"></i>
-                  <span class="sp-button-content-text-bc"></span>
-               </button>
-               <button class="sp-button-bc " type="button" title="DESTEK İLE İLETİŞİME GEÇİN"  id="maximizeButton" style="">
-                  <i class="sp-button-icon-bc bc-i-live-chat"></i>
-               </button>
-               <button class="sp-button-bc " title="BAHİS KUPONU" data-component="Betslip" style="" onclick="openmodal('openbetslip')">
-                  <i class="sp-button-icon-bc bc-i-betslip"></i>
-                  <i class="  count-blink-even " data-badge=""></i>
+   <body class="light">
+      <div id="app" class="root  ">
+         <div class="application  tr_TR">
+            <div class="content_header_ticker_e7ca4">
+               <span class="icon_header_ticker_6d717"></span>
+               <h1 class="header_ticker_075f6">
+                  <span>
+                     <div>
+                        <p>SİZ İSTEDİNİZ BİZ YAPTIK!.. HER AYIN 5'İ,15'İ VE 25'İNDE VERMİŞ OLDUĞUMUZ %100 1001TL YATIRIM BONUSUNU, BU AYIN 3'Ü VE 4'ÜNDE DE GÜNDE BİRER KEZ 1001TL OLARAK DAĞITIYORUZ...</p>
+                     </div>
+                  </span>
+               </h1>
+               <button class="close-button_f9777">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                     <path d="M7.79501 1.19503C8.0684 0.921647 8.0684 0.478415 7.79501 0.205039C7.52163 -0.0683464 7.07837 -0.0683464 6.80498 0.205039L4 3.00999L1.19504 0.205039C0.921656 -0.0683464 0.478425 -0.0683464 0.205049 0.205039C-0.068337 0.478415 -0.068337 0.921647 0.205049 1.19503L3.01006 4.00002L0.205039 6.805C-0.0683464 7.07839 -0.0683464 7.52164 0.205039 7.79503C0.478415 8.06832 0.921647 8.06832 1.19503 7.79503L4 4.98996L6.80498 7.79503C7.07837 8.06832 7.52163 8.06832 7.79501 7.79503C8.0684 7.52164 8.0684 7.07839 7.79501 6.805L4.99003 4.00002L7.79501 1.19503Z" fill="currentColor"></path>
+                  </svg>
                </button>
             </div>
-            </div>
- <?php }else{?>
-            <div class="hdr-smart-panel-holder-arrow-bc"><div class="hdr-smart-panel-holder-bc" style="margin-top: 11px;"><button class="sp-button-bc "  onclick="openmodal('notifications')" title="YENİLİKLER" data-component="Notifications" style=""><i id="smart-panel-notification-button-id" class="sp-button-icon-bc bc-i-notification"></i><i class="  count-blink-even " data-badge=""></i></button><button class="sp-button-bc " title="FAVORİLER" data-component="FavoriteGames"  onclick="openmodal('favourites')"><i id="smart-panel-favorites-button-id" class="sp-button-icon-bc bc-i-favorite"></i><i class="  count-blink-even " data-badge=""></i></button><button class="sp-button-bc " onclick="openmodal('settings')" title="Ayarlar" data-component="Settings"><i id="smart-panel-settings-button-id" class="sp-button-icon-bc bc-i-settings"></i><span class="sp-button-content-text-bc"></span></button><button class="sp-button-bc " type="button" title="DESTEK İLE İLETİŞİME GEÇİN" style="" id="maximizeButton"><i class="sp-button-icon-bc bc-i-live-chat"></i></button><button class="sp-button-bc " title="BAHİS KUPONU"  onclick="openmodal('openbetslip')" data-component="Betslip"><i class="sp-button-icon-bc bc-i-betslip"></i><i class="  count-blink-even " data-badge=""></i></button></div></div>
-            <?php }?>
-                  <div class="sidePanel-holder-bc hidden">
-                  <div class="sidePanel-holder">
-                     <div class="overlay-header">
-                        <i class="bc-i-close-remove"></i>
-                        <span>YENİLİKLER</span>
-                     </div>
-                  </div>
-                  </div>
-                  <div class="sidePanel-holder-bc hidden">
-                  <div class="sidePanel-holder">
-                     <div class="overlay-header">
-                        <i class="bc-i-close-remove"></i>
-                        <span>FAVORİLER</span>
-                     </div>
-                  </div>
-                  </div>
-                  <i class="  count-blink-even hdr-toggle-button-bc bc-i-vertical-toggle" data-badge="" id="smart-panel-holder"></i>
-               </div>
-               <?php if(isset($us['id'])){
-                        
-                        ?>
-                        <div class="hdr-user-bc">
-                        <div class="header-custom-buttons">
-                           <a class="btn a-color header-icon-text" href="javascript:;" onclick="openmodals('1')">
-                              <i class="bc-i-circle-dollar"></i>
-                              <span>PARA YATIR</span>
-                           </a>
-                        </div>
-                        <div class="nav-menu-container header-user-nav">
-                           <ul class="nav-menu-other">
-                              <li>
-                              <a class="nav-menu-item" href="javascript:;" onclick="openmodals('1')">
-                                 <div class="hdr-user-info-content-bc ">
-                                    <span class="hdr-user-info-texts-bc ext-1 ellipsis">0.00 ₺</span>
+            <header class="header_4ede6">
+               <div class="top_2a242">
+                  <div class="header-container_f459c">
+                     <div class="header-account-wrapper_e1e7c">
+                        <div class="df container_01a5e">
+                           <div class="border-l_d60f4 border-r_aeda8">
+                              <div class="switcher_66842">
+                                 <div class="switcher-wrapper_9e6eb">
+                                    <a href="/tr/" rel="alternate" hreflang="tr" class="selected-lang-link_ad23e"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452 flag_TR_2e54d" style="transform: scale(0.714286);"></i></span></a>
+                                    <div class="switcher-list_53bb2"><a href="/en/" rel="alternate" hreflang="en" class="switcher-list-link_43877"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452 flag_GB_b3798" style="transform: scale(0.714286);"></i></span></a></div>
                                  </div>
-                              </a>
-                              <ul class="nav-menu-sub">
-                              <li><a class="nav-menu-item" href="javascript:;" onclick="openmodals('1')"><i class="bc-i-circle-dollar"></i><span class="checkbox-control-text-bc ellipsis">PARA YATIR</span></a></li>
-                                          <li><a class="nav-menu-item" href="javascript:;" onclick="openmodals('2')"><i class="bc-i-withdraw"></i><span class="checkbox-control-text-bc ellipsis">PARA ÇEK</span></a></li>
-                                          <li><a class="nav-menu-item" href="javascript:;" onclick="openmodals('3')"><i class="bc-i-history"></i><span class="checkbox-control-text-bc ellipsis">İŞLEM GEÇMİŞİ</span></a></li>
-                                          <li><a class="nav-menu-item" href="javascript:;" onclick="openmodals('4')"><i class="bc-i-withdraws"></i><span class="checkbox-control-text-bc ellipsis">Para Çekme Durumu</span></a></li>
+                              </div>
+                           </div>
+                           <div class="header-center_f8591">
+                              <ul class="nav-links_80ca5">
+                                 <li class="nav-item_db043"><a href="/tr/info/help/about_us/" class="nav-link_75d0f">Hakkımızda</a></li>
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4" fill="none" class="links-devider-icon_19be7">
+                                    <circle cx="2" cy="2" r="2" fill="currentColor"></circle>
+                                 </svg>
+                                 <li class="nav-item_db043"><a href="/tr/info/help/affiliates/" class="nav-link_75d0f">Bayilik &amp; Ortaklık</a></li>
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="4" height="4" viewBox="0 0 4 4" fill="none" class="links-devider-icon_19be7">
+                                    <circle cx="2" cy="2" r="2" fill="currentColor"></circle>
+                                 </svg>
+                                 <li class="nav-item_db043"><a href="/tr/info/help/contact/" class="nav-link_75d0f">İletişim Kanallarımız</a></li>
                               </ul>
-                              </li>
-                           </ul>
-                           <ul class="nav-menu-other">
-                              <li>
-                              <a class="" href="javascript:;" onclick="openmodals('12')">
-                                 <i class="hdr-user-avatar-icon-bc bc-i-user "></i>
-                              </a>
-                              <ul class="nav-menu-sub">
-                                 <li>
-                                    <a class="nav-menu-item" href="javascript:;" onclick="openmodals('1')">
-                                    <i class="bc-i-balance-management"></i>
-                                    <span class="checkbox-control-text-bc ellipsis">FİNANSAL İŞLEMLER</span>
+                              <div class="header-right_71280">
+                                 <div class="control-link_d882e border-r_aeda8 border-l_d60f4">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="control-link-icon_c46f8">
+                                       <path d="M15.7567 14.5735L11.8125 10.6129C12.8266 9.44901 13.3823 7.98455 13.3823 6.45999C13.3823 2.89801 10.3806 0 6.69113 0C3.0017 0 0 2.89801 0 6.45999C0 10.022 3.0017 12.92 6.69113 12.92C8.07619 12.92 9.39609 12.5167 10.5246 11.751L14.4988 15.7416C14.6649 15.9082 14.8883 16 15.1278 16C15.3544 16 15.5694 15.9166 15.7326 15.7649C16.0794 15.4428 16.0904 14.9085 15.7567 14.5735ZM6.69113 1.68522C9.4182 1.68522 11.6367 3.82713 11.6367 6.45999C11.6367 9.09286 9.4182 11.2348 6.69113 11.2348C3.96406 11.2348 1.74551 9.09286 1.74551 6.45999C1.74551 3.82713 3.96406 1.68522 6.69113 1.68522Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="control-link_d882e border-r_aeda8">
+                                    <a class="notification-link_9d349">
+                                       <svg xmlns="http://www.w3.org/2000/svg" width="14" height="18" viewBox="0 0 14 18" fill="none" class="notification-icon_43304">
+                                          <g>
+                                             <path d="M9.42463 15.6353C9.42463 16.5307 8.96255 17.2161 8.21209 17.6641C7.46186 18.1118 6.53745 18.1118 5.78863 17.6641C5.03794 17.2161 4.57608 16.5307 4.57608 15.6353" fill="currentColor"></path>
+                                             <path d="M6.99977 0C7.66103 0 8.19363 0.421202 8.19363 1.06893C8.19363 1.47662 8.20741 1.78082 8.45538 1.85874C10.5641 2.5166 11.9163 4.05859 11.9163 6.06111V9.42687C11.9163 10.9689 12.5269 11.281 13.2953 11.8709C14.4081 12.7236 14.1541 14.4994 12.8771 14.4982H1.12289C-0.154098 14.4994 -0.408142 12.7236 0.704702 11.8709C1.47221 11.281 2.08373 10.9689 2.08373 9.42687V6.06111C2.08373 4.05859 3.43591 2.5166 5.54462 1.85874C5.79189 1.78082 5.80637 1.47662 5.80637 1.06893C5.8066 0.421202 6.33944 0 6.99977 0Z" fill="currentColor"></path>
+                                          </g>
+                                       </svg>
                                     </a>
-                                 </li>
-                                 <li>
-                                    <a class="nav-menu-item" href="javascript:;" onclick="openmodals('5')">
-                                    <i class="bc-i-promotion"></i>
-                                    <span class="checkbox-control-text-bc ellipsis">BONUSLAR</span>
-                                    </a>
-                                 </li>
-                                 <li>
-                                    <a class="nav-menu-item" href="javascript:;" onclick="openmodals('12')">
-                                    <i class="bc-i-user"></i>
-                                    <span class="checkbox-control-text-bc ellipsis">PROFİLİM</span>
-                                    </a>
-                                 </li>
-                                 <li>
-                                    <a class="nav-menu-item" href="javascript:;" onclick="openmodals('15')">
-                                    <i class="bc-i-history"></i>
-                                    <span class="checkbox-control-text-bc ellipsis">BAHİS GEÇMİŞİ</span>
-                                    </a>
-                                 </li>
-                                 <li>
-                                    <a class="nav-menu-item" href="javascript:;" onclick="openmodals('17')">
-                                    <i class="bc-i-message"></i>
-                                    <span class="checkbox-control-text-bc ellipsis">MESAJLAR</span>
-                                    </a>
-                                 </li>
-                                 <li class="logout-profile">
-                                    <button class="btn  ellipsis " onclick="logOut()" type="button" title="Çıkış Yap">
-                                    <span>Çıkış Yap</span>
+                                 </div>
+                                 <div class="header-auth_063d0">
+                                    <button class="header-auth-button_0b9c3">
+                                       <span class="header-auth-text_b32eb">Giriş</span>
+                                       <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10" fill="none" class="header-auth-icon_81ceb">
+                                          <g>
+                                             <path d="M10 3.15383C10 2.72806 9.91443 2.31544 9.74694 1.92555C9.58435 1.55001 9.35208 1.21274 9.05624 0.923305C8.7604 0.633875 8.41565 0.406637 8.03179 0.24757C7.63448 0.0825234 7.2115 0 6.7763 0C6.34109 0 5.91933 0.0837194 5.5208 0.24757C5.13695 0.406637 4.7922 0.633875 4.49636 0.923305C4.20051 1.21274 3.96824 1.55001 3.80565 1.92555C3.63695 2.31424 3.55259 2.72806 3.55259 3.15383C3.55259 3.68605 3.68951 4.2075 3.9499 4.67154L0.0905053 8.4437C0.00126362 8.53101 -0.0268536 8.66376 0.0281584 8.78934C0.0391608 8.81565 0.0574981 8.83957 0.0782804 8.85989L0.94258 9.70546C0.963362 9.72579 0.987812 9.74255 1.01471 9.75451C1.14307 9.80833 1.27876 9.78202 1.36801 9.6935L1.90223 9.17085L2.67118 9.92313C2.69196 9.94346 2.71641 9.96021 2.74329 9.97217C2.87166 10.026 3.00736 9.99969 3.09659 9.91117L3.94867 9.07756C3.96945 9.05723 3.98656 9.03331 3.99879 9.00701C4.0538 8.88143 4.02691 8.74867 3.93644 8.66137L3.17972 7.92105L5.22372 5.92016C5.69683 6.1749 6.23105 6.30886 6.77506 6.30886C7.21027 6.30886 7.63203 6.22514 8.03055 6.06129C8.41441 5.90222 8.75916 5.67498 9.055 5.38555C9.35083 5.09613 9.58311 4.75886 9.74571 4.38331C9.91442 3.99222 10 3.5796 10 3.15383ZM7.90589 4.26012C7.60393 4.55553 7.20172 4.71819 6.77509 4.71819C6.34844 4.71819 5.94623 4.55553 5.64428 4.26012C5.34233 3.96471 5.17485 3.57123 5.17485 3.15383C5.17485 2.73523 5.34111 2.34295 5.64306 2.04754C5.94502 1.75213 6.34723 1.58947 6.77386 1.58947C7.20051 1.58947 7.60271 1.75213 7.90467 2.04754C8.20662 2.34295 8.37288 2.73643 8.37288 3.15383C8.37531 3.57123 8.20905 3.96471 7.90589 4.26012Z" fill="currentColor"></path>
+                                          </g>
+                                       </svg>
                                     </button>
-                                 </li>
-                              </ul>
-                              </li>
-                           </ul>
+                                    <button class="header-auth-button_0b9c3 blue_07672">
+                                       <span class="header-auth-text_b32eb">Kayıt Ol</span>
+                                       <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="header-auth-icon_81ceb">
+                                          <g clip-path="url(#clip0_239_8278)">
+                                             <path d="M9.31818 4.09092H5.90908V0.68182C5.90908 0.305454 5.60363 0 5.22726 0H4.77274C4.39637 0 4.09092 0.305454 4.09092 0.68182V4.09092H0.68182C0.305454 4.09092 0 4.39637 0 4.77274V5.22726C0 5.60363 0.305454 5.90908 0.68182 5.90908H4.09092V9.31818C4.09092 9.69455 4.39637 10 4.77274 10H5.22726C5.60363 10 5.90908 9.69455 5.90908 9.31818V5.90908H9.31818C9.69455 5.90908 10 5.60363 10 5.22726V4.77274C10 4.39637 9.69455 4.09092 9.31818 4.09092Z" fill="#2764FF"></path>
+                                          </g>
+                                          <defs>
+                                             <clipPath id="clip0_239_8278">
+                                                <rect width="10" height="10" fill="white"></rect>
+                                             </clipPath>
+                                          </defs>
+                                       </svg>
+                                    </button>
+                                 </div>
+                              </div>
+                           </div>
                         </div>
-                        </div>
-                        <?php }else{?>
-                        <div class="hdr-user-bc"><div class="header-custom-buttons"><a class="btn a-color  header-icon-text ." onclick="openmodal('login-modal')"><span>PARA YATIR</span></a></div><button class="btn s-small sign-in " onclick="openmodal('login-modal')" type="button" title="GİRİŞ"><span>GİRİŞ</span></button><button class="btn s-small register " onclick="openmodal('register-modal')" type="button" title="Kayıt"><span>Kayıt</span></button></div>
-                        <?php }?>
-                        <div class="form-control-bc select compact-mode filled" tabindex="0">
-                           <div class="form-control-label-bc form-control-select-bc inputs "><i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i><span class="ellipsis">TUR</span><i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i></div>
-                        </div>
-                        <span id="clock" class="hdr-time-bc">13:14:31</span>
                      </div>
-               <div class="nav-content-bc">
-                  <div class="nav-content-menu">
-                     <nav class="nav-menu-container header-navigation ">
-                        <ul class="nav-menu nav-menu-hide-items">
-                           <li class="">
-                              <a class="nav-menu-item" target="_self" href="livesports"><i class="bc-i-live"></i><span>Canlı Bahis</span><i class="nav-menu-sub-arrow bc-i-small-arrow-right"></i></a>
-                              <ul class="nav-menu-sub">
-                                 <li class=""><a class="nav-menu-item" target="_self" href="livesports"><i class="bc-i-live-v1"></i><span>Genel Bakış</span></a></li>
-                                 <li class=""><a class="nav-menu-item" target="_self" href="livesports"><i class="bc-i-calendar"></i><span>Canlı Maç Takvimi</span></a></li>
-                              </ul>
-                           </li>
-                           <li class="">
-                              <a class="nav-menu-item" target="_self" href="sportsbook"><i class="bc-i-prematch"></i><span>Spor Bahisleri</span><i class="nav-menu-sub-arrow bc-i-small-arrow-right"></i></a>
-                              <ul class="nav-menu-sub">
-                                 <li class=""><a class="nav-menu-item" target="_self" href="sportsbook"><i class="bc-i-sports"></i><span>Genel Bakış</span></a></li>
-                                 <li class=""><a class="nav-menu-item" target="_self" href="sportsbook"><i class="bc-i-calendar"></i><span>Maç Takvimi</span></a></li>
-                                 <li class=""><a class="nav-menu-item" target="_self" href="sportsbook"><i class="bc-i-result"></i><span>Sonuçlar</span></a></li>
-                              </ul>
-                           </li>
-                           <li class="">
-                              <a class="nav-menu-item" target="_self" href="livecasino"><i class="bc-i-liveroulette"></i><span>Canlı Casino</span><i class="nav-menu-sub-arrow bc-i-small-arrow-right"></i></a>
-                              <ul class="nav-menu-sub">
-                                 <li class=""><a class="nav-menu-item" target="_self" href="livecasino"><span>Ana Sayfa</span></a></li>
-                                 <li class=""><a class="nav-menu-item" target="_self" href="livecasino"><span>Turnuvalar</span></a></li>
-                              </ul>
-                           </li>
-                           <li class="">
-                              <a class="nav-menu-item" target="_self" href="casino"><i class="bc-i-slots-v1"></i><span>Slot</span><i class="nav-menu-sub-arrow bc-i-small-arrow-right"></i></a>
-                              <ul class="nav-menu-sub">
-                                 <li class=""><a class="nav-menu-item" target="_self" href="casino"><span>Ana Sayfa</span></a></li>
-                                 <li class=""><a class="nav-menu-item" target="_self" href="casino"><span>Turnuvalar</span></a></li>
-                                 <li class=""><a class="nav-menu-item badge-jackpot" target="_self" data-badge="Jackpot" href="casino"><span>Jackpotlar</span></a></li>
-                              </ul>
-                           </li>
-                           <li class=""><a class="nav-menu-item badge-new" target="_self" data-badge="Yeni" href="aviator"><i class="bc-i-aviatrix"></i><span>Aviator</span></a></li>
-                           <li class=""><a class="nav-menu-item" target="_self" href="casino"><i class="bc-i-profit-boost"></i><span>Aviatrix</span></a></li>
-                           <li class=""><a class="nav-menu-item" target="_self" href="games"><i class="bc-i-games"></i><span>Oyunlar</span></a></li>
-                           <li class=""><a class="nav-menu-item active" target="_self" href="promotions" aria-current="page"><i class="bc-i-bonus-1"></i><span>Promosyonlar</span></a></li>
-                           <li class="hidden-global"><a class="nav-menu-item" target="_self" href="#"><i class="bc-i-gift-received"></i><span>Bonus Talep</span></a></li>
-                           <li class="hidden-global"><a class="nav-menu-item" target="_self" href="#"><i class="bc-i-whatsapp"></i><span>Beni Ara / Whatsapp</span></a></li>
-                        </ul>
-                        <ul class="nav-menu-other ">
-                           <li class="nav-menu-item active">
-                              <i class="bc-i-apps"></i>DAHA
-                              <ul class="nav-menu-sub">
-                                 <li class=""><a class="nav-menu-item" target="_self" href="#"><i class="bc-i-gift-received"></i><span>Bonus Talep</span></a></li>
-                                 <li class=""><a class="nav-menu-item" target="_self" href="#"><i class="bc-i-whatsapp"></i><span>Beni Ara / Whatsapp</span></a></li>
-                              </ul>
-                           </li>
-                        </ul>
-                     </nav>
+                     <div class="navigation_b4df0">
+                        <div class="container_01a5e">
+                           <div class="navigation-inner_b1440">
+                              <a href="/tr/" aria-label="Main page" class="site-logo_8bdb9"><img src="https://cdn3-client.btkmcdn.com/build/stylesSrc/themes/web/turkish/betkom/img/site_logo/logo_betkom.png" alt="betkom site logo"></a>
+                              <nav class="nav_87eaa">
+                                 <ul class="nav-menu_55047">
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/" id="INDEX" class="nav-menu-link_107c2 active_22576 home_5c318">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_19180)">
+                                                   <path d="M15.5686 6.95923C15.5683 6.95886 15.5679 6.9585 15.5675 6.95813L9.04079 0.431641C8.76259 0.15332 8.39272 0 7.99928 0C7.60585 0 7.23598 0.153198 6.95766 0.431519L0.434343 6.95471C0.432145 6.95691 0.429948 6.95923 0.427751 6.96143C-0.143538 7.53601 -0.142562 8.46826 0.430558 9.04138C0.692399 9.30334 1.03822 9.45508 1.40798 9.47095C1.42299 9.47241 1.43813 9.47314 1.45339 9.47314H1.71352V14.2762C1.71352 15.2267 2.48683 16 3.43752 16H5.99098C6.24977 16 6.45973 15.7902 6.45973 15.5312V11.7656C6.45973 11.3319 6.81252 10.9791 7.24623 10.9791H8.75233C9.18605 10.9791 9.53883 11.3319 9.53883 11.7656V15.5312C9.53883 15.7902 9.74867 16 10.0076 16H12.561C13.5117 16 14.285 15.2267 14.285 14.2762V9.47314H14.5263C14.9196 9.47314 15.2894 9.31995 15.5679 9.04163C16.1416 8.46753 16.1419 7.53369 15.5686 6.95923Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/sports/" id="PRE_LIVE" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_19037)">
+                                                   <path d="M8.00019 0C3.5816 0 7.1871e-08 3.58141 7.1871e-08 8C-0.000585866 12.418 3.5816 15.9994 8.00019 16C12.4186 16 16.0008 12.4186 16 7.99941C16.0008 3.58078 12.4178 0 8.00019 0ZM13.4206 11.871L12.2998 11.056L9.57855 13.0332L10.0086 14.3568C9.37457 14.5572 8.69996 14.6666 7.99976 14.6666C7.29977 14.6666 6.62578 14.5572 5.99176 14.3574L6.42195 13.0332L3.7 11.056L2.57961 11.8704C1.80801 10.7922 1.34762 9.47781 1.33602 8.05402L2.72543 8.0532L3.76441 4.8548L2.64461 4.04102C3.45062 2.9518 4.57781 2.11723 5.88941 1.67961L6.31859 3H9.68121L10.1102 1.67961C11.4226 2.11781 12.5494 2.95242 13.3554 4.04102L12.2354 4.8548L13.2744 8.0532H14.6646C14.653 9.47801 14.1924 10.7924 13.4206 11.871Z" fill="currentColor"></path>
+                                                   <path d="M9.67094 5.70068H6.30695L5.26855 8.89908L7.98938 10.8757L10.7102 8.89908L9.67094 5.70068Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Spor</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/live/" id="LIVE" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_15048)">
+                                                   <path d="M13.0765 12.9692C12.867 13.2775 12.9577 13.6906 13.279 13.8917C13.6002 14.0928 14.0305 14.0058 14.2401 13.6974C15.3532 12.0585 16 10.1008 16 8.00001C16 5.89922 15.3532 3.94144 14.2401 2.30262C14.0305 1.99421 13.6002 1.9072 13.279 2.10829C12.9577 2.30939 12.867 2.72243 13.0765 3.03085C14.047 4.45964 14.611 6.16558 14.611 8.00001C14.611 9.83438 14.047 11.5403 13.0765 12.9692Z" fill="currentColor"></path>
+                                                   <path d="M2.72106 2.10829C3.04236 2.30938 3.133 2.72243 2.9235 3.03085C1.95302 4.45964 1.38898 6.16558 1.38898 8.00001C1.38898 9.83438 1.95301 11.5403 2.9235 12.9692C3.133 13.2775 3.04236 13.6906 2.72106 13.8917C2.39977 14.0928 1.96949 14.0058 1.76 13.6974C0.646856 12.0585 0 10.1008 0 8.00001C0 5.89922 0.646856 3.94144 1.76 2.30262C1.96949 1.99421 2.39977 1.9072 2.72106 2.10829Z" fill="currentColor"></path>
+                                                   <path d="M4.74399 4.79169C5.05554 5.00643 5.12677 5.42296 4.90306 5.72204C4.43963 6.34156 4.16693 7.10048 4.16693 7.92252C4.16693 8.74455 4.43963 9.50347 4.90306 10.123C5.12677 10.4221 5.05554 10.8387 4.74399 11.0534C4.43242 11.2681 3.9985 11.1997 3.7748 10.9007C3.14748 10.062 2.77795 9.03272 2.77795 7.92252C2.77795 6.8124 3.14748 5.78306 3.7748 4.94439C3.9985 4.64532 4.43242 4.57694 4.74399 4.79169Z" fill="currentColor"></path>
+                                                   <path d="M8.10237 5.55566C6.69598 5.55566 5.55591 6.65005 5.55591 8.00008C5.55591 9.35011 6.69598 10.4445 8.10237 10.4445C9.50876 10.4445 10.6488 9.35011 10.6488 8.00008C10.6488 6.65005 9.50876 5.55566 8.10237 5.55566Z" fill="currentColor"></path>
+                                                   <path d="M11.2422 10.123C11.0185 10.4221 11.0897 10.8387 11.4013 11.0534C11.7128 11.2682 12.1467 11.1997 12.3704 10.9007C12.9977 10.062 13.3673 9.03272 13.3673 7.92251C13.3673 6.81239 12.9977 5.78307 12.3704 4.94439C12.1467 4.64531 11.7128 4.57695 11.4013 4.79169C11.0897 5.00643 11.0185 5.42296 11.2422 5.72204C11.7055 6.34164 11.9783 7.10047 11.9783 7.92251C11.9783 8.74454 11.7055 9.50347 11.2422 10.123Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">In-Play</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/virtual/" id="VIRTUAL" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_15041)">
+                                                   <path d="M8.65905 3.92285H8.50001C8.49177 3.92285 8.48645 3.92847 8.48206 3.9351C8.53922 3.94446 8.59767 3.9499 8.65905 3.95229C8.68158 3.95297 8.68158 3.92285 8.65905 3.92285Z" fill="currentColor"></path>
+                                                   <path d="M15.9349 13.7753C15.9291 13.7553 15.9397 13.7479 15.9584 13.7592C15.959 13.7595 15.9595 13.7598 15.9601 13.76C15.979 13.7709 15.9896 13.7638 15.9834 13.7439C15.8642 13.3519 15.6385 13.0147 15.4999 12.6412C15.4926 12.6215 15.4977 12.6189 15.5111 12.6356C15.5412 12.6729 15.5713 12.7101 15.6015 12.747C15.615 12.7637 15.6283 12.7756 15.6314 12.7737C15.6345 12.7717 15.6276 12.7559 15.6163 12.738C15.4501 12.4777 15.284 12.2174 15.1178 11.9573C15.1065 11.9394 15.1032 11.9212 15.1109 11.9168C15.1185 11.9123 15.1353 11.9224 15.1482 11.9392C15.1848 11.9864 15.2213 12.0337 15.2581 12.0808C15.271 12.0976 15.2845 12.1104 15.2876 12.1094C15.2907 12.1083 15.2887 12.0935 15.2827 12.0764C15.2767 12.0592 15.2754 12.042 15.2799 12.0376C15.2843 12.0333 15.3005 12.0418 15.3162 12.0566C15.3904 12.1276 15.4654 12.1994 15.5487 12.279C15.5644 12.294 15.568 12.2909 15.5571 12.2727C15.5381 12.2409 15.5212 12.2121 15.505 12.1851C15.494 12.1669 15.4884 12.1468 15.4924 12.1425C15.4962 12.1383 15.5139 12.141 15.5325 12.1529C15.6243 12.2131 15.7168 12.2666 15.8152 12.3309C15.8336 12.3428 15.842 12.3249 15.8342 12.3081C15.8263 12.2911 15.8803 12.2632 15.8591 12.2593C15.7589 12.2409 15.6728 12.1167 15.6728 12.1167C15.5316 11.9076 15.353 11.714 15.2153 11.5028C15.0272 11.2143 14.889 10.9021 14.8256 10.5667C14.8177 10.5252 14.8132 10.4825 14.8106 10.44C14.8093 10.4192 14.8037 10.4138 14.8 10.4281C14.7966 10.4422 14.7873 10.4378 14.78 10.4179C14.6907 10.1783 14.6053 9.94898 14.5202 9.72049C14.5129 9.70075 14.5085 9.68391 14.5104 9.68272C14.5125 9.68153 14.5222 9.69565 14.5322 9.71419C14.5683 9.78157 14.6044 9.8486 14.6404 9.91614C14.6506 9.93452 14.6618 9.94847 14.6661 9.94728C14.67 9.94592 14.6692 9.93061 14.6636 9.91342C14.6603 9.90287 14.6568 9.8925 14.6516 9.88297C14.4304 9.47719 14.2108 9.07074 13.9845 8.66752C13.9401 8.58807 13.8774 8.51355 13.8078 8.45145C13.5966 8.26345 13.3769 8.08361 13.163 7.89817C13.087 7.83232 13.0187 7.75866 12.9457 7.68958C12.9079 7.65402 12.8717 7.61506 12.8276 7.58801C12.5372 7.41073 12.2779 7.20589 12.0613 6.94796C11.7725 6.60412 11.3788 6.37375 10.9869 6.14543C10.8927 6.09065 10.7996 6.03178 10.6986 5.99027C10.5646 5.93514 10.4268 5.8756 10.2845 5.85348C10.0801 5.82166 9.86857 5.83136 9.66287 5.80499C9.51456 5.78593 9.36753 5.74527 9.22542 5.69933C8.88563 5.5896 8.55021 5.46829 8.21096 5.35736C7.98832 5.28454 7.86351 5.10318 7.69644 4.96843C7.6866 4.96044 7.68095 4.94785 7.67622 4.93424C7.66947 4.91433 7.6682 4.89442 7.67348 4.88966C7.67877 4.8849 7.69917 4.88847 7.71921 4.89766C7.77314 4.92267 7.82762 4.94785 7.88592 4.9749C7.90596 4.98408 7.91143 4.97813 7.89813 4.96129C7.88392 4.94308 7.87025 4.92573 7.85677 4.90871C7.84347 4.89187 7.83454 4.8752 7.83673 4.87146C7.83892 4.86771 7.85714 4.87162 7.87736 4.8803C7.96846 4.91892 8.05955 4.95771 8.15065 4.99633C8.17088 5.00501 8.1911 5.00875 8.19547 5.00501C8.20003 5.0011 8.19401 4.98357 8.18235 4.96588C8.17179 4.94989 8.15994 4.93185 8.14482 4.90906C8.13316 4.89136 8.14045 4.88319 8.16122 4.89085C8.30789 4.94529 8.43816 4.99361 8.56697 5.04142C8.58774 5.04908 8.60541 5.05333 8.60669 5.05078C8.60814 5.04823 8.59302 5.03819 8.57316 5.02849C8.46239 4.97303 8.35161 4.91773 8.24084 4.86227C8.22134 4.8524 8.20786 4.83896 8.21114 4.83232C8.2146 4.82569 8.23428 4.82569 8.25541 4.83232C8.30096 4.84662 8.34633 4.86091 8.39188 4.8752C8.41301 4.88183 8.43196 4.88353 8.43415 4.87877C8.43633 4.87418 8.42413 4.85972 8.407 4.84645C8.3957 4.83777 8.38441 4.82926 8.37311 4.82058C8.35562 4.80748 8.34323 4.79217 8.34487 4.78639C8.34651 4.7806 8.36582 4.77822 8.38787 4.78111C8.41902 4.78503 8.45073 4.78911 8.48443 4.79319C8.50648 4.79592 8.51067 4.78741 8.49354 4.77414C8.48389 4.76682 8.47441 4.75934 8.46421 4.75151C8.4469 4.73824 8.4489 4.71918 8.46968 4.71221C8.59739 4.66916 8.71218 4.7333 8.83898 4.75236C8.86103 4.75559 8.86431 4.74692 8.84609 4.73501C8.72511 4.65572 8.61306 4.58256 8.50192 4.50975C8.48352 4.49784 8.46949 4.48627 8.47059 4.48389C8.4715 4.4815 8.48899 4.4861 8.50958 4.49392L8.71837 4.57304C8.73896 4.58086 8.75809 4.58342 8.76082 4.57848C8.76356 4.57372 8.75026 4.56096 8.73149 4.5499C8.64896 4.50209 8.56642 4.45445 8.48389 4.40664C8.46494 4.39593 8.45073 4.383 8.45237 4.37823C8.45401 4.37347 8.47259 4.37432 8.49409 4.3801C8.51449 4.38555 8.53581 4.39116 8.55859 4.39729C8.58008 4.4029 8.5892 4.39252 8.57662 4.37534C8.4848 4.25352 8.32064 4.23089 8.21187 4.13664C8.19565 4.12252 8.20112 4.11469 8.22244 4.12116C8.24375 4.12779 8.26653 4.13477 8.29313 4.14293C8.31426 4.1494 8.31718 4.14447 8.29932 4.13188C8.2873 4.12337 8.27637 4.11554 8.26525 4.10755C8.2474 4.09496 8.25122 4.08339 8.27345 4.08203C8.30297 4.08015 8.33066 4.07828 8.36145 4.07624C8.38368 4.07488 8.38459 4.06807 8.36345 4.06144C8.32483 4.04936 8.29094 4.03813 8.25833 4.02792C8.23719 4.02129 8.2208 4.01176 8.22189 4.00768C8.22298 4.00359 8.24138 4.00172 8.26343 4.00581C8.32191 4.01686 8.38076 4.02486 8.43961 4.03167C8.45073 4.03286 8.46239 4.02112 8.47423 4.0155C8.49209 4.00717 8.49591 3.97824 8.48316 3.96957C8.47496 3.96395 8.47623 3.94677 8.48352 3.93486C8.39334 3.91989 8.3088 3.89147 8.23373 3.82665C8.21733 3.81253 8.22298 3.80113 8.24539 3.80232C8.26489 3.80334 8.28511 3.80419 8.30698 3.80539C8.3292 3.80658 8.33066 3.80079 8.31025 3.79246C8.30625 3.79075 8.30206 3.78905 8.29841 3.78752C8.27801 3.77918 8.27837 3.76659 8.29932 3.75945C8.38295 3.73087 8.46803 3.70194 8.55348 3.67285C8.57444 3.6657 8.59047 3.65601 8.58938 3.65124C8.58828 3.64648 8.56934 3.64172 8.54711 3.64086C8.54091 3.64052 8.53454 3.64035 8.52761 3.64001C8.50539 3.63899 8.49828 3.62487 8.51176 3.60837C8.53891 3.57519 8.56314 3.54542 8.58464 3.51905C8.59794 3.50254 8.59885 3.4789 8.58719 3.46562C8.57863 3.45593 8.57152 3.44589 8.57389 3.43823C8.58081 3.41629 8.60978 3.39332 8.63493 3.38498C8.68375 3.36899 8.73422 3.35844 8.78341 3.33615C8.80327 3.32713 8.80072 3.3171 8.77831 3.31608C8.64549 3.31029 8.51285 3.30434 8.38003 3.29855C8.35781 3.29753 8.33886 3.29124 8.33813 3.28443C8.3374 3.27763 8.34524 3.26742 8.3558 3.2618C8.36655 3.25619 8.35744 3.24819 8.33558 3.24394C8.31281 3.23951 8.29003 3.23526 8.26762 3.23101C8.24576 3.22675 8.2279 3.2191 8.2279 3.21382C8.2279 3.20855 8.24576 3.20294 8.26799 3.2014C8.31718 3.198 8.36783 3.1946 8.42577 3.19052C8.44799 3.18898 8.44818 3.1849 8.42631 3.18133C8.33175 3.16602 8.24539 3.15207 8.16013 3.13811C8.13808 3.13454 8.1195 3.12637 8.11877 3.11974C8.11786 3.1131 8.1348 3.10409 8.15648 3.09932C8.16541 3.09745 8.17434 3.09558 8.18326 3.09371C8.20476 3.08911 8.20713 3.07686 8.18782 3.06632C8.0304 2.98023 7.87025 2.89278 7.68915 2.79376C7.66984 2.78321 7.67221 2.77641 7.69443 2.77879C7.83418 2.79478 7.95771 2.82302 8.07176 2.77164C8.0918 2.76262 8.08907 2.7502 8.06702 2.74663C8.0253 2.74 7.98139 2.73285 7.9373 2.72571C7.91526 2.72213 7.89977 2.71516 7.90268 2.71022C7.9056 2.70512 7.89066 2.6961 7.86934 2.68998C7.80357 2.67092 7.73798 2.65187 7.67221 2.63264C7.65089 2.62652 7.63449 2.61495 7.63559 2.60695C7.63668 2.59895 7.65545 2.59096 7.67767 2.58909C7.72778 2.58483 7.7777 2.58058 7.8278 2.57633C7.85003 2.57445 7.8677 2.56986 7.86752 2.56612C7.86734 2.56238 7.84912 2.55659 7.82707 2.55336C7.76932 2.54468 7.71138 2.53617 7.65362 2.5275C7.63158 2.52426 7.6139 2.51542 7.61427 2.50776C7.61463 2.50011 7.63267 2.49143 7.65472 2.4882C7.69188 2.48292 7.72905 2.47765 7.76622 2.4722C7.78827 2.46914 7.79665 2.45944 7.7848 2.45077C7.77296 2.44209 7.76239 2.42831 7.76112 2.41997C7.75984 2.41163 7.77624 2.40092 7.79792 2.39598C7.95279 2.36008 8.1082 2.32385 8.2729 2.28556C8.29459 2.28046 8.29404 2.27825 8.27199 2.28046C8.07832 2.29969 8.02785 2.30309 8.00453 2.28097C7.98886 2.26617 8.00143 2.24048 8.02166 2.23163C8.06666 2.21156 8.10929 2.18893 8.09909 2.12683C8.09563 2.10624 8.07067 2.09144 8.04826 2.09229C8.01182 2.09382 7.97028 2.09552 7.9291 2.10029C7.77424 2.11815 7.76075 2.12053 7.70081 2.01471C7.69043 1.99633 7.69844 1.97422 7.71867 1.96537C7.78699 1.93577 7.85531 1.90599 7.92345 1.87639C7.94368 1.86754 7.95825 1.85614 7.95588 1.85087C7.95352 1.84559 7.93475 1.84713 7.91398 1.85495C7.86388 1.87384 7.81432 1.89408 7.76239 1.90531C7.69516 1.91994 7.61773 1.96792 7.5618 1.88115C7.55815 1.87554 7.54394 1.87588 7.53483 1.87316C7.23385 1.77958 6.93268 1.68669 6.63224 1.59192C6.5794 1.57525 6.52839 1.55398 6.47992 1.52217C6.4617 1.51026 6.46589 1.50022 6.48812 1.50158L6.51126 1.50294C6.53349 1.5043 6.55335 1.50226 6.55553 1.49869C6.55772 1.49511 6.54351 1.48406 6.52365 1.47436C6.44567 1.43591 6.36751 1.39763 6.28953 1.35918C6.26894 1.34948 6.25436 1.33859 6.25582 1.33485C6.25746 1.3311 6.27659 1.32974 6.29882 1.33212C6.3052 1.33281 6.31139 1.33349 6.31722 1.334C6.33945 1.33621 6.34091 1.3311 6.3205 1.3226C6.14723 1.24944 5.95866 1.16982 5.769 1.08968C5.74859 1.08117 5.73347 1.06807 5.73529 1.06059C5.73693 1.0531 5.75643 1.04783 5.77865 1.04885C5.82621 1.05106 5.87649 1.05327 5.93826 1.05617C5.96048 1.05719 5.96103 1.05429 5.93917 1.0497C5.90291 1.04221 5.87321 1.03592 5.84188 1.02945C5.82001 1.02486 5.81855 1.01346 5.83841 1.00376C5.9337 0.957657 6.02006 0.915973 6.10278 0.875992C6.12264 0.866464 6.12082 0.86102 6.09877 0.864422C5.99109 0.881266 5.88269 0.897599 5.77428 0.914612C5.75224 0.918015 5.73256 0.913251 5.73019 0.905765C5.72782 0.898449 5.73675 0.882627 5.75005 0.874801C5.76335 0.866974 5.75624 0.850301 5.73456 0.846048C5.67626 0.834649 5.61978 0.811 5.56366 0.800111C5.56366 0.800111 5.71033 0.759279 5.49898 0.731376C5.3013 0.705175 5.13295 0.636611 4.9657 0.53555C4.82978 0.453375 4.66672 0.405737 4.51021 0.358609C4.32346 0.302294 4.13052 0.263844 3.94103 0.215525C3.87053 0.197661 3.80293 0.162613 3.73169 0.155467C3.64205 0.14662 3.55096 0.150874 3.4697 0.152405C3.44747 0.152745 3.41431 0.143388 3.39664 0.130628C3.37769 0.116847 3.35965 0.104427 3.34143 0.104086C2.9488 0.0974512 2.55653 0.104427 2.17374 0.199362C2.0974 0.218247 2.02726 0.257549 1.95183 0.280857C1.92286 0.289874 1.8784 0.293107 1.85691 0.278646C1.77874 0.225393 1.70678 0.164144 1.63372 0.104767C1.60019 0.0775453 1.56776 0.0486223 1.53533 0.0200395C1.51912 0.00574814 1.50071 -0.00275864 1.49416 0.000814205C1.4876 0.00438705 1.48231 0.0225916 1.48249 0.0414766C1.48268 0.0530458 1.48322 0.0644449 1.48632 0.0753336C1.5049 0.142197 1.52695 0.208209 1.5479 0.274392C1.59127 0.411862 1.59035 0.40931 1.44369 0.453885C1.38047 0.473111 1.31251 0.495739 1.26368 0.53521C1.19791 0.587442 1.1314 0.584549 1.05743 0.581657C0.994394 0.579275 0.930808 0.587612 0.867404 0.588292C0.662799 0.590334 0.468033 0.552053 0.285109 0.463583C0.274724 0.458479 0.262335 0.456948 0.249763 0.456097C0.229539 0.454736 0.214235 0.469197 0.21551 0.488253C0.216239 0.500332 0.218243 0.512242 0.224438 0.521089C0.304604 0.638142 0.388596 0.749921 0.53672 0.804875C0.617251 0.834819 0.693408 0.878033 0.766286 0.922609C0.89364 1.0007 0.922427 1.09325 0.880522 1.23021C0.817118 1.43829 0.744605 1.64534 0.703975 1.85733C0.684298 1.95958 0.727479 2.07255 0.74424 2.18042C0.751893 2.22959 0.775031 2.27808 0.774303 2.32674C0.767379 2.75956 0.692315 3.18286 0.563685 3.5985C0.541822 3.66877 0.526335 3.74073 0.512488 3.8013C0.507933 3.82172 0.498277 3.84724 0.494633 3.85966C0.492447 3.86731 0.491172 3.87497 0.491172 3.88263C0.491172 3.89113 0.492447 3.89913 0.494451 3.90662C0.498277 3.91955 0.507387 3.93673 0.513035 3.94558C0.518501 3.95442 0.526517 3.96701 0.530526 3.97433C0.532894 3.97858 0.535445 3.98267 0.538724 3.98692C0.561134 4.01686 0.586642 4.04358 0.612331 4.07046C0.627271 4.08594 0.629093 4.11282 0.615429 4.12915C0.604497 4.14225 0.593019 4.15518 0.581358 4.16811C0.572431 4.17815 0.566236 4.18904 0.562228 4.20044C0.555486 4.22001 0.555122 4.2394 0.553482 4.2428C0.552207 4.24519 0.551478 4.2474 0.551478 4.24944C0.551478 4.2719 0.563139 4.30473 0.58154 4.31494C0.667536 4.36241 0.756265 4.40528 0.850642 4.45224C0.870319 4.46194 0.871595 4.4798 0.853375 4.49205C0.845177 4.4975 0.83716 4.50294 0.828779 4.50856C0.810559 4.52064 0.809284 4.54207 0.827504 4.55398C0.921698 4.6154 1.02263 4.612 1.12867 4.59635C1.17859 4.58903 1.23088 4.59652 1.2819 4.59601C1.30449 4.59584 1.33583 4.60043 1.34785 4.58886C1.41982 4.52047 1.50855 4.51332 1.60457 4.50277C1.73739 4.48814 1.85363 4.33587 1.83522 4.20997C1.81099 4.04494 1.86237 3.92023 1.98626 3.79467C2.09012 3.68952 2.14277 3.54117 2.22403 3.41526C2.24535 3.38209 2.2847 3.35163 2.32314 3.33734C2.38381 3.31488 2.43647 3.33615 2.45359 3.40063C2.49513 3.55801 2.56346 3.71521 2.56747 3.87361C2.57348 4.11078 2.54196 4.34982 2.5108 4.58614C2.47582 4.85138 2.33371 5.07579 2.17502 5.29373C1.99647 5.5389 1.89426 5.80397 1.95001 6.11106C1.98025 6.27763 1.98371 6.44861 1.99173 6.6179C1.99319 6.65005 1.96896 6.69905 1.94053 6.71419C1.43239 6.98573 0.990022 7.33842 0.54583 7.68941C0.471677 7.74811 0.386045 7.79438 0.313714 7.85478C0.12496 8.01199 0.101092 8.2153 0.144637 8.43239C0.154475 8.48122 0.168869 8.53328 0.196927 8.57429C0.328836 8.76875 0.334666 8.97427 0.277457 9.1895C0.188546 9.52415 0.10674 9.86051 0.0138205 10.1941C-0.0131443 10.2911 -0.000755089 10.3765 0.0518993 10.4556C0.172695 10.6368 0.251585 10.8322 0.292215 11.0411C0.326285 11.2167 0.428679 11.3589 0.537267 11.5001C0.621441 11.6098 0.695412 11.726 0.776671 11.8375C0.844448 11.9305 0.911678 11.9562 1.0168 11.9038C1.1028 11.8608 1.19353 11.8031 1.24619 11.7294C1.39377 11.5227 1.43294 11.2883 1.38265 11.0443C1.37281 10.9968 1.35168 10.9433 1.3167 10.9099C1.18552 10.7849 1.05087 10.6625 0.908945 10.5484C0.816208 10.4737 0.784323 10.3602 0.836613 10.2569C0.867222 10.1965 0.887446 10.1281 0.895098 10.0616C0.903661 9.98624 0.899106 9.90917 0.897831 9.82036C0.897466 9.7996 0.912589 9.79212 0.930626 9.80437C1.06308 9.89437 1.16074 9.99645 1.18351 10.1353C1.22469 10.3871 1.39176 10.4982 1.63426 10.5695C2.05677 10.6935 2.47983 10.7927 2.92803 10.7781C3.13537 10.7712 3.13755 10.7823 3.12225 10.5861C3.10002 10.3007 2.94844 10.0684 2.7646 9.85183C2.74456 9.82801 2.70211 9.80794 2.67022 9.80811C2.56947 9.80896 2.46835 9.81627 2.36869 9.82955C2.33735 9.8338 2.30802 9.8634 2.2816 9.88535C2.23223 9.92652 2.18467 9.96974 2.13293 10.0158C2.11672 10.0303 2.09595 10.0296 2.08611 10.0148C2.07864 10.0036 2.07354 9.99577 2.06989 9.98726C1.99993 9.82257 2.00011 9.81951 1.81846 9.81968C1.68236 9.81985 1.57705 9.75622 1.51474 9.65992C1.37263 9.44045 1.24692 9.21093 1.1223 8.9821C1.10517 8.95063 1.11993 8.89227 1.14106 8.85756C1.17878 8.79563 1.22651 8.73574 1.28226 8.68726C1.31488 8.65884 1.37081 8.64217 1.41709 8.64081C1.82721 8.62635 2.23824 8.62703 2.64745 8.60202C3.01931 8.57939 3.38953 8.53209 3.75993 8.49177C3.80676 8.48667 3.86415 8.46693 3.89294 8.43546C3.99005 8.32929 4.09936 8.33201 4.21998 8.38458C4.45774 8.48786 4.6915 8.59981 4.9329 8.69491C5.27944 8.83187 5.63363 8.95165 5.98053 9.08792C6.64754 9.34993 7.36339 9.42564 8.06083 9.57094C8.20804 9.60156 8.36018 9.61194 8.51067 9.62725C8.57899 9.63423 8.62764 9.66179 8.64476 9.72253C8.66863 9.80675 8.70106 9.89301 8.70124 9.97841C8.70216 10.2891 8.79981 10.5707 8.96233 10.8376C9.01881 10.93 9.07402 11.0246 9.11301 11.1239C9.19991 11.3446 9.15947 11.5501 8.9995 11.7325C8.68703 12.0889 8.321 12.3945 7.94987 12.695C7.83564 12.7875 7.72104 12.8802 7.615 12.9806C7.57838 13.0153 7.55105 13.0723 7.54722 13.1212C7.52609 13.4005 7.4953 13.6777 7.4042 13.9465C7.33879 14.1396 7.42752 14.3082 7.51115 14.4758C7.58257 14.6189 7.65636 14.7608 7.73907 14.9222C7.74873 14.9408 7.76859 14.9436 7.78371 14.9283C7.87699 14.8336 7.96427 14.7511 8.0417 14.6609C8.19984 14.477 8.3026 14.2645 8.36819 14.0387C8.38805 13.9703 8.37238 13.8886 8.35562 13.8163C8.33485 13.7255 8.28784 13.6396 8.26926 13.5485C8.26288 13.5171 8.30042 13.4533 8.33139 13.4439C8.45692 13.4061 8.50229 13.3071 8.57407 13.2209C8.71181 13.0555 8.8705 12.9054 9.02519 12.7528C9.19062 12.5893 9.38776 12.4677 9.60275 12.3637C9.83213 12.2528 10.0522 12.124 10.2692 11.9925C10.3231 11.96 10.3592 11.9016 10.4029 11.8455C10.4161 11.8285 10.4443 11.8218 10.4642 11.8314C10.6356 11.9108 10.7648 12.0491 10.8532 12.2382C11.0282 12.6119 10.9574 12.965 10.7739 13.3083C10.6074 13.62 10.4243 13.924 10.247 14.2308C10.1384 14.4186 9.96659 14.5481 9.78385 14.6682C9.73265 14.7019 9.67945 14.7407 9.64538 14.7887C9.40998 15.122 9.22305 15.4794 9.04869 15.843C9.00241 15.9395 9.01043 15.9682 9.12521 15.9822C9.26751 15.9999 9.41345 16.0033 9.55702 15.9973C9.80316 15.9871 10.0362 15.9308 10.2299 15.777C10.3765 15.6606 10.4609 15.5175 10.4439 15.3321C10.4428 15.3225 10.4438 15.313 10.4414 15.3038C10.4024 15.1344 10.4481 15.0199 10.6458 14.9642C10.7954 14.922 10.8763 14.7931 10.9422 14.6684C11.1332 14.3084 11.3112 13.9424 11.5076 13.5851C11.661 13.3059 11.831 13.0347 11.9992 12.7632C12.1103 12.5839 12.2276 12.4076 12.3493 12.2346C12.4672 12.0663 12.4364 11.9157 12.3264 11.7548C12.1799 11.5409 12.05 11.3174 11.9122 11.0984C11.79 10.9043 11.8457 10.7069 11.9753 10.5608C12.3047 10.189 12.4568 9.73614 12.6837 9.31761C12.7013 9.28511 12.7123 9.24887 12.7309 9.21485C12.7409 9.1963 12.7494 9.19919 12.7465 9.21978C12.7429 9.24309 12.74 9.26606 12.7411 9.28902C12.7545 9.58149 12.7737 9.87395 12.7831 10.1666C12.7873 10.3046 12.7575 10.4448 12.7735 10.5809C12.7975 10.7857 12.8476 10.988 12.8872 11.1911C12.8963 11.2372 12.9061 11.2832 12.924 11.3283C12.9318 11.3478 12.9378 11.346 12.9356 11.3254C12.9327 11.2999 12.9302 11.274 12.9274 11.2483C12.9251 11.2277 12.9278 11.2274 12.9329 11.2475C13.0185 11.577 13.0967 11.9079 13.2906 12.2017C13.302 12.2194 13.3062 12.2176 13.2991 12.198C13.2958 12.1895 13.2927 12.1806 13.2893 12.1718C13.282 12.1521 13.2876 12.1492 13.3017 12.1653C13.4117 12.2921 13.5181 12.4151 13.6371 12.5521C13.6511 12.5684 13.6662 12.5648 13.6708 12.5444C13.6735 12.5321 13.6755 12.5216 13.6779 12.5111C13.6821 12.4906 13.7023 12.4811 13.7225 12.4896C13.7748 12.5112 13.8249 12.5303 13.8705 12.557C13.9215 12.5871 13.9701 12.6245 14.0199 12.6645C14.0368 12.6781 14.0505 12.6774 14.0505 12.663C14.0505 12.6485 14.0576 12.638 14.066 12.6405C14.0727 12.6427 14.0751 12.6444 14.0796 12.648C14.3263 12.835 14.5402 13.0473 14.7109 13.3022C14.8228 13.4699 14.9693 13.6249 15.1298 13.7537C15.1899 13.802 15.24 13.8585 15.3067 13.9036C15.3249 13.9159 15.3313 13.9099 15.32 13.8919C15.3038 13.8662 15.2876 13.8402 15.2712 13.8145C15.2599 13.7966 15.2537 13.7799 15.2574 13.7769C15.2608 13.7741 15.2756 13.7847 15.2901 13.8003C15.3333 13.847 15.3774 13.8949 15.4275 13.9485C15.4421 13.9645 15.4505 13.9604 15.4463 13.94C15.4457 13.9387 15.4456 13.9375 15.4454 13.9363C15.4412 13.9159 15.4523 13.9092 15.4705 13.9213C15.5771 13.9928 15.6795 14.0615 15.7892 14.135C15.8072 14.1469 15.8232 14.1399 15.8245 14.1192C15.8274 14.08 15.8296 14.0486 15.8316 14.0198C15.8331 13.9992 15.8413 13.9812 15.8495 13.9802C15.8577 13.9792 15.8757 13.9911 15.8898 14.0074C15.893 14.0111 15.8963 14.0151 15.8996 14.0188C15.9134 14.0353 15.9271 14.0475 15.93 14.0467C15.9331 14.0458 15.9282 14.0295 15.9196 14.0103C15.9049 13.9773 15.8903 13.9444 15.8755 13.9114C15.867 13.8922 15.8633 13.8749 15.8675 13.8728C15.8717 13.8706 15.8859 13.8825 15.8992 13.8992C15.9222 13.9281 15.9451 13.9569 15.9683 13.9856C15.9816 14.0023 15.9951 14.0147 15.9983 14.0132C16.0018 14.0115 15.9996 13.9943 15.994 13.9742C15.9741 13.9097 15.9553 13.8454 15.9349 13.7753Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Virtual</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/live_casino/" id="LIVE_CASINO" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_15014)">
+                                                   <path d="M6.12568 2.51408V0.22168C5.26433 0.429305 4.43714 0.781898 3.68927 1.26024L5.30033 2.8713C5.56415 2.73187 5.83983 2.61199 6.12568 2.51408Z" fill="currentColor"></path>
+                                                   <path d="M10.6997 2.8713L12.3107 1.26024C11.5629 0.781867 10.7357 0.429273 9.87433 0.22168V2.51408C10.1602 2.61199 10.4359 2.73187 10.6997 2.8713Z" fill="currentColor"></path>
+                                                   <path d="M13.5566 6.34739H15.8281C15.6517 5.51154 15.3394 4.70292 14.9081 3.96436L13.2751 5.59732C13.3856 5.83892 13.4798 6.08945 13.5566 6.34739Z" fill="currentColor"></path>
+                                                   <path d="M5.5974 13.2754L3.96387 14.9089C4.64027 15.3058 5.36399 15.5972 6.12565 15.7792V13.4861C5.94543 13.4244 5.76921 13.354 5.5974 13.2754Z" fill="currentColor"></path>
+                                                   <path d="M9.87433 13.4861V15.7792C10.636 15.5972 11.3597 15.3059 12.0361 14.9089L10.4026 13.2754C10.2308 13.354 10.0546 13.4244 9.87433 13.4861Z" fill="currentColor"></path>
+                                                   <path d="M0.171814 6.34739H2.44334C2.52019 6.08945 2.61434 5.83892 2.72481 5.59732L1.09184 3.96436C0.660533 4.70292 0.348283 5.51154 0.171814 6.34739Z" fill="currentColor"></path>
+                                                   <path d="M2.203 8.00022C2.203 7.75813 2.21816 7.51953 2.24713 7.28516H0.0319063C0.0110938 7.52159 0 7.76003 0 8.00022C0 8.3915 0.0281875 8.77844 0.0830625 9.15888H2.31944C2.24316 8.78438 2.203 8.39691 2.203 8.00022Z" fill="currentColor"></path>
+                                                   <path d="M2.59534 10.0962H0.277527C0.489465 10.8827 0.818309 11.6242 1.25981 12.3113L2.87137 10.6997C2.76831 10.5048 2.67597 10.3034 2.59534 10.0962Z" fill="currentColor"></path>
+                                                   <path d="M13.0788 1.81787L11.5084 3.38828C12.0077 3.76912 12.4438 4.22887 12.7974 4.74909L14.3777 3.16881C14.158 2.88006 13.9178 2.6039 13.6569 2.34293C13.4715 2.15756 13.2785 1.98256 13.0788 1.81787Z" fill="currentColor"></path>
+                                                   <path d="M3.20254 4.74912C3.55616 4.2289 3.99223 3.76915 4.4916 3.38831L2.92116 1.81787C2.72147 1.98253 2.5285 2.15756 2.3431 2.34293C2.08213 2.6039 1.84194 2.88003 1.62225 3.16881L3.20254 4.74912Z" fill="currentColor"></path>
+                                                   <path d="M7.06317 0.0544063V2.27909C7.36823 2.22931 7.68111 2.203 8.00002 2.203C8.31892 2.203 8.6318 2.22931 8.93686 2.27909V0.0544063C8.62814 0.018625 8.31552 0 8.00002 0C7.68452 0 7.37189 0.018625 7.06317 0.0544063Z" fill="currentColor"></path>
+                                                   <path d="M3.16899 14.3776L4.74927 12.7974C4.22905 12.4437 3.7693 12.0077 3.38846 11.5083L1.81805 13.0787C1.98271 13.2784 2.15774 13.4714 2.34312 13.6568C2.60409 13.9177 2.88024 14.158 3.16899 14.3776Z" fill="currentColor"></path>
+                                                   <path d="M12.6115 11.5083C12.2306 12.0077 11.7709 12.4437 11.2507 12.7974L12.831 14.3776C13.1197 14.158 13.3959 13.9177 13.6568 13.6568C13.8422 13.4714 14.0172 13.2785 14.1819 13.0787L12.6115 11.5083Z" fill="currentColor"></path>
+                                                   <path d="M8.93686 15.9454V13.7207C8.6318 13.7705 8.31892 13.7968 8.00002 13.7968C7.68111 13.7968 7.36823 13.7705 7.06317 13.7207V15.9454C7.37189 15.9812 7.68452 15.9998 8.00002 15.9998C8.31552 15.9998 8.62814 15.9812 8.93686 15.9454Z" fill="currentColor"></path>
+                                                   <path d="M15.9681 7.28516H13.7529C13.7819 7.51953 13.797 7.75813 13.797 8.00022C13.797 8.39691 13.7569 8.78438 13.6806 9.15888H15.917C15.9718 8.77844 16 8.3915 16 8.00022C16 7.76003 15.9889 7.52159 15.9681 7.28516Z" fill="currentColor"></path>
+                                                   <path d="M15.7224 10.0962H13.4046C13.324 10.3034 13.2316 10.5048 13.1286 10.6997L14.7402 12.3113C15.1817 11.6243 15.5105 10.8827 15.7224 10.0962Z" fill="currentColor"></path>
+                                                   <path d="M12.8595 8.00012C12.8595 5.32059 10.6795 3.14062 8 3.14062C5.32047 3.14062 3.1405 5.32059 3.1405 8.00012C3.1405 10.6797 5.32047 12.8596 8 12.8596C10.6795 12.8596 12.8595 10.6797 12.8595 8.00012ZM8.28569 10.9795C8.27994 11.1378 8.14991 11.2632 7.9915 11.2632C7.82457 11.2632 7.69103 11.1245 7.69735 10.9577L7.70219 10.8292C7.20188 10.8092 6.66357 10.6099 6.25985 10.2577C6.10544 10.1231 6.08363 9.89069 6.2055 9.726L6.33303 9.55366C6.465 9.37531 6.71922 9.33769 6.8935 9.47497C7.17197 9.69438 7.54207 9.84075 7.79225 9.84659L7.81682 8.47913L7.53841 8.36447C6.826 8.0615 6.22825 7.66844 6.22825 6.79228C6.22825 5.79331 6.99794 5.26106 7.91503 5.17916L7.92091 5.02047C7.92678 4.86225 8.05675 4.737 8.2151 4.737H8.22132C8.38594 4.737 8.5186 4.87203 8.51566 5.03662L8.51282 5.19553C8.8871 5.22669 9.29941 5.36722 9.61938 5.60616C9.78422 5.72925 9.8256 5.95916 9.71641 6.13353L9.62772 6.27513C9.50625 6.46909 9.24838 6.51741 9.06028 6.387C8.84813 6.23994 8.61985 6.14744 8.42272 6.12081L8.38997 7.43097L8.90585 7.65206C9.56913 7.94684 9.98672 8.42175 9.98672 9.14231C9.98672 10.0758 9.17606 10.739 8.29172 10.8127L8.28569 10.9795Z" fill="currentColor"></path>
+                                                   <path d="M7.37463 6.66142C7.37463 6.96439 7.58751 7.11176 7.79223 7.21004L7.88229 7.25098L7.90685 6.11279C7.59573 6.13739 7.37463 6.34207 7.37463 6.66142Z" fill="currentColor"></path>
+                                                   <path d="M8.4637 8.70808L8.3327 8.64258L8.30811 9.86264C8.56198 9.83808 8.85676 9.61702 8.85676 9.29764C8.85676 8.98652 8.70932 8.83092 8.4637 8.70808Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Live Casino</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/casino/" id="CASINO_PROVIDER" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_15036)">
+                                                   <path d="M10.3207 5.67917C7.78198 3.14047 5.43066 1.2883 2.36572 4.35336C-0.439947 7.15903 -0.57337 13.3466 1.03991 14.9599C2.65319 16.5732 8.84082 16.4398 11.6465 13.6341C14.7115 10.5691 12.8594 8.21787 10.3207 5.67917ZM3.3601 13.3027L2.69714 12.6397L4.02295 11.3139L4.68591 11.9768L3.3601 13.3027ZM3.3601 10.651L2.69714 9.98813L4.02295 8.6622L4.68591 9.32517L3.3601 10.651ZM3.3601 7.99936L2.69714 7.3364L4.02295 6.01059L4.68591 6.67355L3.3601 7.99936ZM6.01172 13.3027L5.34887 12.6397L6.67468 11.3139L7.33764 11.9768L6.01172 13.3027ZM6.01172 10.651L5.34887 9.98813L6.67468 8.6622L7.33764 9.32517L6.01172 10.651ZM6.01172 7.99936L5.34887 7.3364L6.67468 6.01059L7.33764 6.67355L6.01172 7.99936ZM8.66345 13.3027L8.00049 12.6397L9.32629 11.3139L9.98926 11.9768L8.66345 13.3027ZM8.66345 10.651L8.00049 9.98813L9.32629 8.6622L9.98926 9.32517L8.66345 10.651Z" fill="currentColor"></path>
+                                                   <path d="M11.1291 4.19007C11.3102 3.29614 11.057 2.0177 10.3652 1.32581L9.03939 0C8.41476 0.624512 8.1141 1.84705 8.20089 2.66358C9.2944 3.32886 10.2346 4.26734 10.9835 5.01636C11.7325 5.76538 12.6711 6.70545 13.3364 7.79908C14.1529 7.88587 15.3574 7.56714 15.982 6.94263L14.6562 5.61682C13.9643 4.92493 12.6858 4.67176 11.792 4.85291L11.8047 4.84021C12.9253 3.71973 14.4153 3.10242 16 3.10242V2.16504C14.1647 2.16504 12.4394 2.87964 11.1417 4.17737L11.1291 4.19007Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Slot Casino</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/game/aviator/play/" id="AVIATOR" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                                                <g clip-path="url(#clip0_1_646)">
+                                                   <path d="M19.414 9.41902H19.3452V7.28787C19.3452 6.96425 19.0828 6.7019 18.7592 6.7019C18.4356 6.7019 18.1733 6.96425 18.1733 7.28787V9.41902H17.3959V8.67647C17.3959 8.17329 16.9866 7.76396 16.4834 7.76396H15.9014V12.246H16.4835C16.9867 12.246 17.396 11.8367 17.396 11.3335V10.5909H18.1733V12.7221C18.1733 13.0457 18.4357 13.308 18.7593 13.308C19.0829 13.308 19.3452 13.0457 19.3452 12.7221V10.5909H19.4141C19.7377 10.5909 20 10.3286 20 10.005C20 9.68141 19.7376 9.41902 19.414 9.41902Z" fill="currentColor"></path>
+                                                   <path d="M13.2444 0H11.0054C10.2622 0 9.65747 0.604675 9.65747 1.34793V2.78263H14.5923V1.34793C14.5923 0.604675 13.9876 0 13.2444 0Z" fill="currentColor"></path>
+                                                   <path d="M14.5922 3.95435H9.65741V16.0553H14.5922V3.95435Z" fill="currentColor"></path>
+                                                   <path d="M9.65753 17.2273V18.6556C9.65753 19.3988 10.2622 20.0035 11.0055 20.0035H13.2444C13.9877 20.0035 14.5924 19.3988 14.5924 18.6556V17.2273H9.65753Z" fill="currentColor"></path>
+                                                   <path d="M4.49599 7.76382L3.93694 6.58033C3.81997 6.33264 3.56743 6.17261 3.29347 6.17261H0.712127C0.466967 6.17261 0.24228 6.29622 0.111007 6.50333C-0.0201878 6.71043 -0.036089 6.96642 0.0686166 7.18817L1.36892 9.94103L0.0686557 12.6939C-0.036089 12.9156 -0.0201878 13.1716 0.111046 13.3787C0.24228 13.5858 0.466967 13.7094 0.712166 13.7094H3.29355C3.56754 13.7094 3.82013 13.5494 3.93702 13.3017L4.4357 12.2459H8.4246V7.76382H4.49599Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Aviator</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/zeppelin/" id="ZEPPELIN" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                                                <g>
+                                                   <path d="M0.196659 3.60831C1.12668 2.56744 2.43939 1.63759 4.09793 0.842114C3.26598 0.390622 2.13417 0 0.705883 0C0.316047 0 0 0.315429 0 0.704501V3.83728C0.0635765 3.76034 0.129035 3.68398 0.196659 3.60831Z" fill="currentColor"></path>
+                                                   <path d="M0.196706 11.3266C0.129082 11.2509 0.0635765 11.1745 0 11.0977V14.2304C0 14.6195 0.316047 14.935 0.705882 14.935C2.13421 14.935 3.26664 14.5446 4.09925 14.0934C2.44019 13.2979 1.12701 12.3677 0.196706 11.3266Z" fill="currentColor"></path>
+                                                   <path d="M2.48081 8.95291C3.62848 9.23058 5.22279 9.53112 7.09126 9.82194C10.799 10.399 14.6753 10.8021 16.5177 10.8021C19.2295 10.8021 20.8652 10.6247 21.987 10.2089C23.3166 9.71622 23.9935 8.80422 23.9998 7.49845C23.9998 7.4907 24 7.48309 24 7.47534C23.9984 6.10992 23.3393 5.20445 21.9849 4.70726C20.8879 4.30462 19.2529 4.13281 16.5177 4.13281C14.6634 4.13281 10.6994 4.53748 7.09206 5.09497C5.21521 5.38504 3.61949 5.6876 2.47742 5.96992C1.81916 6.13266 1.32302 6.28459 0.960715 6.43446C0.698786 6.54282 0.00438532 6.83016 0.000244141 7.47464C0.000291199 7.49342 0.00142061 7.51212 0.00175002 7.5309C0.0364324 8.13644 0.688433 8.3941 0.971256 8.50579C1.32664 8.64613 1.83455 8.79656 2.48081 8.95291Z" fill="currentColor"></path>
+                                                   <path d="M2.13792 4.60251C3.32023 4.31023 4.95863 3.99912 6.87595 3.70281C10.5456 3.13569 14.6005 2.72407 16.5176 2.72407C19.4678 2.72407 21.1929 2.9156 22.4722 3.38517C22.7531 3.48827 23.0147 3.60751 23.2573 3.7417C22.8517 2.91306 22.2784 2.23069 21.5324 1.68587C19.9575 0.535703 17.6463 0 14.2588 0C11.0958 0 7.57594 0.765558 4.84291 2.04784C3.05609 2.8862 1.72955 3.87518 0.920654 4.94799C1.26244 4.83368 1.66498 4.71941 2.13792 4.60251Z" fill="currentColor"></path>
+                                                   <path d="M22.4784 11.5307C21.1729 12.0145 19.4459 12.2119 16.5177 12.2119C14.611 12.2119 10.6453 11.802 6.87376 11.2149C4.9674 10.9182 3.33338 10.6098 2.14825 10.3231C1.66712 10.2066 1.26001 10.0941 0.916626 9.98242C1.7251 11.0574 3.0531 12.0484 4.84303 12.8882C6.14449 13.4988 7.62453 13.9919 9.15936 14.3413L9.89126 16.5329H6.7979C6.49126 16.5329 6.21969 16.7305 6.12585 17.0219L4.17503 23.0806C4.10604 23.2949 4.14378 23.5292 4.27667 23.7111C4.40957 23.893 4.62152 24.0006 4.84707 24.0006H19.153C19.3785 24.0006 19.5905 23.893 19.7234 23.7111C19.8562 23.5292 19.894 23.2949 19.825 23.0806L17.8742 17.0219C17.7803 16.7305 17.5088 16.5329 17.2021 16.5329H14.1088L14.643 14.9334C17.8218 14.8938 20.0179 14.3562 21.5324 13.2502C22.2869 12.6992 22.8646 12.0075 23.271 11.1661C23.0263 11.3035 22.7621 11.4255 22.4784 11.5307ZM8.9883 20.9476C8.59846 20.9476 8.28242 20.6322 8.28242 20.2431C8.28242 19.854 8.59846 19.5386 8.9883 19.5386C9.37813 19.5386 9.69418 19.854 9.69418 20.2431C9.69418 20.6322 9.37813 20.9476 8.9883 20.9476ZM15.0118 19.5386C15.4017 19.5386 15.7177 19.854 15.7177 20.2431C15.7177 20.6322 15.4017 20.9476 15.0118 20.9476C14.622 20.9476 14.3059 20.6322 14.3059 20.2431C14.3059 19.854 14.6219 19.5386 15.0118 19.5386ZM12.0001 20.9476C11.6102 20.9476 11.2942 20.6322 11.2942 20.2431C11.2942 19.854 11.6102 19.5386 12.0001 19.5386C12.3899 19.5386 12.7059 19.854 12.7059 20.2431C12.7059 20.6322 12.3899 20.9476 12.0001 20.9476ZM11.3794 16.5329L10.75 14.6483C11.5571 14.7766 12.3674 14.8637 13.164 14.906L12.6207 16.5329H11.3794Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Zeppelin</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/game/live_spaceman/play/" id="SPACEMAN" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M19.1574 5.943C18.8995 5.78013 18.596 5.68706 18.2728 5.68706H18.0544C17.7324 4.6646 17.2007 3.73004 16.5061 2.92474C14.5864 2.29653 12.3805 1.93848 10.0352 1.93848C7.68984 1.93848 5.45555 2.30041 3.52723 2.93638C2.83758 3.7378 2.30954 4.66977 1.98877 5.68706H1.72722C1.40275 5.68706 1.09925 5.78142 0.84017 5.94429C0.336808 6.25969 0 6.83749 0 7.49673V9.56491C0 10.5641 0.773549 11.3746 1.72722 11.3746H2.41441C3.63704 13.8784 6.17975 15.679 9.19006 15.9608C9.46394 15.9866 9.74153 15.9996 10.0216 15.9996C10.3016 15.9996 10.5891 15.9853 10.8679 15.9595C13.8708 15.6725 16.4086 13.8745 17.6288 11.3746H18.2728C19.2277 11.3746 20 10.5641 20 9.56491V7.49673C20 6.8362 19.662 6.2584 19.1574 5.943ZM16.2926 11.4896C16.2926 12.0584 15.9015 12.5328 15.3871 12.6336C15.1761 12.6749 14.9725 12.7422 14.7739 12.8262L13.7215 13.2747C11.3478 14.2855 8.69286 14.2894 6.31546 13.2851L5.22485 12.8249C5.02868 12.7422 4.82759 12.6737 4.62032 12.6349C4.10215 12.5366 3.70859 12.061 3.70859 11.4896V5.02654C3.70859 4.44874 4.11079 3.96918 4.63883 3.87869C4.79304 3.85155 4.94726 3.82828 5.09901 3.78692L7.49985 3.12768C9.13947 2.67785 10.8618 2.67785 12.5014 3.12768L14.9022 3.78692C15.0527 3.82828 15.2082 3.85155 15.3624 3.87869C15.8892 3.96918 16.2926 4.44874 16.2926 5.02654V11.4896Z" fill="currentColor"></path>
+                                                <path d="M15.7239 2.13282C14.0078 1.59509 12.0709 1.29262 10.0216 1.29262C7.97241 1.29262 6.03545 1.59509 4.31934 2.13282C4.36622 2.09145 4.4131 2.05009 4.46122 2.01002C4.46122 2.01002 4.46245 2.00873 4.46368 2.00743C4.51056 1.96865 4.55745 1.92988 4.60556 1.8911C4.65368 1.85103 4.70303 1.81225 4.75361 1.77476C4.79556 1.74115 4.83874 1.70884 4.88192 1.67652C4.99049 1.59638 5.10029 1.51882 5.21256 1.44514C5.26437 1.41024 5.31742 1.37534 5.37047 1.34174C5.47781 1.27323 5.58638 1.2073 5.69741 1.14397C5.74553 1.11553 5.79364 1.08838 5.84176 1.06253C5.93799 1.00953 6.03545 0.957828 6.13415 0.910002C6.1687 0.891905 6.20201 0.875101 6.23655 0.85959C6.38583 0.787203 6.53635 0.718694 6.68933 0.656649C6.73128 0.638552 6.77446 0.621748 6.81764 0.604944C6.88796 0.576507 6.95828 0.549362 7.02984 0.52351C7.07179 0.509291 7.11373 0.493779 7.15568 0.479561C7.3136 0.423978 7.47275 0.373566 7.6356 0.328324C7.63807 0.327032 7.64054 0.325739 7.64424 0.325739C7.74911 0.296009 7.85521 0.267572 7.96254 0.243012C8.06247 0.218452 8.16241 0.196478 8.2648 0.175796C8.33143 0.161577 8.39928 0.148651 8.46714 0.137017C8.57817 0.117628 8.68921 0.0995314 8.80148 0.08402C8.87673 0.0736791 8.95323 0.0633382 9.02972 0.0555825C9.08894 0.0491194 9.14692 0.0426563 9.20614 0.0374859C9.26413 0.0323154 9.32211 0.0271449 9.38133 0.0232671C9.46276 0.016804 9.54542 0.0129262 9.62808 0.00904831C9.691 0.00646308 9.75268 0.00387785 9.8156 0.00258523C9.88469 0.00129262 9.95255 0 10.0216 0C10.0907 0 10.1586 0.00129262 10.2277 0.00258523C10.2906 0.00258523 10.3523 0.00646308 10.4152 0.00904831C10.4979 0.0129262 10.5805 0.016804 10.6619 0.0232671C10.7212 0.0271449 10.7791 0.0323154 10.8371 0.0374859C10.8964 0.0426563 10.9543 0.0491194 11.0136 0.0555825C11.09 0.0633382 11.1665 0.0736791 11.2418 0.08402C11.3541 0.0995314 11.4651 0.117628 11.5761 0.137017C11.644 0.148651 11.7118 0.161577 11.7785 0.175796C11.8796 0.196478 11.9808 0.218452 12.0807 0.243012C12.1881 0.268864 12.2942 0.296009 12.399 0.325739C12.4027 0.325739 12.4052 0.325739 12.4077 0.328324C12.5705 0.373566 12.7297 0.423978 12.8876 0.479561C12.9369 0.496365 12.9863 0.514461 13.0344 0.531265C13.0418 0.53385 13.0492 0.536436 13.0566 0.540313C13.1047 0.55841 13.1528 0.576507 13.1997 0.594603C13.2515 0.615285 13.3034 0.635967 13.3539 0.656649C13.5069 0.718694 13.6574 0.787203 13.8067 0.85959C13.8499 0.880271 13.8931 0.900953 13.9363 0.922928C13.9905 0.950073 14.0448 0.97851 14.0991 1.00824C14.1423 1.03021 14.1855 1.05348 14.2274 1.07675C14.2805 1.10519 14.3335 1.13621 14.3853 1.16723C14.4335 1.19438 14.4803 1.22152 14.526 1.24996C14.5852 1.28486 14.6432 1.32235 14.7012 1.36112C14.7456 1.38698 14.7888 1.41541 14.8307 1.44514C14.8665 1.46841 14.901 1.49168 14.9356 1.51624C14.9751 1.54338 15.0145 1.57053 15.0528 1.59767C15.0886 1.62353 15.1256 1.65067 15.1614 1.67652C15.2045 1.70884 15.2477 1.74115 15.2897 1.77476C15.3402 1.81225 15.3896 1.85103 15.4377 1.8911C15.4858 1.92988 15.5327 1.96865 15.5796 2.00743L15.5821 2.01002C15.6302 2.05009 15.6771 2.09145 15.7239 2.13282Z" fill="currentColor"></path>
+                                                <path d="M7.62073 6.42969H6.8805C6.47167 6.42969 6.14026 6.77692 6.14026 7.20526V9.53197C6.14026 9.9603 6.47167 10.3075 6.8805 10.3075H7.62073C8.02956 10.3075 8.36097 9.9603 8.36097 9.53197V7.20526C8.36097 6.77692 8.02956 6.42969 7.62073 6.42969Z" fill="currentColor"></path>
+                                                <path d="M13.0492 6.42969H12.309C11.9001 6.42969 11.5687 6.77692 11.5687 7.20526V9.53197C11.5687 9.9603 11.9001 10.3075 12.309 10.3075H13.0492C13.458 10.3075 13.7894 9.9603 13.7894 9.53197V7.20526C13.7894 6.77692 13.458 6.42969 13.0492 6.42969Z" fill="currentColor"></path>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Spaceman</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed">
+                                       <a href="/tr/other_games/" id="OTHER_GAMES" class="nav-menu-link_107c2">
+                                          <span class="nav-menu-link-icon_cec93">
+                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                                                <g clip-path="url(#clip0_21_14991)">
+                                                   <path d="M3.33333 0H0.666667C0.298667 0 0 0.298667 0 0.666667V3.33333C0 3.70133 0.298667 4 0.666667 4H3.33333C3.70133 4 4 3.70133 4 3.33333V0.666667C4 0.298667 3.70133 0 3.33333 0Z" fill="currentColor"></path>
+                                                   <path d="M3.33333 6H0.666667C0.298667 6 0 6.29867 0 6.66667V9.33333C0 9.70133 0.298667 10 0.666667 10H3.33333C3.70133 10 4 9.70133 4 9.33333V6.66667C4 6.29867 3.70133 6 3.33333 6Z" fill="currentColor"></path>
+                                                   <path d="M3.33333 12H0.666667C0.298667 12 0 12.2987 0 12.6667V15.3333C0 15.7013 0.298667 16 0.666667 16H3.33333C3.70133 16 4 15.7013 4 15.3333V12.6667C4 12.2987 3.70133 12 3.33333 12Z" fill="currentColor"></path>
+                                                   <path d="M9.33333 0H6.66667C6.29867 0 6 0.298667 6 0.666667V3.33333C6 3.70133 6.29867 4 6.66667 4H9.33333C9.70133 4 10 3.70133 10 3.33333V0.666667C10 0.298667 9.70133 0 9.33333 0Z" fill="currentColor"></path>
+                                                   <path d="M9.33333 6H6.66667C6.29867 6 6 6.29867 6 6.66667V9.33333C6 9.70133 6.29867 10 6.66667 10H9.33333C9.70133 10 10 9.70133 10 9.33333V6.66667C10 6.29867 9.70133 6 9.33333 6Z" fill="currentColor"></path>
+                                                   <path d="M9.33333 12H6.66667C6.29867 12 6 12.2987 6 12.6667V15.3333C6 15.7013 6.29867 16 6.66667 16H9.33333C9.70133 16 10 15.7013 10 15.3333V12.6667C10 12.2987 9.70133 12 9.33333 12Z" fill="currentColor"></path>
+                                                   <path d="M15.3333 0H12.6667C12.2987 0 12 0.298667 12 0.666667V3.33333C12 3.70133 12.2987 4 12.6667 4H15.3333C15.7013 4 16 3.70133 16 3.33333V0.666667C16 0.298667 15.7013 0 15.3333 0Z" fill="currentColor"></path>
+                                                   <path d="M15.3333 6H12.6667C12.2987 6 12 6.29867 12 6.66667V9.33333C12 9.70133 12.2987 10 12.6667 10H15.3333C15.7013 10 16 9.70133 16 9.33333V6.66667C16 6.29867 15.7013 6 15.3333 6Z" fill="currentColor"></path>
+                                                   <path d="M15.3333 12H12.6667C12.2987 12 12 12.2987 12 12.6667V15.3333C12 15.7013 12.2987 16 12.6667 16H15.3333C15.7013 16 16 15.7013 16 15.3333V12.6667C16 12.2987 15.7013 12 15.3333 12Z" fill="currentColor"></path>
+                                                </g>
+                                             </svg>
+                                          </span>
+                                          <span class="nav-menu-link-title_c5443">Other Games</span>
+                                       </a>
+                                    </li>
+                                    <li class="nav-menu-item_cc4ed"><a href="/tr/promo/" id="PROMOTIONS" class="nav-menu-link_107c2 promo_3bbaa"><span class="nav-menu-link-title_c5443">Promosyonlar</span></a></li>
+                                 </ul>
+                              </nav>
+                           </div>
+                        </div>
+                     </div>
                   </div>
                </div>
-               <div class="center-bottom-btn nav-floating-btn-hide"><button class="btn nav-floating-btn bc-i-double-arrow-top " type="button"></button></div>
             </header>
-         </div>
-         
-         <div class="popup-holder-bc windowed user-profile-container hidden">
-            <div class="popup-middleware-bc">
-               <div class="popup-inner-bc">
-                  <i class="e-p-close-icon-bc bc-i-close-remove" onclick="closemodal();"></i>
-                  <div class="u-i-p-c-body-bc">
-                     <div class="u-i-profile-page-container">
-                        <div class="u-i-profile-page-bc">
-                           <div class="u-i-profile-page-content" data-scroll-lock-scrollable="">
-                              <div class="u-i-p-p-u-i-edit-button-bc">
-                                 <span class="u-i-p-p-u-i-avatar-holder-bc">AA</span>
-                                 <p class="u-i-p-p-u-i-identifiers-bc"><span class="u-i-p-p-u-i-d-username-bc ellipsis"><?=$us['login']?></span><span class="u-i-p-p-u-i-d-user-id-bc ellipsis">1618197540<?=$us['id']?><i class="u-i-p-p-u-i-d-user-id-copy-bc bc-i-copy"></i></span></p>
-                              </div>
-                              <div class="separator-line-bc"></div>
-                              <div class="u-i-p-amount-holder-bc">
-                                 <div class="u-i-p-amounts-bc withdrawable">
-                                    <div class="u-i-p-a-content-bc">
-                                       <div class="total-balance-r-bc">
-                                          <div class="u-i-p-a-user-balance"><span class="u-i-p-a-title-bc ellipsis">ANA BAKİYE</span><b class="u-i-p-a-amount-bc"><?=$us['balance']?> ₺</b></div>
-                                          <i class="u-i-p-a-c-icon-bc bc-i-eye"></i>
-                                       </div>
-                                       <div class="u-i-p-a-buttons-bc"><a class="u-i-p-a-deposit-bc ellipsis" href="javascript:;" onclick="openmodals('1')"><i class="bc-i-wallet"></i><span class="ellipsis" title="PARA YATIR">PARA YATIR</span></a><a class="u-i-p-a-withdraw-bc ellipsis" href="javascript:;" onclick="openmodals('2')"><i class="bc-i-withdraw"></i><span class="ellipsis" title="ÇEKİM">ÇEKİM</span></a></div>
-                                    </div>
-                                 </div>
-                                 <div class="u-i-p-amounts-bc bonuses">
-                                    <div class="u-i-p-a-content-bc">
-                                       <span class="u-i-p-a-title-bc ellipsis">TOPLAM BONUS PARA</span><span class="u-i-p-a-amount-bc">0.00 ₺</span>
-                                       <div class="bonus-info-section">
-                                          <div><span class="ellipsis">Bonus Balance</span><b><?=$us['balance']?> ₺</b></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <a class="u-i-p-a-loyaltyPoint-bc" href="javascript:;" onclick="openmodals('11')">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/bronze.png" class="loyaltyPointsCurrentPlanMedal-bc" alt="">
-                                 <p class="ellipsis">VİP PUANLARI</p>
-                                 <span>0 / 0</span>
-                              </a>
-                              <div class="user-profile-nav " id="a1" >
-                                 <div class="user-profile-nav-header" onclick="opennav('1');"><i class="user-profile-nav-icon bc-i-balance-management"></i><span class="user-profile-nav-title">BAKİYE YÖNETİMİ</span><i class="  count-blink-even " data-badge=""></i><i class="user-profile-nav-arrow bc-i-small-arrow-down"></i></div>
-                                 <div class="user-profile-nav-list">
-                                    <a class="user-profile-nav-item ellipsis active" href="javascript:;" onclick="openmodals('1')">PARA YATIR<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('2')">ÇEKİM<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('3')">İŞLEM GEÇMİŞİ<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('4')">PARA ÇEKME DURUMU<i class="  count-blink-even " data-badge=""></i></a>
-                                    <div class="user-profile-nav-item-cursor user-profile-cursor-visible"></div>
-                                 </div>
-                              </div>
-                              <div class="user-profile-nav " id="a2" >
-                                 <div class="user-profile-nav-header" onclick="opennav('2');"><i class="user-profile-nav-icon bc-i-promotion"></i><span class="user-profile-nav-title">BONUSLAR</span><i class="  count-blink-even " data-badge=""></i><i class="user-profile-nav-arrow bc-i-small-arrow-down"></i></div>
-                                 <div class="user-profile-nav-list">
-                                    <a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('5')">BONUS TALEBİ<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('6')">SPOR BONUSU<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('7')">BONUS GEÇMİŞİ<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('8')">CASİNO FREESPİNLERİ<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('9')">CASİNO BONUSU<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('10')">PROMOSYON KODU<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('11')">VİP PUANLARI<i class="  count-blink-even " data-badge=""></i></a>
-                                    <div class="user-profile-nav-item-cursor "></div>
-                                 </div>
-                              </div>
-                              <div class="user-profile-nav " id="a3">
-                                 <div class="user-profile-nav-header" onclick="opennav('3');"><i class="user-profile-nav-icon bc-i-user"></i><span class="user-profile-nav-title">PROFİLİM</span><i class="  count-blink-even " data-badge=""></i><i class="user-profile-nav-arrow bc-i-small-arrow-down"></i></div>
-                                 <div class="user-profile-nav-list">
-                                    <a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('12')">KİŞİSEL DETAYLAR<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('13')">ŞİFRE DEĞİŞTİR<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('14')">Authentication<i class="  count-blink-even " data-badge=""></i></a>
-                                    <div class="user-profile-nav-item-cursor "></div>
-                                 </div>
-                              </div>
-                              <div class="user-profile-nav " id="a4">
-                                 <div class="user-profile-nav-header" onclick="opennav('4');"><i class="user-profile-nav-icon bc-i-history"></i><span class="user-profile-nav-title">BAHİS GEÇMİŞİ</span><i class="  count-blink-even " data-badge=""></i><i class="user-profile-nav-arrow bc-i-small-arrow-down"></i></div>
-                                 <div class="user-profile-nav-list">
-                                    <a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('15')">AÇIK BAHİSLER<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('16')">TÜMÜ<i class="  count-blink-even " data-badge=""></i></a>
-                                    <div class="user-profile-nav-item-cursor "></div>
-                                 </div>
-                              </div>
-                              <div class="user-profile-nav " id="a5" >
-                                 <div class="user-profile-nav-header" onclick="opennav('5');"><i class="user-profile-nav-icon bc-i-message"></i><span class="user-profile-nav-title">MESAJLAR</span><i class="  count-blink-even " data-badge=""></i><i class="user-profile-nav-arrow bc-i-small-arrow-down"></i></div>
-                                 <div class="user-profile-nav-list">
-                                    <a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('17')">Gelen kutusu<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('18')">Gönderildi<i class="  count-blink-even " data-badge=""></i></a><a class="user-profile-nav-item ellipsis " href="javascript:;" onclick="openmodals('19')">YENİ<i class="  count-blink-even " data-badge=""></i></a>
-                                    <div class="user-profile-nav-item-cursor "></div>
-                                 </div>
-                              </div>
-                              <div class="promoCodeWrapper-bc profile-panel-promo-code">
-                                 <form>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="promoCode" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">PROMOSYON KODU</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-c-footer-bc"><button class="btn a-color big-btn " type="submit" title="UYGULA " disabled=""><span>UYGULA </span></button></div>
-                                 </form>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden" id="1">
-                        <div class="overlay-header">PARA YATIR</div>
-                           <div class="dep-w-info-bc" data-scroll-lock-scrollable="">
-                           <div class="m-block-nav-items-bc">
-                              <div class="m-nav-items-list-item-bc active" onclick="window.location.href = '/payment/papara'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/4784.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10619.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12165.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/6050.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10596.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/11973.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/payfix'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/4338.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/payfix'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10604.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13298.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10602.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/1181.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12040.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10603.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10608.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/5417.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10605.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13511.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10606.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13122.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10575.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/8671.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/1424.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/2557.png" alt="">
-                                 </div>
-                              </div>
-                              <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-                                 <div class="nav-ico-w-row-bc">
-                                 <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10423.png" alt="">
-                                 </div>
-                              </div>
-                           </div>
-                           </div>
-                        <div class="payment-info-bc" data-scroll-lock-scrollable="">
-                           <div class="description-c-row-bc deposit">
-                              <div class="description-c-row-column-bc texts">
-                                 <div class="description-c-row-c-title-bc ">
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Payment name">Payment name</span><span class="description-value">PAYFİX</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Ücret">Ücret</span><span class="description-value">Ücretsiz</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Process Time">Process Time</span><span class="description-value">Anlık</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Min.">Min.</span><span class="description-value">1 ₺</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Maks.">Maks.</span><span class="description-value">500000 ₺</span></div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="expandable-info-body Fixturka">Para yatırmak için lütfen aşağıdaki tüm gerekli alanları doldurun.</div>
-                           <div class="withdraw-form-l-bc">
-                              <form>
-                                 <div class="u-i-p-control-item-holder-bc ">
-                                    <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" inputmode="decimal" class="form-control-input-bc" name="amount" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Tutar</span></label></div>
-                                 </div>
-                                 <div class="u-i-p-c-footer-bc"><button class="btn a-color deposit " type="submit" title="PARA YATIR" disabled=""><span>PARA YATIR</span></button></div>
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="2">
-                        <div class="overlay-header">ÇEKİM</div>
-                        <div class="dep-w-info-bc" onclick="yetersiz()" data-scroll-lock-scrollable=""><div class="m-block-nav-items-bc"><div class="m-nav-items-list-item-bc active"><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/1950.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12165.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10596.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/11973.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/4338.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10604.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/2.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10602.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12040.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10603.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10608.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/5417.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10605.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10606.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13122.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/2557.png" alt=""></div></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10423.png" alt=""></div></div></div></div>
-                        <div class="payment-info-bc" data-scroll-lock-scrollable="">
-                           <div class="description-c-row-bc withdraw">
-                              <div class="description-c-row-column-bc texts">
-                                 <div class="description-c-row-c-title-bc ">
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Yöntem Adı">Yöntem Adı</span><span class="description-value">USDT TRC20</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Ücret">Ücret</span><span class="description-value">Ücretsiz</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="İşlem Süresi">İşlem Süresi</span><span class="description-value">0-12 saat</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Min.">Min.</span><span class="description-value">100 ₺</span></div>
-                                    <div class="description-c-r-c-t-column-bc"><span class="description-title  ellipsis" title="Maks.">Maks.</span><span class="description-value">500000 ₺</span></div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="WithdrawAmount-All">
-                              <ul class="WithdrawAmount-Row">
-                                 <li class="WithdrawAmount-Row-Title">Çekilebilir Tutar</li>
-                                 <li class="WithdrawAmount-Row-Value">0.00 ₺</li>
-                              </ul>
-                              <ul class="WithdrawAmount-Row">
-                                 <li class="WithdrawAmount-Row-Title">Bakiye</li>
-                                 <li class="WithdrawAmount-Row-ValueBalance">0.00 ₺</li>
-                              </ul>
-                              <ul class="WithdrawAmount-Row">
-                                 <li class="WithdrawAmount-Row-Title">Oynanmamış tutar</li>
-                                 <li class="WithdrawAmount-Row-Value">0.00 ₺</li>
-                              </ul>
-                           </div>
-                           <div class="withdraw-form-l-bc">
-                              <form>
-                                 <div class="u-i-p-control-item-holder-bc ">
-                                    <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="address" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">address</span></label></div>
-                                 </div>
-                                 <div class="u-i-p-control-item-holder-bc ">
-                                    <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" inputmode="decimal" class="form-control-input-bc" name="amount" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Tutar</span></label></div>
-                                 </div>
-                                 <div class="u-i-p-c-footer-bc"><button class="btn a-color withdraw " type="submit" title="ÇEKİM YAP" disabled=""><span>ÇEKİM YAP</span></button></div>
-                              </form>
-                           </div>
-                           <div class="deposit-method-description FulgurPayUSDT_T">Para çekmek için lütfen aşağıdaki tüm gerekli alanları doldurun.</div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="3">
-                        <div class="overlay-header">İŞLEM GEÇMİŞİ</div>
-                        <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-                           <div class="componentFilterWrapper-bc">
-                              <div class="componentFilterBody-bc">
-                                 <div class="componentFilterElsWrapper-bc">
-                                    <form class="filter-form-w-bc">
-                                       <div class="componentFilterBody-content">
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">TÜMÜ</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">İŞLEM TÜRÜ</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">Ana Kategori</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">KATEGORİ</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc halfPartFilterSection">
-                                             <div class="react-datepicker-wrapper">
-                                                <div class="react-datepicker__input-container">
-                                                   <div class="form-control-bc default filled valid filled"><label class="form-control-label-bc inputs"><input class="form-control-input-bc " type="text" placeholder="...dan/den" readonly="" value="08.08.2023"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">ARALIK</span><i class="dropdownIcon-bc bc-i-datepicker"></i></label></div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc halfPartFilterSection">
-                                             <div class="react-datepicker-wrapper">
-                                                <div class="react-datepicker__input-container">
-                                                   <div class="form-control-bc default filled valid filled"><label class="form-control-label-bc inputs"><input class="form-control-input-bc " type="text" placeholder="...a/e" readonly="" value="08.08.2023"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis"></span><i class="dropdownIcon-bc bc-i-datepicker"></i></label></div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div class="u-i-p-c-filter-footer-bc"><button class="btn a-color " type="submit" title="Göster"><span>Göster</span></button></div>
-                                    </form>
-                                 </div>
-                              </div>
-                           </div>
-                           <p class="empty-b-text-v-bc">Seçilen zaman aralığı için veri yok</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="4">
-                        <div class="overlay-header">PARA ÇEKME DURUMU</div>
-                        <div class="historyLayoutWrapper-bc">
-                           <div class="historyList-table-details">
-                              <div class="historyList-thead">
-                                 <div class="historyListEl">
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">Tarih ve Kimlik</div>
-                                    </div>
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">Ödenme Tarihi</div>
-                                    </div>
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">Sistem</div>
-                                    </div>
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">Kampanya Kodu</div>
-                                    </div>
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">Tutar</div>
-                                    </div>
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">Durum</div>
-                                    </div>
-                                    <div class="historyListEl-list-item ">
-                                       <div class="historyListEl-info">İptal</div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="historyList-tbody">
-                                 <p class="empty-b-text-v-bc">Para Çekme Bilgisi Yok</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="5">
-                        <div class="overlay-header">BONUS TALEBİ</div>
-                        <iframe height="100%" class="iframe-widget " title="https://zulabonus.com/index.php?username={username}&amp;user_id={unique_id}" src="https://zulabonus.com/index.php?username=haruntekin&amp;user_id=1618197540"></iframe>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="6">
-                        <div class="overlay-header">SPOR BONUSU</div>
-                        <div class="sportBonusWrapper" data-scroll-lock-scrollable="">
-                           <p class="empty-b-text-v-bc">Seçilen tür için bonus yok</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="7">
-                        <div class="overlay-header">BONUS GEÇMİŞİ</div>
-                        <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-                           <div class="componentFilterWrapper-bc">
-                              <div class="componentFilterBody-bc">
-                                 <div class="componentFilterElsWrapper-bc">
-                                    <form class="filter-form-w-bc">
-                                       <div class="componentFilterBody-content">
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">SPOR</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">KATEGORİ</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">24 saat</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">PERİYOT</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div class="u-i-p-c-filter-footer-bc"><button class="btn a-color " type="submit" title="Göster"><span>Göster</span></button></div>
-                                    </form>
-                                 </div>
-                              </div>
-                           </div>
-                           <p class="empty-b-text-v-bc">Seçilen zaman aralığı için veri yok</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="8">
-                        <div class="overlay-header">CASİNO FREESPİNLERİ</div>
-                        <div class="sportBonusWrapper-bc" data-scroll-lock-scrollable="">
-                           <div class="second-tabs-bc">
-                              <div class="tab-bc selected-underline  active" title="">New free spins</div>
-                              <div class="tab-bc selected-underline " title="">AKTİF</div>
-                           </div>
-                           <p class="empty-b-text-v-bc">Seçilen tür için bonus yok</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="9">
-                        <div class="overlay-header">CASİNO BONUSU</div>
-                        <div class="sportBonusWrapper" data-scroll-lock-scrollable="">
-                           <p class="empty-b-text-v-bc">Seçilen tür için bonus yok</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="10">
-                        <div class="overlay-header">PROMOSYON KODU</div>
-                        <div class="promoCodeWrapper-bc ">
-                           <form>
-                              <div class="u-i-p-control-item-holder-bc">
-                                 <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="promoCode" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">PROMOSYON KODU</span></label></div>
-                              </div>
-                              <div class="u-i-p-c-footer-bc"><button class="btn a-color big-btn " type="submit" title="UYGULA " disabled=""><span>UYGULA </span></button></div>
-                           </form>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="11">
-                        <div class="overlay-header">VİP PUANLARI</div>
-                        <div class="loyaltyPointsWrapper">
-                           <div class="loyaltyPointsCurrentPlanBlock">
-                              <div class="loyaltyPointsCurrentPlanBlock-bc">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/bronze.png" class="loyaltyPointsCurrentPlanMedal-bc" alt="">
-                                 <div class="loyaltyPoints-content">
-                                    <div class="loyaltyPoints-title-block">
-                                       <h3 class="loyaltyPointsCurrentPlanTitle-bc ellipsis">BRONZE</h3>
-                                       <span class="loyaltyPointsCurrentPlanLabel-bc" style="color: rgb(0, 0, 0);">Mevcut planınız</span>
-                                    </div>
-                                    <div class="loyaltyPoints-item">
-                                       <div class="loyalty-status-block">
-                                          <div class="loyalty-status-block-left">
-                                             <ul class="loyalty-status">
-                                                <li class="loyalty-status-row">
-                                                   <div class="loyalty-status-main-info"><span class="loyalty-status-title ellipsis">Sonraki durum güncellemesi</span><i class="loyalty-status-info-icon bc-i-player-info"></i></div>
-                                                   <div class="loyalty-status-point">BRONZE</div>
-                                                </li>
-                                                <li class="loyalty-status-row">
-                                                   <div class="loyalty-status-period ellipsis">0 gün içinde</div>
-                                                   <div class="loyalty-status-point-small"></div>
-                                                </li>
-                                             </ul>
-                                             <ul class="loyalty-status">
-                                                <li class="loyalty-status-row">
-                                                   <div class="loyalty-status-main-info"><span class="loyalty-status-title ellipsis">Toplam puanlar</span><i class="loyalty-status-info-icon bc-i-player-info"></i></div>
-                                                   <div class="loyalty-status-point">0</div>
-                                                </li>
-                                                <li class="loyalty-status-row">
-                                                   <div class="loyalty-status-period ellipsis">Minimum Paket</div>
-                                                   <div class="loyalty-status-point-small">0+</div>
-                                                </li>
-                                             </ul>
-                                          </div>
-                                          <div class="loyalty-status-block-right">
-                                             <ul class="loyalty-status">
-                                                <li class="loyalty-status-row">
-                                                   <div class="loyalty-status-main-info"><span class="loyalty-status-title ellipsis">Her zaman</span><i class="loyalty-status-info-icon bc-i-player-info"></i></div>
-                                                   <div class="loyalty-status-point">0</div>
-                                                </li>
-                                             </ul>
-                                             <ul class="loyalty-status">
-                                                <li class="loyalty-status-row">
-                                                   <div class="loyalty-status-main-info"><span class="loyalty-status-title ellipsis">Değiştirilebilir</span><i class="loyalty-status-info-icon bc-i-player-info"></i></div>
-                                                   <div class="loyalty-status-point">0</div>
-                                                </li>
-                                             </ul>
-                                          </div>
-                                       </div>
-                                       <div class="loyaltyButtons-bc"><a class="btn a-color s-small ellipsis" href="#"><span>Döviz Büfesi</span></a><button class="btn a-outline s-small ellipsis " type="button" title="Para dönüştürme"><span>Para dönüştürme</span></button><a class="btn a-outline s-small ellipsis" href="javascript:;" onclick="openmodals('11')"><span>Exchange Shop History</span></a></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="loyaltyPointsCurrentPlanProgressBlockInner-bc" style="color: rgb(0, 0, 0);">
-                                 <div class="loyaltyPointsCurrentPlanProgressBar-bc">
-                                    <span class="progress-bar loyalProgressBarStick-bc" style="width: 0%;"></span>
-                                    <div class="loyalProgressBarNumPar-bc" style="background: rgb(0, 0, 0);"><span>0</span></div>
-                                 </div>
-                                 <div class="loyalty-points-progress-numbers"><span>0</span><span>200000</span></div>
-                              </div>
-                           </div>
-                           <div class="loyaltyMedalSlider-bc" data-scroll-lock-scrollable="">
-                              <div class="loyaltyMedalSliderElBody-bc">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/bronze.png" class="loyaltySliderImage-bc" alt="">
-                                 <div class="loyaltyPoints-title-block">
-                                    <h3 class="loyaltySliderTitle-bc ellipsis">BRONZE</h3>
-                                    <span class="loyaltyNum-bc ellipsis" style="color: rgb(0, 0, 0);">0+/Ay</span>
-                                 </div>
-                              </div>
-                              <div class="loyaltyMedalSliderElBody-bc">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/silver.png" class="loyaltySliderImage-bc" alt="">
-                                 <div class="loyaltyPoints-title-block">
-                                    <h3 class="loyaltySliderTitle-bc ellipsis">SILVER</h3>
-                                    <span class="loyaltyNum-bc ellipsis" style="color: rgb(0, 0, 0);">30000+/Ay</span>
-                                 </div>
-                              </div>
-                              <div class="loyaltyMedalSliderElBody-bc">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/gold.png" class="loyaltySliderImage-bc" alt="">
-                                 <div class="loyaltyPoints-title-block">
-                                    <h3 class="loyaltySliderTitle-bc ellipsis">GOLD</h3>
-                                    <span class="loyaltyNum-bc ellipsis" style="color: rgb(0, 0, 0);">110000+/Ay</span>
-                                 </div>
-                              </div>
-                              <div class="loyaltyMedalSliderElBody-bc">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/platinum.png" class="loyaltySliderImage-bc" alt="">
-                                 <div class="loyaltyPoints-title-block">
-                                    <h3 class="loyaltySliderTitle-bc ellipsis">PLATINUM</h3>
-                                    <span class="loyaltyNum-bc ellipsis" style="color: rgb(0, 0, 0);">140000+/Ay</span>
-                                 </div>
-                              </div>
-                              <div class="loyaltyMedalSliderElBody-bc">
-                                 <img src="https://cmsbetconstruct.com/content/images/loyalty_points/diamond.png" class="loyaltySliderImage-bc" alt="">
-                                 <div class="loyaltyPoints-title-block">
-                                    <h3 class="loyaltySliderTitle-bc ellipsis">DIAMOND</h3>
-                                    <span class="loyaltyNum-bc ellipsis" style="color: rgb(0, 0, 0);">200000+/Ay</span>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="12">
-                        <div class="overlay-header">KİŞİSEL DETAYLAR</div>
-                        <div class="u-i-e-p-p-content-bc u-i-common-content user-profile" data-scroll-lock-scrollable="">
-                           <form>
-                              <div class="u-i-p-control-item-holder-bc">
-                                 <div class="eligible-bonus"><i class="bc-i-player-info"></i><span class="eligible-bonus-title">BONUS İÇİN UYGUN: </span><b class="eligible-bonus-status green">Evet</b></div>
-                              </div>
-                              <div class="userProfile-content" data-scroll-lock-scrollable="">
-                                 <div class="userProfileWrapper-bc userProfileSection-0">
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="id" readonly="" step="0" value="1618197540"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">KİMLİK</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="username" readonly="" step="0" value="<?=$us['login']?>"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Kullanıcı adı</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="first_name" readonly="" step="0" value="****"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Adı</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="email" class="form-control-input-bc" autocomplete="username" name="email" readonly="" step="0" value="***@****.com"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">E-posta</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="middle_name" step="0" value="****"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Ikinci isim</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="doc_number" readonly="" step="0" value="*******"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">TC KİMLİK NUMARASI</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="last_name" readonly="" step="0" value="*****"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Soyadı</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="birth_date" readonly="" step="0" value="****-**-**"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Doğum tarihi</span></label></div>
-                                       <i class="dropdownIcon-bc bc-i-datepicker disabled"></i>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="multi-select-bc disabled">
-                                          <div class="form-control-bc focused valid filled">
-                                             <div class="form-control-label-bc inputs">
-                                                <div class="form-control-select-bc ellipsis">*****</div>
-                                                <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Cinsiyet</span>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc dropdownArrowParent-bc">
-                                       <div class="form-control-bc select select-flag filled" tabindex="0">
-                                          <div class="form-control-label-bc form-control-select-bc inputs "><i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i><span class="ellipsis">Türkiye</span><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Ülke</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default valid filled"><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="city" readonly="" step="0" value="*****"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Şehir</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="address" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Adres</span></label></div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-controls-group-bc telephone">
-                                          <div class="form-controls-field-content">
-                                             <div class="form-controls-field-bc">
-                                                <div class="form-control-bc default  filled valid"><label class="form-control-label-bc inputs"><input type="tel" name="phoneNumber" class="form-control-input-bc" readonly="" step="0" value="+90**********"><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Telefon numarası</span></label></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="userProfileWrapper-bc userProfileSection-1">
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="entrance-f-item-bc  ">
-                                          <div class="entrance-f-error-message-bc">Değişiklikleri kaydetmek için şifrenizi girin.</div>
-                                       </div>
-                                    </div>
-                                    <div class="u-i-p-control-item-holder-bc">
-                                       <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Geçerli Şifre</span></label></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="u-i-p-c-footer-bc"><button class="btn a-color right-aligned " type="submit" title="DEĞİŞİKLİKLERİ KAYDET" disabled=""><span>DEĞİŞİKLİKLERİ KAYDET</span></button></div>
-                           </form>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="13">
-                        <div class="overlay-header">ŞİFRE DEĞİŞTİR</div>
-                        <div class="u-i-edit-change-password-page-bc">
-                           <div class="u-i-e-ch-p-content-bc u-i-common-content">
-                              <form>
-                                 <div class="u-i-p-control-item-holder-bc">
-                                    <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Geçerli Şifre</span></label></div>
-                                 </div>
-                                 <div class="u-i-p-control-item-holder-bc">
-                                    <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input type="password" class="form-control-input-bc" autocomplete="current-password" name="new_password" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Yeni Şifre</span></label></div>
-                                 </div>
-                                 <div class="u-i-p-control-item-holder-bc">
-                                    <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input type="password" class="form-control-input-bc" autocomplete="current-password" name="new_password_confirm" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Yeni şifreyi onayla</span></label></div>
-                                 </div>
-                                 <div class="u-i-p-c-footer-bc"><button class="btn a-color right-aligned " type="submit" title="ŞİFRE DEĞİŞTİR" disabled=""><span>ŞİFRE DEĞİŞTİR</span></button></div>
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="14">
-                        <div class="overlay-header">Authentication</div>
-                        <div class="authentication-section">
-                           <p class="authentication-description">İki faktörlü kimlik doğrulama kapatıldı</p>
-                           <div class="authentication-content"><img src="/static/media/authentication.0663f736.png" alt="authentication" class="authentication-image"><i class="ui-kit-toggle "></i></div>
-                           <div class="toggle-wrapper  ">İKİ FAKTÖRLÜ DOĞRULAMAYI ETKİNLEŞTİR</div>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="15">
-                        <div class="overlay-header">AÇIK BAHİSLER</div>
-                        <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-                           <div class="componentFilterWrapper-bc">
-                              <div class="componentFilterBody-bc">
-                                 <div class="componentFilterElsWrapper-bc">
-                                    <form class="filter-form-w-bc">
-                                       <div class="componentFilterBody-content">
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" inputmode="decimal" class="form-control-input-bc" name="bet_id" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">BAHİS KİMLİĞİ</span></label></div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="name" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Spor Adı</span></label></div>
-                                             <i class="sport-search-icon bc-i-search"></i>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">TÜMÜ</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">24 saat</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">PERİYOT</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div class="u-i-p-c-filter-footer-bc"><button class="btn a-color " type="submit" title="Göster"><span>Göster</span></button></div>
-                                    </form>
-                                 </div>
-                              </div>
-                           </div>
-                           <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="16">
-                        <div class="overlay-header">TÜMÜ</div>
-                        <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-                           <div class="componentFilterWrapper-bc">
-                              <div class="componentFilterBody-bc">
-                                 <div class="componentFilterElsWrapper-bc">
-                                    <form class="filter-form-w-bc">
-                                       <div class="componentFilterBody-content">
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" inputmode="decimal" class="form-control-input-bc" name="bet_id" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">BAHİS KİMLİĞİ</span></label></div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="name" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Spor Adı</span></label></div>
-                                             <i class="sport-search-icon bc-i-search"></i>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">TÜMÜ</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="u-i-p-control-item-holder-bc">
-                                             <div class="multi-select-bc ">
-                                                <div class="form-control-bc valid filled">
-                                                   <div class="form-control-label-bc inputs">
-                                                      <div class="form-control-select-bc ellipsis">24 saat</div>
-                                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">PERİYOT</span>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                       <div class="u-i-p-c-filter-footer-bc"><button class="btn a-color " type="submit" title="Göster"><span>Göster</span></button></div>
-                                    </form>
-                                 </div>
-                              </div>
-                           </div>
-                           <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="17">
-                        <div class="overlay-header">Gelen kutusu</div>
-                        <div class="messageBoxWrapper-bc">
-                           <ul class="messageBoxList-bc">
-                              <div class="message-block-bc" data-status="unread">
-                                 <div class="message-title-block">
-                                    <h3 class="message-title-bc">🤫 Ödüllü Twitter etkinliğimiz aktiftir !  🤫</h3>
-                                 </div>
-                                 <div class="message-more-time-bc"><time class="message-time-bc">08.08.2023, 14:51</time><i class="message-more-icon bc-i-double-arrow-top"></i></div>
-                              </div>
-                           </ul>
-                           <a class="btn a-color" href="javascript:;" onclick="openmodals('19')">YENİ MESAJ</a>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="18">
-                        <div class="overlay-header">Gönderildi</div>
-                        <div class="messageBoxWrapper-bc">
-                           <p class="empty-b-text-v-bc">Hiç mesajınız yok</p>
-                           <a class="btn a-color" href="#">YENİ MESAJ</a>
-                        </div>
-                     </div>
-                     <div class="my-profile-info-block hidden"  id="19">
-                        <div class="overlay-header">YENİ</div>
-                        <div class="u-i-e-p-p-content-bc u-i-common-content message-content" data-scroll-lock-scrollable="">
-                           <form novalidate="">
-                              <div class="u-i-p-control-item-holder-bc">
-                                 <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="subject" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Konu</span></label></div>
-                              </div>
-                              <div class="u-i-p-control-item-holder-bc">
-                                 <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc textareas">
-                                       <div class="form-control-textarea-bc"><textarea placeholder="Enter text here" class="form-control-textarea" name="body" maxlength="4000" step="0"></textarea></div>
-                                       <i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">MESAJ</span>
-                                    </label>
-                                 </div>
-                              </div>
-                              <div class="u-i-p-c-footer-bc"><button class="btn a-color " type="submit" title="Gönder" disabled=""><span>Gönder</span></button></div>
-                           </form>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="popup-holder-bc full-screen  content-manager hidden" id="login-modal" style="">
-            <div class="popup-middleware-bc">
-               <div class="popup-inner-bc">
-                  <i class="e-p-close-icon-bc bc-i-close-remove" onclick="closesmodal()"></i>
-                  <div class="entrance-popup-bc sign-in">
-                     <div class="e-p-content-holder-bc">
-                        <div class="e-p-content-bc">
-                           <div class="e-p-header-bc">
-                              <a class="popup-t-logo-w-bc" href="/"><img class="hdr-logo-bc" src="/logo.png" alt=""></a>
-                              <div class="e-p-sections-bc">
-                                 <div class="e-p-section-item-bc"><button class="btn s-small register " type="button" onclick="openmodal('register-modal')" title="Kayıt"><span>Kayıt</span></button></div>
-                              </div>
-                           </div>
-                           <div class="e-p-body-bc">
-                              <form  id="login_form" onsubmit="logIn()" class="entrance-form-bc login popup" data-scroll-lock-scrollable="">
-                                 <div class="form-sign-bc">
-                                    <div class="sg-n-text-row-1-bc">Hesabınız var mı?</div>
-                                    <div class="sg-n-text-row-2-bc">HEMEN GİRİŞ YAPIN!</div>
-                                    <div class="entrance-f-item-bc">
-                                       <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input name="login" type="text" class="form-control-input-bc" name="username" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">E-posta / Kullanıcı Adı</span></label></div>
-                                    </div>
-                                    <div class="entrance-f-item-bc">
-                                       <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input name="password" type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Şifre</span></label></div>
-                                    </div>
-                                    <div class="entrance-f-item-bc entrance-f-item-checkbox-bc">
-                                       <div class="checkbox-control-bc">
-                                          <label class="checkbox-control-content-bc">
-                                             <input type="checkbox" class="checkbox-control-input-bc" name="remember_me" step="0"><i class="checkbox-control-icon-bc bc-i-checked"></i>
-                                             <p class="checkbox-control-text-bc">Beni hatırla</p>
-                                          </label>
-                                       </div>
-                                    </div>
-                                    <div class="entrance-form-actions-holder-bc login-ext-1">
-                                       <div class="entrance-form-action-item-bc right"><button class="btn a-color " type="submit" title="GİRİŞ"><span>GİRİŞ</span></button></div>
-                                    </div>
-                                    <div class="sg-n-forgot-password-text">ŞİFRENİZİ Mİ UNUTTUNUZ?</div>
-                                 </div>
-                                 <div title="DESTEK İLE İLETİŞİME GEÇİN" class="live-chat-adviser-bc"><i class="bc-i-live-chat"></i><span class="ellipsis">DESTEK İLE İLETİŞİME GEÇİN</span></div>
-                              </form>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="popup-holder-bc full-screen  content-manager hidden" id="register-modal" style="">
-            <div class="popup-middleware-bc">
-               <div class="popup-inner-bc">
-                  <i class="e-p-close-icon-bc bc-i-close-remove"></i>
-                  <div class="entrance-popup-bc register">
-                     <div class="e-p-content-holder-bc">
-                        <div class="e-p-content-bc">
-                           <div class="e-p-header-bc">
-                              <a class="popup-t-logo-w-bc" href="/"><img class="hdr-logo-bc" src="/logo.png" alt=""></a>
-                              <div class="e-p-sections-bc">
-                                 <div class="e-p-section-item-bc" onclick="openmodal('login-modal')"><span class="e-p-section-title-bc">GİRİŞ</span></div>
-                              </div>
-                              <i class="e-p-close-icon-bc bc-i-close-remove" onclick="closesmodal()"></i>
-                           </div>
-                           <div class="e-p-body-bc">
-                              <div class="reg-form-block-bc">
-                                 <form class="entrance-form-bc registration popup" id="register_form" onsubmit="signUp()">
-                                    <div class="entrance-form-content-bc single-side step-0" data-scroll-lock-scrollable="">
-                                       <div class="reg-form-content" data-scroll-lock-scrollable="">
-                                          <div class="sg-n-text-row-1-bc">
-                                             <p>Yeni üyelik?</p>
-                                          </div>
-                                          <div class="sg-n-text-row-2-bc">ŞİMDİ KAYDOLUN, HERŞEY ÇOK KOLAY!</div>
-                                          <div class="reg-form-fields">
-                                             <div class="entrance-form-content-section-bc">
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="first_name" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Adı</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="middle_name" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Ikinci isim</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="last_name" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Soyadı</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="login" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Kullanıcı adı</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Şifre</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default has-icon "><label class="form-control-label-bc inputs"><input type="password" class="form-control-input-bc" autocomplete="current-password" name="repeat_password" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Şifreyi onayla</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" inputmode="decimal" class="form-control-input-bc" name="passport" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">TC KİMLİK NUMARASI</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="react-datepicker-wrapper">
-                                                      <div class="react-datepicker__input-container">
-                                                         <div class="form-control-bc default filled "><label class="form-control-label-bc inputs"><input class="form-control-input-bc " type="text" placeholder="" readonly="" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Doğum tarihi</span><i class="dropdownIcon-bc bc-i-datepicker"></i></label></div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="email" class="form-control-input-bc" autocomplete="username" name="email" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">E-posta</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="multi-select-bc ">
-                                                      <div class="form-control-bc focused">
-                                                         <div class="form-control-label-bc inputs">
-                                                            <div class="form-control-select-bc ellipsis">Cinsiyet seçin</div>
-                                                            <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Cinsiyet</span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc select select-flag filled" tabindex="0">
-                                                      <div class="form-control-label-bc form-control-select-bc inputs "><i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i><span class="ellipsis">Türkiye</span><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Ülke</span></div>
-                                                   </div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="city" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Şehir</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-controls-group-bc telephone">
-                                                      <div class="form-controls-field-content">
-                                                         <div class="form-controls-field-bc country-code">
-                                                            <div class="form-control-bc select  filled" tabindex="0">
-                                                               <div class="form-control-label-bc form-control-select-bc inputs notSelectedField"><i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i><span class="ellipsis">90</span><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Kodu</span></div>
-                                                            </div>
-                                                         </div>
-                                                         <div class="form-controls-field-bc">
-                                                            <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="tel" name="phone" class="form-control-input-bc" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Telefon numarası</span></label></div>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="multi-select-bc ">
-                                                      <div class="form-control-bc focused filled">
-                                                         <div class="form-control-label-bc inputs">
-                                                            <div class="form-control-select-bc ellipsis">TRY</div>
-                                                            <i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Para birimi</span>
-                                                         </div>
-                                                      </div>
-                                                   </div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="form-control-bc default "><label class="form-control-label-bc inputs"><input type="text" class="form-control-input-bc" name="loyalty_code" step="0" value=""><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">PROMOSYON KODU</span></label></div>
-                                                </div>
-                                                <div class="entrance-f-item-bc">
-                                                   <div class="checkbox-control-bc">
-                                                      <label class="checkbox-control-content-bc">
-                                                         <input type="checkbox" class="checkbox-control-input-bc" label="Agree with terms and conditions" name="agree" step="0"><i class="checkbox-control-icon-bc bc-i-checked"></i>
-                                                         <div class="checkbox-control-text-bc checkbox-control-text-content">
-                                                            <span class="terms-before-reg-btn-text">18 yaşından büyüğüm , Genel Kurallar ve Şartları okudum ve kabul ediyorum.</span>
-                                                            <p class="checkbox-control-text-privacy"><a class="" href="/?helpPageContent=privacy-policy"><span>Gizlilik Politikası</span></a><span class="privacy-police-text">ve</span><a class="" href="/?helpPageContent=general-terms-and-conditions"><span>Genel Şartlar ve Koşullar</span></a></p>
-                                                         </div>
-                                                      </label>
-                                                   </div>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="entrance-f-item-bc entrance-f-recaptcha-bc">
-                                             <div class="u-i-p-control-item-holder-bc ">
-                                                <img class="recaptcha-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABL1BMVEUAAAD///////////////////////////////////////////////+rq6tChfQcOqkkQa0hP6xUkfatra1OjfX19fU+fezX5v3i5vS1tbU3UrSwsLCmqbCvr6/t7e2xsbH8/P1XkvYuSrGkqLDi4uK4ubn4+v1Bg/Lx8fHW1tbIyMjDw8O9vb20tLSnqq7m7/7m6fZgmfZHiPS5zPPv7+9Cge/M0uzH0Ove3t5bccE+WLezs7MnRK7y9//C2PyryfuZvvpuovdEhPDs7Ozo6Ojk5OSwu+G7yNygrduMm9TM3v2yzvv19viEsPh5qfhZlPZkmfOvxPCqwfCRsvB2n+3f5OzK1+vY3um/z+h7nua6w+Wst+Crtt/Z2dmTodaPntXByNTR0dFsf8hNZLxHYLreSXCvAAAADHRSTlMA/fPy2baba04cGm5J2ZqkAAACaElEQVRYw63YaVfaQBSA4bALjgFssLUkhEZAWVxQAQGX1rp23/e9/v/f4BgTZ5IL3EHv+80RnjPnDJdDRvNKpxLxKJuyaDyRSmtymWSE3bJIMiOcmRi7Q7EZ35lFtoNuatbbD+bgkrunTIzduViGQ0lGUJKfe4QCiqS1FCMppSVooIQWp4HiWpQGimqhhfX2vJyxedjpLDiD//9+fatNlMIQu2/o4Raybrn+9xoKQQlCPOf8BQ5BCUKcOhMv3AAQkCAk6vvvfzDAIPYeQHJO99p5mMegt8sQktvtuk4Wg7Y8B0BC6l05AIIOBmVzP7iDQOuHOg7xUOiJTgMd6DTQnjECMk7O+86U0GN9RI/4P8onF9NAtdCGPhg+xDvLq0PPA0znHZ8WAbGuowLBI1vecudOQKyXV4T2NmXoqzfBAmK/FaF92Xlz813gQ3wucAie2T7zpTZwMOiV5LyWpgY4GNSWoJdiGTgoNC9BB9BRh+RDexZ0NgY50O5YyDTNJXPpKtO0ijzLqhYYGoTW5sItAkcJwhx1CDoEEOIgEOasqEH3AtAfBtqxnqpDos9gP9YckFQg8yMLVBryxWJJHRKdMqlji68ICYfkqhX/1/N2g/8pJAyC2c165Xjnb0teKuGQWvY2BSQkHMJr4dDi6RruDFdQiM/FF1SygQMgd756iFTET82b00/mJGcV/xzdfK8WmuOdZo2hUEGac3vMdirI0ILKdXsEUy8zFIJUpRn4YFkNb/BwCFpH9UarOlyttho/j8psUmQPfmSPomQPx2SP62QXCFRXGmSXLFTXPlQXUVRXY6SXdWTXh5dIMReAck/CkAAAAABJRU5ErkJggg==" alt="">
-                                                <div class="form-control-title-static-bc"><a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">Gizlilik Politikası</a> ve <a href="https://policies.google.com/terms" rel="noopener noreferrer" target="_blank">Kullanım Şartları</a> </div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="reg-form-footer-bc ">
-                                       <div class="entrance-form-actions-holder-bc reg-ext-1"><button class="btn a-color " type="submit" title="Kayıt"><span>Kayıt</span></button></div>
-                                       <div class="steps-indicator">
-                                          <div class="step-indicator step-indicator-active"></div>
-                                       </div>
-                                       <div title="DESTEK İLE İLETİŞİME GEÇİN" class="live-chat-adviser-bc"><i class="bc-i-live-chat"></i><span class="ellipsis">DESTEK İLE İLETİŞİME GEÇİN</span></div>
-                                    </div>
-                                 </form>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="sidePanel-holder-bc content-manager hidden" id="settings"><div class="sidePanel-holder"><div class="overlay-header"><i class="bc-i-close-remove"></i><span>Ayarlar</span></div><div class="settings-selectors-bc"><div class="settings-selectors-item"><div class="form-control-bc select  filled" tabindex="0"><div class="form-control-label-bc form-control-select-bc inputs "><span class="ellipsis">Ondalık</span><i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Oran formatı</span></div></div><div class="form-control-bc select  filled" tabindex="0"><div class="form-control-label-bc form-control-select-bc inputs "><i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i><span class="ellipsis">Türkçe</span><i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">Dil</span></div></div><div class="form-control-bc select  filled" tabindex="0"><div class="form-control-label-bc form-control-select-bc inputs "><span class="ellipsis">24 saat</span><i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i><span class="form-control-title-bc ellipsis">SAAT FORMATI</span></div></div></div></div></div></div>
-         
-
-         <div class="sidePanel-holder-bc content-manager hidden" id="favourites"><div class="sidePanel-holder"><div class="overlay-header"><i class="bc-i-close-remove"></i><span>FAVORİLER</span></div><div class="smart-panel-tabs-bc"><div class="second-tabs-bc"><div class="tab-bc selected-underline  active" title=""><span>SPOR</span><span>(0)</span></div><div class="tab-bc selected-underline " title=""><span>CASİNO</span><span>(0)</span></div></div><div class="sp-fav-body-bc"><div class="second-tabs-bc"><div class="tab-bc selected-underline " title=""><span>Yarışma</span><span>(0)</span></div><div class="tab-bc selected-underline  active" title=""><span>Maç</span><span>(0)</span></div></div><p class="empty-b-text-v-bc">Favori oyunlarınız yok. Bazılarını eklemek için oyun adının yanındaki yıldız simgesine tıklayın.</p></div></div></div></div>
-
-         <div class="sidePanel-holder-bc content-manager hidden" id="notifications"><div class="sidePanel-holder"><div class="overlay-header"><i class="bc-i-close-remove"></i><span>YENİLİKLER</span></div><div class="notification-new-container"><div class="notification-new-header"><time class="">08 Ağustos 2023</time><span>Clear</span></div><div class="notification-new-item" data-status="unread"><i class="notification-new-item-icon bc-i-notification"></i><span class="notification-new-item-info">KAZANDIRAN ETKİNLİKLER!</span><i class="bc-i-close-remove"></i></div></div></div></div>
-
-         <div class="layout-betslip-holder-bc content-manager hidden" id="betslip"><div class="betslip-bc Full  full" style="transform: translateY(0px); opacity: 1;"><div id="betslip_container" class=""><div class=""><button class="e-p-close-icon-bc bc-i-close-remove " type="button"></button></div><div class="betslip-full-content-bc"><div class="bs-f-header-bc"><div class="second-tabs-bc"><div class="tab-bc selected-underline betslip active" title="BAHİS KUPONU"><span>BAHİS KUPONU</span></div></div><div class="settings-r-b-row-bc"><div class="form-control-bc select s-small has-icon filled" tabindex="0"><div class="form-control-label-bc form-control-select-bc inputs "><i class="select-icon-bc bc-i-settings"></i><span class="ellipsis">Her zaman sor</span><i class="form-control-icon-bc bc-i-small-arrow-down"></i><i class="form-control-input-stroke-bc"></i></div></div></div></div><div class="bs-f-header-sub-navigation-bc "></div><div class="bs-f-body-bc"><div class="bs-scroll-container-bc" data-scroll-lock-scrollable=""><p class="empty-b-text-v-bc">Bahis kuponunuz boş</p><div class="bs-actions-bc"></div></div></div><div class="bs-f-footer "><div class="bet-slip-switcher-wrapper-bc"></div><div class="bs-info-massages"><div class="quickBetMsgWrapper-bc betslip-warning-message "><i class="bs-notification-icon-bc bc-i-attention"></i><span class="quickBetMsgText-bc">Bahis yapmak için lütfen <span class="bet-slip-info-link">GİRİŞ</span> veya<span class="bet-slip-info-link">KAYIT</span></span></div></div><div class="bs-numbers-bc "><div class="bs-editable-number-buttons-bc"><span class="bs-number-button-bc i-2 ellipsis">50</span><span class="bs-number-button-bc i-2 ellipsis">100</span><span class="bs-number-button-bc i-2 ellipsis">500</span><span class="bs-number-button-bc i-2 " title="Edit stakes"><i class="bs-number-button-icon-bc bc-i-edit"></i></span><span class="bs-number-button-bc i-2 hidden"><i class="bs-number-button-icon-bc bc-i-checked "></i></span></div></div><div class="bet-button-wrapper-bc content-type-0"><button class="btn a-color button-type-0 " type="button" title="Bahis Yap" disabled=""><span>Bahis Yap</span></button></div></div></div></div></div></div>
