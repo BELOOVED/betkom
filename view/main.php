@@ -14,7 +14,7 @@
                                     </svg>
                                  </button>
                                  <div class="slick-list">
-                                    <div class="slick-track" style="width: 17784px; opacity: 1; transform: translate3d(-3420px, 0px, 0px);">
+                                    <div class="slick-track" style="width: 17784px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                                        <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png"></a></div>
                                        </div>
