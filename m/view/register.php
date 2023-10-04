@@ -206,14 +206,14 @@
          <div class="subtitle_3ed4b">Lütfen Kendi Şahsınıza Ait Bilgileri Doğru Ve Eksiksiz Bir Şekilde Giriniz! </div>
       </div>
       <div class="separator_f05ca"></div>
-      <form class="registration-form_27f4d" action="/" autocomplete="off">
+      <form class="registration-form_27f4d" autocomplete="off" id="register_form" onsubmit="signUp()">
          <div class="input-container_6e6cb">
             <div class="control_c19e3 control-error_b0573">
                <div class="control-placeholder_e3dd8"><span>Kullanıcı Adı</span></div>
                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon_96a86">
                   <path d="M8.00035 0C3.58234 0 0 3.58164 0 8C0 12.4184 3.58199 16 8.00035 16C12.4191 16 16.0007 12.4184 16.0007 8C16.0007 3.58164 12.4191 0 8.00035 0ZM8.00035 2.39209C9.46224 2.39209 10.6469 3.57707 10.6469 5.03826C10.6469 6.4998 9.46224 7.68443 8.00035 7.68443C6.53916 7.68443 5.35454 6.4998 5.35454 5.03826C5.35454 3.57707 6.53916 2.39209 8.00035 2.39209ZM7.99859 13.9084C6.54057 13.9084 5.20518 13.3774 4.17518 12.4985C3.92427 12.2845 3.77949 11.9707 3.77949 11.6414C3.77949 10.1595 4.97887 8.97342 6.46115 8.97342H9.54026C11.0229 8.97342 12.2177 10.1595 12.2177 11.6414C12.2177 11.971 12.0736 12.2841 11.8224 12.4981C10.7927 13.3774 9.45697 13.9084 7.99859 13.9084Z" fill="#2764FF"></path>
                </svg>
-               <input type="text" name="username" placeholder="Kullanıcı Adı" class="control-input_eb62d control-input-with-Icon_7c8d8" value="haruntekin">
+               <input type="text" name="login" placeholder="Kullanıcı Adı" class="control-input_eb62d control-input-with-Icon_7c8d8">
             </div>
          </div>
          <div class="input-container_6e6cb">
@@ -370,7 +370,7 @@
                         <path d="M5.70351 3.77964L4.18556 3L5.70351 2.22036C5.98703 2.07475 6.08417 1.75223 5.92048 1.5C5.75679 1.24779 5.39427 1.16134 5.11072 1.30698L3.59279 2.08662V0.527344C3.59279 0.236098 3.32739 0 3 0C2.67262 0 2.40722 0.236098 2.40722 0.527344V2.08662L0.889284 1.30698C0.605722 1.16135 0.243202 1.24778 0.0795146 1.5C-0.0841728 1.75222 0.0129647 2.07475 0.296487 2.22036L1.81445 3L0.2965 3.77964C0.0129779 3.92525 -0.0841728 4.24778 0.0795146 4.5C0.189311 4.6692 0.388553 4.76377 0.593432 4.76377C0.693981 4.76377 0.795927 4.74097 0.889271 4.69302L2.40722 3.91338V5.47266C2.40722 5.7639 2.67262 6 3 6C3.32739 6 3.59279 5.7639 3.59279 5.47266V3.91338L5.11072 4.69302C5.20408 4.74097 5.30599 4.76377 5.40656 4.76377C5.61143 4.76377 5.8107 4.66917 5.92048 4.5C6.08418 4.24778 5.98703 3.92525 5.70351 3.77964Z" fill="#E7001C"></path>
                      </svg>
                   </div>
-                  <input type="text" autocomplete="off" name="mobile_phone" placeholder="- - -   - - -   - -   - -" class="control-input_eb62d" value="">
+                  <input type="text" autocomplete="off" name="phone" placeholder="- - -   - - -   - -   - -" class="control-input_eb62d" value="">
                </div>
             </div>
          </div>
@@ -442,5 +442,5 @@
          <button class="submit_0909c" type="submit">KAYIT OL</button>
       </form>
    </div>
-   <div class="auth-links-wrapper_da7e7"><button class="auth-page-link_ce640"><span class="title_1d05c">GİRİŞ</span></button><button class="auth-page-link_ce640"><span class="title_1d05c">Şifremi Unuttum!</span></button></div>
+   <div class="auth-links-wrapper_da7e7"><button class="auth-page-link_ce640" onclick="window.location.href = 'login'"><span class="title_1d05c">GİRİŞ</span></button><button class="auth-page-link_ce640"><span class="title_1d05c">Şifremi Unuttum!</span></button></div>
 </div>
