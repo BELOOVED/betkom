@@ -1,1238 +1,3290 @@
-<div class="layout-content-holder-bc">
-   <div class="special-games-button"><button class="btn s-small upcoming-matches "><i class="bc-i-upcoming"></i><span>YAKLAŞAN MAÇLAR</span></button><button class="btn s-small popular-matches "><i class="bc-i-tournament"></i><span>POPÜLER MAÇLAR</span></button><button class="btn s-small popular-competitions "><i class="bc-i-tournament"></i><span>POPÜLER LİGLER </span></button></div>
-   <div class="filter-sports-bc">
-      <div class="form-control-bc select s-small has-icon filled">
-         <label class="form-control-label-bc inputs">
-            <i class="select-icon-bc bc-i-time"></i>
-            <select class="form-control-select-bc ellipsis">
-               <option value="-1">TÜMÜ</option>
-               <option value="0">Bugün</option>
-               <option value="180">3 saat</option>
-               <option value="360">6 saat</option>
-               <option value="720">12 saat</option>
-               <option value="1440">24 saat</option>
-               <option value="2880">48 saat</option>
-               <option value="4320">72 saat</option>
-            </select>
-            <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-         </label>
+<div class="main-content-wrapper_9d176">
+   <div class="search-filter-wrapper_97e20">
+      <div class="search_72171">
+         <input type="text" placeholder="Ara" class="search-input_4a0b8" value="">
+         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_9b627">
+            <path d="M15.7567 14.5735L11.8125 10.6129C12.8266 9.44901 13.3823 7.98455 13.3823 6.45999C13.3823 2.89801 10.3806 0 6.69113 0C3.0017 0 0 2.89801 0 6.45999C0 10.022 3.0017 12.92 6.69113 12.92C8.07619 12.92 9.39609 12.5167 10.5246 11.751L14.4988 15.7416C14.6649 15.9082 14.8883 16 15.1278 16C15.3544 16 15.5694 15.9166 15.7326 15.7649C16.0794 15.4428 16.0904 14.9085 15.7567 14.5735ZM6.69113 1.68522C9.4182 1.68522 11.6367 3.82713 11.6367 6.45999C11.6367 9.09286 9.4182 11.2348 6.69113 11.2348C3.96406 11.2348 1.74551 9.09286 1.74551 6.45999C1.74551 3.82713 3.96406 1.68522 6.69113 1.68522Z" fill="currentColor"></path>
+         </svg>
       </div>
-      <button class="btn s-small a-outline  " type="button"><i class="filter-icon-bc bc-i-bet-builder"></i></button>
-      <div class="sport-search-bc ">
-         <div class="ss-icon-holder-bc"><i class="ss-icon-bc bc-i-search"></i></div>
+      <div class="select-container_dddf9">
+         <button type="button" class="select_5477e">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+               <path d="M8 0C6.41775 0 4.87103 0.469192 3.55544 1.34824C2.23985 2.22729 1.21447 3.47672 0.608967 4.93853C0.0034663 6.40034 -0.15496 8.00887 0.153721 9.56072C0.462403 11.1126 1.22433 12.538 2.34315 13.6569C3.46197 14.7757 4.88743 15.5376 6.43928 15.8463C7.99113 16.155 9.59966 15.9965 11.0615 15.391C12.5233 14.7855 13.7727 13.7602 14.6518 12.4446C15.5308 11.129 16 9.58225 16 8C15.9975 5.87904 15.1538 3.84566 13.6541 2.34591C12.1543 0.84616 10.121 0.00250216 8 0ZM10.696 10.696C10.5596 10.8323 10.3747 10.9089 10.1818 10.9089C9.98897 10.9089 9.80402 10.8323 9.66764 10.696L7.48582 8.51418C7.34942 8.37782 7.27277 8.19287 7.27273 8V3.63636C7.27273 3.44348 7.34935 3.25849 7.48574 3.1221C7.62213 2.98571 7.80712 2.90909 8 2.90909C8.19289 2.90909 8.37787 2.98571 8.51426 3.1221C8.65065 3.25849 8.72727 3.44348 8.72727 3.63636V7.69891L10.696 9.66763C10.8323 9.80402 10.9089 9.98897 10.9089 10.1818C10.9089 10.3747 10.8323 10.5596 10.696 10.696Z" fill="currentColor"></path>
+            </svg>
+            <span class="">Tümü</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_37ae9">
+               <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+            </svg>
+         </button>
       </div>
    </div>
-   <div class="prematch-page-bc">
-      <div class="horizontal-sl-list-container" data-scroll-lock-scrollable="">
-         <div class="horizontal-sl-list pp-sport-type-holder-bc ext-2">
-            <div data-id="Soccer" title="Futbol " data-badge="" class="horizontal-sl-item-bc accordion-button   Soccer active">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Soccer"></i>
-               <p class="horizontal-sl-title-bc">Futbol </p>
-               <span class="horizontal-sl-count-bc">2093</span>
+   <div class="filter-container_9c277">
+      <button class="filter-item_23bf7">
+         <i class="icon_a5082">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+               <path d="M13.7273 1.45455H12.3636V0.727273C12.3636 0.534388 12.287 0.349403 12.1506 0.213013C12.0142 0.0766231 11.8292 0 11.6364 0C11.4435 0 11.2585 0.0766231 11.1221 0.213013C10.9857 0.349403 10.9091 0.534388 10.9091 0.727273V1.45455H8.72727V0.727273C8.72727 0.534388 8.65065 0.349403 8.51426 0.213013C8.37787 0.0766231 8.19289 0 8 0C7.80712 0 7.62213 0.0766231 7.48574 0.213013C7.34935 0.349403 7.27273 0.534388 7.27273 0.727273V1.45455H5.09091V0.727273C5.09091 0.534388 5.01429 0.349403 4.8779 0.213013C4.74151 0.0766231 4.55652 0 4.36364 0C4.17075 0 3.98577 0.0766231 3.84938 0.213013C3.71299 0.349403 3.63636 0.534388 3.63636 0.727273V1.45455H2.27273C1.6702 1.45532 1.09257 1.69501 0.666517 2.12106C0.240464 2.54711 0.000769759 3.12474 0 3.72727V5.81818H16V3.72727C15.9992 3.12474 15.7595 2.54711 15.3335 2.12106C14.9074 1.69501 14.3298 1.45532 13.7273 1.45455Z" fill="currentColor"></path>
+               <path d="M0 13.728C0.000769759 14.3305 0.240464 14.9081 0.666517 15.3342C1.09257 15.7602 1.6702 15.9999 2.27273 16.0007H13.7273C14.3298 15.9999 14.9074 15.7602 15.3335 15.3342C15.7595 14.9081 15.9992 14.3305 16 13.728V7.27344H0V13.728ZM5.304 10.8058C5.44038 10.6695 5.62534 10.5929 5.81818 10.5929C6.01103 10.5929 6.19598 10.6695 6.33236 10.8058L7.27273 11.7454L9.66764 9.35126C9.8048 9.21878 9.98851 9.14547 10.1792 9.14713C10.3699 9.14879 10.5523 9.22527 10.6871 9.36012C10.822 9.49496 10.8985 9.67737 10.9001 9.86805C10.9018 10.0587 10.8285 10.2425 10.696 10.3796L7.78691 13.2887C7.65053 13.4251 7.46557 13.5016 7.27273 13.5016C7.07988 13.5016 6.89493 13.4251 6.75855 13.2887L5.304 11.8342C5.16766 11.6978 5.09106 11.5128 5.09106 11.32C5.09106 11.1271 5.16766 10.9422 5.304 10.8058Z" fill="currentColor"></path>
+            </svg>
+         </i>
+         <span class="text_f41c8">Günün maçları</span>
+      </button>
+      <button class="filter-item_23bf7">
+         <i class="icon_a5082">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+               <path d="M9.3299 1H15.9891V4.54394H9.3299V1Z" fill="currentColor"></path>
+               <path d="M0 1H6.65918V4.54394H0V1Z" fill="currentColor"></path>
+               <path d="M2.65411 8.87891H3.78711V11.7785H2.65411V8.87891Z" fill="currentColor"></path>
+               <path d="M0 14.9994H6.65918V5.65625H0V14.9994ZM1.71622 7.91148H4.72505V12.7441H1.71622V7.91148Z" fill="currentColor"></path>
+               <path d="M9.34082 5.65625V14.9994H16V5.65625H9.34082ZM13.4364 12.6548H12.4985V8.87801H11.7866V7.91148H13.4364V12.6548Z" fill="currentColor"></path>
+               <path d="M7.54254 8.82422H8.45047V9.79075H7.54254V8.82422Z" fill="currentColor"></path>
+               <path d="M7.54254 10.8652H8.45047V11.8318H7.54254V10.8652Z" fill="currentColor"></path>
+            </svg>
+         </i>
+         <span class="text_f41c8">Maç Sonuçları</span>
+      </button>
+      <button class="filter-item_23bf7">
+         <i class="icon_a5082">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+               <path d="M11.182 10.0733C10.9502 10.0733 10.7422 9.91 10.6943 9.67333C10.6392 9.40267 10.8133 9.13867 11.083 9.08333C12.8977 8.71267 14.8213 6.47133 14.9914 3H12.7907C12.5156 3 12.2923 2.776 12.2923 2.5C12.2923 2.224 12.5156 2 12.7907 2H15.5016C15.7767 2 16 2.224 16 2.5C16 6.83267 13.6266 9.584 11.2824 10.0633C11.2485 10.07 11.2153 10.0733 11.182 10.0733Z" fill="currentColor"></path>
+               <path d="M4.75814 10.06C4.72226 10.06 4.68571 10.056 4.6485 10.048C2.33887 9.528 0 6.76867 0 2.5C0 2.224 0.223256 2 0.498339 2H3.15615C3.43123 2 3.65449 2.224 3.65449 2.5C3.65449 2.776 3.43123 3 3.15615 3H1.0093C1.17874 6.42267 3.07641 8.66933 4.86711 9.072C5.13555 9.13267 5.30432 9.4 5.24452 9.66933C5.19203 9.902 4.98605 10.06 4.75814 10.06Z" fill="currentColor"></path>
+               <path d="M8.804 10.7402C8.52892 10.7402 8.30566 10.9642 8.30566 11.2402H7.64121C7.64121 10.9642 7.41795 10.7402 7.14287 10.7402C6.86779 10.7402 6.64453 10.9642 6.64453 11.2402V13.6669C6.64453 13.9429 6.86779 14.1669 7.14287 14.1669H8.804C9.07908 14.1669 9.30234 13.9429 9.30234 13.6669V11.2402C9.30234 10.9642 9.07908 10.7402 8.804 10.7402Z" fill="currentColor"></path>
+               <path d="M9.46846 13.334H6.47843C5.47045 13.334 4.65118 14.156 4.65118 15.1673V15.5007C4.65118 15.7767 4.87444 16.0007 5.14952 16.0007H10.7974C11.0724 16.0007 11.2957 15.7767 11.2957 15.5007V15.1673C11.2957 14.156 10.4764 13.334 9.46846 13.334Z" fill="currentColor"></path>
+               <path d="M12.1263 0H3.82063C3.17943 0 2.65784 0.523333 2.65784 1.16667V6.00333C2.68641 10.3073 7.60069 12.0667 7.81 12.1393C7.86315 12.158 7.9183 12.1673 7.97345 12.1673C8.0286 12.1673 8.08375 12.158 8.13624 12.14C8.34621 12.0667 13.2891 10.3067 13.2891 6V1.16667C13.2891 0.523333 12.7675 0 12.1263 0Z" fill="currentColor"></path>
+            </svg>
+         </i>
+         <span class="text_f41c8">Popüler Ligler</span>
+      </button>
+   </div>
+   <div class="pt0 sport-page-wrapper_30733">
+      <div class="tabs-wrapper_a38e1">
+         <div class="tab-item_a8e89 active_106be">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" class="tab-icon_0716a">
+               <path d="M18.4714 0H1.52857C0.685714 0 0 0.685714 0 1.52857V14.4714C0 15.3143 0.685714 16 1.52857 16H18.4714C19.3143 16 20 15.3143 20 14.4714V1.52857C20 0.685714 19.3143 0 18.4714 0ZM9.28571 10.2429C8.33571 9.93571 7.63571 9.05714 7.63571 8C7.63571 6.94286 8.32857 6.06429 9.28571 5.75714V10.2429ZM10.7143 5.75714C11.6643 6.06429 12.3643 6.94286 12.3643 8C12.3643 9.05714 11.6714 9.93571 10.7143 10.2429V5.75714ZM1.42857 5.7C2.31429 5.92143 2.97857 6.71429 2.97857 7.66429V8.33571C2.97857 9.28571 2.31429 10.0857 1.42857 10.3V5.7ZM1.42857 14.4714V11.7429C3.10714 11.5071 4.40714 10.0786 4.40714 8.33571V7.66429C4.40714 5.92143 3.10714 4.49286 1.42857 4.25714V1.52857C1.42857 1.47143 1.47143 1.42857 1.52857 1.42857H9.28571V4.27857C7.53571 4.61429 6.20714 6.15 6.20714 8C6.20714 9.84286 7.53571 11.3857 9.28571 11.7214V14.5714H1.52857C1.47143 14.5714 1.42857 14.5286 1.42857 14.4714ZM18.4714 14.5714H10.7143V11.7214C12.4643 11.3857 13.7929 9.85 13.7929 8C13.7929 6.15714 12.4643 4.61429 10.7143 4.27857V1.42857H18.4714C18.5286 1.42857 18.5714 1.47143 18.5714 1.52857V4.25714C16.8929 4.49286 15.5929 5.92143 15.5929 7.66429V8.33571C15.5929 10.0786 16.8929 11.5071 18.5714 11.7429V14.4714C18.5714 14.5286 18.5286 14.5714 18.4714 14.5714ZM18.5714 5.7V10.3C17.6857 10.0786 17.0214 9.28571 17.0214 8.33571V7.66429C17.0214 6.71429 17.6857 5.91429 18.5714 5.7Z" fill="currentColor"></path>
+            </svg>
+            Bülten:2287
+         </div>
+         <div class="tab-item_a8e89">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="tab-icon_0716a">
+               <path d="M3.33333 0H0.666667C0.298667 0 0 0.298667 0 0.666667V3.33333C0 3.70133 0.298667 4 0.666667 4H3.33333C3.70133 4 4 3.70133 4 3.33333V0.666667C4 0.298667 3.70133 0 3.33333 0Z" fill="currentColor"></path>
+               <path d="M15.3333 0H5.99998C5.63198 0 5.33331 0.298667 5.33331 0.666667V3.33333C5.33331 3.70133 5.63198 4 5.99998 4H15.3333C15.7013 4 16 3.70133 16 3.33333V0.666667C16 0.298667 15.7013 0 15.3333 0Z" fill="currentColor"></path>
+               <path d="M3.33333 6H0.666667C0.298667 6 0 6.29867 0 6.66667V9.33333C0 9.70133 0.298667 10 0.666667 10H3.33333C3.70133 10 4 9.70133 4 9.33333V6.66667C4 6.29867 3.70133 6 3.33333 6Z" fill="currentColor"></path>
+               <path d="M15.3333 6H5.99998C5.63198 6 5.33331 6.29867 5.33331 6.66667V9.33333C5.33331 9.70133 5.63198 10 5.99998 10H15.3333C15.7013 10 16 9.70133 16 9.33333V6.66667C16 6.29867 15.7013 6 15.3333 6Z" fill="currentColor"></path>
+               <path d="M3.33333 12H0.666667C0.298667 12 0 12.2987 0 12.6667V15.3333C0 15.7013 0.298667 16 0.666667 16H3.33333C3.70133 16 4 15.7013 4 15.3333V12.6667C4 12.2987 3.70133 12 3.33333 12Z" fill="currentColor"></path>
+               <path d="M15.3333 12H5.99998C5.63198 12 5.33331 12.2987 5.33331 12.6667V15.3333C5.33331 15.7013 5.63198 16 5.99998 16H15.3333C15.7013 16 16 15.7013 16 15.3333V12.6667C16 12.2987 15.7013 12 15.3333 12Z" fill="currentColor"></path>
+            </svg>
+            Lig seç
+         </div>
+      </div>
+      <div>
+         <nav class="sports-menu_00e57">
+            <ul class="list_56beb">
+               <li class="item_efb76">
+                  <a href="/tr/favorites/" class="link_3c215">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" class="sport-icon_e41f6">
+                        <g>
+                           <path d="M4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                        </g>
+                     </svg>
+                     <div class="sport-name_9b67c">Favorilerim</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-soccer/all_time/default" class="link_3c215 active_f5d7d">
+                     <div class="sport-name_9b67c">Futbol</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-basketball/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Basketbol</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-tennis/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Tenis</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-volleyball/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Voleybol</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-handball/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Hentbol</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-ice_hockey/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Buz Hokeyi</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-baseball/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Beyzbol</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-american_football/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Amerikan Futbolu</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-rugby_union/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Rugby</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-aussie_rules/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Avustralya Futbolu</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-biathlon/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Biathlon</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-boxing_ufc/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Boxing / UFC</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-cricket/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Kriket</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-cycling/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Cycling</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-formula_1/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Formula 1</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-golf/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Golf</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-politics/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Politics</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-rugby_league/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Ragbi</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-snooker/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Bilardo</div>
+                  </a>
+               </li>
+               <li class="item_efb76">
+                  <a href="/tr/prelive/sport/sport-waterpolo/all_time/default" class="link_3c215">
+                     <div class="sport-name_9b67c">Sutopu</div>
+                  </a>
+               </li>
+            </ul>
+         </nav>
+         <div>
+            <div class="events-count_81fb3">
+               <div class="">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16" class="sport-icon_1bba0">
+                     <path d="M18.4714 0H1.52857C0.685714 0 0 0.685714 0 1.52857V14.4714C0 15.3143 0.685714 16 1.52857 16H18.4714C19.3143 16 20 15.3143 20 14.4714V1.52857C20 0.685714 19.3143 0 18.4714 0ZM9.28571 10.2429C8.33571 9.93571 7.63571 9.05714 7.63571 8C7.63571 6.94286 8.32857 6.06429 9.28571 5.75714V10.2429ZM10.7143 5.75714C11.6643 6.06429 12.3643 6.94286 12.3643 8C12.3643 9.05714 11.6714 9.93571 10.7143 10.2429V5.75714ZM1.42857 5.7C2.31429 5.92143 2.97857 6.71429 2.97857 7.66429V8.33571C2.97857 9.28571 2.31429 10.0857 1.42857 10.3V5.7ZM1.42857 14.4714V11.7429C3.10714 11.5071 4.40714 10.0786 4.40714 8.33571V7.66429C4.40714 5.92143 3.10714 4.49286 1.42857 4.25714V1.52857C1.42857 1.47143 1.47143 1.42857 1.52857 1.42857H9.28571V4.27857C7.53571 4.61429 6.20714 6.15 6.20714 8C6.20714 9.84286 7.53571 11.3857 9.28571 11.7214V14.5714H1.52857C1.47143 14.5714 1.42857 14.5286 1.42857 14.4714ZM18.4714 14.5714H10.7143V11.7214C12.4643 11.3857 13.7929 9.85 13.7929 8C13.7929 6.15714 12.4643 4.61429 10.7143 4.27857V1.42857H18.4714C18.5286 1.42857 18.5714 1.47143 18.5714 1.52857V4.25714C16.8929 4.49286 15.5929 5.92143 15.5929 7.66429V8.33571C15.5929 10.0786 16.8929 11.5071 18.5714 11.7429V14.4714C18.5714 14.5286 18.5286 14.5714 18.4714 14.5714ZM18.5714 5.7V10.3C17.6857 10.0786 17.0214 9.28571 17.0214 8.33571V7.66429C17.0214 6.71429 17.6857 5.91429 18.5714 5.7Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               Bahis Alınabilecek Karşılaşma Adeti: 1346
             </div>
-            <div data-id="Basketball" title="Basketbol " data-badge="" class="horizontal-sl-item-bc accordion-button   Basketball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Basketball"></i>
-               <p class="horizontal-sl-title-bc">Basketbol </p>
-               <span class="horizontal-sl-count-bc">166</span>
+            <div class="">
+               <div class="header_9c63e league-header_1a382">
+                  <div class="league-header-img-wrapper_7cd11"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452" style="transform: scale(0.714286);"></i></span></div>
+                  <div class="league-header-title_b27e0"><span>Futbol</span><span>Uluslararası (Kulüpler)</span><span>Şampiyonlar Ligi</span></div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_16f54 active_60336">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               <div class="">
+                  <div class="header_4fe55">
+                     <div class="title_adf94 stretch_90181" style="width: 90px; padding-left: 16px;">Karşılaşma/Tari̇h</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">1</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">X</div>
+                     <div class="title_adf94 centered_d012d" style="width: 64px; padding-right: 16px;">2</div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Antwerp</span></div>
+                           <div class="participant_f65be"><span>Shakhtar Donetsk</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260153203/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153203/" class="link_22724">+262</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.84</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.78</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.25</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Atletico Madrid</span></div>
+                           <div class="participant_f65be"><span>Feyenoord</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260153202/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153202/" class="link_22724">+264</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.68</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.05</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.95</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">UEFA Champions League 2023/2024</div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260191138/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260191138/" class="link_22724">+17</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Porto</span></div>
+                           <div class="participant_f65be"><span>Barcelona</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153208/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153208/" class="link_22724">+263</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.10</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.90</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.84</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Borussia Dortmund</span></div>
+                           <div class="participant_f65be"><span>Milan</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153204/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153204/" class="link_22724">+274</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.49</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.66</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.06</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Newcastle</span></div>
+                           <div class="participant_f65be"><span>Paris SG</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153205/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153205/" class="link_22724">+270</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.41</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.65</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.81</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>RB Leipzig</span></div>
+                           <div class="participant_f65be"><span>Manchester City</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153207/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153207/" class="link_22724">+264</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.35</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.00</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.77</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Celtic</span></div>
+                           <div class="participant_f65be"><span>Lazio</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153206/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153206/" class="link_22724">+270</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.83</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.55</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.44</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Crvena Zvezda</span></div>
+                           <div class="participant_f65be"><span>Young Boys</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260182429/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260182429/" class="link_22724">+264</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.00</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.74</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.62</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Inter</span></div>
+                           <div class="participant_f65be"><span>Salzburg</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260153210/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153210/" class="link_22724">+171</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.38</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>5.10</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>8.10</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Galatasaray</span></div>
+                           <div class="participant_f65be"><span>Bayern Munich</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260153209/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153209/" class="link_22724">+182</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.45</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.33</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.70</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Benfica</span></div>
+                           <div class="participant_f65be"><span>Real Sociedad</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153216/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153216/" class="link_22724">+180</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.05</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.64</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.55</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Sevilla</span></div>
+                           <div class="participant_f65be"><span>Arsenal</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153212/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153212/" class="link_22724">+180</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.54</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.72</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.03</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Lens</span></div>
+                           <div class="participant_f65be"><span>PSV Eindhoven</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153213/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153213/" class="link_22724">+183</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.09</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.75</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.34</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Braga</span></div>
+                           <div class="participant_f65be"><span>Real Madrid</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153214/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153214/" class="link_22724">+177</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.95</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.30</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.64</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Union Berlin</span></div>
+                           <div class="participant_f65be"><span>Napoli</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153215/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153215/" class="link_22724">+183</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.13</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.65</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.22</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Manchester United</span></div>
+                           <div class="participant_f65be"><span>Copenhagen</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">24 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260153211/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260153211/" class="link_22724">+167</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.25</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>6.20</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>12.00</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div data-id="Tennis" title="Tenis" data-badge="" class="horizontal-sl-item-bc accordion-button   Tennis ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Tennis"></i>
-               <p class="horizontal-sl-title-bc">Tenis</p>
-               <span class="horizontal-sl-count-bc">124</span>
+            <div class="">
+               <div class="header_9c63e league-header_1a382">
+                  <div class="league-header-img-wrapper_7cd11"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452" style="transform: scale(0.714286);"></i></span></div>
+                  <div class="league-header-title_b27e0"><span>Futbol</span><span>Uluslararası (Kulüpler)</span><span>UEFA Avrupa Ligi</span></div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_16f54 active_60336">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               <div class="">
+                  <div class="header_4fe55">
+                     <div class="title_adf94 stretch_90181" style="width: 90px; padding-left: 16px;">Karşılaşma/Tari̇h</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">1</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">X</div>
+                     <div class="title_adf94 centered_d012d" style="width: 64px; padding-right: 16px;">2</div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">UEFA Europa League 2023/2024</div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260152112/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260152112/" class="link_22724">+16</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Freiburg</span></div>
+                           <div class="participant_f65be"><span>West Ham</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154523/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154523/" class="link_22724">+235</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.60</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.72</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.56</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>TSC Backa Topola</span></div>
+                           <div class="participant_f65be"><span>Olympiacos Pireus</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154524/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154524/" class="link_22724">+226</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>5.45</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.25</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.60</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Marseille</span></div>
+                           <div class="participant_f65be"><span>Brighton</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154525/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154525/" class="link_22724">+234</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.98</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.90</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.44</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>AEK Athens</span></div>
+                           <div class="participant_f65be"><span>Ajax</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154526/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154526/" class="link_22724">+232</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.18</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.68</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.18</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Betis</span></div>
+                           <div class="participant_f65be"><span>Sparta Prague</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154527/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154527/" class="link_22724">+230</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.75</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.10</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.40</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Aris Limassol</span></div>
+                           <div class="participant_f65be"><span>Rangers</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154528/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154528/" class="link_22724">+229</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.00</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.86</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.87</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Sporting</span></div>
+                           <div class="participant_f65be"><span>Atalanta</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154529/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154529/" class="link_22724">+233</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.33</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.66</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.34</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>RKS Rakow Czestochowa</span></div>
+                           <div class="participant_f65be"><span>Sturm Graz</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154530/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154530/" class="link_22724">+230</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.47</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.34</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.94</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Liverpool</span></div>
+                           <div class="participant_f65be"><span>Union Saint-Gilloise</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154531/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154531/" class="link_22724">+220</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.22</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>6.95</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>12.50</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Toulouse</span></div>
+                           <div class="participant_f65be"><span>LASK Linz</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154532/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154532/" class="link_22724">+227</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.82</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.88</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.25</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Villarreal</span></div>
+                           <div class="participant_f65be"><span>Rennes</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154533/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154533/" class="link_22724">+229</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.06</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.60</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.55</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Maccabi Haifa</span></div>
+                           <div class="participant_f65be"><span>Panathinaikos Athens</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154534/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154534/" class="link_22724">+229</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.35</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.35</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.13</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Roma</span></div>
+                           <div class="participant_f65be"><span>Servette Geneve</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154535/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154535/" class="link_22724">+207</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.17</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>7.60</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>17.25</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>SK Slavia Prague</span></div>
+                           <div class="participant_f65be"><span>Sheriff Tiraspol</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154536/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154536/" class="link_22724">+220</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.41</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.90</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>7.60</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Molde</span></div>
+                           <div class="participant_f65be"><span>Bayer Leverkusen</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154537/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154537/" class="link_22724">+225</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>6.75</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>5.20</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.42</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Hacken</span></div>
+                           <div class="participant_f65be"><span>Qarabag</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154538/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154538/" class="link_22724">+234</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.46</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.54</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.82</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div data-id="Volleyball" title="Voleybol " data-badge="" class="horizontal-sl-item-bc accordion-button   Volleyball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Volleyball"></i>
-               <p class="horizontal-sl-title-bc">Voleybol </p>
-               <span class="horizontal-sl-count-bc">49</span>
+            <div class="">
+               <div class="header_9c63e league-header_1a382">
+                  <div class="league-header-img-wrapper_7cd11"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452" style="transform: scale(0.714286);"></i></span></div>
+                  <div class="league-header-title_b27e0"><span>Futbol</span><span>Uluslararası (Kulüpler)</span><span>UEFA Avrupa Konferans Ligi</span></div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_16f54 active_60336">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               <div class="">
+                  <div class="header_4fe55">
+                     <div class="title_adf94 stretch_90181" style="width: 90px; padding-left: 16px;">Karşılaşma/Tari̇h</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">1</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">X</div>
+                     <div class="title_adf94 centered_d012d" style="width: 64px; padding-right: 16px;">2</div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">UEFA Europa Conference League 2023/2024</div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 17:30</span>
+                           <a href="/tr/prelive/260152111/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260152111/" class="link_22724">+9</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button disabled="" class="outcome_ae676 lock_6e4fc">
+                                 <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16" fill="none">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C4.70457 0 2.84375 1.81474 2.84375 4.05333V4.11324C1.22443 4.4128 0 5.80029 0 7.46667V12.5867C0 14.4718 1.567 16 3.5 16H10.5C12.433 16 14 14.4718 14 12.5867V7.46667C14 5.80029 12.7755 4.4128 11.1562 4.11324V4.05333C11.1562 1.81474 9.29548 0 7 0ZM9.84375 4.05333C9.84375 2.52166 8.57054 1.28 7 1.28C5.42946 1.28 4.15625 2.52166 4.15625 4.05333H9.84375ZM8.75 10.0267C8.75 10.9693 7.96653 11.7333 7 11.7333C6.03347 11.7333 5.25 10.9693 5.25 10.0267C5.25 9.08407 6.03347 8.32 7 8.32C7.96653 8.32 8.75 9.08407 8.75 10.0267Z" fill="currentColor"></path>
+                                    </svg>
+                                 </div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>FC Astana</span></div>
+                           <div class="participant_f65be"><span>Viktoria Plzen</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 17:30</span>
+                           <a href="/tr/prelive/260154619/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154619/" class="link_22724">+183</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.28</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.58</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.09</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>NK Olimpija Ljubljana</span></div>
+                           <div class="participant_f65be"><span>Slovan Bratislava</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154620/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154620/" class="link_22724">+183</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.32</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.48</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.91</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>KI Klaksvik</span></div>
+                           <div class="participant_f65be"><span>Lille</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154621/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154621/" class="link_22724">+170</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>7.80</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>5.05</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.36</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Breidablik Kopavogur</span></div>
+                           <div class="participant_f65be"><span>Zorya Luhansk</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154622/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154622/" class="link_22724">+183</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.89</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.64</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.27</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>KAA Gent</span></div>
+                           <div class="participant_f65be"><span>Maccabi Tel Aviv</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154623/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154623/" class="link_22724">+176</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.75</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.92</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.25</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Ballkani</span></div>
+                           <div class="participant_f65be"><span>Dinamo Zagreb</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154624/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154624/" class="link_22724">+178</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.55</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.05</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.68</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Bodo/Glimt</span></div>
+                           <div class="participant_f65be"><span>Club Brugge</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154625/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154625/" class="link_22724">+185</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.59</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.64</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.49</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Besiktas</span></div>
+                           <div class="participant_f65be"><span>FC Lugano</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:45</span>
+                           <a href="/tr/prelive/260154626/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154626/" class="link_22724">+170</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.37</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>5.00</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>7.60</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>AZ Alkmaar</span></div>
+                           <div class="participant_f65be"><span>Legia Warszawa</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154627/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154627/" class="link_22724">+177</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.63</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.15</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.85</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Aston Villa</span></div>
+                           <div class="participant_f65be"><span>Zrinjski Mostar</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154628/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154628/" class="link_22724">+151</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.09</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>9.40</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>24.00</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Fiorentina</span></div>
+                           <div class="participant_f65be"><span>Ferencvarosi TC</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154629/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154629/" class="link_22724">+170</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.43</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.70</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>6.65</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Cukaricki</span></div>
+                           <div class="participant_f65be"><span>KRC Genk</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154630/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154630/" class="link_22724">+176</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.90</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.30</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.60</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>PAOK Thessaloniki</span></div>
+                           <div class="participant_f65be"><span>Eintracht Frankfurt</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154631/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154631/" class="link_22724">+184</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.78</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.40</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.45</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Aberdeen FC</span></div>
+                           <div class="participant_f65be"><span>HJK Helsinki</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154632/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154632/" class="link_22724">+176</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.83</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.72</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.05</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Nordsjaelland</span></div>
+                           <div class="participant_f65be"><span>Ludogorets</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154633/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154633/" class="link_22724">+177</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.72</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.95</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.40</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Spartak Trnava</span></div>
+                           <div class="participant_f65be"><span>Fenerbahce</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 22:00</span>
+                           <a href="/tr/prelive/260154634/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154634/" class="link_22724">+170</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>6.15</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.65</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.46</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div data-id="IceHockey" title="Buz hokeyi" data-badge="" class="horizontal-sl-item-bc accordion-button   IceHockey ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-IceHockey"></i>
-               <p class="horizontal-sl-title-bc">Buz hokeyi</p>
-               <span class="horizontal-sl-count-bc">184</span>
+            <div class="">
+               <div class="header_9c63e league-header_1a382">
+                  <div class="league-header-img-wrapper_7cd11"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452" style="transform: scale(0.714286);"></i></span></div>
+                  <div class="league-header-title_b27e0"><span>Futbol</span><span>Uluslararası (Kulüpler)</span><span>Copa Sudamericana</span></div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_16f54 active_60336">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               <div class="">
+                  <div class="header_4fe55">
+                     <div class="title_adf94 stretch_90181" style="width: 90px; padding-left: 16px;">Karşılaşma/Tari̇h</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">1</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">X</div>
+                     <div class="title_adf94 centered_d012d" style="width: 64px; padding-right: 16px;">2</div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Defensa Y Justicia</span></div>
+                           <div class="participant_f65be"><span>LDU Quito</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 01:00</span>
+                           <a href="/tr/prelive/260154700/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154700/" class="link_22724">+245</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.79</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.70</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.30</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div data-id="TableTennis" title="Masa Tenisi" data-badge="" class="horizontal-sl-item-bc accordion-button   TableTennis ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-TableTennis"></i>
-               <p class="horizontal-sl-title-bc">Masa Tenisi</p>
-               <span class="horizontal-sl-count-bc">320</span>
+            <div class="">
+               <div class="header_9c63e league-header_1a382">
+                  <div class="league-header-img-wrapper_7cd11"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452" style="transform: scale(0.714286);"></i></span></div>
+                  <div class="league-header-title_b27e0"><span>Futbol</span><span>Uluslararası (Kulüpler)</span><span>AFC Kupası</span></div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_16f54 active_60336">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               <div class="">
+                  <div class="header_4fe55">
+                     <div class="title_adf94 stretch_90181" style="width: 90px; padding-left: 16px;">Karşılaşma/Tari̇h</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">1</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">X</div>
+                     <div class="title_adf94 centered_d012d" style="width: 64px; padding-right: 16px;">2</div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Bali United</span></div>
+                           <div class="participant_f65be"><span>Terengganu</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 15:00</span>
+                           <a href="/tr/prelive/260154704/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260154704/" class="link_22724">+136</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.92</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.78</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.48</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Macarthur FC</span></div>
+                           <div class="participant_f65be"><span>Cebu FC</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 11:00</span>
+                           <a href="/tr/prelive/260155964/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155964/" class="link_22724">+120</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.14</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>7.40</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>16.50</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Phnom Penh Crown</span></div>
+                           <div class="participant_f65be"><span>Shan United FC</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 15:00</span>
+                           <a href="/tr/prelive/260155966/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155966/" class="link_22724">+135</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.82</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.85</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.80</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Tainan City</span></div>
+                           <div class="participant_f65be"><span>Chao Pak Kei</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 15:00</span>
+                           <a href="/tr/prelive/260155971/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155971/" class="link_22724">+136</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.66</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.92</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.65</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>PSM Makassar</span></div>
+                           <div class="participant_f65be"><span>Sabah Baku</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 15:00</span>
+                           <a href="/tr/prelive/260155967/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155967/" class="link_22724">+133</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.90</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.52</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.82</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Hougang United FC</span></div>
+                           <div class="participant_f65be"><span>Vicem Hai Phong</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 15:00</span>
+                           <a href="/tr/prelive/260155968/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155968/" class="link_22724">+135</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.85</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>4.15</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>1.60</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Merw Mary</span></div>
+                           <div class="participant_f65be"><span>Abdish-Ata</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 15:00</span>
+                           <a href="/tr/prelive/260155969/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155969/" class="link_22724">+137</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.24</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.56</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.07</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Altyn Asyr FK</span></div>
+                           <div class="participant_f65be"><span>FC Ravshan</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">05 Eki</span><span class="mr12 time_c5112 ">, 19:00</span>
+                           <a href="/tr/prelive/260155972/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260155972/" class="link_22724">+138</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.78</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.46</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.36</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div data-id="AmericanFootball" title="Amerikan Futbolu" data-badge="" class="horizontal-sl-item-bc accordion-button   AmericanFootball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-AmericanFootball"></i>
-               <p class="horizontal-sl-title-bc">Amerikan Futbolu</p>
-               <span class="horizontal-sl-count-bc">67</span>
+            <div class="">
+               <div class="header_9c63e league-header_1a382">
+                  <div class="league-header-img-wrapper_7cd11"><span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452" style="transform: scale(0.714286);"></i></span></div>
+                  <div class="league-header-title_b27e0"><span>Futbol</span><span>Uluslararası (Kulüpler)</span><span>Kulüpler Arası Hazırlık Maçları</span></div>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="arrow-icon_16f54 active_60336">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </div>
+               <div class="">
+                  <div class="header_4fe55">
+                     <div class="title_adf94 stretch_90181" style="width: 90px; padding-left: 16px;">Karşılaşma/Tari̇h</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">1</div>
+                     <div class="title_adf94 centered_d012d" style="width: 52px; padding-right: 4px;">X</div>
+                     <div class="title_adf94 centered_d012d" style="width: 64px; padding-right: 16px;">2</div>
+                  </div>
+                  <div class="event-row_a4f38">
+                     <div class="">
+                        <div class="participants_eccbb">
+                           <div class="participant_f65be"><span>Perth Glory</span></div>
+                           <div class="participant_f65be"><span>Melbourne Victory FC</span></div>
+                        </div>
+                        <div class="df aife jcfs">
+                           <span class="time_c5112 ">04 Eki</span><span class="mr12 time_c5112 ">, 14:00</span>
+                           <a href="/tr/prelive/260204072/">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="event-row-icon_306bb">
+                                 <path d="M8.80001 4.8C8.80001 4.35818 8.44185 4 8.00001 4C7.55817 4 7.20001 4.35818 7.20001 4.8V11.2C7.20001 11.6418 7.55817 12 8.00001 12C8.44185 12 8.80001 11.6418 8.80001 11.2V4.8Z" fill="currentColor"></path>
+                                 <path d="M11.2 8.80078C11.6419 8.80078 12 9.15894 12 9.60078V11.2008C12 11.6426 11.6419 12.0008 11.2 12.0008C10.7582 12.0008 10.4 11.6426 10.4 11.2008V9.60078C10.4 9.15894 10.7582 8.80078 11.2 8.80078Z" fill="currentColor"></path>
+                                 <path d="M5.6 7.20039C5.6 6.75855 5.24182 6.40039 4.8 6.40039C4.35818 6.40039 4 6.75855 4 7.20039V11.2004C4 11.6422 4.35818 12.0004 4.8 12.0004C5.24182 12.0004 5.6 11.6422 5.6 11.2004V7.20039Z" fill="currentColor"></path>
+                                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V12C0 14.2091 1.79086 16 4 16H12C14.2091 16 16 14.2091 16 12V4C16 1.79086 14.2091 0 12 0H4ZM1.6 4C1.6 2.67452 2.67452 1.6 4 1.6H12C13.3255 1.6 14.4 2.67452 14.4 4V12C14.4 13.3255 13.3255 14.4 12 14.4H4C2.67452 14.4 1.6 13.3255 1.6 12V4Z" fill="currentColor"></path>
+                              </svg>
+                           </a>
+                           <div>
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none" class="event-row-icon_306bb">
+                                 <g clip-path="url(#clip0_301_18745)">
+                                    <path d="M4.81785 1.2878C5.79526 1.30738 6.74731 1.74185 7.42975 2.89509C7.68333 3.32283 8.31628 3.32283 8.57087 2.89509C9.25352 1.74205 10.2056 1.30758 11.1828 1.2878C12.1602 1.26702 13.1607 1.71653 13.7778 2.43985C14.9687 3.83723 15.1208 6.27924 13.3774 7.99L8.00021 12.5084L2.62223 7.99C0.879809 6.27943 1.03094 3.83723 2.22278 2.43985C2.8399 1.71653 3.84044 1.26702 4.81785 1.2878ZM4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91552 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91552 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <a href="/tr/prelive/260204072/" class="link_22724">+68</a>
+                        </div>
+                     </div>
+                     <div class="df">
+                        <div class="market_f0365">
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.14</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>3.60</span></div>
+                              </button>
+                           </div>
+                           <div class="outcome-column_4e9f5">
+                              <button class="outcome_ae676">
+                                 <div><span>2.80</span></div>
+                              </button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
-            <div data-id="AustralianFootball" title="Avustralya Futbolu" data-badge="" class="horizontal-sl-item-bc accordion-button   AustralianFootball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-AustralianFootball"></i>
-               <p class="horizontal-sl-title-bc">Avustralya Futbolu</p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="Baseball" title="Beyzbol " data-badge="" class="horizontal-sl-item-bc accordion-button   Baseball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Baseball"></i>
-               <p class="horizontal-sl-title-bc">Beyzbol </p>
-               <span class="horizontal-sl-count-bc">17</span>
-            </div>
-            <div data-id="Biathlon" title="Biatlon " data-badge="" class="horizontal-sl-item-bc accordion-button   Biathlon ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Biathlon"></i>
-               <p class="horizontal-sl-title-bc">Biatlon </p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="Boxing" title="Boks " data-badge="" class="horizontal-sl-item-bc accordion-button   Boxing ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Boxing"></i>
-               <p class="horizontal-sl-title-bc">Boks </p>
-               <span class="horizontal-sl-count-bc">40</span>
-            </div>
-            <div data-id="3x3Basketball" title="3x3 Basketbol" data-badge="" class="horizontal-sl-item-bc accordion-button   3x3Basketball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-3x3Basketball"></i>
-               <p class="horizontal-sl-title-bc">3x3 Basketbol</p>
-               <span class="horizontal-sl-count-bc">14</span>
-            </div>
-            <div data-id="BallHockey" title="Bandy " data-badge="" class="horizontal-sl-item-bc accordion-button   BallHockey ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-BallHockey"></i>
-               <p class="horizontal-sl-title-bc">Bandy </p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="Badminton" title="Badminton " data-badge="" class="horizontal-sl-item-bc accordion-button   Badminton ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Badminton"></i>
-               <p class="horizontal-sl-title-bc">Badminton </p>
-               <span class="horizontal-sl-count-bc">20</span>
-            </div>
-            <div data-id="Cricket" title="Kriket" data-badge="" class="horizontal-sl-item-bc accordion-button   Cricket ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Cricket"></i>
-               <p class="horizontal-sl-title-bc">Kriket</p>
-               <span class="horizontal-sl-count-bc">22</span>
-            </div>
-            <div data-id="Cycling" title="Bisiklet Yarışı" data-badge="" class="horizontal-sl-item-bc accordion-button   Cycling ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Cycling"></i>
-               <p class="horizontal-sl-title-bc">Bisiklet Yarışı</p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="Darts" title="Dart " data-badge="" class="horizontal-sl-item-bc accordion-button   Darts ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Darts"></i>
-               <p class="horizontal-sl-title-bc">Dart </p>
-               <span class="horizontal-sl-count-bc">33</span>
-            </div>
-            <div data-id="Formula1" title="Formula 1 " data-badge="" class="horizontal-sl-item-bc accordion-button   Formula1 ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Formula1"></i>
-               <p class="horizontal-sl-title-bc">Formula 1 </p>
-               <span class="horizontal-sl-count-bc">3</span>
-            </div>
-            <div data-id="Floorball" title="Florbol" data-badge="" class="horizontal-sl-item-bc accordion-button   Floorball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Floorball"></i>
-               <p class="horizontal-sl-title-bc">Florbol</p>
-               <span class="horizontal-sl-count-bc">26</span>
-            </div>
-            <div data-id="Futsal" title="Futsal " data-badge="" class="horizontal-sl-item-bc accordion-button   Futsal ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Futsal"></i>
-               <p class="horizontal-sl-title-bc">Futsal </p>
-               <span class="horizontal-sl-count-bc">22</span>
-            </div>
-            <div data-id="Golf" title="Golf " data-badge="" class="horizontal-sl-item-bc accordion-button   Golf ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Golf"></i>
-               <p class="horizontal-sl-title-bc">Golf </p>
-               <span class="horizontal-sl-count-bc">7</span>
-            </div>
-            <div data-id="GaelicFootball" title="Gal futbolu  " data-badge="" class="horizontal-sl-item-bc accordion-button   GaelicFootball ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-GaelicFootball"></i>
-               <p class="horizontal-sl-title-bc">Gal futbolu  </p>
-               <span class="horizontal-sl-count-bc">2</span>
-            </div>
-            <div data-id="Halo" title="Halo " data-badge="" class="horizontal-sl-item-bc accordion-button   Halo ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Halo"></i>
-               <p class="horizontal-sl-title-bc">Halo </p>
-               <span class="horizontal-sl-count-bc">25</span>
-            </div>
-            <div data-id="Mma" title="MMA " data-badge="" class="horizontal-sl-item-bc accordion-button   Mma ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Mma"></i>
-               <p class="horizontal-sl-title-bc">MMA </p>
-               <span class="horizontal-sl-count-bc">95</span>
-            </div>
-            <div data-id="Nascar" title="NASCAR " data-badge="" class="horizontal-sl-item-bc accordion-button   Nascar ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Nascar"></i>
-               <p class="horizontal-sl-title-bc">NASCAR </p>
-               <span class="horizontal-sl-count-bc">2</span>
-            </div>
-            <div data-id="SpecialBets" title="Özel Bahisler" data-badge="" class="horizontal-sl-item-bc accordion-button   SpecialBets ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-SpecialBets"></i>
-               <p class="horizontal-sl-title-bc">Özel Bahisler</p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="Politics" title="Politika" data-badge="" class="horizontal-sl-item-bc accordion-button   Politics ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Politics"></i>
-               <p class="horizontal-sl-title-bc">Politika</p>
-               <span class="horizontal-sl-count-bc">5</span>
-            </div>
-            <div data-id="RugbyLeague" title="Rugby Ligi" data-badge="" class="horizontal-sl-item-bc accordion-button   RugbyLeague ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-RugbyLeague"></i>
-               <p class="horizontal-sl-title-bc">Rugby Ligi</p>
-               <span class="horizontal-sl-count-bc">8</span>
-            </div>
-            <div data-id="RugbyUnion" title="Rugby Union" data-badge="" class="horizontal-sl-item-bc accordion-button   RugbyUnion ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-RugbyUnion"></i>
-               <p class="horizontal-sl-title-bc">Rugby Union</p>
-               <span class="horizontal-sl-count-bc">27</span>
-            </div>
-            <div data-id="Snooker" title="Snooker " data-badge="" class="horizontal-sl-item-bc accordion-button   Snooker ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Snooker"></i>
-               <p class="horizontal-sl-title-bc">Snooker </p>
-               <span class="horizontal-sl-count-bc">5</span>
-            </div>
-            <div data-id="WaterPolo" title="Su Topu" data-badge="" class="horizontal-sl-item-bc accordion-button   WaterPolo ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-WaterPolo"></i>
-               <p class="horizontal-sl-title-bc">Su Topu</p>
-               <span class="horizontal-sl-count-bc">7</span>
-            </div>
-            <div data-id="Kabaddi" title="Kabaddi " data-badge="" class="horizontal-sl-item-bc accordion-button   Kabaddi ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Kabaddi"></i>
-               <p class="horizontal-sl-title-bc">Kabaddi </p>
-               <span class="horizontal-sl-count-bc">4</span>
-            </div>
-            <div data-id="Triathlon" title="Triatlon" data-badge="" class="horizontal-sl-item-bc accordion-button   Triathlon ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Triathlon"></i>
-               <p class="horizontal-sl-title-bc">Triatlon</p>
-               <span class="horizontal-sl-count-bc">2</span>
-            </div>
-            <div data-id="CounterStrike" title="Counter-Strike: GO" data-badge="" class="horizontal-sl-item-bc accordion-button   CounterStrike ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-CounterStrike"></i>
-               <p class="horizontal-sl-title-bc">Counter-Strike: GO</p>
-               <span class="horizontal-sl-count-bc">40</span>
-            </div>
-            <div data-id="Dota2" title="Dota 2" data-badge="" class="horizontal-sl-item-bc accordion-button   Dota2 ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Dota2"></i>
-               <p class="horizontal-sl-title-bc">Dota 2</p>
-               <span class="horizontal-sl-count-bc">11</span>
-            </div>
-            <div data-id="LeagueOfLegends" title="League of Legends" data-badge="" class="horizontal-sl-item-bc accordion-button   LeagueOfLegends ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-LeagueOfLegends"></i>
-               <p class="horizontal-sl-title-bc">League of Legends</p>
-               <span class="horizontal-sl-count-bc">6</span>
-            </div>
-            <div data-id="Valorant" title="Valorant" data-badge="" class="horizontal-sl-item-bc accordion-button   Valorant ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-Valorant"></i>
-               <p class="horizontal-sl-title-bc">Valorant</p>
-               <span class="horizontal-sl-count-bc">12</span>
-            </div>
-            <div data-id="RainbowSix" title="Rainbow Six" data-badge="" class="horizontal-sl-item-bc accordion-button   RainbowSix ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-RainbowSix"></i>
-               <p class="horizontal-sl-title-bc">Rainbow Six</p>
-               <span class="horizontal-sl-count-bc">9</span>
-            </div>
-            <div data-id="StarCraft" title="StarCraft" data-badge="" class="horizontal-sl-item-bc accordion-button   StarCraft ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-StarCraft"></i>
-               <p class="horizontal-sl-title-bc">StarCraft</p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="StarCraft2" title="StarCraft 2" data-badge="" class="horizontal-sl-item-bc accordion-button   StarCraft2 ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-StarCraft2"></i>
-               <p class="horizontal-sl-title-bc">StarCraft 2</p>
-               <span class="horizontal-sl-count-bc">11</span>
-            </div>
-            <div data-id="CrossFire" title="CrossFire " data-badge="" class="horizontal-sl-item-bc accordion-button   CrossFire ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-CrossFire"></i>
-               <p class="horizontal-sl-title-bc">CrossFire </p>
-               <span class="horizontal-sl-count-bc">11</span>
-            </div>
-            <div data-id="KingOfGlory" title="King of Glory" data-badge="" class="horizontal-sl-item-bc accordion-button   KingOfGlory ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-KingOfGlory"></i>
-               <p class="horizontal-sl-title-bc">King of Glory</p>
-               <span class="horizontal-sl-count-bc">1</span>
-            </div>
-            <div data-id="WarcraftIII" title="Warcraft III" data-badge="" class="horizontal-sl-item-bc accordion-button   WarcraftIII ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-WarcraftIII"></i>
-               <p class="horizontal-sl-title-bc">Warcraft III</p>
-               <span class="horizontal-sl-count-bc">4</span>
-            </div>
-            <div data-id="ArenaofValor" title="Arena of Valor" data-badge="" class="horizontal-sl-item-bc accordion-button   ArenaofValor ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-ArenaofValor"></i>
-               <p class="horizontal-sl-title-bc">Arena of Valor</p>
-               <span class="horizontal-sl-count-bc">10</span>
-            </div>
-            <div data-id="MobileLegends" title="Mobile Legends" data-badge="" class="horizontal-sl-item-bc accordion-button   MobileLegends ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-MobileLegends"></i>
-               <p class="horizontal-sl-title-bc">Mobile Legends</p>
-               <span class="horizontal-sl-count-bc">11</span>
-            </div>
-            <div data-id="AgeofEmpires" title="Age of Empires" data-badge="" class="horizontal-sl-item-bc accordion-button   AgeofEmpires ">
-               <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-AgeofEmpires"></i>
-               <p class="horizontal-sl-title-bc">Age of Empires</p>
-               <span class="horizontal-sl-count-bc">2</span>
+            <div class="show-more-btn-wrapper_46538">
+               <button class="show-more-btn_19332">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+                  Daha Fazla Göster
+                  <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6">
+                     <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                  </svg>
+               </button>
             </div>
          </div>
       </div>
-      <div class="pp-sport-list-holder-bc">
-         <div class="left-menu-scroll">
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Dünya">
-                  <i class="sp-s-l-h-flag-bc flag-bc world"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Dünya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">16</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Avrupa">
-                  <i class="sp-s-l-h-flag-bc flag-bc europe"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Avrupa</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">76</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İngiltere">
-                  <i class="sp-s-l-h-flag-bc flag-bc england"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İngiltere</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">176</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İspanya">
-                  <i class="sp-s-l-h-flag-bc flag-bc spain"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İspanya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">182</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Almanya">
-                  <i class="sp-s-l-h-flag-bc flag-bc germany"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Almanya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">126</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İtalya">
-                  <i class="sp-s-l-h-flag-bc flag-bc italy"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İtalya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">111</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Fransa">
-                  <i class="sp-s-l-h-flag-bc flag-bc france"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Fransa</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">54</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Hollanda">
-                  <i class="sp-s-l-h-flag-bc flag-bc netherlands"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Hollanda</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">39</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Rusya">
-                  <i class="sp-s-l-h-flag-bc flag-bc russia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Rusya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">23</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Portekiz">
-                  <i class="sp-s-l-h-flag-bc flag-bc portugal"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Portekiz</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">41</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Avustralya">
-                  <i class="sp-s-l-h-flag-bc flag-bc australia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Avustralya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="ABD">
-                  <i class="sp-s-l-h-flag-bc flag-bc usa"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">ABD</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">34</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Güney Kore">
-                  <i class="sp-s-l-h-flag-bc flag-bc southkorea"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Güney Kore</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">9</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Çin">
-                  <i class="sp-s-l-h-flag-bc flag-bc china"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Çin</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Arjantin">
-                  <i class="sp-s-l-h-flag-bc flag-bc argentina"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Arjantin</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">34</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Brezilya">
-                  <i class="sp-s-l-h-flag-bc flag-bc brazil"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Brezilya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">36</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Türkiye">
-                  <i class="sp-s-l-h-flag-bc flag-bc turkey"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Türkiye</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">34</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Sırbistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc serbia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Sırbistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">11</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Ukrayna">
-                  <i class="sp-s-l-h-flag-bc flag-bc ukraine"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Ukrayna</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">23</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Afrika">
-                  <i class="sp-s-l-h-flag-bc flag-bc africa"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Afrika</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Cezayir">
-                  <i class="sp-s-l-h-flag-bc flag-bc algeria"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Cezayir</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Andorra ">
-                  <i class="sp-s-l-h-flag-bc flag-bc andorra"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Andorra </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Asya ">
-                  <i class="sp-s-l-h-flag-bc flag-bc asia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Asya </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">8</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Avusturya">
-                  <i class="sp-s-l-h-flag-bc flag-bc austria"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Avusturya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">29</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Azerbaycan">
-                  <i class="sp-s-l-h-flag-bc flag-bc azerbaijan"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Azerbaycan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Belarus">
-                  <i class="sp-s-l-h-flag-bc flag-bc belarus"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Belarus</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Belçika">
-                  <i class="sp-s-l-h-flag-bc flag-bc belgium"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Belçika</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">19</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Bosna Hersek">
-                  <i class="sp-s-l-h-flag-bc flag-bc bosniaherzegovina"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Bosna Hersek</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Bulgaristan">
-                  <i class="sp-s-l-h-flag-bc flag-bc bulgaria"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Bulgaristan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">8</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Burkina Faso ">
-                  <i class="sp-s-l-h-flag-bc flag-bc burkinafaso"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Burkina Faso </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kamboçya ">
-                  <i class="sp-s-l-h-flag-bc flag-bc cambodia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kamboçya </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kanada">
-                  <i class="sp-s-l-h-flag-bc flag-bc canada"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kanada</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Şili">
-                  <i class="sp-s-l-h-flag-bc flag-bc chile"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Şili</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">26</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kolombiya">
-                  <i class="sp-s-l-h-flag-bc flag-bc colombia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kolombiya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">15</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kosta Rika">
-                  <i class="sp-s-l-h-flag-bc flag-bc costarica"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kosta Rika</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Hırvatistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc croatia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Hırvatistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">18</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kıbrıs">
-                  <i class="sp-s-l-h-flag-bc flag-bc cyprus"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kıbrıs</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Çekya">
-                  <i class="sp-s-l-h-flag-bc flag-bc czechrepublic"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Çekya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">73</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Danimarka">
-                  <i class="sp-s-l-h-flag-bc flag-bc denmark"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Danimarka</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">37</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Ekvador">
-                  <i class="sp-s-l-h-flag-bc flag-bc ecuador"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Ekvador</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="El Salvador ">
-                  <i class="sp-s-l-h-flag-bc flag-bc elsalvador"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">El Salvador </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">8</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Estonya">
-                  <i class="sp-s-l-h-flag-bc flag-bc estonia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Estonya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Faroe Adaları">
-                  <i class="sp-s-l-h-flag-bc flag-bc faroeislands"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Faroe Adaları</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">5</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Finlandiya">
-                  <i class="sp-s-l-h-flag-bc flag-bc finland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Finlandiya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">42</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Gürcistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc georgia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Gürcistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Gana">
-                  <i class="sp-s-l-h-flag-bc flag-bc ghana"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Gana</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Cebelitarık">
-                  <i class="sp-s-l-h-flag-bc flag-bc gibraltar"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Cebelitarık</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Yunanistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc greece"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Yunanistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">20</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Guatemala ">
-                  <i class="sp-s-l-h-flag-bc flag-bc guatemala"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Guatemala </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Honduras ">
-                  <i class="sp-s-l-h-flag-bc flag-bc honduras"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Honduras </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title=" Hong Kong">
-                  <i class="sp-s-l-h-flag-bc flag-bc hongkong"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis"> Hong Kong</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Macaristan">
-                  <i class="sp-s-l-h-flag-bc flag-bc hungary"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Macaristan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">27</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İzlanda">
-                  <i class="sp-s-l-h-flag-bc flag-bc iceland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İzlanda</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">11</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Hindistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc india"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Hindistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Endonezya ">
-                  <i class="sp-s-l-h-flag-bc flag-bc indonesia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Endonezya </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">8</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İrlanda">
-                  <i class="sp-s-l-h-flag-bc flag-bc ireland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İrlanda</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">11</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İsrail ">
-                  <i class="sp-s-l-h-flag-bc flag-bc israel"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İsrail </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Japonya">
-                  <i class="sp-s-l-h-flag-bc flag-bc japan"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Japonya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">35</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kazakistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc kazakhstan"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kazakistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kenya ">
-                  <i class="sp-s-l-h-flag-bc flag-bc kenya"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kenya </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">11</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kosova">
-                  <i class="sp-s-l-h-flag-bc flag-bc kosovo"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kosova</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kuveyt">
-                  <i class="sp-s-l-h-flag-bc flag-bc kuwait"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kuveyt</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Letonya">
-                  <i class="sp-s-l-h-flag-bc flag-bc latvia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Letonya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Lübnan">
-                  <i class="sp-s-l-h-flag-bc flag-bc lebanon"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Lübnan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Liberya">
-                  <i class="sp-s-l-h-flag-bc flag-bc liberia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Liberya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Litvanya">
-                  <i class="sp-s-l-h-flag-bc flag-bc lithuania"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Litvanya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">5</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Malezya">
-                  <i class="sp-s-l-h-flag-bc flag-bc malaysia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Malezya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Malta ">
-                  <i class="sp-s-l-h-flag-bc flag-bc malta"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Malta </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">10</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Meksika">
-                  <i class="sp-s-l-h-flag-bc flag-bc mexico"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Meksika</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">32</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Fas">
-                  <i class="sp-s-l-h-flag-bc flag-bc morocco"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Fas</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Yeni Zelanda">
-                  <i class="sp-s-l-h-flag-bc flag-bc newzealand"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Yeni Zelanda</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Nijerya">
-                  <i class="sp-s-l-h-flag-bc flag-bc nigeria"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Nijerya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kuzey İrlanda">
-                  <i class="sp-s-l-h-flag-bc flag-bc northernireland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kuzey İrlanda</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">9</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Kuzey Makedonya">
-                  <i class="sp-s-l-h-flag-bc flag-bc northmacedonia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Kuzey Makedonya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
+      <div class="">
+         <div class="top-winners-header_ea53c">
+            <div class="top-winners-title_cf261">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" class="winners-icon_8acad">
+                  <path d="M17.1129 0H2.88708V1.17188H4.49763V7.00129C4.49959 9.99406 6.92958 12.458 9.92205 12.4995C12.9967 12.542 15.5024 10.0625 15.5024 6.99762V1.17188H17.1129V0Z" fill="currentColor"></path>
+                  <path d="M13.8094 17.4333C13.8094 16.7861 13.2848 16.2614 12.6375 16.2614H11.7188V13.4486C11.1615 13.597 10.5864 13.6724 10 13.6724C9.96885 13.6724 9.9371 13.6722 9.90584 13.6718C9.35229 13.6641 8.80881 13.5888 8.28127 13.4473V16.2614H7.36252C6.7153 16.2614 6.19065 16.7861 6.19065 17.4333V18.8287H4.49768V20.0005H15.5024V18.8287H13.8094V17.4333Z" fill="currentColor"></path>
+                  <path d="M16.6743 2.34375V3.51562H18.8281V6.15227C18.8281 7.61301 17.7535 8.82727 16.3533 9.04648C16.2934 9.23184 16.2257 9.41516 16.1493 9.59594C16.0537 9.82207 15.9459 10.0413 15.8271 10.2538H15.8984C18.16 10.2538 20 8.41387 20 6.15227V2.34375H16.6743Z" fill="currentColor"></path>
+                  <path d="M3.65 9.04707C2.2482 8.82926 1.17188 7.61418 1.17188 6.15227V3.51562H3.32574V2.34375H0V6.15227C0 8.41387 1.83996 10.2538 4.10156 10.2538H4.17926C4.05562 10.0337 3.94395 9.80645 3.84523 9.57203C3.77238 9.39914 3.70762 9.22402 3.65 9.04707Z" fill="currentColor"></path>
+               </svg>
+               <h3>En Yüksek Kazananlar!</h3>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Norveç ">
-                  <i class="sp-s-l-h-flag-bc flag-bc norway"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Norveç </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">53</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Filistin">
-                  <i class="sp-s-l-h-flag-bc flag-bc palestine"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Filistin</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Panama ">
-                  <i class="sp-s-l-h-flag-bc flag-bc panama"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Panama </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">8</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Paraguay ">
-                  <i class="sp-s-l-h-flag-bc flag-bc paraguay"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Paraguay </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Peru ">
-                  <i class="sp-s-l-h-flag-bc flag-bc peru"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Peru </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Filipinler">
-                  <i class="sp-s-l-h-flag-bc flag-bc philippines"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Filipinler</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Polonya">
-                  <i class="sp-s-l-h-flag-bc flag-bc poland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Polonya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">72</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Katar">
-                  <i class="sp-s-l-h-flag-bc flag-bc qatar"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Katar</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Romanya">
-                  <i class="sp-s-l-h-flag-bc flag-bc romania"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Romanya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">48</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Nikaragua">
-                  <i class="sp-s-l-h-flag-bc flag-bc nicaragua"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Nikaragua</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Ruanda">
-                  <i class="sp-s-l-h-flag-bc flag-bc rwanda"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Ruanda</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="San Marino ">
-                  <i class="sp-s-l-h-flag-bc flag-bc sanmarino"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">San Marino </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Suudi Arabistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc saudiarabia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Suudi Arabistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">15</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İskoçya">
-                  <i class="sp-s-l-h-flag-bc flag-bc scotland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İskoçya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">33</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Seyşeller">
-                  <i class="sp-s-l-h-flag-bc flag-bc seychelles"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Seyşeller</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Slovakya">
-                  <i class="sp-s-l-h-flag-bc flag-bc slovakia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Slovakya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">26</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Slovenya">
-                  <i class="sp-s-l-h-flag-bc flag-bc slovenia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Slovenya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">11</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Güney Afrika">
-                  <i class="sp-s-l-h-flag-bc flag-bc southafrica"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Güney Afrika</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">12</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Güney Amerika">
-                  <i class="sp-s-l-h-flag-bc flag-bc southamerica"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Güney Amerika</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">6</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İsveç">
-                  <i class="sp-s-l-h-flag-bc flag-bc sweden"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İsveç</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">66</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="İsviçre">
-                  <i class="sp-s-l-h-flag-bc flag-bc switzerland"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">İsviçre</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">19</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Tayland ">
-                  <i class="sp-s-l-h-flag-bc flag-bc thailand"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Tayland </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">23</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
-               </div>
+            <div class="winners-period-wrapper_8b206">
+               <div class="winners-period_41acf active_81a5f">Günlük</div>
+               <div class="winners-period_41acf">Haftalık</div>
+               <div class="winners-period_41acf">Ay</div>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Togo ">
-                  <i class="sp-s-l-h-flag-bc flag-bc togo"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Togo </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+         </div>
+         <div class="winners-content_dcb32">
+            <div class="sport-top-winners-item_9bbe6">
+               <div class="winner-img-container_9f346">
+                  <div class="place_81d6e">1</div>
                </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Uganda ">
-                  <i class="sp-s-l-h-flag-bc flag-bc uganda"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Uganda </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+               <div class="winner-info_73c48">
+                  <h4 class="winner-info__game_71978">MB90515187</h4>
+                  <div class="winner-info__text_07a42"><span>Emre U.</span><span class="winner-bet-amount_d54e5">28,000.00 TRY</span><span>win</span></div>
                </div>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Birleşik Arap Emirlikleri">
-                  <i class="sp-s-l-h-flag-bc flag-bc uae"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Birleşik Arap Emirlikleri</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">5</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+            <div class="sport-top-winners-item_9bbe6">
+               <div class="winner-img-container_9f346">
+                  <div class="place_81d6e">2</div>
                </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Tanzanya Birleşik Cumhuriyeti">
-                  <i class="sp-s-l-h-flag-bc flag-bc unitedrepublicoftanzania"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Tanzanya Birleşik Cumhuriyeti</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+               <div class="winner-info_73c48">
+                  <h4 class="winner-info__game_71978">MB91648961</h4>
+                  <div class="winner-info__text_07a42"><span>Umut D.</span><span class="winner-bet-amount_d54e5">24,358.90 TRY</span><span>win</span></div>
                </div>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Uruguay ">
-                  <i class="sp-s-l-h-flag-bc flag-bc uruguay"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Uruguay </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+            <div class="sport-top-winners-item_9bbe6">
+               <div class="winner-img-container_9f346">
+                  <div class="place_81d6e">3</div>
                </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Özbekistan">
-                  <i class="sp-s-l-h-flag-bc flag-bc uzbekistan"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Özbekistan</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+               <div class="winner-info_73c48">
+                  <h4 class="winner-info__game_71978">MB91447625</h4>
+                  <div class="winner-info__text_07a42"><span>Cankut Ö.</span><span class="winner-bet-amount_d54e5">19,399.20 TRY</span><span>win</span></div>
                </div>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Venezuela ">
-                  <i class="sp-s-l-h-flag-bc flag-bc venezuela"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Venezuela </p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">7</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+            <div class="sport-top-winners-item_9bbe6">
+               <div class="winner-img-container_9f346">
+                  <div class="place_81d6e">4</div>
                </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Galler">
-                  <i class="sp-s-l-h-flag-bc flag-bc wales"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Galler</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">8</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+               <div class="winner-info_73c48">
+                  <h4 class="winner-info__game_71978">MB93309630</h4>
+                  <div class="winner-info__text_07a42"><span>Suat D.</span><span class="winner-bet-amount_d54e5">17,115.80 TRY</span><span>win</span></div>
                </div>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Zambiya">
-                  <i class="sp-s-l-h-flag-bc flag-bc zambia"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Zambiya</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">4</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+            <div class="sport-top-winners-item_9bbe6">
+               <div class="winner-img-container_9f346">
+                  <div class="place_81d6e">5</div>
                </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Zimbabve">
-                  <i class="sp-s-l-h-flag-bc flag-bc zimbabwe"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Zimbabve</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">1</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+               <div class="winner-info_73c48">
+                  <h4 class="winner-info__game_71978">MB91078489</h4>
+                  <div class="winner-info__text_07a42"><span>Murat T.</span><span class="winner-bet-amount_d54e5">16,873.90 TRY</span><span>win</span></div>
                </div>
             </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title=" Zanzibar">
-                  <i class="sp-s-l-h-flag-bc flag-bc zanzibar"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis"> Zanzibar</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">2</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+            <div class="sport-top-winners-item_9bbe6">
+               <div class="winner-img-container_9f346">
+                  <div class="place_81d6e">6</div>
                </div>
-            </div>
-            <div class="sp-sub-list-bc   ">
-               <div class="sp-s-l-head-bc" title="Porto Riko">
-                  <i class="sp-s-l-h-flag-bc flag-bc puertorico"></i>
-                  <div class="sp-s-l-h-title-content ellipsis">
-                     <p class="sp-s-l-h-title-bc ellipsis">Porto Riko</p>
-                  </div>
-                  <span class="sp-s-l-b-c-i-g-league-c-bc">3</span><i class="sp-s-l-h-arrow-icon-bc bc-i-small-arrow-down"></i>
+               <div class="winner-info_73c48">
+                  <h4 class="winner-info__game_71978">MB90157153</h4>
+                  <div class="winner-info__text_07a42"><span>Hümmet Y.</span><span class="winner-bet-amount_d54e5">15,200.00 TRY</span><span>win</span></div>
                </div>
             </div>
          </div>
       </div>
    </div>
-   <div class="special-games-container"></div>
+   <div class="menu_97822">
+      <a href="/tr/registration/" class="item_33c28">
+         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+            <g clip-path="url(#clip0_1_41117)">
+               <path d="M12 3.7846C12 3.27367 11.8973 2.77853 11.6963 2.31066C11.5012 1.86001 11.2225 1.45528 10.8675 1.10797C10.5125 0.760651 10.0988 0.487965 9.63815 0.297084C9.16138 0.0990281 8.6538 0 8.13156 0C7.60931 0 7.1032 0.100463 6.62496 0.297084C6.16434 0.487965 5.75064 0.760651 5.39563 1.10797C5.04062 1.45528 4.76189 1.86001 4.56678 2.31066C4.36433 2.77709 4.26311 3.27367 4.26311 3.7846C4.26311 4.42326 4.42741 5.049 4.73988 5.60585L0.108606 10.1324C0.00151635 10.2372 -0.0322243 10.3965 0.03379 10.5472C0.0469929 10.5788 0.0689977 10.6075 0.0939365 10.6319L1.1311 11.6466C1.15603 11.6709 1.18537 11.6911 1.21765 11.7054C1.37168 11.77 1.53452 11.7384 1.64161 11.6322L2.28268 11.005L3.20542 11.9078C3.23035 11.9322 3.25969 11.9522 3.29195 11.9666C3.44599 12.0312 3.60884 11.9996 3.71591 11.8934L4.7384 10.8931C4.76334 10.8687 4.78388 10.84 4.79855 10.8084C4.86456 10.6577 4.83229 10.4984 4.72373 10.3936L3.81567 9.50526L6.26847 7.10419C6.83619 7.40989 7.47726 7.57063 8.13007 7.57063C8.65232 7.57063 9.15843 7.47016 9.63665 7.27354C10.0973 7.08266 10.511 6.80998 10.866 6.46266C11.221 6.11536 11.4997 5.71063 11.6949 5.25997C11.8973 4.79066 12 4.29552 12 3.7846ZM9.48707 5.11215C9.12472 5.46664 8.64207 5.66182 8.1301 5.66182C7.61813 5.66182 7.13547 5.46664 6.77314 5.11215C6.4108 4.75765 6.20982 4.28548 6.20982 3.7846C6.20982 3.28228 6.40933 2.81154 6.77167 2.45705C7.13402 2.10255 7.61667 1.90737 8.12864 1.90737C8.64062 1.90737 9.12325 2.10255 9.4856 2.45705C9.84795 2.81154 10.0475 3.28371 10.0475 3.7846C10.0504 4.28548 9.85086 4.75765 9.48707 5.11215Z" fill="#1FE1FF"></path>
+            </g>
+            <defs>
+               <clipPath id="clip0_1_41117">
+                  <rect width="12" height="12" fill="white"></rect>
+               </clipPath>
+            </defs>
+         </svg>
+         Kayıt Ol
+      </a>
+      <a href="/tr/login/" class="item_33c28">
+         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+            <g clip-path="url(#clip0_1_41123)">
+               <path d="M11.1818 4.9091H7.0909V0.818184C7.0909 0.366545 6.72435 0 6.27271 0H5.72729C5.27565 0 4.9091 0.366545 4.9091 0.818184V4.9091H0.818184C0.366545 4.9091 0 5.27565 0 5.72729V6.27271C0 6.72435 0.366545 7.0909 0.818184 7.0909H4.9091V11.1818C4.9091 11.6335 5.27565 12 5.72729 12H6.27271C6.72435 12 7.0909 11.6335 7.0909 11.1818V7.0909H11.1818C11.6335 7.0909 12 6.72435 12 6.27271V5.72729C12 5.27565 11.6335 4.9091 11.1818 4.9091Z" fill="#1FE1FF"></path>
+            </g>
+            <defs>
+               <clipPath id="clip0_1_41123">
+                  <rect width="12" height="12" fill="white"></rect>
+               </clipPath>
+            </defs>
+         </svg>
+         Giriş
+      </a>
+      <div class="center-block_b9f72">
+         <a href="/tr/cart/" class="center-item_b2c84 cart_2d802">
+            <span class="num_4ce68 cart_2d802">0</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8 cart_2d802">
+               <path d="M9.81818 0H2.18182C2.05111 0.00150488 1.9253 0.049896 1.82727 0.136364C2.21626 0.273219 2.55849 0.517505 2.81432 0.840909C3.07015 1.16431 3.22909 1.55359 3.27273 1.96364C3.28107 2.03612 3.28107 2.10933 3.27273 2.18182V11.4545C3.27247 11.5589 3.30214 11.6611 3.35821 11.7491C3.41428 11.837 3.49441 11.9071 3.58909 11.9509C3.68399 11.9946 3.78945 12.0101 3.89291 11.9956C3.99637 11.9811 4.0935 11.9372 4.17273 11.8691L5.72727 10.5382L7.28182 11.8691C7.38062 11.9536 7.50635 12 7.63636 12C7.76637 12 7.89211 11.9536 7.99091 11.8691L9.54545 10.5382L11.1 11.8691C11.1988 11.9536 11.3245 12 11.4545 12C11.5335 11.9994 11.6114 11.9827 11.6836 11.9509C11.7783 11.9071 11.8584 11.837 11.9145 11.7491C11.9706 11.6611 12.0003 11.5589 12 11.4545V2.18182C12 1.60316 11.7701 1.04821 11.361 0.63904C10.9518 0.229869 10.3968 0 9.81818 0ZM9.27273 7.63636H6C5.85534 7.63636 5.7166 7.57889 5.6143 7.4766C5.51201 7.37431 5.45454 7.23557 5.45454 7.09091C5.45454 6.94624 5.51201 6.80751 5.6143 6.70521C5.7166 6.60292 5.85534 6.54545 6 6.54545H9.27273C9.41739 6.54545 9.55613 6.60292 9.65842 6.70521C9.76071 6.80751 9.81818 6.94624 9.81818 7.09091C9.81818 7.23557 9.76071 7.37431 9.65842 7.4766C9.55613 7.57889 9.41739 7.63636 9.27273 7.63636ZM9.27273 5.45454H6C5.85534 5.45454 5.7166 5.39708 5.6143 5.29478C5.51201 5.19249 5.45454 5.05375 5.45454 4.90909C5.45454 4.76443 5.51201 4.62569 5.6143 4.5234C5.7166 4.4211 5.85534 4.36364 6 4.36364H9.27273C9.41739 4.36364 9.55613 4.4211 9.65842 4.5234C9.76071 4.62569 9.81818 4.76443 9.81818 4.90909C9.81818 5.05375 9.76071 5.19249 9.65842 5.29478C9.55613 5.39708 9.41739 5.45454 9.27273 5.45454ZM9.27273 3.27273H6C5.85534 3.27273 5.7166 3.21526 5.6143 3.11297C5.51201 3.01067 5.45454 2.87194 5.45454 2.72727C5.45454 2.58261 5.51201 2.44387 5.6143 2.34158C5.7166 2.23929 5.85534 2.18182 6 2.18182H9.27273C9.41739 2.18182 9.55613 2.23929 9.65842 2.34158C9.76071 2.44387 9.81818 2.58261 9.81818 2.72727C9.81818 2.87194 9.76071 3.01067 9.65842 3.11297C9.55613 3.21526 9.41739 3.27273 9.27273 3.27273ZM2.18182 2.18182V6.54545H0.545454C0.400791 6.54545 0.262052 6.48799 0.15976 6.38569C0.0574673 6.2834 0 6.14466 0 6V2.18182C0 2.10545 0 2.03454 0 1.96364C0.0289327 1.67431 0.171615 1.40833 0.396659 1.2242C0.621702 1.04007 0.910673 0.952885 1.2 0.981818C1.48933 1.01075 1.75531 1.15343 1.93944 1.37848C2.12356 1.60352 2.21075 1.89249 2.18182 2.18182Z" fill="#1FE1FF"></path>
+            </svg>
+            <div>Bahis Slip</div>
+         </a>
+      </div>
+      <a class="item_33c28">
+         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+            <g clip-path="url(#clip0_1_41139)">
+               <path d="M0.545898 10.3636C0.547193 10.7972 0.720012 11.2126 1.02661 11.5192C1.33321 11.8258 1.74867 11.9987 2.18226 12H5.45499V6.54541H0.545898V10.3636Z" fill="#1FE1FF"></path>
+               <path d="M6.5459 12H9.81863C10.2522 11.9987 10.6677 11.8258 10.9743 11.5192C11.2809 11.2126 11.4537 10.7972 11.455 10.3636V6.54541H6.5459V12Z" fill="#1FE1FF"></path>
+               <path d="M10.3636 2.18182H8.62909C8.69515 2.0076 8.72843 1.82268 8.72727 1.63636C8.72598 1.20277 8.55316 0.787308 8.24656 0.48071C7.93997 0.174113 7.5245 0.00129496 7.09091 0C6.68699 0.00105342 6.29799 0.152764 6 0.425455C5.70202 0.152764 5.31301 0.00105342 4.90909 0C4.4755 0.00129496 4.06004 0.174113 3.75344 0.48071C3.44684 0.787308 3.27402 1.20277 3.27273 1.63636C3.27157 1.82268 3.30485 2.0076 3.37091 2.18182H1.63636C1.20277 2.18311 0.787308 2.35593 0.48071 2.66253C0.174113 2.96913 0.00129496 3.38459 0 3.81818V4.90909C0 5.05375 0.0574673 5.19249 0.15976 5.29479C0.262052 5.39708 0.400791 5.45455 0.545455 5.45455H5.45455V2.18182H4.90909C4.80121 2.18182 4.69575 2.14983 4.60605 2.08989C4.51635 2.02996 4.44644 1.94477 4.40516 1.8451C4.36387 1.74543 4.35307 1.63576 4.37412 1.52995C4.39516 1.42414 4.44711 1.32695 4.5234 1.25067C4.59968 1.17439 4.69687 1.12244 4.80268 1.10139C4.90849 1.08034 5.01816 1.09115 5.11783 1.13243C5.2175 1.17371 5.30268 1.24363 5.36262 1.33333C5.42256 1.42303 5.45455 1.52848 5.45455 1.63636V2.18182H6.54545V1.63636C6.54545 1.52848 6.57745 1.42303 6.63738 1.33333C6.69732 1.24363 6.7825 1.17371 6.88217 1.13243C6.98184 1.09115 7.09151 1.08034 7.19732 1.10139C7.30313 1.12244 7.40032 1.17439 7.4766 1.25067C7.55289 1.32695 7.60484 1.42414 7.62588 1.52995C7.64693 1.63576 7.63613 1.74543 7.59484 1.8451C7.55356 1.94477 7.48365 2.02996 7.39395 2.08989C7.30425 2.14983 7.19879 2.18182 7.09091 2.18182H6.54545V5.45455H11.4545C11.5992 5.45455 11.7379 5.39708 11.8402 5.29479C11.9425 5.19249 12 5.05375 12 4.90909V3.81818C11.9987 3.38459 11.8259 2.96913 11.5193 2.66253C11.2127 2.35593 10.7972 2.18311 10.3636 2.18182Z" fill="#1FE1FF"></path>
+            </g>
+            <defs>
+               <clipPath id="clip0_1_41139">
+                  <rect width="12" height="12" fill="white"></rect>
+               </clipPath>
+            </defs>
+         </svg>
+         Bonus
+      </a>
+      <a class="item_33c28">
+         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+            <g clip-path="url(#clip0_1_41144)">
+               <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3817 5.3629H10.1107V3.69224C10.1107 1.65639 8.51925 0 6.56348 0H5.43652C3.4807 0 1.88934 1.65634 1.88934 3.69224V5.36302H1.61845C1.1894 5.36353 0.778062 5.54114 0.474656 5.85689C0.171251 6.17263 0.000552055 6.60073 0 7.04729L0 8.47676C0.000508682 8.92334 0.171191 9.35148 0.474603 9.66724C0.778015 9.98301 1.18938 10.1606 1.61845 10.1611H2.35807C2.41963 10.1611 2.4806 10.1485 2.53748 10.124C2.59436 10.0995 2.64604 10.0636 2.68957 10.0183C2.73311 9.97297 2.76763 9.91918 2.79118 9.85998C2.81473 9.80078 2.82684 9.73732 2.82682 9.67325V3.69224C2.82756 2.97207 3.10274 2.28161 3.59198 1.77233C4.08122 1.26306 4.74458 0.976556 5.43652 0.975677H6.56348C7.25543 0.976549 7.91879 1.26305 8.40804 1.77232C8.89729 2.2816 9.17248 2.97206 9.17323 3.69224V10.2529C9.17303 10.4575 9.09488 10.6536 8.95592 10.7982C8.81696 10.9428 8.62854 11.0241 8.43204 11.0243H6C5.87568 11.0243 5.75645 11.0757 5.66854 11.1671C5.58064 11.2586 5.53125 11.3827 5.53125 11.5121C5.53125 11.6415 5.58064 11.7656 5.66854 11.8571C5.75645 11.9486 5.87568 12 6 12H8.43204C8.87708 11.9995 9.30376 11.8153 9.61845 11.4877C9.93315 11.1602 10.1102 10.7161 10.1107 10.2529V10.1612H10.3817C10.8107 10.1607 11.2221 9.98304 11.5255 9.66725C11.8289 9.35147 11.9995 8.92332 12 8.47674V7.04726C11.9995 6.6007 11.8288 6.17259 11.5254 5.85683C11.222 5.54106 10.8107 5.36343 10.3817 5.3629Z" fill="#1FE1FF"></path>
+            </g>
+            <defs>
+               <clipPath id="clip0_1_41144">
+                  <rect width="12" height="12" fill="white"></rect>
+               </clipPath>
+            </defs>
+         </svg>
+         Canlı Destek
+      </a>
+   </div>
 </div>

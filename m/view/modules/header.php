@@ -83,7 +83,7 @@ div:where(.swal2-icon).swal2-warning {
                         <path fill="#ffffff" d="M25.7,12.3l-1.1,5.8h15.6s.9,0,.9,0l2.2-5.8H25.7Zm4.4,14.3h8.1l2.2-5.7H24l-2.8,14.5h16.8l2.2-5.8h-10.8l.6-3Z"></path>
                      </svg>
                   </a>
-                  <button class="button-container_dbd2d">
+                  <button class="button-container_dbd2d"  onclick="opensidebar()">
                      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="button-icon_4eaff">
                         <path d="M11.6924 1.79254C12.1025 1.38246 12.1025 0.717619 11.6924 0.307557C11.2824 -0.102519 10.6175 -0.102519 10.2074 0.307557L5.99996 4.51496L1.79255 0.307557C1.38248 -0.102519 0.717633 -0.102519 0.307571 0.307557C-0.102505 0.717619 -0.102505 1.38246 0.307571 1.79254L4.51507 5.99999L0.307557 10.2074C-0.102519 10.6175 -0.102519 11.2824 0.307557 11.6925C0.717619 12.1024 1.38246 12.1024 1.79254 11.6925L5.99996 7.48489L10.2074 11.6925C10.6175 12.1024 11.2824 12.1024 11.6924 11.6925C12.1025 11.2824 12.1025 10.6175 11.6924 10.2074L7.485 5.99999L11.6924 1.79254Z" fill="currentColor"></path>
                      </svg>
@@ -321,7 +321,7 @@ div:where(.swal2-icon).swal2-warning {
             <div class="header-container_2ccda fixed_f9a92">
                
                <header class="header_5b53f">
-                  <button class="header-burger_889cf">
+                  <button class="header-burger_889cf" onclick="opensidebar()">
                      <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="header-burger-icon_e5ccf">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M0 1C0 0.447715 0.447715 0 1 0H15C15.5523 0 16 0.447715 16 1C16 1.55228 15.5523 2 15 2H1C0.447715 2 0 1.55228 0 1ZM0 8C0 7.44772 0.447715 7 1 7H7C7.55228 7 8 7.44772 8 8C8 8.55229 7.55228 9 7 9H1C0.447715 9 0 8.55229 0 8ZM1 14C0.447715 14 0 14.4477 0 15C0 15.5523 0.447715 16 1 16H19C19.5523 16 20 15.5523 20 15C20 14.4477 19.5523 14 19 14H1Z" fill="white"></path>
                      </svg>
@@ -502,16 +502,11 @@ div:where(.swal2-icon).swal2-warning {
             </div>
          <script>
       function opensidebar() {
-  var element = $("#smart-panel-holder");
+ 
+        $(".overlay_bf57d ").toggleClass("opened_da538");
   
-  // Odd sınıflarını sil
-  element.removeClass("count-odd-animation count-blink-odd");
-  
-  // Even sınıflarını ekle
-  element.addClass("count-blink-even");
-  
-  // "smart-panel-is-visible" sınıfını eklerken durumu tersine çevir
-  $("#root").toggleClass("smart-panel-is-visible");
+        $(".burger-menu_d57a3").toggleClass("opened_da538");
+ 
 }
 function openmenu() {
   var element = $("#bottommenu");
