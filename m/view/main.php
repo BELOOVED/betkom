@@ -7,7 +7,7 @@
                      </svg>
                   </button>
                   <div class="slick-list">
-                     <div class="slick-track slider-slickone" style="width: 9375px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+                     <div class="slick-track slider-slickone" style="width: 100%; opacity: 1; transform: translate3d(0px, 0px, 0px);">
                         <div data-index="-1" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                         </div>
