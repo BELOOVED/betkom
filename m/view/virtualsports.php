@@ -37,7 +37,7 @@
             </button>
          </li>
       </ul>
-      <div class="video-container_3e5bf"><iframe class="iframe-custom_66ffe" src="https://kiron.streamamg.com/031/FastLeagueSingle-xrwatkgrxj3r7g97gwn9.html" width="100%" height="100%" seamless="" allowfullscreen=""></iframe></div>
+      <div class="video-container_3e5bf"><iframe class="iframe-custom_66ffe" src="https://kiron.streamamg.com/031/FastLeagueSingle-xrwatkgrxj3r7g97gwn9.html" width="100%" height="20%" seamless="" allowfullscreen=""></iframe></div>
       <div class="">
          <div class="block_d4faf">
             <div>
