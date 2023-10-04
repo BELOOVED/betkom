@@ -1,589 +1,1068 @@
-<div class="layout-content-holder-bc" onclick="yetersiz()">
-   <div class="hm-row-bc  has-slider" style="grid-template-columns: 12fr;"></div>
-   <div class="horizontal-sl-list casino-horizontal-sl-list-bc horizontal-items-expanded scroll-start ">
-      <i class="horizontal-sl-arrow bc-i-small-arrow-left"></i>
-      <div class="horizontal-sl-wheel" style="transform: translateX(0px);">
-         <div data-id="36" title="TÜMÜ" data-badge="" class="horizontal-sl-item-bc accordion-button   all-games active">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-all-games"></i>
-            <p class="horizontal-sl-title-bc">TÜMÜ</p>
-         </div>
-         <div data-id="420030856" title="Red Hot Line" data-badge="" class="horizontal-sl-item-bc accordion-button   420030856 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420030856"></i>
-            <p class="horizontal-sl-title-bc">Red Hot Line</p>
-         </div>
-         <div data-id="806666" title="Aviator" data-badge="" class="horizontal-sl-item-bc accordion-button   806666 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-806666"></i>
-            <p class="horizontal-sl-title-bc">Aviator</p>
-         </div>
-         <div data-id="400043028" title="Spaceman™" data-badge="" class="horizontal-sl-item-bc accordion-button   400043028 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-400043028"></i>
-            <p class="horizontal-sl-title-bc">Spaceman™</p>
-         </div>
-         <div data-id="3606" title="Aviatrix" data-badge="" class="horizontal-sl-item-bc accordion-button   3606 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-3606"></i>
-            <p class="horizontal-sl-title-bc">Aviatrix</p>
-         </div>
-         <div data-id="9010" title="Zeppelin" data-badge="" class="horizontal-sl-item-bc accordion-button   9010 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-9010"></i>
-            <p class="horizontal-sl-title-bc">Zeppelin</p>
-         </div>
-         <div data-id="420018881" title="Instant Keno" data-badge="" class="horizontal-sl-item-bc accordion-button   420018881 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420018881"></i>
-            <p class="horizontal-sl-title-bc">Instant Keno</p>
-         </div>
-         <div data-id="420015420" title="Crash - Crypto" data-badge="" class="horizontal-sl-item-bc accordion-button   420015420 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015420"></i>
-            <p class="horizontal-sl-title-bc">Crash - Crypto</p>
-         </div>
-         <div data-id="420015423" title="Dice" data-badge="" class="horizontal-sl-item-bc accordion-button   420015423 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015423"></i>
-            <p class="horizontal-sl-title-bc">Dice</p>
-         </div>
-         <div data-id="420016236" title="Chance To Change Blackjack" data-badge="" class="horizontal-sl-item-bc accordion-button   420016236 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420016236"></i>
-            <p class="horizontal-sl-title-bc">Chance To Change Blackjack</p>
-         </div>
-         <div data-id="33060323" title="Big City Cars" data-badge="" class="horizontal-sl-item-bc accordion-button   33060323 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060323"></i>
-            <p class="horizontal-sl-title-bc">Big City Cars</p>
-         </div>
-         <div data-id="420016327" title="Touch Me" data-badge="" class="horizontal-sl-item-bc accordion-button   420016327 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420016327"></i>
-            <p class="horizontal-sl-title-bc">Touch Me</p>
-         </div>
-         <div data-id="420015419" title="Limbo - Crypto" data-badge="" class="horizontal-sl-item-bc accordion-button   420015419 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015419"></i>
-            <p class="horizontal-sl-title-bc">Limbo - Crypto</p>
-         </div>
-         <div data-id="420015421" title="Blackjack - Crypto" data-badge="" class="horizontal-sl-item-bc accordion-button   420015421 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015421"></i>
-            <p class="horizontal-sl-title-bc">Blackjack - Crypto</p>
-         </div>
-         <div data-id="420015425" title="Keno - Crypto" data-badge="" class="horizontal-sl-item-bc accordion-button   420015425 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015425"></i>
-            <p class="horizontal-sl-title-bc">Keno - Crypto</p>
-         </div>
-         <div data-id="420018918" title="Combo Keno 8" data-badge="" class="horizontal-sl-item-bc accordion-button   420018918 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420018918"></i>
-            <p class="horizontal-sl-title-bc">Combo Keno 8</p>
-         </div>
-         <div data-id="420018919" title="Combo Keno 10" data-badge="" class="horizontal-sl-item-bc accordion-button   420018919 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420018919"></i>
-            <p class="horizontal-sl-title-bc">Combo Keno 10</p>
-         </div>
-         <div data-id="161617" title="Shumba" data-badge="" class="horizontal-sl-item-bc accordion-button   161617 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-161617"></i>
-            <p class="horizontal-sl-title-bc">Shumba</p>
-         </div>
-         <div data-id="420019833" title="Astronaut" data-badge="" class="horizontal-sl-item-bc accordion-button   420019833 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420019833"></i>
-            <p class="horizontal-sl-title-bc">Astronaut</p>
-         </div>
-         <div data-id="420015509" title="Jacks or Better" data-badge="" class="horizontal-sl-item-bc accordion-button   420015509 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015509"></i>
-            <p class="horizontal-sl-title-bc">Jacks or Better</p>
-         </div>
-         <div data-id="102016" title="PLİNKO" data-badge="" class="horizontal-sl-item-bc accordion-button   102016 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-102016"></i>
-            <p class="horizontal-sl-title-bc">PLİNKO</p>
-         </div>
-         <div data-id="141416" title="Fishing" data-badge="" class="horizontal-sl-item-bc accordion-button   141416 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141416"></i>
-            <p class="horizontal-sl-title-bc">Fishing</p>
-         </div>
-         <div data-id="420016246" title="Tornado Andar Bahar" data-badge="" class="horizontal-sl-item-bc accordion-button   420016246 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420016246"></i>
-            <p class="horizontal-sl-title-bc">Tornado Andar Bahar</p>
-         </div>
-         <div data-id="420015434" title="777 Poker" data-badge="" class="horizontal-sl-item-bc accordion-button   420015434 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015434"></i>
-            <p class="horizontal-sl-title-bc">777 Poker</p>
-         </div>
-         <div data-id="334" title="Big HiLo" data-badge="" class="horizontal-sl-item-bc accordion-button   334 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-334"></i>
-            <p class="horizontal-sl-title-bc">Big HiLo</p>
-         </div>
-         <div data-id="420014053" title="Gogo Banana" data-badge="" class="horizontal-sl-item-bc accordion-button   420014053 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014053"></i>
-            <p class="horizontal-sl-title-bc">Gogo Banana</p>
-         </div>
-         <div data-id="420015275" title="STAIRS" data-badge="" class="horizontal-sl-item-bc accordion-button   420015275 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015275"></i>
-            <p class="horizontal-sl-title-bc">STAIRS</p>
-         </div>
-         <div data-id="33060316" title="Turbo Blackjack" data-badge="" class="horizontal-sl-item-bc accordion-button   33060316 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060316"></i>
-            <p class="horizontal-sl-title-bc">Turbo Blackjack</p>
-         </div>
-         <div data-id="420014058" title="Diamond Quest" data-badge="" class="horizontal-sl-item-bc accordion-button   420014058 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014058"></i>
-            <p class="horizontal-sl-title-bc">Diamond Quest</p>
-         </div>
-         <div data-id="141414" title="x50 Wheel" data-badge="" class="horizontal-sl-item-bc accordion-button   141414 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141414"></i>
-            <p class="horizontal-sl-title-bc">x50 Wheel</p>
-         </div>
-         <div data-id="141419" title="Pascal" data-badge="" class="horizontal-sl-item-bc accordion-button   141419 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141419"></i>
-            <p class="horizontal-sl-title-bc">Pascal</p>
-         </div>
-         <div data-id="420014075" title="Baccarat" data-badge="" class="horizontal-sl-item-bc accordion-button   420014075 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014075"></i>
-            <p class="horizontal-sl-title-bc">Baccarat</p>
-         </div>
-         <div data-id="141417" title="Non-Stop Roulette" data-badge="" class="horizontal-sl-item-bc accordion-button   141417 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141417"></i>
-            <p class="horizontal-sl-title-bc">Non-Stop Roulette</p>
-         </div>
-         <div data-id="33060324" title="Mines" data-badge="" class="horizontal-sl-item-bc accordion-button   33060324 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060324"></i>
-            <p class="horizontal-sl-title-bc">Mines</p>
-         </div>
-         <div data-id="420014051" title="PLINKO" data-badge="" class="horizontal-sl-item-bc accordion-button   420014051 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014051"></i>
-            <p class="horizontal-sl-title-bc">PLINKO</p>
-         </div>
-         <div data-id="420014070" title="Electric Crash" data-badge="" class="horizontal-sl-item-bc accordion-button   420014070 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014070"></i>
-            <p class="horizontal-sl-title-bc">Electric Crash</p>
-         </div>
-         <div data-id="420014065" title="Hi Lo" data-badge="" class="horizontal-sl-item-bc accordion-button   420014065 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014065"></i>
-            <p class="horizontal-sl-title-bc">Hi Lo</p>
-         </div>
-         <div data-id="420014052" title="Magic Idol" data-badge="" class="horizontal-sl-item-bc accordion-button   420014052 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420014052"></i>
-            <p class="horizontal-sl-title-bc">Magic Idol</p>
-         </div>
-         <div data-id="141415" title="Magic Dice" data-badge="" class="horizontal-sl-item-bc accordion-button   141415 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141415"></i>
-            <p class="horizontal-sl-title-bc">Magic Dice</p>
-         </div>
-         <div data-id="141429" title="Fast Trade" data-badge="" class="horizontal-sl-item-bc accordion-button   141429 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141429"></i>
-            <p class="horizontal-sl-title-bc">Fast Trade</p>
-         </div>
-         <div data-id="33060325" title="Crazy Worm" data-badge="" class="horizontal-sl-item-bc accordion-button   33060325 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060325"></i>
-            <p class="horizontal-sl-title-bc">Crazy Worm</p>
-         </div>
-         <div data-id="141426" title="Catch Me" data-badge="" class="horizontal-sl-item-bc accordion-button   141426 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141426"></i>
-            <p class="horizontal-sl-title-bc">Catch Me</p>
-         </div>
-         <div data-id="33060326" title="Non-Stop Match" data-badge="" class="horizontal-sl-item-bc accordion-button   33060326 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060326"></i>
-            <p class="horizontal-sl-title-bc">Non-Stop Match</p>
-         </div>
-         <div data-id="141432" title="Turbo Baccarat" data-badge="" class="horizontal-sl-item-bc accordion-button   141432 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141432"></i>
-            <p class="horizontal-sl-title-bc">Turbo Baccarat</p>
-         </div>
-         <div data-id="33060314" title="ODDBALL" data-badge="" class="horizontal-sl-item-bc accordion-button   33060314 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060314"></i>
-            <p class="horizontal-sl-title-bc">ODDBALL</p>
-         </div>
-         <div data-id="151516" title="Lucky Lotto" data-badge="" class="horizontal-sl-item-bc accordion-button   151516 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-151516"></i>
-            <p class="horizontal-sl-title-bc">Lucky Lotto</p>
-         </div>
-         <div data-id="33060318" title="Turbo Belote" data-badge="" class="horizontal-sl-item-bc accordion-button   33060318 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060318"></i>
-            <p class="horizontal-sl-title-bc">Turbo Belote</p>
-         </div>
-         <div data-id="141425" title="Dream Wheel" data-badge="" class="horizontal-sl-item-bc accordion-button   141425 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141425"></i>
-            <p class="horizontal-sl-title-bc">Dream Wheel</p>
-         </div>
-         <div data-id="141428" title="Double Wheel" data-badge="" class="horizontal-sl-item-bc accordion-button   141428 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141428"></i>
-            <p class="horizontal-sl-title-bc">Double Wheel</p>
-         </div>
-         <div data-id="161616" title="Non-Stop BlackJack" data-badge="" class="horizontal-sl-item-bc accordion-button   161616 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-161616"></i>
-            <p class="horizontal-sl-title-bc">Non-Stop BlackJack</p>
-         </div>
-         <div data-id="141430" title="Drift" data-badge="" class="horizontal-sl-item-bc accordion-button   141430 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141430"></i>
-            <p class="horizontal-sl-title-bc">Drift</p>
-         </div>
-         <div data-id="141427" title="Non-Stop Baccarat" data-badge="" class="horizontal-sl-item-bc accordion-button   141427 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141427"></i>
-            <p class="horizontal-sl-title-bc">Non-Stop Baccarat</p>
-         </div>
-         <div data-id="141422" title="Fighters xXx" data-badge="" class="horizontal-sl-item-bc accordion-button   141422 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141422"></i>
-            <p class="horizontal-sl-title-bc">Fighters xXx</p>
-         </div>
-         <div data-id="131315" title="Crystal Crush" data-badge="" class="horizontal-sl-item-bc accordion-button   131315 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-131315"></i>
-            <p class="horizontal-sl-title-bc">Crystal Crush</p>
-         </div>
-         <div data-id="141418" title="Dice" data-badge="" class="horizontal-sl-item-bc accordion-button   141418 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141418"></i>
-            <p class="horizontal-sl-title-bc">Dice</p>
-         </div>
-         <div data-id="141413" title="MONTI" data-badge="" class="horizontal-sl-item-bc accordion-button   141413 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-141413"></i>
-            <p class="horizontal-sl-title-bc">MONTI</p>
-         </div>
-         <div data-id="400040631" title="Empire Lottery" data-badge="" class="horizontal-sl-item-bc accordion-button   400040631 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-400040631"></i>
-            <p class="horizontal-sl-title-bc">Empire Lottery</p>
-         </div>
-         <div data-id="28" title="Poker" data-badge="" class="horizontal-sl-item-bc accordion-button   28 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-28"></i>
-            <p class="horizontal-sl-title-bc">Poker</p>
-         </div>
-         <div data-id="45" title="VR Live Dealer" data-badge="" class="horizontal-sl-item-bc accordion-button   45 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-45"></i>
-            <p class="horizontal-sl-title-bc">VR Live Dealer</p>
-         </div>
-         <div data-id="116" title="Ogwil" data-badge="" class="horizontal-sl-item-bc accordion-button   116 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-116"></i>
-            <p class="horizontal-sl-title-bc">Ogwil</p>
-         </div>
-         <div data-id="11" title="Backgammon" data-badge="" class="horizontal-sl-item-bc accordion-button   11 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-11"></i>
-            <p class="horizontal-sl-title-bc">Backgammon</p>
-         </div>
-         <div data-id="1181" title="Talısman" data-badge="" class="horizontal-sl-item-bc accordion-button   1181 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-1181"></i>
-            <p class="horizontal-sl-title-bc">Talısman</p>
-         </div>
-         <div data-id="29" title="ChingaChoong" data-badge="" class="horizontal-sl-item-bc accordion-button   29 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-29"></i>
-            <p class="horizontal-sl-title-bc">ChingaChoong</p>
-         </div>
-         <div data-id="324" title="Keno" data-badge="" class="horizontal-sl-item-bc accordion-button   324 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-324"></i>
-            <p class="horizontal-sl-title-bc">Keno</p>
-         </div>
-         <div data-id="3539" title="Farkle (Zonk)" data-badge="" class="horizontal-sl-item-bc accordion-button   3539 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-3539"></i>
-            <p class="horizontal-sl-title-bc">Farkle (Zonk)</p>
-         </div>
-         <div data-id="333" title="Penality" data-badge="" class="horizontal-sl-item-bc accordion-button   333 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-333"></i>
-            <p class="horizontal-sl-title-bc">Penality</p>
-         </div>
-         <div data-id="408" title="Grilles" data-badge="" class="horizontal-sl-item-bc accordion-button   408 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-408"></i>
-            <p class="horizontal-sl-title-bc">Grilles</p>
-         </div>
-         <div data-id="771" title="Power Ball" data-badge="" class="horizontal-sl-item-bc accordion-button   771 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-771"></i>
-            <p class="horizontal-sl-title-bc">Power Ball</p>
-         </div>
-         <div data-id="10" title="Belote" data-badge="" class="horizontal-sl-item-bc accordion-button   10 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10"></i>
-            <p class="horizontal-sl-title-bc">Belote</p>
-         </div>
-         <div data-id="33060327" title="Blast" data-badge="" class="horizontal-sl-item-bc accordion-button   33060327 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060327"></i>
-            <p class="horizontal-sl-title-bc">Blast</p>
-         </div>
-         <div data-id="420015499" title="Striker" data-badge="" class="horizontal-sl-item-bc accordion-button   420015499 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-420015499"></i>
-            <p class="horizontal-sl-title-bc">Striker</p>
-         </div>
-         <div data-id="33060328" title="Crash" data-badge="" class="horizontal-sl-item-bc accordion-button   33060328 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-33060328"></i>
-            <p class="horizontal-sl-title-bc">Crash</p>
-         </div>
-         <div data-id="10919" title="Wow Bow" data-badge="" class="horizontal-sl-item-bc accordion-button   10919 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10919"></i>
-            <p class="horizontal-sl-title-bc">Wow Bow</p>
-         </div>
-         <div data-id="10918" title="WinBall" data-badge="" class="horizontal-sl-item-bc accordion-button   10918 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10918"></i>
-            <p class="horizontal-sl-title-bc">WinBall</p>
-         </div>
-         <div data-id="10920" title="Striker" data-badge="" class="horizontal-sl-item-bc accordion-button   10920 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10920"></i>
-            <p class="horizontal-sl-title-bc">Striker</p>
-         </div>
-         <div data-id="10921" title="Plinko" data-badge="" class="horizontal-sl-item-bc accordion-button   10921 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10921"></i>
-            <p class="horizontal-sl-title-bc">Plinko</p>
-         </div>
-         <div data-id="10917" title="Penalty" data-badge="" class="horizontal-sl-item-bc accordion-button   10917 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10917"></i>
-            <p class="horizontal-sl-title-bc">Penalty</p>
-         </div>
-         <div data-id="10914" title="Formula 1" data-badge="" class="horizontal-sl-item-bc accordion-button   10914 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10914"></i>
-            <p class="horizontal-sl-title-bc">Formula 1</p>
-         </div>
-         <div data-id="10913" title="Darts" data-badge="" class="horizontal-sl-item-bc accordion-button   10913 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10913"></i>
-            <p class="horizontal-sl-title-bc">Darts</p>
-         </div>
-         <div data-id="10912" title="BoomBasket" data-badge="" class="horizontal-sl-item-bc accordion-button   10912 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10912"></i>
-            <p class="horizontal-sl-title-bc">BoomBasket</p>
-         </div>
-         <div data-id="10911" title="BoomBall" data-badge="" class="horizontal-sl-item-bc accordion-button   10911 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10911"></i>
-            <p class="horizontal-sl-title-bc">BoomBall</p>
-         </div>
-         <div data-id="10910" title="Blue Thunder" data-badge="" class="horizontal-sl-item-bc accordion-button   10910 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-10910"></i>
-            <p class="horizontal-sl-title-bc">Blue Thunder</p>
-         </div>
-         <div data-id="3150" title="Space Taxi" data-badge="" class="horizontal-sl-item-bc accordion-button   3150 ">
-            <i class="horizontal-sl-icon-bc bc-i-default-icon bc-i-3150"></i>
-            <p class="horizontal-sl-title-bc">Space Taxi</p>
+<div class="main-content-wrapper_d1c25">
+   <div class="background-wrapper_fd3c4">
+      <img class="background-wrapper__image_f2967" src="https://cdn2-client.btkmcdn.com/build/stylesSrc/themes/web/turkish/betkom/img/other_games/other_games_bg.png" alt="">
+      <div class="background-wrapper__content_a5907 container_01a5e">
+         <div class="slots-info_447eb">
+            <h2 class="slots-info__title_75287">Diğer Oyunlar</h2>
+            <span class="slots-info__description_1dfcf">Heyecanına Hoş geldiniz.</span>
+            <div class="slots-bonus-wrapper_27934">
+               <div class="slots-bonus-title_4ff14">Süper İkili</div>
+               <div class="slots-bonus-content_08b1b">
+                  <div class="slots-bonus_6ba01"><span class="slots-bonus__count_839bd">%25</span><span class="slots-bonus__title_30631">Limitsiz</span><span class="slots-bonus__subtitle_6596f">Yatırım Bonusu</span></div>
+                  <div class="separator_69f50"></div>
+                  <div class="slots-bonus_6ba01"><span class="slots-bonus__count_839bd">%50</span><span class="slots-bonus__title_30631">Limitsiz</span><span class="slots-bonus__subtitle_6596f">Kayıp Bonusu</span></div>
+               </div>
+            </div>
+         </div>
+         <div class="other-games-wrapper_93c43">
+            <div class="other-games-header_a77bc">
+               <div class="filters-wrapper_c22ac">
+                  <div class="select_20f72">
+                     <div class="icon-wrap_6a312">
+                        <div class="select-icon_e6626 all_3e71f provider-icon_a846d all_3e71f"></div>
+                     </div>
+                     <span>Tüm Sağlayıcılar</span>
+                     <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" class="arrow-icon_093be">
+                        <g clip-path="url(#clip0_1_3827)">
+                           <path d="M8.62633 -1.50828e-06L5 3.41372L1.37367 -2.40181e-07L2.26099e-07 1.29314L5 6L10 1.29314L8.62633 -1.50828e-06Z" fill="#96A7B0"></path>
+                        </g>
+                        <defs>
+                           <clipPath id="clip0_1_3827">
+                              <rect width="10" height="6" fill="white"></rect>
+                           </clipPath>
+                        </defs>
+                     </svg>
+                  </div>
+                  <div class="dropdown-menu_86b21">
+                     <div class="dropdown-list_964ca">
+                        <button class="item_ec4e5 selected_4be12">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d all_3e71f"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Tümü</div>
+                           <span class="count_46e25">43</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d pragmatic_play_casino_9981b"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Pragmatic Play</div>
+                           <span class="count_46e25">2</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d spribe_6dccb"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Spribe</div>
+                           <span class="count_46e25">7</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d betsolutions_6f2f7"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Betsolutions</div>
+                           <span class="count_46e25">1</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d betgames_be8c9"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Bet Games</div>
+                           <span class="count_46e25">10</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d falcon_gaming_01209"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Falcon Gaming</div>
+                           <span class="count_46e25">6</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d sport_games_tv_4373d"></div>
+                           </div>
+                           <div class="item-title_a1cf2">SportGamesTV</div>
+                           <span class="count_46e25">7</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d twain_sport_7563e"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Twain Sport</div>
+                           <span class="count_46e25">3</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d betsoft_games_bfecd"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Betsoft</div>
+                           <span class="count_46e25">1</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d lucky_streak_fugaso_bd136"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Fugaso</div>
+                           <span class="count_46e25">1</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d the_ear_gamzix_3a592"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Gamzix</div>
+                           <span class="count_46e25">3</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d the_ear_macaw_8611d"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Macaw</div>
+                           <span class="count_46e25">2</span>
+                        </button>
+                     </div>
+                  </div>
+               </div>
+               <div class="tabs-wrapper_4ae52">
+                  <div class="menu_f7b67">
+                     <button class="tab_a39e9 selected_b220e">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M3.33333 0H0.666667C0.298667 0 0 0.298667 0 0.666667V3.33333C0 3.70133 0.298667 4 0.666667 4H3.33333C3.70133 4 4 3.70133 4 3.33333V0.666667C4 0.298667 3.70133 0 3.33333 0Z" fill="#D3E0FF"></path>
+                           <path d="M3.33333 6H0.666667C0.298667 6 0 6.29867 0 6.66667V9.33333C0 9.70133 0.298667 10 0.666667 10H3.33333C3.70133 10 4 9.70133 4 9.33333V6.66667C4 6.29867 3.70133 6 3.33333 6Z" fill="#D3E0FF"></path>
+                           <path d="M3.33333 12H0.666667C0.298667 12 0 12.2987 0 12.6667V15.3333C0 15.7013 0.298667 16 0.666667 16H3.33333C3.70133 16 4 15.7013 4 15.3333V12.6667C4 12.2987 3.70133 12 3.33333 12Z" fill="#D3E0FF"></path>
+                           <path d="M9.33333 0H6.66667C6.29867 0 6 0.298667 6 0.666667V3.33333C6 3.70133 6.29867 4 6.66667 4H9.33333C9.70133 4 10 3.70133 10 3.33333V0.666667C10 0.298667 9.70133 0 9.33333 0Z" fill="#D3E0FF"></path>
+                           <path d="M9.33333 6H6.66667C6.29867 6 6 6.29867 6 6.66667V9.33333C6 9.70133 6.29867 10 6.66667 10H9.33333C9.70133 10 10 9.70133 10 9.33333V6.66667C10 6.29867 9.70133 6 9.33333 6Z" fill="#D3E0FF"></path>
+                           <path d="M9.33333 12H6.66667C6.29867 12 6 12.2987 6 12.6667V15.3333C6 15.7013 6.29867 16 6.66667 16H9.33333C9.70133 16 10 15.7013 10 15.3333V12.6667C10 12.2987 9.70133 12 9.33333 12Z" fill="#D3E0FF"></path>
+                           <path d="M15.3333 0H12.6667C12.2987 0 12 0.298667 12 0.666667V3.33333C12 3.70133 12.2987 4 12.6667 4H15.3333C15.7013 4 16 3.70133 16 3.33333V0.666667C16 0.298667 15.7013 0 15.3333 0Z" fill="#D3E0FF"></path>
+                           <path d="M15.3333 6H12.6667C12.2987 6 12 6.29867 12 6.66667V9.33333C12 9.70133 12.2987 10 12.6667 10H15.3333C15.7013 10 16 9.70133 16 9.33333V6.66667C16 6.29867 15.7013 6 15.3333 6Z" fill="#D3E0FF"></path>
+                           <path d="M15.3333 12H12.6667C12.2987 12 12 12.2987 12 12.6667V15.3333C12 15.7013 12.2987 16 12.6667 16H15.3333C15.7013 16 16 15.7013 16 15.3333V12.6667C16 12.2987 15.7013 12 15.3333 12Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>tümü</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91553 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91553 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>favoriler</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>en popüler</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>uçan oyunlar</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>tombala</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>plinko</span>
+                     </button>
+                     <div class="other-tabs-wrapper_81cda">
+                        <button class="tab_a39e9">
+                           <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M8 0C6.41775 0 4.87103 0.469192 3.55544 1.34824C2.23985 2.22729 1.21447 3.47672 0.608967 4.93853C0.00346627 6.40034 -0.15496 8.00887 0.153721 9.56072C0.462403 11.1126 1.22433 12.538 2.34315 13.6569C3.46197 14.7757 4.88743 15.5376 6.43928 15.8463C7.99113 16.155 9.59966 15.9965 11.0615 15.391C12.5233 14.7855 13.7727 13.7602 14.6518 12.4446C15.5308 11.129 16 9.58225 16 8C16 5.87827 15.1571 3.84344 13.6569 2.34315C12.1566 0.842854 10.1217 0 8 0ZM8 14.8571C6.64379 14.8571 5.31803 14.455 4.19038 13.7015C3.06273 12.948 2.18383 11.8771 1.66483 10.6241C1.14583 9.37113 1.01003 7.99239 1.27462 6.66224C1.5392 5.33208 2.19228 4.11026 3.15127 3.15127C4.11026 2.19228 5.33209 1.5392 6.66224 1.27461C7.9924 1.01003 9.37114 1.14582 10.6241 1.66483C11.8771 2.18383 12.948 3.06272 13.7015 4.19037C14.455 5.31803 14.8571 6.64378 14.8571 8C14.8571 9.81863 14.1347 11.5628 12.8487 12.8487C11.5628 14.1347 9.81863 14.8571 8 14.8571ZM5.71429 8C5.71429 8.22603 5.64726 8.44699 5.52168 8.63494C5.3961 8.82288 5.21761 8.96936 5.00878 9.05586C4.79995 9.14236 4.57016 9.16499 4.34847 9.1209C4.12678 9.0768 3.92314 8.96795 3.76331 8.80812C3.60348 8.64829 3.49463 8.44465 3.45053 8.22296C3.40644 8.00127 3.42907 7.77148 3.51557 7.56265C3.60207 7.35382 3.74855 7.17533 3.93649 7.04975C4.12444 6.92417 4.3454 6.85714 4.57143 6.85714C4.87454 6.85714 5.16523 6.97755 5.37955 7.19188C5.59388 7.4062 5.71429 7.69689 5.71429 8ZM9.14286 8C9.14286 8.22603 9.07583 8.44699 8.95025 8.63494C8.82467 8.82288 8.64618 8.96936 8.43736 9.05586C8.22853 9.14236 7.99873 9.16499 7.77704 9.1209C7.55535 9.0768 7.35171 8.96795 7.19188 8.80812C7.03205 8.64829 6.9232 8.44465 6.87911 8.22296C6.83501 8.00127 6.85764 7.77148 6.94414 7.56265C7.03064 7.35382 7.17712 7.17533 7.36507 7.04975C7.55301 6.92417 7.77397 6.85714 8 6.85714C8.30311 6.85714 8.5938 6.97755 8.80812 7.19188C9.02245 7.4062 9.14286 7.69689 9.14286 8ZM12.5714 8C12.5714 8.22603 12.5044 8.44699 12.3788 8.63494C12.2532 8.82288 12.0748 8.96936 11.8659 9.05586C11.6571 9.14236 11.4273 9.16499 11.2056 9.1209C10.9839 9.0768 10.7803 8.96795 10.6205 8.80812C10.4606 8.64829 10.3518 8.44465 10.3077 8.22296C10.2636 8.00127 10.2862 7.77148 10.3727 7.56265C10.4592 7.35382 10.6057 7.17533 10.7936 7.04975C10.9816 6.92417 11.2025 6.85714 11.4286 6.85714C11.7317 6.85714 12.0224 6.97755 12.2367 7.19188C12.451 7.4062 12.5714 7.69689 12.5714 8Z" fill="#D3E0FF"></path>
+                           </svg>
+                           <span>Diğer</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" class="other-tabs-arrow_80e6a">
+                              <path d="M8.62633 -1.50828e-06L5 3.41372L1.37367 -2.40181e-07L2.26099e-07 1.29314L5 6L10 1.29314L8.62633 -1.50828e-06Z" fill="currentColor"></path>
+                           </svg>
+                        </button>
+                        <div class="other-tabs_15fee"></div>
+                     </div>
+                  </div>
+                  <div class="search_660bb">
+                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="search-icon_560f2">
+                        <path d="M9.00137 14C5.1368 14 2.00391 10.866 2.00391 6.99997C2.00391 3.13396 5.13676 0 9.00137 0C12.866 0 15.9988 3.13399 15.9988 7C15.9988 10.866 12.8659 14 9.00137 14ZM9.00137 2.00001C6.24094 2.00001 4.00319 4.23857 4.00319 7C4.00319 9.76143 6.24094 12 9.00137 12C11.7618 12 13.9995 9.76143 13.9995 7C13.9995 4.23857 11.7618 2.00001 9.00137 2.00001Z" fill="#1FE1FF"></path>
+                        <path d="M1.00543 16.0001C0.739718 16.0017 0.484338 15.8973 0.295697 15.7101C-0.0962975 15.3212 -0.0988817 14.688 0.289908 14.2959C0.291838 14.294 0.293767 14.292 0.295697 14.2901L4.05432 10.5301C4.4601 10.138 5.10682 10.1492 5.49881 10.5551C5.89081 10.961 5.87961 11.608 5.47383 12.0001L1.71517 15.7101C1.52653 15.8973 1.27115 16.0017 1.00543 16.0001Z" fill="#1FE1FF"></path>
+                     </svg>
+                     <input class="search-input_edd0f" type="text" placeholder="Ara: Oyun Adı Giriniz..." value="">
+                  </div>
+               </div>
+            </div>
+            <div class="other-games-main_23315">
+               <div class="sidebar_a22e8">
+                  <div class="providers-wrapper_8cf5f">
+                     <div class="tabs-container_1e17b">
+                        <div class="block-title_5e0bd">
+                           <div class="providers-title_d65dd">Sağlayıcılar</div>
+                           <div class="providers-amount_497e5">11</div>
+                        </div>
+                        <div class="mt15 button-wrap_8e68c selected_ae473">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda all_6202d"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Tüm Sağlayıcılar</div>
+                                 <span class="item-count_ff94e">43</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda pragmatic_play_casino_75cbb"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Pragmatic Play</div>
+                                 <span class="item-count_ff94e">2</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda spribe_7a289"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Spribe</div>
+                                 <span class="item-count_ff94e">7</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda betsolutions_7a90d"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Betsolutions</div>
+                                 <span class="item-count_ff94e">1</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda betgames_9a9ac"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Bet Games</div>
+                                 <span class="item-count_ff94e">10</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda falcon_gaming_ab794"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Falcon Gaming</div>
+                                 <span class="item-count_ff94e">6</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda sport_games_tv_eaf4f"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">SportGamesTV</div>
+                                 <span class="item-count_ff94e">7</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda twain_sport_d8160"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Twain Sport</div>
+                                 <span class="item-count_ff94e">3</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda betsoft_games_785e3"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Betsoft</div>
+                                 <span class="item-count_ff94e">1</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda lucky_streak_fugaso_92773"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Fugaso</div>
+                                 <span class="item-count_ff94e">1</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda the_ear_gamzix_80711"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Gamzix</div>
+                                 <span class="item-count_ff94e">3</span>
+                              </div>
+                           </button>
+                        </div>
+                        <div class="button-wrap_8e68c">
+                           <button class="item_ed235">
+                              <div class="icon-wrap_8ea0d">
+                                 <div class="item-icon_51dda the_ear_macaw_043a3"></div>
+                              </div>
+                              <div class="separator_7e58c"></div>
+                              <div class="item-right_e9596">
+                                 <div class="item-title_3f5c7">Macaw</div>
+                                 <span class="item-count_ff94e">2</span>
+                              </div>
+                           </button>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="casino-top-winners-wrapper_beffe">
+                     <div class="top-winners-header_50350">
+                        <div class="top-winners-title_28253">
+                           <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="winners-icon_06274">
+                              <path d="M17.1126 0H2.88672V1.17188H4.49727V7.00129C4.49922 9.99406 6.92922 12.458 9.92168 12.4995C12.9963 12.542 15.502 10.0625 15.502 6.99762V1.17188H17.1126V0Z" fill="#2764FF"></path>
+                              <path d="M13.8098 17.4323C13.8098 16.7851 13.2851 16.2604 12.6379 16.2604H11.7191V13.4477C11.1618 13.5961 10.5868 13.6714 10.0004 13.6714C9.96922 13.6714 9.93746 13.6712 9.90621 13.6708C9.35266 13.6631 8.80918 13.5878 8.28164 13.4463V16.2604H7.36289C6.71566 16.2604 6.19102 16.7851 6.19102 17.4323V18.8277H4.49805V19.9996H15.5027V18.8277H13.8098V17.4323Z" fill="#2764FF"></path>
+                              <path d="M16.6752 2.34375V3.51562H18.8291V6.15227C18.8291 7.61301 17.7545 8.82727 16.3543 9.04648C16.2944 9.23184 16.2267 9.41516 16.1503 9.59594C16.0546 9.82207 15.9469 10.0413 15.8281 10.2538H15.8994C18.161 10.2538 20.001 8.41387 20.001 6.15227V2.34375H16.6752Z" fill="#2764FF"></path>
+                              <path d="M3.65 9.04707C2.2482 8.82926 1.17188 7.61418 1.17188 6.15227V3.51562H3.32574V2.34375H0V6.15227C0 8.41387 1.83996 10.2538 4.10156 10.2538H4.17926C4.05562 10.0337 3.94395 9.80645 3.84523 9.57203C3.77238 9.39914 3.70762 9.22402 3.65 9.04707Z" fill="#2764FF"></path>
+                           </svg>
+                           <h3>En Yüksek Kazananlar!</h3>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" class="winners-arrow_2ef1c active_da16e">
+                              <path d="M8.62633 -1.50828e-06L5 3.41372L1.37367 -2.40181e-07L2.26099e-07 1.29314L5 6L10 1.29314L8.62633 -1.50828e-06Z" fill="currentColor"></path>
+                           </svg>
+                        </div>
+                        <div class="winners-period-wrapper_c5b32">
+                           <div class="winners-period_7159c active_da16e">Günlük</div>
+                           <div class="winners-period_7159c">Haftalık</div>
+                           <div class="winners-period_7159c">Ay</div>
+                        </div>
+                     </div>
+                     <div class="winners-content_02c8c">
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">1</div>
+                              <img src="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play/Rainbow_Reels_10108.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Rainbow Reels</h4>
+                              <div class="winner-info__text_b76e7"><span>Ragnar C.</span><span class="winner-bet-amount_21452">219,360.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">2</div>
+                              <img src="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play/Floating_Dragon_Dragon_Boat_Festival_8649.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Floating Dragon - Dragon Boat Festival</h4>
+                              <div class="winner-info__text_b76e7"><span>Orhun A.</span><span class="winner-bet-amount_21452">134,540.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">3</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play/Sweet_Bonanza_10500.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Sweet Bonanza</h4>
+                              <div class="winner-info__text_b76e7"><span>Casino C.</span><span class="winner-bet-amount_21452">105,925.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">4</div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play/Gates_of_Olympus_8471.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Gates of Olympus</h4>
+                              <div class="winner-info__text_b76e7"><span>Gece K.</span><span class="winner-bet-amount_21452">68,588.10 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">5</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play/Sweet_Bonanza_10500.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Sweet Bonanza</h4>
+                              <div class="winner-info__text_b76e7"><span>Mustafa G.</span><span class="winner-bet-amount_21452">101,360.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">6</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play/Sweet_Bonanza_10500.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Sweet Bonanza</h4>
+                              <div class="winner-info__text_b76e7"><span>Salih Y.</span><span class="winner-bet-amount_21452">59,940.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">7</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play/Sweet_Bonanza_10500.png" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Sweet Bonanza</h4>
+                              <div class="winner-info__text_b76e7"><span>Gürkan Ş.</span><span class="winner-bet-amount_21452">68,406.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="content-block_3af0f">
+                  <div class="block-title_5e0bd"><span class="mr4 first-part-title_2ac6d">Tüm Sağlayıcılar</span><span class="second-part-title_a1971">Canlı Casino Oyunları (43)</span></div>
+                  <div class="mt15 games_67997">
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Big Bass Crash</div>
+                                 <div class="provider-name_ef919">Pragmatic Play</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Big_Bass_Crash_10724.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Big_Bass_Crash_10724.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Big Bass Crash</div>
+                           <div class="provider-title_b870b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Spaceman</div>
+                                 <div class="provider-name_ef919">Pragmatic Play</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Spaceman_9505.png" alt="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Spaceman_9505.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Spaceman</div>
+                           <div class="provider-title_b870b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Aviator</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn3-platform.btkmcdn.com/media/games_images/spribe/Aviator_9512.png" alt="https://cdn3-platform.btkmcdn.com/media/games_images/spribe/Aviator_9512.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Aviator</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Goal</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn1-platform.btkmcdn.com/media/games_images/spribe/Goal_9515.png" alt="https://cdn1-platform.btkmcdn.com/media/games_images/spribe/Goal_9515.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Goal</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Plinko</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn2-platform.btkmcdn.com/media/games_images/spribe/Plinko_9516.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/spribe/Plinko_9516.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Plinko</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Mines</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn3-platform.btkmcdn.com/media/games_images/spribe/Mines_9519.png" alt="https://cdn3-platform.btkmcdn.com/media/games_images/spribe/Mines_9519.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Mines</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Hi Lo</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn4-platform.btkmcdn.com/media/games_images/spribe/Hi_Lo_9520.png" alt="https://cdn4-platform.btkmcdn.com/media/games_images/spribe/Hi_Lo_9520.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Hi Lo</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Keno</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn1-platform.btkmcdn.com/media/games_images/spribe/Keno_9522.png" alt="https://cdn1-platform.btkmcdn.com/media/games_images/spribe/Keno_9522.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Keno</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Mini Roulette</div>
+                                 <div class="provider-name_ef919">Spribe</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn2-platform.btkmcdn.com/media/games_images/spribe/Mini_Roulette_9524.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/spribe/Mini_Roulette_9524.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Mini Roulette</div>
+                           <div class="provider-title_b870b">Spribe</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">zeppelin</div>
+                                 <div class="provider-name_ef919">Betsolutions</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn2-platform.btkmcdn.com/media/games_images/betsolutions/zeppelin_9538.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/betsolutions/zeppelin_9538.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">zeppelin</div>
+                           <div class="provider-title_b870b">Betsolutions</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Betgames tv</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn4-platform.btkmcdn.com/media/games_images/betgames/Betgames_tv_9510.png" alt="https://cdn4-platform.btkmcdn.com/media/games_images/betgames/Betgames_tv_9510.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Betgames tv</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">War Of Bets</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn3-platform.btkmcdn.com/media/games_images/betgames/War_Of_Bets_9511.png" alt="https://cdn3-platform.btkmcdn.com/media/games_images/betgames/War_Of_Bets_9511.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">War Of Bets</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Wheel Of Fortune</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn4-platform.btkmcdn.com/media/games_images/betgames/Wheel_Of_Fortune_9513.png" alt="https://cdn4-platform.btkmcdn.com/media/games_images/betgames/Wheel_Of_Fortune_9513.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Wheel Of Fortune</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Bet On Poker</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn1-platform.btkmcdn.com/media/games_images/betgames/Bet_On_Poker_9514.png" alt="https://cdn1-platform.btkmcdn.com/media/games_images/betgames/Bet_On_Poker_9514.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Bet On Poker</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Dice Duel</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn3-platform.btkmcdn.com/media/games_images/betgames/Dice_Duel_9517.png" alt="https://cdn3-platform.btkmcdn.com/media/games_images/betgames/Dice_Duel_9517.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Dice Duel</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Dice</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn2-platform.btkmcdn.com/media/games_images/betgames/Dice_9518.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/betgames/Dice_9518.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Dice</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Lucky 6</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn4-platform.btkmcdn.com/media/games_images/betgames/Lucky_6_9521.png" alt="https://cdn4-platform.btkmcdn.com/media/games_images/betgames/Lucky_6_9521.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Lucky 6</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Lucky 7</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn3-platform.btkmcdn.com/media/games_images/betgames/Lucky_7_9523.png" alt="https://cdn3-platform.btkmcdn.com/media/games_images/betgames/Lucky_7_9523.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Lucky 7</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Lucky 5</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn1-platform.btkmcdn.com/media/games_images/betgames/Lucky_5_9499.png" alt="https://cdn1-platform.btkmcdn.com/media/games_images/betgames/Lucky_5_9499.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Lucky 5</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_010bb">
+                        <div class="game_b8ab1">
+                           <div class="game-info_2b59e">
+                              <div class="favorite-btn-wrap_e9363">
+                                 <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                    <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                    <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                 </svg>
+                              </div>
+                              <div class="game-info-bottom_6f3bd">
+                                 <div class="game-name_1e144">Çarkıfelek</div>
+                                 <div class="provider-name_ef919">Bet Games</div>
+                              </div>
+                           </div>
+                           <img src="https://cdn2-platform.btkmcdn.com/media/games_images/betgames/Baccarat_9525.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/betgames/Baccarat_9525.png" class="game-image_8e65f">
+                           <div class="game-actions_10a7c">
+                              <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_15beb">
+                                 <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                              </svg>
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_15a71">
+                                 <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                              </svg>
+                           </div>
+                        </div>
+                        <div class="item-bottom_54d0d">
+                           <div class="game-title_6ea59">Çarkıfelek</div>
+                           <div class="provider-title_b870b">Bet Games</div>
+                        </div>
+                     </div>
+                  </div>
+                  <button type="button" class="btn_8fe77">
+                     <svg width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.9041 0.334315L5.70756 0.110943C5.6457 0.0411838 5.56341 0.00275299 5.47546 0.00275299C5.38756 0.00275299 5.30517 0.0411838 5.24331 0.110943L3.00134 2.64154L0.756787 0.108135C0.69503 0.0383758 0.612639 0 0.524736 0C0.436833 0 0.354393 0.0383758 0.292588 0.108135L0.0960008 0.330131C-0.0320003 0.474494 -0.0320003 0.709649 0.0960008 0.854012L2.76841 3.88118C2.83017 3.95089 2.91246 4 3.00115 4H3.00217C3.09012 4 3.17242 3.95083 3.23417 3.88118L5.9041 0.862216C5.96595 0.792512 5.9999 0.69682 6 0.597605C6 0.498334 5.96595 0.403964 5.9041 0.334315Z" fill="#2764FF"></path>
+                     </svg>
+                     <span>Daha fazla</span>
+                     <svg width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.9041 0.334315L5.70756 0.110943C5.6457 0.0411838 5.56341 0.00275299 5.47546 0.00275299C5.38756 0.00275299 5.30517 0.0411838 5.24331 0.110943L3.00134 2.64154L0.756787 0.108135C0.69503 0.0383758 0.612639 0 0.524736 0C0.436833 0 0.354393 0.0383758 0.292588 0.108135L0.0960008 0.330131C-0.0320003 0.474494 -0.0320003 0.709649 0.0960008 0.854012L2.76841 3.88118C2.83017 3.95089 2.91246 4 3.00115 4H3.00217C3.09012 4 3.17242 3.95083 3.23417 3.88118L5.9041 0.862216C5.96595 0.792512 5.9999 0.69682 6 0.597605C6 0.498334 5.96595 0.403964 5.9041 0.334315Z" fill="#2764FF"></path>
+                     </svg>
+                  </button>
+               </div>
+            </div>
          </div>
       </div>
-      <i class="horizontal-sl-arrow bc-i-small-arrow-right"></i>
    </div>
-   <div class="skill-games-page-bc">
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/2c60e4156ba33f3e91457fa273219d1b_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Red Hot Line" title="Red Hot Line" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/d5f4bfea9db3c869bf7d45f11c17cf93_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Aviator" title="Aviator" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/a53c05ce897af84b3b228542ca31282a_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Spaceman™" title="Spaceman™" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/2ed60aa9ddaab77aafad2522c4878693_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Aviatrix" title="Aviatrix" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/6104a0b38841114362a8d21cdfb02d32_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Zeppelin" title="Zeppelin" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/a0ef8273f75f420ba32eb18653defa48_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Instant Keno" title="Instant Keno" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/87bf3f5d57086530cadc6812be724b65_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Crash - Crypto" title="Crash - Crypto" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/04e1d0bd16ddda9d1197b8bc276682f4_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Dice" title="Dice" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/5926d4bbf670487a52bc5ea0c792e639_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Chance To Change Blackjack" title="Chance To Change Blackjack" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/2c1ecf06c194d305d48325e8116dfe23_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Big City Cars" title="Big City Cars" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/d694787c5c9f314d6ab78f62d441a539_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Touch Me" title="Touch Me" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/91728f0f640a766cbf3b5f0cfde3ce83_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Limbo - Crypto" title="Limbo - Crypto" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/1e57f458a723312362743bdc615fba60_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Blackjack - Crypto" title="Blackjack - Crypto" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/94e7c777331466d5f0fac6e3965fddfd_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Keno - Crypto" title="Keno - Crypto" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/0c95d0169d00b2476870a9a3ec7e52f8_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Combo Keno 8" title="Combo Keno 8" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/294ed37251e4a816f17f5b6b1dda41e8_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Combo Keno 10" title="Combo Keno 10" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/b4a19bbb76e2bbdda92f4e048b7086ee_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Shumba" title="Shumba" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/184d069f6734dead72afccda70ba9900_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Astronaut" title="Astronaut" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/9b15907849dfaadba13e8e237acb39ea_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Jacks or Better" title="Jacks or Better" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/9e184878f2e70e97c7121f13062ff540_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="PLİNKO" title="PLİNKO" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/8b3e830839adbcca4e9707b7ac1aeb5e_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Fishing" title="Fishing" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/0982a1ac81b78f45c00d4d08128b4d55_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Tornado Andar Bahar" title="Tornado Andar Bahar" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/95053133eb7ef79cdf075dedbbf7b05e_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="777 Poker" title="777 Poker" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/e0520fd07dc6e84582d068de5c5d8798_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Big HiLo" title="Big HiLo" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c05d6694ec8f05ffb397ec1e7c62d71c_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Gogo Banana" title="Gogo Banana" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/1eab6e3adfd682aae647942a8ba2aabf_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="STAIRS" title="STAIRS" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/9eb97ee60d0f66f2ae5c602dec5f5e7b_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Turbo Blackjack" title="Turbo Blackjack" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/4372174e9f575a4bcac4455b3ab0291c_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Diamond Quest" title="Diamond Quest" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/a32d7990bd4196f1c383b20f29dbfdbf_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="x50 Wheel" title="x50 Wheel" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/f3997058dfca7cad0daebc97eb8913e1_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Pascal" title="Pascal" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/381aec506de4adc1537750decf85fde6_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Baccarat" title="Baccarat" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/0f8abeeb5aa59ac4130a3ecc5423df92_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Non-Stop Roulette" title="Non-Stop Roulette" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/b2e611f602954f354b64b5b75902409a_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Mines" title="Mines" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/d222f8b75658a7be785cbfaa195cb900_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="PLINKO" title="PLINKO" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/acf5b0d039dcab1963db86db178b6f10_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Electric Crash" title="Electric Crash" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/75f9078679539d1958aad76680961779_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Hi Lo" title="Hi Lo" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/f37a3ef98a7417a3a91147c8a9af4726_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Magic Idol" title="Magic Idol" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/a21dbb5d577a572fb944b979af04df78_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Magic Dice" title="Magic Dice" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/917c5f06b416e3bdc2a04a8dd9a2e2ec_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Fast Trade" title="Fast Trade" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/eb843b71ada2d572b970cb7979f6a844_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Crazy Worm" title="Crazy Worm" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/b9ffd451d0479914a0c9742ee463130a_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Catch Me" title="Catch Me" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/97adf7bc0d5d4b49e215be0651f50cd5_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Non-Stop Match" title="Non-Stop Match" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/e380243ef4232bc901a03d2fd1025a29_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Turbo Baccarat" title="Turbo Baccarat" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/7eaecaeb104dd9779d1c63df5adb3dcc_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="ODDBALL" title="ODDBALL" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/2e6dd794e386091892479cc970aa357d_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Lucky Lotto" title="Lucky Lotto" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/468fd46d4267eb001e12487a404906c5_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Turbo Belote" title="Turbo Belote" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/2679314594c4b7de59fdb82f78b0bcd1_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Dream Wheel" title="Dream Wheel" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/3deadd7eb10355958bf0280fe48eeb93_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Double Wheel" title="Double Wheel" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/dffc5f22e54986c6441ca8f6e81c5382_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Non-Stop BlackJack" title="Non-Stop BlackJack" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/0ee342a6d5c82c9f202480536464fd55_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Drift" title="Drift" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/68204472b780ae2eb6c42334a190c1a9_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Non-Stop Baccarat" title="Non-Stop Baccarat" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/e5579cd25eba4f43eb61a6b1dded22e4_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Fighters xXx" title="Fighters xXx" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/57bbb2e751ae49edccf1a8ac4a3e4d50_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Crystal Crush" title="Crystal Crush" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/6af85f0e57abfa68a43c8dcda453100c_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Dice" title="Dice" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/56f949f7a7cc2cd6d93de9fef83ca659_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="MONTI" title="MONTI" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/cde9a0a4894dfbf13e2811c80e09d7b8_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Empire Lottery" title="Empire Lottery" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c489f9ef8db99ea360a3b3949869141c_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Poker" title="Poker" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/440132702750e62b561f487003afd862_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="VR Live Dealer" title="VR Live Dealer" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/8eb299d1dd8a8efb2406a57bdc3757c9_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Ogwil" title="Ogwil" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/dab402cb069e9e55b8740405c4c4e51b_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Backgammon" title="Backgammon" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c78fd4f5f3cb1a192d5e00f1d038da67_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Talısman" title="Talısman" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/a58f8714d071b890d75faaa7594b9ad2_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="ChingaChoong" title="ChingaChoong" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/315686207c3a456c71e1f754974049c4_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Keno" title="Keno" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/f0f11ad00336b75fdd34408b97f65b2c_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Farkle (Zonk)" title="Farkle (Zonk)" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c020e8390b99990cb0d5dc54d21e84b1_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Penality" title="Penality" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/351b925d5359da31cd6bfa10cb2003a4_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Grilles" title="Grilles" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c0ca6b7da1b536bb6ceb1378cb160d27_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Power Ball" title="Power Ball" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/61545fde4e083796d7cbfd9d8a2cfcb8_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Belote" title="Belote" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/e8600d4ee672f4c69d481035bc668eff_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Blast" title="Blast" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/2f8cd3484871833f67bac4519be3d9cb_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Striker" title="Striker" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/7548ac33475fce2fdd29fd39f0fcdba5_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Crash" title="Crash" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/1773e7359dc42f6aa8638cb8e0d56ef1_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Wow Bow" title="Wow Bow" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/526b7366b0dc8744d2fc6a8917065de0_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="WinBall" title="WinBall" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/b530ce68b109f4ffddb20f60c2709e4b_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Striker" title="Striker" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c622b5af8db584fd833fcd8691caae83_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Plinko" title="Plinko" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/72828f75c07b7692d61b57640bc8d6ce_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Penalty" title="Penalty" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/eb588184ee5bb057c8fa91687b34c76d_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Formula 1" title="Formula 1" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/9fa7fc669ab7e5a88267b4347a6b7b5e_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Darts" title="Darts" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/a1fb50999a07eb467ed6112a8dd556d8_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="BoomBasket" title="BoomBasket" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/3346fda0aa1f26d0df76790a43dab4d2_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="BoomBall" title="BoomBall" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/02bc21a8f1e3223576ff287f8738c718_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Blue Thunder" title="Blue Thunder" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-      </div>
-      <div class="casino-game-item-content">
-         <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/1921682a4cf709e707eb92b649b39505_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Space Taxi" title="Space Taxi" loading="lazy"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
+   <div class="menu-container_aada0">
+      <div class="menu_e11fd">
+         <div class="left_55acb">
+            <button class="btn_24a41" aria-label="login button">
+               <i class="icon-bottom-key"></i>
+               <p>Giriş</p>
+            </button>
+            <button class="btn_24a41" aria-label="registration button">
+               <i class="icon-bottom-plus"></i>
+               <p>kayıt ol !</p>
+            </button>
+            <button class="btn_24a41" aria-label="forgot password button">
+               <i class="icon-bottom-question"></i>
+               <p>şi̇fremi̇ unuttum</p>
+            </button>
+            <button class="btn_24a41" aria-label="promotion button">
+               <i class="icon-bottom-gift"></i>
+               <p>promosyonlar</p>
+            </button>
+         </div>
+         <div class="right_19adb">
+            <button class="btn_14f47 btn-notification_f1872" aria-label="notification button"><i class="icon-bottom-notification"></i><span>Bildirimler</span><span class="amount_25806">0</span></button><button class="btn_14f47" aria-label="cart button"><i class="icon-bottom-invoice"></i><span>Bahis Slip</span><span class="amount_25806">0</span></button>
+            <button aria-label="live support button" class="btn_14f47 btn-live-support_3d5b3">
+               <i class="icon-bottom-headset"></i>
+               <div class="live-support-text_37253"><span>Destek</span><i class="online_87616">Online</i></div>
+            </button>
+         </div>
       </div>
    </div>
 </div>

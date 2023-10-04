@@ -1,1097 +1,365 @@
 
-         <div class="layout-content-holder-bc">
-            <div class="hm-row-bc  has-slider" style="grid-template-columns: 12fr;">
-               <div class="slider-bc  ">
-                  <div class="carousel">
-                     <div class="carousel-count">1 / 24</div>
-                     <div class="carousel-viewport">
-                        <div class="carousel-container slider-slickone" style="transform: translate3d(0%, 0px, 0px);">
-                           <div class="carousel-slide active-slide" style="width: 100%; left: 0%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/live-casino/home/-1/All?searchTerm=Vegas%20Ball%20Bonanza"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_d553093ff44c17e5c4fb657d13de4f8e.webp" loading="lazy" class="sdr-image-bc" alt="" title="Vegas Ball"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a class="sdr-item-bc"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_dbf0e38f41f2e1211960e495dfabb468.webp" loading="lazy" class="sdr-image-bc" alt="" title="Çekim Limiti Artışı"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18187/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_7a488e3da1346863fece001904435aec.webp" loading="lazy" class="sdr-image-bc" alt="" title="Slotmania Turnuvası"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/casino/slots/-1/806666"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_c2bb572ccd7b79cbdf8cb0d63b2cc114.webp" loading="lazy" class="sdr-image-bc" alt="" title="Aviator"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/82385"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_1d61998361de77e5f3175fa9b4c55a2e.webp" loading="lazy" class="sdr-image-bc" alt="" title="%50 Casino Bonusu "></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/89785/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_310e6d7e5aa8f1c58aa514a115042b29.webp" loading="lazy" class="sdr-image-bc" alt="" title="Risksiz Casino &amp; Spor Bonusu"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/87908/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_c572012fbe2138606e7c893a3bd5a498.webp" loading="lazy" class="sdr-image-bc" alt="" title="Yatırıma Özel Freespin"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/63514"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_3ac4a5e600f091de474792b34560f8b0.webp" loading="lazy" class="sdr-image-bc" alt="https://front.cmsbetconstruct.com/blocks/promotions/tr/edit/63514" title="100 Freespin veya Freebet!"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18180"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_d99df341530de31013a05011ec88f9d1.webp" loading="lazy" class="sdr-image-bc" alt="" title="%100 Hoş Geldin"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotoions/all/18179"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_f6e266bc55816ed753928a0d5469a3c4.webp" loading="lazy" class="sdr-image-bc" alt="" title=" %100 Hoş Geldin Spor"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18178"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_1ff8f9b99a19867bb8181f8c3a2a8195.webp" loading="lazy" class="sdr-image-bc" alt="" title="%30 Casino Kayıp"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18177"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_814f94ecff64acb7130be1afeeafc490.webp" loading="lazy" class="sdr-image-bc" alt="" title="%30 Spor Kayıp Bonusu"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/24986"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_a4e1615cb92f106b1dd05d6c0203a649.webp" loading="lazy" class="sdr-image-bc" alt="" title="%15 Çevrimsiz"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/39243/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_6a78878e7b6c392c26ae52e6ed65ecf9.webp" loading="lazy" class="sdr-image-bc" alt="" title="Doğum Günü Özel"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/32410/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_2ae995733fb6edc1c06aa116c3bed64d.webp" loading="lazy" class="sdr-image-bc" alt="" title="Extra Kazanç Şansı"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18181/sadakat-bonusu"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_4218b8c03daa9cf045915e02845b24b2.webp" loading="lazy" class="sdr-image-bc" alt="" title="Sadakat Bonusu"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/49468/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_a0c0c3ca3c9af62adfbec87614edc833.webp" loading="lazy" class="sdr-image-bc" alt="" title="Kripto Yatırım Extra Kayıp"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/24989/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_20e9d150b53d63da54c8a1e58a3cae97.webp" loading="lazy" class="sdr-image-bc" alt="" title="%20 EGT Yatırım Bonusu"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a href="https://streamable.com/e/6j8d8n" target="_blank" class="sdr-item-bc"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_fd161b295e5f6ac83a830d0c71cdfc7e.webp" loading="lazy" class="sdr-image-bc" alt="" title="Forex ile İşlem Nasıl Yapılır"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a href="https://kisa.link/trendtv" target="_blank" class="sdr-item-bc"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_8caa779df16fcab44a2e0506e94a7759.webp" loading="lazy" class="sdr-image-bc" alt="" title="TrendGroup TV"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a class="sdr-item-bc"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_ce033b5c30a3f05a621aee0cf062254a.webp" loading="lazy" class="sdr-image-bc" alt="" title="Google Authenticator"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18175"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_ee80d01a1b3e7089edf453eed101637c.webp" loading="lazy" class="sdr-image-bc" alt="" title="BAHİS DÜZENLE"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a href="https://trendbet1.app" target="_blank" class="sdr-item-bc"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_d02f1c7b9e87496634f25a72152c3524.webp" loading="lazy" class="sdr-image-bc" alt="" title="Redirector"></a></div>
-                           </div>
-                           <div class="carousel-slide " style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a class="sdr-item-bc"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_59f05e153de5df0ca38d572201a16bc5.webp" loading="lazy" class="sdr-image-bc" alt="" title="Cepbank&amp;QR"></a></div>
-                           </div>
+            <div class="main-content-wrapper_9d176">
+               <div class="slick-slider top-slider_8d6e1 slick-initialized" dir="ltr">
+                  <button class="slick-arrow slick-prev" style="display: block;">
+                     <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                        <path d="M8.33301 14.9121L1.42089 8.00001L8.33301 1.08789" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                     </svg>
+                  </button>
+                  <div class="slick-list">
+                     <div class="slick-track" style="width: 9375px; opacity: 1; transform: translate3d(-1875px, 0px, 0px);">
+                        <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
+                        </div>
+                        <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316811_tr_TR_100-yatirim-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316811_tr_TR_100-yatirim-slider.jpg"></a></div>
+                        </div>
+                        <div data-index="1" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316820_tr_TR_kombine-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316820_tr_TR_kombine-slider.jpg"></a></div>
+                        </div>
+                        <div data-index="2" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696078365_tr_TR_5_payfix_yatirim_bonusu_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696078365_tr_TR_5_payfix_yatirim_bonusu_slider.png"></a></div>
+                        </div>
+                        <div data-index="3" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696080644_tr_TR_23-05_arasi_ek_freespin_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696080644_tr_TR_23-05_arasi_ek_freespin_slider.png"></a></div>
+                        </div>
+                        <div data-index="4" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006030_tr_TR_ana_sayfa_ust_banner-1.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006030_tr_TR_ana_sayfa_ust_banner-1.png"></a></div>
+                        </div>
+                        <div data-index="5" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006035_tr_TR_ana_sayfa_ust_banner-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006035_tr_TR_ana_sayfa_ust_banner-2.png"></a></div>
+                        </div>
+                        <div data-index="6" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026785_tr_TR_ana_sayfa_ust_banner-8-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026785_tr_TR_ana_sayfa_ust_banner-8-2.png"></a></div>
+                        </div>
+                        <div data-index="7" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006040_tr_TR_ana_sayfa_ust_banner-3.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006040_tr_TR_ana_sayfa_ust_banner-3.png"></a></div>
+                        </div>
+                        <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026780_tr_TR_ana_sayfa_ust_banner-11.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026780_tr_TR_ana_sayfa_ust_banner-11.png"></a></div>
+                        </div>
+                        <div data-index="9" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970635_tr_TR_ana_sayfa_ust_banner-10.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970635_tr_TR_ana_sayfa_ust_banner-10.png"></a></div>
+                        </div>
+                        <div data-index="10" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696075901_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696075901_tr_TR_egt_cok_yakinda_slider.png"></a></div>
+                        </div>
+                        <div data-index="11" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
+                        </div>
+                        <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316811_tr_TR_100-yatirim-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316811_tr_TR_100-yatirim-slider.jpg"></a></div>
+                        </div>
+                        <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316820_tr_TR_kombine-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316820_tr_TR_kombine-slider.jpg"></a></div>
+                        </div>
+                        <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696078365_tr_TR_5_payfix_yatirim_bonusu_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696078365_tr_TR_5_payfix_yatirim_bonusu_slider.png"></a></div>
+                        </div>
+                        <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696080644_tr_TR_23-05_arasi_ek_freespin_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696080644_tr_TR_23-05_arasi_ek_freespin_slider.png"></a></div>
+                        </div>
+                        <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006030_tr_TR_ana_sayfa_ust_banner-1.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006030_tr_TR_ana_sayfa_ust_banner-1.png"></a></div>
+                        </div>
+                        <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006035_tr_TR_ana_sayfa_ust_banner-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006035_tr_TR_ana_sayfa_ust_banner-2.png"></a></div>
+                        </div>
+                        <div data-index="18" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026785_tr_TR_ana_sayfa_ust_banner-8-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026785_tr_TR_ana_sayfa_ust_banner-8-2.png"></a></div>
+                        </div>
+                        <div data-index="19" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006040_tr_TR_ana_sayfa_ust_banner-3.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006040_tr_TR_ana_sayfa_ust_banner-3.png"></a></div>
+                        </div>
+                        <div data-index="20" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026780_tr_TR_ana_sayfa_ust_banner-11.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026780_tr_TR_ana_sayfa_ust_banner-11.png"></a></div>
+                        </div>
+                        <div data-index="21" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970635_tr_TR_ana_sayfa_ust_banner-10.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970635_tr_TR_ana_sayfa_ust_banner-10.png"></a></div>
+                        </div>
+                        <div data-index="22" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696075901_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696075901_tr_TR_egt_cok_yakinda_slider.png"></a></div>
+                        </div>
+                        <div data-index="23" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                           <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                         </div>
                      </div>
                   </div>
+                  <button class="slick-arrow slick-next" style="display: block;">
+                     <svg width="10" height="16" viewBox="0 0 10 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                        <path d="M8.33301 14.9121L1.42089 8.00001L8.33301 1.08789" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                     </svg>
+                  </button>
                </div>
-            </div>
-            <div class="hm-row-bc  has-slider" style="grid-template-columns: 12fr;">
-               <div class="slider-bc  hide-shadow">
-                  <div class="carousel">
-                     <div class="carousel-viewport">
-                        <div class="carousel-container slider-slickone" style="transform: translate3d(0%, 0px, 0px);">
-                           <div class="carousel-slide active-slide" style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_704e91a090f41059411ea93b74420193.webp" loading="lazy" class="sdr-image-bc" alt="" title="Button"></a></div>
-                           </div>
-                        </div>
+               <div class="page-cards_643fa">
+                  <a href="/tr/sports/" class="page-card_94b43 PRE_LIVE_adeea">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_19037)">
+                              <path d="M8.00019 0C3.5816 0 7.1871e-08 3.58141 7.1871e-08 8C-0.000585866 12.418 3.5816 15.9994 8.00019 16C12.4186 16 16.0008 12.4186 16 7.99941C16.0008 3.58078 12.4178 0 8.00019 0ZM13.4206 11.871L12.2998 11.056L9.57855 13.0332L10.0086 14.3568C9.37457 14.5572 8.69996 14.6666 7.99976 14.6666C7.29977 14.6666 6.62578 14.5572 5.99176 14.3574L6.42195 13.0332L3.7 11.056L2.57961 11.8704C1.80801 10.7922 1.34762 9.47781 1.33602 8.05402L2.72543 8.0532L3.76441 4.8548L2.64461 4.04102C3.45062 2.9518 4.57781 2.11723 5.88941 1.67961L6.31859 3H9.68121L10.1102 1.67961C11.4226 2.11781 12.5494 2.95242 13.3554 4.04102L12.2354 4.8548L13.2744 8.0532H14.6646C14.653 9.47801 14.1924 10.7924 13.4206 11.871Z" fill="currentColor"></path>
+                              <path d="M9.67094 5.70068H6.30695L5.26855 8.89908L7.98938 10.8757L10.7102 8.89908L9.67094 5.70068Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
                      </div>
-                  </div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="jackpot-banner">
-                  <div class="casinoJackpotWrapper-bc">
-                     <div class="carousel">
-                        <div class="carousel-viewport">
-                           <div class="carousel-container slider-slickone" style="transform: translate3d(0%, 0px, 0px);">
-                              <div class="carousel-slide active-slide" style="width: 100%;">
-                                 <div class="casinoJackpotLevelEl-bc">
-                                    <h3 class="casinoJackpotLevelTitle-bc">AMUSNET INTERACTIVE<i class="casinoJackpotLevelInfo-bc bc-i-player-info"></i></h3>
-                                    <div class="casinoJackpotLevelPrice-bc odometer odometer-auto-theme" data-cur="₺">
-                                       <div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">3</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">3</span></span></span></span></span><span class="odometer-formatting-mark">,</span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">9</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">3</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">9</span></span></span></span></span><span class="odometer-formatting-mark odometer-radix-mark">.</span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">9</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">8</span></span></span></span></span></div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Spor</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
                      </div>
-                  </div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="product-banner-container-bc col-4 ">
-                  <a target="_self" class="product-banner-info-bc product-banner-bc" href="casino">
-                     <img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_dc32fc08b8ebd4a570d479190a41136a.webp" alt="">
-                     <p class="product-banner-title-bc">Türkçe Rulet</p>
+                     <div class="subtitle_e3d7e">Bahisler</div>
+                     <div class="text_f4520">Hemen Oyna</div>
                   </a>
-                  <a target="_self" class="product-banner-info-bc product-banner-bc" href="aviator">
-                     <img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_4d8cb786fec88126c64af39ed959ac1f.webp" alt="">
-                     <p class="product-banner-title-bc">Aviator</p>
+                  <a href="/tr/live/" class="page-card_94b43 LIVE_b8ceb">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_15048)">
+                              <path d="M13.0765 12.9692C12.867 13.2775 12.9577 13.6906 13.279 13.8917C13.6002 14.0928 14.0305 14.0058 14.2401 13.6974C15.3532 12.0585 16 10.1008 16 8.00001C16 5.89922 15.3532 3.94144 14.2401 2.30262C14.0305 1.99421 13.6002 1.9072 13.279 2.10829C12.9577 2.30939 12.867 2.72243 13.0765 3.03085C14.047 4.45964 14.611 6.16558 14.611 8.00001C14.611 9.83438 14.047 11.5403 13.0765 12.9692Z" fill="currentColor"></path>
+                              <path d="M2.72106 2.10829C3.04236 2.30938 3.133 2.72243 2.9235 3.03085C1.95302 4.45964 1.38898 6.16558 1.38898 8.00001C1.38898 9.83438 1.95301 11.5403 2.9235 12.9692C3.133 13.2775 3.04236 13.6906 2.72106 13.8917C2.39977 14.0928 1.96949 14.0058 1.76 13.6974C0.646856 12.0585 0 10.1008 0 8.00001C0 5.89922 0.646856 3.94144 1.76 2.30262C1.96949 1.99421 2.39977 1.9072 2.72106 2.10829Z" fill="currentColor"></path>
+                              <path d="M4.74399 4.79169C5.05554 5.00643 5.12677 5.42296 4.90306 5.72204C4.43963 6.34156 4.16693 7.10048 4.16693 7.92252C4.16693 8.74455 4.43963 9.50347 4.90306 10.123C5.12677 10.4221 5.05554 10.8387 4.74399 11.0534C4.43242 11.2681 3.9985 11.1997 3.7748 10.9007C3.14748 10.062 2.77795 9.03272 2.77795 7.92252C2.77795 6.8124 3.14748 5.78306 3.7748 4.94439C3.9985 4.64532 4.43242 4.57694 4.74399 4.79169Z" fill="currentColor"></path>
+                              <path d="M8.10237 5.55566C6.69598 5.55566 5.55591 6.65005 5.55591 8.00008C5.55591 9.35011 6.69598 10.4445 8.10237 10.4445C9.50876 10.4445 10.6488 9.35011 10.6488 8.00008C10.6488 6.65005 9.50876 5.55566 8.10237 5.55566Z" fill="currentColor"></path>
+                              <path d="M11.2422 10.123C11.0185 10.4221 11.0897 10.8387 11.4013 11.0534C11.7128 11.2682 12.1467 11.1997 12.3704 10.9007C12.9977 10.062 13.3673 9.03272 13.3673 7.92251C13.3673 6.81239 12.9977 5.78307 12.3704 4.94439C12.1467 4.64531 11.7128 4.57695 11.4013 4.79169C11.0897 5.00643 11.0185 5.42296 11.2422 5.72204C11.7055 6.34164 11.9783 7.10047 11.9783 7.92251C11.9783 8.74454 11.7055 9.50347 11.2422 10.123Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Canlı</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Bahisler</div>
+                     <div class="text_f4520">Hemen Oyna</div>
                   </a>
-                  <a target="_self" class="product-banner-info-bc product-banner-bc" href="casino">
-                     <img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_a1e34df968a6ff9c25b17e6beede9e67.webp" alt="">
-                     <p class="product-banner-title-bc">Xtreme Rulet</p>
+                  <a href="/tr/casino/" class="page-card_94b43 CASINO_fc6b8">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_15036)">
+                              <path d="M10.3207 5.67917C7.78198 3.14047 5.43066 1.2883 2.36572 4.35336C-0.439947 7.15903 -0.57337 13.3466 1.03991 14.9599C2.65319 16.5732 8.84082 16.4398 11.6465 13.6341C14.7115 10.5691 12.8594 8.21787 10.3207 5.67917ZM3.3601 13.3027L2.69714 12.6397L4.02295 11.3139L4.68591 11.9768L3.3601 13.3027ZM3.3601 10.651L2.69714 9.98813L4.02295 8.6622L4.68591 9.32517L3.3601 10.651ZM3.3601 7.99936L2.69714 7.3364L4.02295 6.01059L4.68591 6.67355L3.3601 7.99936ZM6.01172 13.3027L5.34887 12.6397L6.67468 11.3139L7.33764 11.9768L6.01172 13.3027ZM6.01172 10.651L5.34887 9.98813L6.67468 8.6622L7.33764 9.32517L6.01172 10.651ZM6.01172 7.99936L5.34887 7.3364L6.67468 6.01059L7.33764 6.67355L6.01172 7.99936ZM8.66345 13.3027L8.00049 12.6397L9.32629 11.3139L9.98926 11.9768L8.66345 13.3027ZM8.66345 10.651L8.00049 9.98813L9.32629 8.6622L9.98926 9.32517L8.66345 10.651Z" fill="currentColor"></path>
+                              <path d="M11.1291 4.19007C11.3102 3.29614 11.057 2.0177 10.3652 1.32581L9.03939 0C8.41476 0.624512 8.1141 1.84705 8.20089 2.66358C9.2944 3.32886 10.2346 4.26734 10.9835 5.01636C11.7325 5.76538 12.6711 6.70545 13.3364 7.79908C14.1529 7.88587 15.3574 7.56714 15.982 6.94263L14.6562 5.61682C13.9643 4.92493 12.6858 4.67176 11.792 4.85291L11.8047 4.84021C12.9253 3.71973 14.4153 3.10242 16 3.10242V2.16504C14.1647 2.16504 12.4394 2.87964 11.1417 4.17737L11.1291 4.19007Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>3D</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Slots</div>
+                     <div class="text_f4520">Hemen Oyna</div>
                   </a>
-                  <a target="_self" class="product-banner-info-bc product-banner-bc" href="livecasino">
-                     <i class="product-banner-icon-bc bc-i-nonStopBlackJack"></i>
-                     <p class="product-banner-title-bc">BlackJack</p>
+                  <a href="/tr/live_casino/" class="page-card_94b43 LIVE_CASINO_09272">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_15014)">
+                              <path d="M6.12568 2.51408V0.22168C5.26433 0.429305 4.43714 0.781898 3.68927 1.26024L5.30033 2.8713C5.56415 2.73187 5.83983 2.61199 6.12568 2.51408Z" fill="currentColor"></path>
+                              <path d="M10.6997 2.8713L12.3107 1.26024C11.5629 0.781867 10.7357 0.429273 9.87433 0.22168V2.51408C10.1602 2.61199 10.4359 2.73187 10.6997 2.8713Z" fill="currentColor"></path>
+                              <path d="M13.5566 6.34739H15.8281C15.6517 5.51154 15.3394 4.70292 14.9081 3.96436L13.2751 5.59732C13.3856 5.83892 13.4798 6.08945 13.5566 6.34739Z" fill="currentColor"></path>
+                              <path d="M5.5974 13.2754L3.96387 14.9089C4.64027 15.3058 5.36399 15.5972 6.12565 15.7792V13.4861C5.94543 13.4244 5.76921 13.354 5.5974 13.2754Z" fill="currentColor"></path>
+                              <path d="M9.87433 13.4861V15.7792C10.636 15.5972 11.3597 15.3059 12.0361 14.9089L10.4026 13.2754C10.2308 13.354 10.0546 13.4244 9.87433 13.4861Z" fill="currentColor"></path>
+                              <path d="M0.171814 6.34739H2.44334C2.52019 6.08945 2.61434 5.83892 2.72481 5.59732L1.09184 3.96436C0.660533 4.70292 0.348283 5.51154 0.171814 6.34739Z" fill="currentColor"></path>
+                              <path d="M2.203 8.00022C2.203 7.75813 2.21816 7.51953 2.24713 7.28516H0.0319063C0.0110938 7.52159 0 7.76003 0 8.00022C0 8.3915 0.0281875 8.77844 0.0830625 9.15888H2.31944C2.24316 8.78438 2.203 8.39691 2.203 8.00022Z" fill="currentColor"></path>
+                              <path d="M2.59534 10.0962H0.277527C0.489465 10.8827 0.818309 11.6242 1.25981 12.3113L2.87137 10.6997C2.76831 10.5048 2.67597 10.3034 2.59534 10.0962Z" fill="currentColor"></path>
+                              <path d="M13.0788 1.81787L11.5084 3.38828C12.0077 3.76912 12.4438 4.22887 12.7974 4.74909L14.3777 3.16881C14.158 2.88006 13.9178 2.6039 13.6569 2.34293C13.4715 2.15756 13.2785 1.98256 13.0788 1.81787Z" fill="currentColor"></path>
+                              <path d="M3.20254 4.74912C3.55616 4.2289 3.99223 3.76915 4.4916 3.38831L2.92116 1.81787C2.72147 1.98253 2.5285 2.15756 2.3431 2.34293C2.08213 2.6039 1.84194 2.88003 1.62225 3.16881L3.20254 4.74912Z" fill="currentColor"></path>
+                              <path d="M7.06317 0.0544063V2.27909C7.36823 2.22931 7.68111 2.203 8.00002 2.203C8.31892 2.203 8.6318 2.22931 8.93686 2.27909V0.0544063C8.62814 0.018625 8.31552 0 8.00002 0C7.68452 0 7.37189 0.018625 7.06317 0.0544063Z" fill="currentColor"></path>
+                              <path d="M3.16899 14.3776L4.74927 12.7974C4.22905 12.4437 3.7693 12.0077 3.38846 11.5083L1.81805 13.0787C1.98271 13.2784 2.15774 13.4714 2.34312 13.6568C2.60409 13.9177 2.88024 14.158 3.16899 14.3776Z" fill="currentColor"></path>
+                              <path d="M12.6115 11.5083C12.2306 12.0077 11.7709 12.4437 11.2507 12.7974L12.831 14.3776C13.1197 14.158 13.3959 13.9177 13.6568 13.6568C13.8422 13.4714 14.0172 13.2785 14.1819 13.0787L12.6115 11.5083Z" fill="currentColor"></path>
+                              <path d="M8.93686 15.9454V13.7207C8.6318 13.7705 8.31892 13.7968 8.00002 13.7968C7.68111 13.7968 7.36823 13.7705 7.06317 13.7207V15.9454C7.37189 15.9812 7.68452 15.9998 8.00002 15.9998C8.31552 15.9998 8.62814 15.9812 8.93686 15.9454Z" fill="currentColor"></path>
+                              <path d="M15.9681 7.28516H13.7529C13.7819 7.51953 13.797 7.75813 13.797 8.00022C13.797 8.39691 13.7569 8.78438 13.6806 9.15888H15.917C15.9718 8.77844 16 8.3915 16 8.00022C16 7.76003 15.9889 7.52159 15.9681 7.28516Z" fill="currentColor"></path>
+                              <path d="M15.7224 10.0962H13.4046C13.324 10.3034 13.2316 10.5048 13.1286 10.6997L14.7402 12.3113C15.1817 11.6243 15.5105 10.8827 15.7224 10.0962Z" fill="currentColor"></path>
+                              <path d="M12.8595 8.00012C12.8595 5.32059 10.6795 3.14062 8 3.14062C5.32047 3.14062 3.1405 5.32059 3.1405 8.00012C3.1405 10.6797 5.32047 12.8596 8 12.8596C10.6795 12.8596 12.8595 10.6797 12.8595 8.00012ZM8.28569 10.9795C8.27994 11.1378 8.14991 11.2632 7.9915 11.2632C7.82457 11.2632 7.69103 11.1245 7.69735 10.9577L7.70219 10.8292C7.20188 10.8092 6.66357 10.6099 6.25985 10.2577C6.10544 10.1231 6.08363 9.89069 6.2055 9.726L6.33303 9.55366C6.465 9.37531 6.71922 9.33769 6.8935 9.47497C7.17197 9.69438 7.54207 9.84075 7.79225 9.84659L7.81682 8.47913L7.53841 8.36447C6.826 8.0615 6.22825 7.66844 6.22825 6.79228C6.22825 5.79331 6.99794 5.26106 7.91503 5.17916L7.92091 5.02047C7.92678 4.86225 8.05675 4.737 8.2151 4.737H8.22132C8.38594 4.737 8.5186 4.87203 8.51566 5.03662L8.51282 5.19553C8.8871 5.22669 9.29941 5.36722 9.61938 5.60616C9.78422 5.72925 9.8256 5.95916 9.71641 6.13353L9.62772 6.27513C9.50625 6.46909 9.24838 6.51741 9.06028 6.387C8.84813 6.23994 8.61985 6.14744 8.42272 6.12081L8.38997 7.43097L8.90585 7.65206C9.56913 7.94684 9.98672 8.42175 9.98672 9.14231C9.98672 10.0758 9.17606 10.739 8.29172 10.8127L8.28569 10.9795Z" fill="currentColor"></path>
+                              <path d="M7.37463 6.66142C7.37463 6.96439 7.58751 7.11176 7.79223 7.21004L7.88229 7.25098L7.90685 6.11279C7.59573 6.13739 7.37463 6.34207 7.37463 6.66142Z" fill="currentColor"></path>
+                              <path d="M8.4637 8.70808L8.3327 8.64258L8.30811 9.86264C8.56198 9.83808 8.85676 9.61702 8.85676 9.29764C8.85676 8.98652 8.70932 8.83092 8.4637 8.70808Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Canlı</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Casino</div>
+                     <div class="text_f4520">Hemen Oyna</div>
                   </a>
-                  <a target="_self" class="product-banner-info-bc product-banner-bc"  href="javascript:;" onclick="maximizeTawkToWidget()">
-                     <i class="product-banner-icon-bc bc-i-bonus-request"></i>
-                     <p class="product-banner-title-bc">Bonus Talep Et</p>
+                  <a href="/tr/virtual/" class="page-card_94b43 VIRTUAL_d2a4f">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_15041)">
+                              <path d="M8.65905 3.92285H8.50001C8.49177 3.92285 8.48645 3.92847 8.48206 3.9351C8.53922 3.94446 8.59767 3.9499 8.65905 3.95229C8.68158 3.95297 8.68158 3.92285 8.65905 3.92285Z" fill="currentColor"></path>
+                              <path d="M15.9349 13.7753C15.9291 13.7553 15.9397 13.7479 15.9584 13.7592C15.959 13.7595 15.9595 13.7598 15.9601 13.76C15.979 13.7709 15.9896 13.7638 15.9834 13.7439C15.8642 13.3519 15.6385 13.0147 15.4999 12.6412C15.4926 12.6215 15.4977 12.6189 15.5111 12.6356C15.5412 12.6729 15.5713 12.7101 15.6015 12.747C15.615 12.7637 15.6283 12.7756 15.6314 12.7737C15.6345 12.7717 15.6276 12.7559 15.6163 12.738C15.4501 12.4777 15.284 12.2174 15.1178 11.9573C15.1065 11.9394 15.1032 11.9212 15.1109 11.9168C15.1185 11.9123 15.1353 11.9224 15.1482 11.9392C15.1848 11.9864 15.2213 12.0337 15.2581 12.0808C15.271 12.0976 15.2845 12.1104 15.2876 12.1094C15.2907 12.1083 15.2887 12.0935 15.2827 12.0764C15.2767 12.0592 15.2754 12.042 15.2799 12.0376C15.2843 12.0333 15.3005 12.0418 15.3162 12.0566C15.3904 12.1276 15.4654 12.1994 15.5487 12.279C15.5644 12.294 15.568 12.2909 15.5571 12.2727C15.5381 12.2409 15.5212 12.2121 15.505 12.1851C15.494 12.1669 15.4884 12.1468 15.4924 12.1425C15.4962 12.1383 15.5139 12.141 15.5325 12.1529C15.6243 12.2131 15.7168 12.2666 15.8152 12.3309C15.8336 12.3428 15.842 12.3249 15.8342 12.3081C15.8263 12.2911 15.8803 12.2632 15.8591 12.2593C15.7589 12.2409 15.6728 12.1167 15.6728 12.1167C15.5316 11.9076 15.353 11.714 15.2153 11.5028C15.0272 11.2143 14.889 10.9021 14.8256 10.5667C14.8177 10.5252 14.8132 10.4825 14.8106 10.44C14.8093 10.4192 14.8037 10.4138 14.8 10.4281C14.7966 10.4422 14.7873 10.4378 14.78 10.4179C14.6907 10.1783 14.6053 9.94898 14.5202 9.72049C14.5129 9.70075 14.5085 9.68391 14.5104 9.68272C14.5125 9.68153 14.5222 9.69565 14.5322 9.71419C14.5683 9.78157 14.6044 9.8486 14.6404 9.91614C14.6506 9.93452 14.6618 9.94847 14.6661 9.94728C14.67 9.94592 14.6692 9.93061 14.6636 9.91342C14.6603 9.90287 14.6568 9.8925 14.6516 9.88297C14.4304 9.47719 14.2108 9.07074 13.9845 8.66752C13.9401 8.58807 13.8774 8.51355 13.8078 8.45145C13.5966 8.26345 13.3769 8.08361 13.163 7.89817C13.087 7.83232 13.0187 7.75866 12.9457 7.68958C12.9079 7.65402 12.8717 7.61506 12.8276 7.58801C12.5372 7.41073 12.2779 7.20589 12.0613 6.94796C11.7725 6.60412 11.3788 6.37375 10.9869 6.14543C10.8927 6.09065 10.7996 6.03178 10.6986 5.99027C10.5646 5.93514 10.4268 5.8756 10.2845 5.85348C10.0801 5.82166 9.86857 5.83136 9.66287 5.80499C9.51456 5.78593 9.36753 5.74527 9.22542 5.69933C8.88563 5.5896 8.55021 5.46829 8.21096 5.35736C7.98832 5.28454 7.86351 5.10318 7.69644 4.96843C7.6866 4.96044 7.68095 4.94785 7.67622 4.93424C7.66947 4.91433 7.6682 4.89442 7.67348 4.88966C7.67877 4.8849 7.69917 4.88847 7.71921 4.89766C7.77314 4.92267 7.82762 4.94785 7.88592 4.9749C7.90596 4.98408 7.91143 4.97813 7.89813 4.96129C7.88392 4.94308 7.87025 4.92573 7.85677 4.90871C7.84347 4.89187 7.83454 4.8752 7.83673 4.87146C7.83892 4.86771 7.85714 4.87162 7.87736 4.8803C7.96846 4.91892 8.05955 4.95771 8.15065 4.99633C8.17088 5.00501 8.1911 5.00875 8.19547 5.00501C8.20003 5.0011 8.19401 4.98357 8.18235 4.96588C8.17179 4.94989 8.15994 4.93185 8.14482 4.90906C8.13316 4.89136 8.14045 4.88319 8.16122 4.89085C8.30789 4.94529 8.43816 4.99361 8.56697 5.04142C8.58774 5.04908 8.60541 5.05333 8.60669 5.05078C8.60814 5.04823 8.59302 5.03819 8.57316 5.02849C8.46239 4.97303 8.35161 4.91773 8.24084 4.86227C8.22134 4.8524 8.20786 4.83896 8.21114 4.83232C8.2146 4.82569 8.23428 4.82569 8.25541 4.83232C8.30096 4.84662 8.34633 4.86091 8.39188 4.8752C8.41301 4.88183 8.43196 4.88353 8.43415 4.87877C8.43633 4.87418 8.42413 4.85972 8.407 4.84645C8.3957 4.83777 8.38441 4.82926 8.37311 4.82058C8.35562 4.80748 8.34323 4.79217 8.34487 4.78639C8.34651 4.7806 8.36582 4.77822 8.38787 4.78111C8.41902 4.78503 8.45073 4.78911 8.48443 4.79319C8.50648 4.79592 8.51067 4.78741 8.49354 4.77414C8.48389 4.76682 8.47441 4.75934 8.46421 4.75151C8.4469 4.73824 8.4489 4.71918 8.46968 4.71221C8.59739 4.66916 8.71218 4.7333 8.83898 4.75236C8.86103 4.75559 8.86431 4.74692 8.84609 4.73501C8.72511 4.65572 8.61306 4.58256 8.50192 4.50975C8.48352 4.49784 8.46949 4.48627 8.47059 4.48389C8.4715 4.4815 8.48899 4.4861 8.50958 4.49392L8.71837 4.57304C8.73896 4.58086 8.75809 4.58342 8.76082 4.57848C8.76356 4.57372 8.75026 4.56096 8.73149 4.5499C8.64896 4.50209 8.56642 4.45445 8.48389 4.40664C8.46494 4.39593 8.45073 4.383 8.45237 4.37823C8.45401 4.37347 8.47259 4.37432 8.49409 4.3801C8.51449 4.38555 8.53581 4.39116 8.55859 4.39729C8.58008 4.4029 8.5892 4.39252 8.57662 4.37534C8.4848 4.25352 8.32064 4.23089 8.21187 4.13664C8.19565 4.12252 8.20112 4.11469 8.22244 4.12116C8.24375 4.12779 8.26653 4.13477 8.29313 4.14293C8.31426 4.1494 8.31718 4.14447 8.29932 4.13188C8.2873 4.12337 8.27637 4.11554 8.26525 4.10755C8.2474 4.09496 8.25122 4.08339 8.27345 4.08203C8.30297 4.08015 8.33066 4.07828 8.36145 4.07624C8.38368 4.07488 8.38459 4.06807 8.36345 4.06144C8.32483 4.04936 8.29094 4.03813 8.25833 4.02792C8.23719 4.02129 8.2208 4.01176 8.22189 4.00768C8.22298 4.00359 8.24138 4.00172 8.26343 4.00581C8.32191 4.01686 8.38076 4.02486 8.43961 4.03167C8.45073 4.03286 8.46239 4.02112 8.47423 4.0155C8.49209 4.00717 8.49591 3.97824 8.48316 3.96957C8.47496 3.96395 8.47623 3.94677 8.48352 3.93486C8.39334 3.91989 8.3088 3.89147 8.23373 3.82665C8.21733 3.81253 8.22298 3.80113 8.24539 3.80232C8.26489 3.80334 8.28511 3.80419 8.30698 3.80539C8.3292 3.80658 8.33066 3.80079 8.31025 3.79246C8.30625 3.79075 8.30206 3.78905 8.29841 3.78752C8.27801 3.77918 8.27837 3.76659 8.29932 3.75945C8.38295 3.73087 8.46803 3.70194 8.55348 3.67285C8.57444 3.6657 8.59047 3.65601 8.58938 3.65124C8.58828 3.64648 8.56934 3.64172 8.54711 3.64086C8.54091 3.64052 8.53454 3.64035 8.52761 3.64001C8.50539 3.63899 8.49828 3.62487 8.51176 3.60837C8.53891 3.57519 8.56314 3.54542 8.58464 3.51905C8.59794 3.50254 8.59885 3.4789 8.58719 3.46562C8.57863 3.45593 8.57152 3.44589 8.57389 3.43823C8.58081 3.41629 8.60978 3.39332 8.63493 3.38498C8.68375 3.36899 8.73422 3.35844 8.78341 3.33615C8.80327 3.32713 8.80072 3.3171 8.77831 3.31608C8.64549 3.31029 8.51285 3.30434 8.38003 3.29855C8.35781 3.29753 8.33886 3.29124 8.33813 3.28443C8.3374 3.27763 8.34524 3.26742 8.3558 3.2618C8.36655 3.25619 8.35744 3.24819 8.33558 3.24394C8.31281 3.23951 8.29003 3.23526 8.26762 3.23101C8.24576 3.22675 8.2279 3.2191 8.2279 3.21382C8.2279 3.20855 8.24576 3.20294 8.26799 3.2014C8.31718 3.198 8.36783 3.1946 8.42577 3.19052C8.44799 3.18898 8.44818 3.1849 8.42631 3.18133C8.33175 3.16602 8.24539 3.15207 8.16013 3.13811C8.13808 3.13454 8.1195 3.12637 8.11877 3.11974C8.11786 3.1131 8.1348 3.10409 8.15648 3.09932C8.16541 3.09745 8.17434 3.09558 8.18326 3.09371C8.20476 3.08911 8.20713 3.07686 8.18782 3.06632C8.0304 2.98023 7.87025 2.89278 7.68915 2.79376C7.66984 2.78321 7.67221 2.77641 7.69443 2.77879C7.83418 2.79478 7.95771 2.82302 8.07176 2.77164C8.0918 2.76262 8.08907 2.7502 8.06702 2.74663C8.0253 2.74 7.98139 2.73285 7.9373 2.72571C7.91526 2.72213 7.89977 2.71516 7.90268 2.71022C7.9056 2.70512 7.89066 2.6961 7.86934 2.68998C7.80357 2.67092 7.73798 2.65187 7.67221 2.63264C7.65089 2.62652 7.63449 2.61495 7.63559 2.60695C7.63668 2.59895 7.65545 2.59096 7.67767 2.58909C7.72778 2.58483 7.7777 2.58058 7.8278 2.57633C7.85003 2.57445 7.8677 2.56986 7.86752 2.56612C7.86734 2.56238 7.84912 2.55659 7.82707 2.55336C7.76932 2.54468 7.71138 2.53617 7.65362 2.5275C7.63158 2.52426 7.6139 2.51542 7.61427 2.50776C7.61463 2.50011 7.63267 2.49143 7.65472 2.4882C7.69188 2.48292 7.72905 2.47765 7.76622 2.4722C7.78827 2.46914 7.79665 2.45944 7.7848 2.45077C7.77296 2.44209 7.76239 2.42831 7.76112 2.41997C7.75984 2.41163 7.77624 2.40092 7.79792 2.39598C7.95279 2.36008 8.1082 2.32385 8.2729 2.28556C8.29459 2.28046 8.29404 2.27825 8.27199 2.28046C8.07832 2.29969 8.02785 2.30309 8.00453 2.28097C7.98886 2.26617 8.00143 2.24048 8.02166 2.23163C8.06666 2.21156 8.10929 2.18893 8.09909 2.12683C8.09563 2.10624 8.07067 2.09144 8.04826 2.09229C8.01182 2.09382 7.97028 2.09552 7.9291 2.10029C7.77424 2.11815 7.76075 2.12053 7.70081 2.01471C7.69043 1.99633 7.69844 1.97422 7.71867 1.96537C7.78699 1.93577 7.85531 1.90599 7.92345 1.87639C7.94368 1.86754 7.95825 1.85614 7.95588 1.85087C7.95352 1.84559 7.93475 1.84713 7.91398 1.85495C7.86388 1.87384 7.81432 1.89408 7.76239 1.90531C7.69516 1.91994 7.61773 1.96792 7.5618 1.88115C7.55815 1.87554 7.54394 1.87588 7.53483 1.87316C7.23385 1.77958 6.93268 1.68669 6.63224 1.59192C6.5794 1.57525 6.52839 1.55398 6.47992 1.52217C6.4617 1.51026 6.46589 1.50022 6.48812 1.50158L6.51126 1.50294C6.53349 1.5043 6.55335 1.50226 6.55553 1.49869C6.55772 1.49511 6.54351 1.48406 6.52365 1.47436C6.44567 1.43591 6.36751 1.39763 6.28953 1.35918C6.26894 1.34948 6.25436 1.33859 6.25582 1.33485C6.25746 1.3311 6.27659 1.32974 6.29882 1.33212C6.3052 1.33281 6.31139 1.33349 6.31722 1.334C6.33945 1.33621 6.34091 1.3311 6.3205 1.3226C6.14723 1.24944 5.95866 1.16982 5.769 1.08968C5.74859 1.08117 5.73347 1.06807 5.73529 1.06059C5.73693 1.0531 5.75643 1.04783 5.77865 1.04885C5.82621 1.05106 5.87649 1.05327 5.93826 1.05617C5.96048 1.05719 5.96103 1.05429 5.93917 1.0497C5.90291 1.04221 5.87321 1.03592 5.84188 1.02945C5.82001 1.02486 5.81855 1.01346 5.83841 1.00376C5.9337 0.957657 6.02006 0.915973 6.10278 0.875992C6.12264 0.866464 6.12082 0.86102 6.09877 0.864422C5.99109 0.881266 5.88269 0.897599 5.77428 0.914612C5.75224 0.918015 5.73256 0.913251 5.73019 0.905765C5.72782 0.898449 5.73675 0.882627 5.75005 0.874801C5.76335 0.866974 5.75624 0.850301 5.73456 0.846048C5.67626 0.834649 5.61978 0.811 5.56366 0.800111C5.56366 0.800111 5.71033 0.759279 5.49898 0.731376C5.3013 0.705175 5.13295 0.636611 4.9657 0.53555C4.82978 0.453375 4.66672 0.405737 4.51021 0.358609C4.32346 0.302294 4.13052 0.263844 3.94103 0.215525C3.87053 0.197661 3.80293 0.162613 3.73169 0.155467C3.64205 0.14662 3.55096 0.150874 3.4697 0.152405C3.44747 0.152745 3.41431 0.143388 3.39664 0.130628C3.37769 0.116847 3.35965 0.104427 3.34143 0.104086C2.9488 0.0974512 2.55653 0.104427 2.17374 0.199362C2.0974 0.218247 2.02726 0.257549 1.95183 0.280857C1.92286 0.289874 1.8784 0.293107 1.85691 0.278646C1.77874 0.225393 1.70678 0.164144 1.63372 0.104767C1.60019 0.0775453 1.56776 0.0486223 1.53533 0.0200395C1.51912 0.00574814 1.50071 -0.00275864 1.49416 0.000814205C1.4876 0.00438705 1.48231 0.0225916 1.48249 0.0414766C1.48268 0.0530458 1.48322 0.0644449 1.48632 0.0753336C1.5049 0.142197 1.52695 0.208209 1.5479 0.274392C1.59127 0.411862 1.59035 0.40931 1.44369 0.453885C1.38047 0.473111 1.31251 0.495739 1.26368 0.53521C1.19791 0.587442 1.1314 0.584549 1.05743 0.581657C0.994394 0.579275 0.930808 0.587612 0.867404 0.588292C0.662799 0.590334 0.468033 0.552053 0.285109 0.463583C0.274724 0.458479 0.262335 0.456948 0.249763 0.456097C0.229539 0.454736 0.214235 0.469197 0.21551 0.488253C0.216239 0.500332 0.218243 0.512242 0.224438 0.521089C0.304604 0.638142 0.388596 0.749921 0.53672 0.804875C0.617251 0.834819 0.693408 0.878033 0.766286 0.922609C0.89364 1.0007 0.922427 1.09325 0.880522 1.23021C0.817118 1.43829 0.744605 1.64534 0.703975 1.85733C0.684298 1.95958 0.727479 2.07255 0.74424 2.18042C0.751893 2.22959 0.775031 2.27808 0.774303 2.32674C0.767379 2.75956 0.692315 3.18286 0.563685 3.5985C0.541822 3.66877 0.526335 3.74073 0.512488 3.8013C0.507933 3.82172 0.498277 3.84724 0.494633 3.85966C0.492447 3.86731 0.491172 3.87497 0.491172 3.88263C0.491172 3.89113 0.492447 3.89913 0.494451 3.90662C0.498277 3.91955 0.507387 3.93673 0.513035 3.94558C0.518501 3.95442 0.526517 3.96701 0.530526 3.97433C0.532894 3.97858 0.535445 3.98267 0.538724 3.98692C0.561134 4.01686 0.586642 4.04358 0.612331 4.07046C0.627271 4.08594 0.629093 4.11282 0.615429 4.12915C0.604497 4.14225 0.593019 4.15518 0.581358 4.16811C0.572431 4.17815 0.566236 4.18904 0.562228 4.20044C0.555486 4.22001 0.555122 4.2394 0.553482 4.2428C0.552207 4.24519 0.551478 4.2474 0.551478 4.24944C0.551478 4.2719 0.563139 4.30473 0.58154 4.31494C0.667536 4.36241 0.756265 4.40528 0.850642 4.45224C0.870319 4.46194 0.871595 4.4798 0.853375 4.49205C0.845177 4.4975 0.83716 4.50294 0.828779 4.50856C0.810559 4.52064 0.809284 4.54207 0.827504 4.55398C0.921698 4.6154 1.02263 4.612 1.12867 4.59635C1.17859 4.58903 1.23088 4.59652 1.2819 4.59601C1.30449 4.59584 1.33583 4.60043 1.34785 4.58886C1.41982 4.52047 1.50855 4.51332 1.60457 4.50277C1.73739 4.48814 1.85363 4.33587 1.83522 4.20997C1.81099 4.04494 1.86237 3.92023 1.98626 3.79467C2.09012 3.68952 2.14277 3.54117 2.22403 3.41526C2.24535 3.38209 2.2847 3.35163 2.32314 3.33734C2.38381 3.31488 2.43647 3.33615 2.45359 3.40063C2.49513 3.55801 2.56346 3.71521 2.56747 3.87361C2.57348 4.11078 2.54196 4.34982 2.5108 4.58614C2.47582 4.85138 2.33371 5.07579 2.17502 5.29373C1.99647 5.5389 1.89426 5.80397 1.95001 6.11106C1.98025 6.27763 1.98371 6.44861 1.99173 6.6179C1.99319 6.65005 1.96896 6.69905 1.94053 6.71419C1.43239 6.98573 0.990022 7.33842 0.54583 7.68941C0.471677 7.74811 0.386045 7.79438 0.313714 7.85478C0.12496 8.01199 0.101092 8.2153 0.144637 8.43239C0.154475 8.48122 0.168869 8.53328 0.196927 8.57429C0.328836 8.76875 0.334666 8.97427 0.277457 9.1895C0.188546 9.52415 0.10674 9.86051 0.0138205 10.1941C-0.0131443 10.2911 -0.000755089 10.3765 0.0518993 10.4556C0.172695 10.6368 0.251585 10.8322 0.292215 11.0411C0.326285 11.2167 0.428679 11.3589 0.537267 11.5001C0.621441 11.6098 0.695412 11.726 0.776671 11.8375C0.844448 11.9305 0.911678 11.9562 1.0168 11.9038C1.1028 11.8608 1.19353 11.8031 1.24619 11.7294C1.39377 11.5227 1.43294 11.2883 1.38265 11.0443C1.37281 10.9968 1.35168 10.9433 1.3167 10.9099C1.18552 10.7849 1.05087 10.6625 0.908945 10.5484C0.816208 10.4737 0.784323 10.3602 0.836613 10.2569C0.867222 10.1965 0.887446 10.1281 0.895098 10.0616C0.903661 9.98624 0.899106 9.90917 0.897831 9.82036C0.897466 9.7996 0.912589 9.79212 0.930626 9.80437C1.06308 9.89437 1.16074 9.99645 1.18351 10.1353C1.22469 10.3871 1.39176 10.4982 1.63426 10.5695C2.05677 10.6935 2.47983 10.7927 2.92803 10.7781C3.13537 10.7712 3.13755 10.7823 3.12225 10.5861C3.10002 10.3007 2.94844 10.0684 2.7646 9.85183C2.74456 9.82801 2.70211 9.80794 2.67022 9.80811C2.56947 9.80896 2.46835 9.81627 2.36869 9.82955C2.33735 9.8338 2.30802 9.8634 2.2816 9.88535C2.23223 9.92652 2.18467 9.96974 2.13293 10.0158C2.11672 10.0303 2.09595 10.0296 2.08611 10.0148C2.07864 10.0036 2.07354 9.99577 2.06989 9.98726C1.99993 9.82257 2.00011 9.81951 1.81846 9.81968C1.68236 9.81985 1.57705 9.75622 1.51474 9.65992C1.37263 9.44045 1.24692 9.21093 1.1223 8.9821C1.10517 8.95063 1.11993 8.89227 1.14106 8.85756C1.17878 8.79563 1.22651 8.73574 1.28226 8.68726C1.31488 8.65884 1.37081 8.64217 1.41709 8.64081C1.82721 8.62635 2.23824 8.62703 2.64745 8.60202C3.01931 8.57939 3.38953 8.53209 3.75993 8.49177C3.80676 8.48667 3.86415 8.46693 3.89294 8.43546C3.99005 8.32929 4.09936 8.33201 4.21998 8.38458C4.45774 8.48786 4.6915 8.59981 4.9329 8.69491C5.27944 8.83187 5.63363 8.95165 5.98053 9.08792C6.64754 9.34993 7.36339 9.42564 8.06083 9.57094C8.20804 9.60156 8.36018 9.61194 8.51067 9.62725C8.57899 9.63423 8.62764 9.66179 8.64476 9.72253C8.66863 9.80675 8.70106 9.89301 8.70124 9.97841C8.70216 10.2891 8.79981 10.5707 8.96233 10.8376C9.01881 10.93 9.07402 11.0246 9.11301 11.1239C9.19991 11.3446 9.15947 11.5501 8.9995 11.7325C8.68703 12.0889 8.321 12.3945 7.94987 12.695C7.83564 12.7875 7.72104 12.8802 7.615 12.9806C7.57838 13.0153 7.55105 13.0723 7.54722 13.1212C7.52609 13.4005 7.4953 13.6777 7.4042 13.9465C7.33879 14.1396 7.42752 14.3082 7.51115 14.4758C7.58257 14.6189 7.65636 14.7608 7.73907 14.9222C7.74873 14.9408 7.76859 14.9436 7.78371 14.9283C7.87699 14.8336 7.96427 14.7511 8.0417 14.6609C8.19984 14.477 8.3026 14.2645 8.36819 14.0387C8.38805 13.9703 8.37238 13.8886 8.35562 13.8163C8.33485 13.7255 8.28784 13.6396 8.26926 13.5485C8.26288 13.5171 8.30042 13.4533 8.33139 13.4439C8.45692 13.4061 8.50229 13.3071 8.57407 13.2209C8.71181 13.0555 8.8705 12.9054 9.02519 12.7528C9.19062 12.5893 9.38776 12.4677 9.60275 12.3637C9.83213 12.2528 10.0522 12.124 10.2692 11.9925C10.3231 11.96 10.3592 11.9016 10.4029 11.8455C10.4161 11.8285 10.4443 11.8218 10.4642 11.8314C10.6356 11.9108 10.7648 12.0491 10.8532 12.2382C11.0282 12.6119 10.9574 12.965 10.7739 13.3083C10.6074 13.62 10.4243 13.924 10.247 14.2308C10.1384 14.4186 9.96659 14.5481 9.78385 14.6682C9.73265 14.7019 9.67945 14.7407 9.64538 14.7887C9.40998 15.122 9.22305 15.4794 9.04869 15.843C9.00241 15.9395 9.01043 15.9682 9.12521 15.9822C9.26751 15.9999 9.41345 16.0033 9.55702 15.9973C9.80316 15.9871 10.0362 15.9308 10.2299 15.777C10.3765 15.6606 10.4609 15.5175 10.4439 15.3321C10.4428 15.3225 10.4438 15.313 10.4414 15.3038C10.4024 15.1344 10.4481 15.0199 10.6458 14.9642C10.7954 14.922 10.8763 14.7931 10.9422 14.6684C11.1332 14.3084 11.3112 13.9424 11.5076 13.5851C11.661 13.3059 11.831 13.0347 11.9992 12.7632C12.1103 12.5839 12.2276 12.4076 12.3493 12.2346C12.4672 12.0663 12.4364 11.9157 12.3264 11.7548C12.1799 11.5409 12.05 11.3174 11.9122 11.0984C11.79 10.9043 11.8457 10.7069 11.9753 10.5608C12.3047 10.189 12.4568 9.73614 12.6837 9.31761C12.7013 9.28511 12.7123 9.24887 12.7309 9.21485C12.7409 9.1963 12.7494 9.19919 12.7465 9.21978C12.7429 9.24309 12.74 9.26606 12.7411 9.28902C12.7545 9.58149 12.7737 9.87395 12.7831 10.1666C12.7873 10.3046 12.7575 10.4448 12.7735 10.5809C12.7975 10.7857 12.8476 10.988 12.8872 11.1911C12.8963 11.2372 12.9061 11.2832 12.924 11.3283C12.9318 11.3478 12.9378 11.346 12.9356 11.3254C12.9327 11.2999 12.9302 11.274 12.9274 11.2483C12.9251 11.2277 12.9278 11.2274 12.9329 11.2475C13.0185 11.577 13.0967 11.9079 13.2906 12.2017C13.302 12.2194 13.3062 12.2176 13.2991 12.198C13.2958 12.1895 13.2927 12.1806 13.2893 12.1718C13.282 12.1521 13.2876 12.1492 13.3017 12.1653C13.4117 12.2921 13.5181 12.4151 13.6371 12.5521C13.6511 12.5684 13.6662 12.5648 13.6708 12.5444C13.6735 12.5321 13.6755 12.5216 13.6779 12.5111C13.6821 12.4906 13.7023 12.4811 13.7225 12.4896C13.7748 12.5112 13.8249 12.5303 13.8705 12.557C13.9215 12.5871 13.9701 12.6245 14.0199 12.6645C14.0368 12.6781 14.0505 12.6774 14.0505 12.663C14.0505 12.6485 14.0576 12.638 14.066 12.6405C14.0727 12.6427 14.0751 12.6444 14.0796 12.648C14.3263 12.835 14.5402 13.0473 14.7109 13.3022C14.8228 13.4699 14.9693 13.6249 15.1298 13.7537C15.1899 13.802 15.24 13.8585 15.3067 13.9036C15.3249 13.9159 15.3313 13.9099 15.32 13.8919C15.3038 13.8662 15.2876 13.8402 15.2712 13.8145C15.2599 13.7966 15.2537 13.7799 15.2574 13.7769C15.2608 13.7741 15.2756 13.7847 15.2901 13.8003C15.3333 13.847 15.3774 13.8949 15.4275 13.9485C15.4421 13.9645 15.4505 13.9604 15.4463 13.94C15.4457 13.9387 15.4456 13.9375 15.4454 13.9363C15.4412 13.9159 15.4523 13.9092 15.4705 13.9213C15.5771 13.9928 15.6795 14.0615 15.7892 14.135C15.8072 14.1469 15.8232 14.1399 15.8245 14.1192C15.8274 14.08 15.8296 14.0486 15.8316 14.0198C15.8331 13.9992 15.8413 13.9812 15.8495 13.9802C15.8577 13.9792 15.8757 13.9911 15.8898 14.0074C15.893 14.0111 15.8963 14.0151 15.8996 14.0188C15.9134 14.0353 15.9271 14.0475 15.93 14.0467C15.9331 14.0458 15.9282 14.0295 15.9196 14.0103C15.9049 13.9773 15.8903 13.9444 15.8755 13.9114C15.867 13.8922 15.8633 13.8749 15.8675 13.8728C15.8717 13.8706 15.8859 13.8825 15.8992 13.8992C15.9222 13.9281 15.9451 13.9569 15.9683 13.9856C15.9816 14.0023 15.9951 14.0147 15.9983 14.0132C16.0018 14.0115 15.9996 13.9943 15.994 13.9742C15.9741 13.9097 15.9553 13.8454 15.9349 13.7753Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Sanal</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Bahisler</div>
+                     <div class="text_f4520">Hemen oyna</div>
                   </a>
-                  <a target="_self" class="product-banner-info-bc product-banner-bc" href="casino">
-                     <i class="product-banner-icon-bc bc-i-topgames"></i>
-                     <p class="product-banner-title-bc">Popüler Slotlar</p>
+                  <a href="/tr/poker/" class="page-card_94b43 POKER_3236c">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_15007)">
+                              <path d="M19.2061 4.91008L12.2742 1.82577C11.6453 1.54769 10.9154 1.81517 10.5958 2.42439V14.9633C10.5958 15.944 9.82056 16.7421 8.86799 16.7421H5.86389C5.90306 16.7654 5.94429 16.7867 5.98759 16.8058L12.9175 19.8901C13.6065 20.1893 14.3682 19.8542 14.6494 19.1833L19.8927 6.69321C20.1793 6.00538 19.8721 5.20724 19.2061 4.91008ZM12.3546 3.74894L12.4948 4.93554L11.5587 5.6424L11.4185 4.4558L12.3546 3.74894ZM12.8391 17.9669L12.6969 16.7824L13.6329 16.0756L13.7731 17.26L12.8391 17.9669ZM11.3752 13.766L10.9402 10.1234L13.8185 7.94976L14.2494 11.5945L11.3752 13.766Z" fill="currentColor"></path>
+                              <path d="M8.86797 0H1.31544C0.589687 0 0 0.607094 0 1.35427V14.963C0 15.7102 0.589687 16.3173 1.31544 16.3173H8.86801C9.59376 16.3173 10.1834 15.7102 10.1834 14.963V1.35427C10.1834 0.607094 9.59376 0 8.86797 0ZM2.13047 3.57788C2.13047 3.57788 1.27473 3.10711 1.27473 2.42346C1.27473 2.16126 1.48197 1.94712 1.73741 1.94712C1.90414 1.94712 2.04943 2.03767 2.13047 2.17309C2.21154 2.03767 2.35759 1.94712 2.52281 1.94712C2.779 1.94712 2.98549 2.16126 2.98549 2.42346C2.98545 3.10711 2.13047 3.57788 2.13047 3.57788ZM5.0927 10.2044C5.0927 10.2044 2.94545 9.02319 2.94545 7.30777C2.94545 6.64991 3.46547 6.11253 4.10637 6.11253C4.52468 6.11253 4.88927 6.33973 5.09266 6.67951C5.29605 6.33973 5.66258 6.11253 6.07707 6.11253C6.71992 6.11253 7.238 6.64987 7.238 7.30777C7.23804 9.02314 5.0927 10.2044 5.0927 10.2044ZM8.05382 14.3698C8.05382 14.3698 7.19807 13.899 7.19807 13.2154C7.19807 12.9532 7.40532 12.739 7.66076 12.739C7.82749 12.739 7.97278 12.8296 8.05382 12.965C8.13489 12.8296 8.28094 12.739 8.44616 12.739C8.70235 12.739 8.90884 12.9532 8.90884 13.2154C8.9088 13.899 8.05382 14.3698 8.05382 14.3698Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Poker Lobi</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Özel</div>
+                     <div class="text_f4520">Hemen Oyna</div>
                   </a>
-                  <a  href="javascript:;" onclick="maximizeTawkToWidget()" class="product-banner-info-bc product-banner-bc">
-                     <img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_15eab73e7dec857d6b5436a51a87c83a.webp" alt="">
-                     <p class="product-banner-title-bc">Telegram</p>
+                  <a href="/tr/other_games/" class="page-card_94b43 SPACEMAN_57ceb">
+                     <div class="icon-wrapper_9237d">
+                        <svg width="15" height="16" viewBox="0 0 15 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon_2d6ab">
+                           <path d="M14.856 7.46667C14.856 5.36752 13.7291 3.40713 11.8979 2.22162L12.4137 1.22396L11.9511 0.977083C10.7531 0.338021 9.38657 0 7.9994 0C3.58846 0 0 3.34948 0 7.46667C0 9.74557 1.09353 11.854 2.96434 13.2642C2.21067 13.7448 1.71416 14.5523 1.71416 15.4667V16H14.2846V15.4667C14.2846 14.5499 13.786 13.7401 13.029 13.2599C13.645 12.7915 14.1926 12.2414 14.6328 11.6313L15 11.1229L13.9486 10.6443C14.542 9.67976 14.856 8.59391 14.856 7.46667ZM13.7133 7.46667C13.7133 8.43021 13.44 9.35827 12.9211 10.1765L9.69466 8.70778C9.70153 8.64974 9.71356 8.59307 9.71356 8.53333C9.71356 8.09496 9.52318 7.69766 9.21621 7.4084L11.3969 3.19062C12.8362 4.18649 13.7133 5.77396 13.7133 7.46667ZM8.57079 8.53333C8.57079 8.82761 8.31467 9.06667 7.9994 9.06667C7.68413 9.06667 7.42802 8.82761 7.42802 8.53333C7.42802 8.23906 7.68413 8 7.9994 8C8.31467 8 8.57079 8.23906 8.57079 8.53333ZM2.95458 14.9333C3.19061 14.3125 3.82617 13.8667 4.57109 13.8667H11.4277C12.1726 13.8667 12.8082 14.3125 13.0442 14.9333H2.95458ZM11.7314 12.8287C11.6303 12.8185 11.5317 12.8 11.4277 12.8H4.57109C4.46803 12.8 4.37038 12.8184 4.27012 12.8284C2.31243 11.6405 1.14277 9.64564 1.14277 7.46667C1.14277 3.9375 4.21843 1.06667 7.9994 1.06667C9.00937 1.06667 10.0059 1.27552 10.9121 1.67396L8.18421 6.95078C8.12269 6.9445 8.06267 6.93333 7.9994 6.93333C7.05416 6.93333 6.28524 7.65104 6.28524 8.53333C6.28524 9.41563 7.05416 10.1333 7.9994 10.1333C8.46829 10.1333 8.89317 9.95605 9.20296 9.67035L13.2886 11.5302C12.8444 12.0323 12.3146 12.4721 11.7314 12.8287Z" fill="url(#paint0_linear_690_4775)"></path>
+                           <defs>
+                              <linearGradient id="paint0_linear_690_4775" x1="0" y1="7.32203" x2="15" y2="7.32203" gradientUnits="userSpaceOnUse">
+                                 <stop stop-color="#E5DC93"></stop>
+                                 <stop offset="1" stop-color="#C19E6B"></stop>
+                              </linearGradient>
+                           </defs>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Spaceman</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Diğer Oyunlar</div>
+                     <div class="text_f4520">Hemen oyna</div>
                   </a>
-                  <a target="_self" class="product-banner-info-bc product-banner-bc" href="javascript:;" onclick="maximizeTawkToWidget()">
-                     <i class="product-banner-icon-bc bc-i-live-chat-v1"></i>
-                     <p class="product-banner-title-bc">Canlı Destek</p>
+                  <a href="/tr/promo/" class="page-card_94b43 PROMOTION_78e98">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" class="icon_2d6ab">
+                           <path d="M17.27 3.64H14.38C14.49 3.35 14.55 3.04 14.55 2.73C14.54 1.22 13.32 0 11.82 0C11.15 0 10.5 0.25 10 0.71C9.5 0.25 8.85 0 8.18 0C6.68 0 5.46 1.22 5.45 2.73C5.45 3.04 5.51 3.35 5.62 3.64H2.73C1.22 3.64 0 4.86 0 6.36V8.18C0 8.68 0.41 9.09 0.91 9.09V17.27C0.91 18.78 2.13 20 3.64 20H16.36C17.87 20 19.09 18.78 19.09 17.27V9.09C19.59 9.09 20 8.68 20 8.18V6.36C20 4.86 18.78 3.64 17.27 3.64ZM10.91 2.73C10.91 2.23 11.32 1.82 11.82 1.82C12.32 1.82 12.73 2.23 12.73 2.73C12.73 3.23 12.32 3.64 11.82 3.64H10.91V2.73ZM8.18 1.82C8.68 1.82 9.09 2.23 9.09 2.73V3.64H8.18C7.68 3.64 7.27 3.23 7.27 2.73C7.27 2.23 7.68 1.82 8.18 1.82ZM13 13H11V15C11 15.55 10.55 16 10 16C9.45 16 9 15.55 9 15V13H7C6.45 13 6 12.55 6 12C6 11.45 6.45 11 7 11H9V9C9 8.45 9.45 8 10 8C10.55 8 11 8.45 11 9V11H13C13.55 11 14 11.45 14 12C14 12.55 13.55 13 13 13Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Bonusu</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Özel</div>
+                     <div class="text_f4520">Hemen oyna</div>
+                  </a>
+                  <a href="/tr/live/live_streams/" class="page-card_94b43 TV_fb3ad">
+                     <div class="icon-wrapper_9237d">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="icon_2d6ab">
+                           <g clip-path="url(#clip0_21_15048)">
+                              <path d="M13.0765 12.9692C12.867 13.2775 12.9577 13.6906 13.279 13.8917C13.6002 14.0928 14.0305 14.0058 14.2401 13.6974C15.3532 12.0585 16 10.1008 16 8.00001C16 5.89922 15.3532 3.94144 14.2401 2.30262C14.0305 1.99421 13.6002 1.9072 13.279 2.10829C12.9577 2.30939 12.867 2.72243 13.0765 3.03085C14.047 4.45964 14.611 6.16558 14.611 8.00001C14.611 9.83438 14.047 11.5403 13.0765 12.9692Z" fill="currentColor"></path>
+                              <path d="M2.72106 2.10829C3.04236 2.30938 3.133 2.72243 2.9235 3.03085C1.95302 4.45964 1.38898 6.16558 1.38898 8.00001C1.38898 9.83438 1.95301 11.5403 2.9235 12.9692C3.133 13.2775 3.04236 13.6906 2.72106 13.8917C2.39977 14.0928 1.96949 14.0058 1.76 13.6974C0.646856 12.0585 0 10.1008 0 8.00001C0 5.89922 0.646856 3.94144 1.76 2.30262C1.96949 1.99421 2.39977 1.9072 2.72106 2.10829Z" fill="currentColor"></path>
+                              <path d="M4.74399 4.79169C5.05554 5.00643 5.12677 5.42296 4.90306 5.72204C4.43963 6.34156 4.16693 7.10048 4.16693 7.92252C4.16693 8.74455 4.43963 9.50347 4.90306 10.123C5.12677 10.4221 5.05554 10.8387 4.74399 11.0534C4.43242 11.2681 3.9985 11.1997 3.7748 10.9007C3.14748 10.062 2.77795 9.03272 2.77795 7.92252C2.77795 6.8124 3.14748 5.78306 3.7748 4.94439C3.9985 4.64532 4.43242 4.57694 4.74399 4.79169Z" fill="currentColor"></path>
+                              <path d="M8.10237 5.55566C6.69598 5.55566 5.55591 6.65005 5.55591 8.00008C5.55591 9.35011 6.69598 10.4445 8.10237 10.4445C9.50876 10.4445 10.6488 9.35011 10.6488 8.00008C10.6488 6.65005 9.50876 5.55566 8.10237 5.55566Z" fill="currentColor"></path>
+                              <path d="M11.2422 10.123C11.0185 10.4221 11.0897 10.8387 11.4013 11.0534C11.7128 11.2682 12.1467 11.1997 12.3704 10.9007C12.9977 10.062 13.3673 9.03272 13.3673 7.92251C13.3673 6.81239 12.9977 5.78307 12.3704 4.94439C12.1467 4.64531 11.7128 4.57695 11.4013 4.79169C11.0897 5.00643 11.0185 5.42296 11.2422 5.72204C11.7055 6.34164 11.9783 7.10047 11.9783 7.92251C11.9783 8.74454 11.7055 9.50347 11.2422 10.123Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                     </div>
+                     <div class="title-wrapper_766a7">
+                        <span>Canlı Yayın</span>
+                        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg" class="continue-icon_028eb">
+                           <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="currentColor"></path>
+                           <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="currentColor"></path>
+                           <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="currentColor"></path>
+                        </svg>
+                     </div>
+                     <div class="subtitle_e3d7e">Canlı Yayın Listesi</div>
+                     <div class="text_f4520">Hemen İzle</div>
+                  </a>
+               </div>
+               <div class="menu_97822">
+                  <a href="/tr/registration/" class="item_33c28">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+                        <g clip-path="url(#clip0_1_41117)">
+                           <path d="M12 3.7846C12 3.27367 11.8973 2.77853 11.6963 2.31066C11.5012 1.86001 11.2225 1.45528 10.8675 1.10797C10.5125 0.760651 10.0988 0.487965 9.63815 0.297084C9.16138 0.0990281 8.6538 0 8.13156 0C7.60931 0 7.1032 0.100463 6.62496 0.297084C6.16434 0.487965 5.75064 0.760651 5.39563 1.10797C5.04062 1.45528 4.76189 1.86001 4.56678 2.31066C4.36433 2.77709 4.26311 3.27367 4.26311 3.7846C4.26311 4.42326 4.42741 5.049 4.73988 5.60585L0.108606 10.1324C0.00151635 10.2372 -0.0322243 10.3965 0.03379 10.5472C0.0469929 10.5788 0.0689977 10.6075 0.0939365 10.6319L1.1311 11.6466C1.15603 11.6709 1.18537 11.6911 1.21765 11.7054C1.37168 11.77 1.53452 11.7384 1.64161 11.6322L2.28268 11.005L3.20542 11.9078C3.23035 11.9322 3.25969 11.9522 3.29195 11.9666C3.44599 12.0312 3.60884 11.9996 3.71591 11.8934L4.7384 10.8931C4.76334 10.8687 4.78388 10.84 4.79855 10.8084C4.86456 10.6577 4.83229 10.4984 4.72373 10.3936L3.81567 9.50526L6.26847 7.10419C6.83619 7.40989 7.47726 7.57063 8.13007 7.57063C8.65232 7.57063 9.15843 7.47016 9.63665 7.27354C10.0973 7.08266 10.511 6.80998 10.866 6.46266C11.221 6.11536 11.4997 5.71063 11.6949 5.25997C11.8973 4.79066 12 4.29552 12 3.7846ZM9.48707 5.11215C9.12472 5.46664 8.64207 5.66182 8.1301 5.66182C7.61813 5.66182 7.13547 5.46664 6.77314 5.11215C6.4108 4.75765 6.20982 4.28548 6.20982 3.7846C6.20982 3.28228 6.40933 2.81154 6.77167 2.45705C7.13402 2.10255 7.61667 1.90737 8.12864 1.90737C8.64062 1.90737 9.12325 2.10255 9.4856 2.45705C9.84795 2.81154 10.0475 3.28371 10.0475 3.7846C10.0504 4.28548 9.85086 4.75765 9.48707 5.11215Z" fill="#1FE1FF"></path>
+                        </g>
+                        <defs>
+                           <clipPath id="clip0_1_41117">
+                              <rect width="12" height="12" fill="white"></rect>
+                           </clipPath>
+                        </defs>
+                     </svg>
+                     Kayıt Ol
+                  </a>
+                  <a href="/tr/login/" class="item_33c28">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+                        <g clip-path="url(#clip0_1_41123)">
+                           <path d="M11.1818 4.9091H7.0909V0.818184C7.0909 0.366545 6.72435 0 6.27271 0H5.72729C5.27565 0 4.9091 0.366545 4.9091 0.818184V4.9091H0.818184C0.366545 4.9091 0 5.27565 0 5.72729V6.27271C0 6.72435 0.366545 7.0909 0.818184 7.0909H4.9091V11.1818C4.9091 11.6335 5.27565 12 5.72729 12H6.27271C6.72435 12 7.0909 11.6335 7.0909 11.1818V7.0909H11.1818C11.6335 7.0909 12 6.72435 12 6.27271V5.72729C12 5.27565 11.6335 4.9091 11.1818 4.9091Z" fill="#1FE1FF"></path>
+                        </g>
+                        <defs>
+                           <clipPath id="clip0_1_41123">
+                              <rect width="12" height="12" fill="white"></rect>
+                           </clipPath>
+                        </defs>
+                     </svg>
+                     Giriş
+                  </a>
+                  <div class="center-block_b9f72">
+                     <a href="/tr/cart/" class="center-item_b2c84 cart_2d802">
+                        <span class="num_4ce68 cart_2d802">0</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8 cart_2d802">
+                           <path d="M9.81818 0H2.18182C2.05111 0.00150488 1.9253 0.049896 1.82727 0.136364C2.21626 0.273219 2.55849 0.517505 2.81432 0.840909C3.07015 1.16431 3.22909 1.55359 3.27273 1.96364C3.28107 2.03612 3.28107 2.10933 3.27273 2.18182V11.4545C3.27247 11.5589 3.30214 11.6611 3.35821 11.7491C3.41428 11.837 3.49441 11.9071 3.58909 11.9509C3.68399 11.9946 3.78945 12.0101 3.89291 11.9956C3.99637 11.9811 4.0935 11.9372 4.17273 11.8691L5.72727 10.5382L7.28182 11.8691C7.38062 11.9536 7.50635 12 7.63636 12C7.76637 12 7.89211 11.9536 7.99091 11.8691L9.54545 10.5382L11.1 11.8691C11.1988 11.9536 11.3245 12 11.4545 12C11.5335 11.9994 11.6114 11.9827 11.6836 11.9509C11.7783 11.9071 11.8584 11.837 11.9145 11.7491C11.9706 11.6611 12.0003 11.5589 12 11.4545V2.18182C12 1.60316 11.7701 1.04821 11.361 0.63904C10.9518 0.229869 10.3968 0 9.81818 0ZM9.27273 7.63636H6C5.85534 7.63636 5.7166 7.57889 5.6143 7.4766C5.51201 7.37431 5.45454 7.23557 5.45454 7.09091C5.45454 6.94624 5.51201 6.80751 5.6143 6.70521C5.7166 6.60292 5.85534 6.54545 6 6.54545H9.27273C9.41739 6.54545 9.55613 6.60292 9.65842 6.70521C9.76071 6.80751 9.81818 6.94624 9.81818 7.09091C9.81818 7.23557 9.76071 7.37431 9.65842 7.4766C9.55613 7.57889 9.41739 7.63636 9.27273 7.63636ZM9.27273 5.45454H6C5.85534 5.45454 5.7166 5.39708 5.6143 5.29478C5.51201 5.19249 5.45454 5.05375 5.45454 4.90909C5.45454 4.76443 5.51201 4.62569 5.6143 4.5234C5.7166 4.4211 5.85534 4.36364 6 4.36364H9.27273C9.41739 4.36364 9.55613 4.4211 9.65842 4.5234C9.76071 4.62569 9.81818 4.76443 9.81818 4.90909C9.81818 5.05375 9.76071 5.19249 9.65842 5.29478C9.55613 5.39708 9.41739 5.45454 9.27273 5.45454ZM9.27273 3.27273H6C5.85534 3.27273 5.7166 3.21526 5.6143 3.11297C5.51201 3.01067 5.45454 2.87194 5.45454 2.72727C5.45454 2.58261 5.51201 2.44387 5.6143 2.34158C5.7166 2.23929 5.85534 2.18182 6 2.18182H9.27273C9.41739 2.18182 9.55613 2.23929 9.65842 2.34158C9.76071 2.44387 9.81818 2.58261 9.81818 2.72727C9.81818 2.87194 9.76071 3.01067 9.65842 3.11297C9.55613 3.21526 9.41739 3.27273 9.27273 3.27273ZM2.18182 2.18182V6.54545H0.545454C0.400791 6.54545 0.262052 6.48799 0.15976 6.38569C0.0574673 6.2834 0 6.14466 0 6V2.18182C0 2.10545 0 2.03454 0 1.96364C0.0289327 1.67431 0.171615 1.40833 0.396659 1.2242C0.621702 1.04007 0.910673 0.952885 1.2 0.981818C1.48933 1.01075 1.75531 1.15343 1.93944 1.37848C2.12356 1.60352 2.21075 1.89249 2.18182 2.18182Z" fill="#1FE1FF"></path>
+                        </svg>
+                        <div>Bahis Slip</div>
+                     </a>
+                  </div>
+                  <a class="item_33c28">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+                        <g clip-path="url(#clip0_1_41139)">
+                           <path d="M0.545898 10.3636C0.547193 10.7972 0.720012 11.2126 1.02661 11.5192C1.33321 11.8258 1.74867 11.9987 2.18226 12H5.45499V6.54541H0.545898V10.3636Z" fill="#1FE1FF"></path>
+                           <path d="M6.5459 12H9.81863C10.2522 11.9987 10.6677 11.8258 10.9743 11.5192C11.2809 11.2126 11.4537 10.7972 11.455 10.3636V6.54541H6.5459V12Z" fill="#1FE1FF"></path>
+                           <path d="M10.3636 2.18182H8.62909C8.69515 2.0076 8.72843 1.82268 8.72727 1.63636C8.72598 1.20277 8.55316 0.787308 8.24656 0.48071C7.93997 0.174113 7.5245 0.00129496 7.09091 0C6.68699 0.00105342 6.29799 0.152764 6 0.425455C5.70202 0.152764 5.31301 0.00105342 4.90909 0C4.4755 0.00129496 4.06004 0.174113 3.75344 0.48071C3.44684 0.787308 3.27402 1.20277 3.27273 1.63636C3.27157 1.82268 3.30485 2.0076 3.37091 2.18182H1.63636C1.20277 2.18311 0.787308 2.35593 0.48071 2.66253C0.174113 2.96913 0.00129496 3.38459 0 3.81818V4.90909C0 5.05375 0.0574673 5.19249 0.15976 5.29479C0.262052 5.39708 0.400791 5.45455 0.545455 5.45455H5.45455V2.18182H4.90909C4.80121 2.18182 4.69575 2.14983 4.60605 2.08989C4.51635 2.02996 4.44644 1.94477 4.40516 1.8451C4.36387 1.74543 4.35307 1.63576 4.37412 1.52995C4.39516 1.42414 4.44711 1.32695 4.5234 1.25067C4.59968 1.17439 4.69687 1.12244 4.80268 1.10139C4.90849 1.08034 5.01816 1.09115 5.11783 1.13243C5.2175 1.17371 5.30268 1.24363 5.36262 1.33333C5.42256 1.42303 5.45455 1.52848 5.45455 1.63636V2.18182H6.54545V1.63636C6.54545 1.52848 6.57745 1.42303 6.63738 1.33333C6.69732 1.24363 6.7825 1.17371 6.88217 1.13243C6.98184 1.09115 7.09151 1.08034 7.19732 1.10139C7.30313 1.12244 7.40032 1.17439 7.4766 1.25067C7.55289 1.32695 7.60484 1.42414 7.62588 1.52995C7.64693 1.63576 7.63613 1.74543 7.59484 1.8451C7.55356 1.94477 7.48365 2.02996 7.39395 2.08989C7.30425 2.14983 7.19879 2.18182 7.09091 2.18182H6.54545V5.45455H11.4545C11.5992 5.45455 11.7379 5.39708 11.8402 5.29479C11.9425 5.19249 12 5.05375 12 4.90909V3.81818C11.9987 3.38459 11.8259 2.96913 11.5193 2.66253C11.2127 2.35593 10.7972 2.18311 10.3636 2.18182Z" fill="#1FE1FF"></path>
+                        </g>
+                        <defs>
+                           <clipPath id="clip0_1_41139">
+                              <rect width="12" height="12" fill="white"></rect>
+                           </clipPath>
+                        </defs>
+                     </svg>
+                     Bonus
+                  </a>
+                  <a class="item_33c28">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="icon_338c8">
+                        <g clip-path="url(#clip0_1_41144)">
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3817 5.3629H10.1107V3.69224C10.1107 1.65639 8.51925 0 6.56348 0H5.43652C3.4807 0 1.88934 1.65634 1.88934 3.69224V5.36302H1.61845C1.1894 5.36353 0.778062 5.54114 0.474656 5.85689C0.171251 6.17263 0.000552055 6.60073 0 7.04729L0 8.47676C0.000508682 8.92334 0.171191 9.35148 0.474603 9.66724C0.778015 9.98301 1.18938 10.1606 1.61845 10.1611H2.35807C2.41963 10.1611 2.4806 10.1485 2.53748 10.124C2.59436 10.0995 2.64604 10.0636 2.68957 10.0183C2.73311 9.97297 2.76763 9.91918 2.79118 9.85998C2.81473 9.80078 2.82684 9.73732 2.82682 9.67325V3.69224C2.82756 2.97207 3.10274 2.28161 3.59198 1.77233C4.08122 1.26306 4.74458 0.976556 5.43652 0.975677H6.56348C7.25543 0.976549 7.91879 1.26305 8.40804 1.77232C8.89729 2.2816 9.17248 2.97206 9.17323 3.69224V10.2529C9.17303 10.4575 9.09488 10.6536 8.95592 10.7982C8.81696 10.9428 8.62854 11.0241 8.43204 11.0243H6C5.87568 11.0243 5.75645 11.0757 5.66854 11.1671C5.58064 11.2586 5.53125 11.3827 5.53125 11.5121C5.53125 11.6415 5.58064 11.7656 5.66854 11.8571C5.75645 11.9486 5.87568 12 6 12H8.43204C8.87708 11.9995 9.30376 11.8153 9.61845 11.4877C9.93315 11.1602 10.1102 10.7161 10.1107 10.2529V10.1612H10.3817C10.8107 10.1607 11.2221 9.98304 11.5255 9.66725C11.8289 9.35147 11.9995 8.92332 12 8.47674V7.04726C11.9995 6.6007 11.8288 6.17259 11.5254 5.85683C11.222 5.54106 10.8107 5.36343 10.3817 5.3629Z" fill="#1FE1FF"></path>
+                        </g>
+                        <defs>
+                           <clipPath id="clip0_1_41144">
+                              <rect width="12" height="12" fill="white"></rect>
+                           </clipPath>
+                        </defs>
+                     </svg>
+                     Canlı Destek
                   </a>
                </div>
             </div>
-            <div class="hm-row-bc  has-slider" style="grid-template-columns: 12fr;"></div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="ftr-g-content-bc ">
-                  <div class="page-view-more">
-                     <h3 class="view-title-more ellipsis">ÖNE ÇIKAN ETKİNLİKLER</h3>
-                  </div>
-                  <div>
-                     <div class="carousel">
-                        <div class="carousel-count">1 / 15</div>
-                        <div class="carousel-viewport">
-                           <div class="carousel-container slider-slickone" style="transform: translate3d(0%, 0px, 0px);">
-                              <div class="carousel-slide " style="width: 100%; left: 0%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">14:30</time></span></div>
-                                       <span class="ftr-g-icon-bc">+578</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/388.png" alt="Aston Villa"><span>Aston Villa</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/926.png" alt="Brighton and Hove Albion"><span>Brighton and Hove Albion</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">2.65</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.94</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">2.60</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide active-slide" style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">14:30</time></span></div>
-                                       <span class="ftr-g-icon-bc">+399</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/944.png" alt="Southampton "><span>Southampton </span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/936.png" alt="Leeds United"><span>Leeds United</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">2.91</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.68</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">2.37</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+563</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/406.png" alt="Wolverhampton Wanderers"><span>Wolverhampton Wanderers</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/395.png" alt="Manchester City"><span>Manchester City</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">9.80</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.90</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.34</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+555</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/880.png" alt="Bournemouth"><span>Bournemouth</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/387.png" alt="Arsenal  "><span>Arsenal  </span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.70</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">4.60</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.61</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+564</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/396.png" alt="Manchester United"><span>Manchester United</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/931.png" alt="Crystal Palace "><span>Crystal Palace </span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.65</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">4.30</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.80</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+568</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/946.png" alt="West Ham United"><span>West Ham United</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/913.png" alt="Sheffield United"><span>Sheffield United</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.45</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.20</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">7.50</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+544</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/392.png" alt="Everton  "><span>Everton  </span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/1308.png" alt="Luton"><span>Luton</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.68</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">4.00</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.80</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+575</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/397.png" alt="Newcastle United"><span>Newcastle United</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/928.png" alt="Burnley "><span>Burnley </span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.35</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.90</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">9.40</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+351</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/927.png" alt="Bristol City"><span>Bristol City</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/400.png" alt="Stoke City"><span>Stoke City</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">2.35</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.35</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.19</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+373</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/898.png" alt="Huddersfield Town"><span>Huddersfield Town</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/935.png" alt="Ipswich Town"><span>Ipswich Town</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.95</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.86</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.91</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+360</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/929.png" alt="Cardiff City "><span>Cardiff City </span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/911.png" alt="Rotherham United"><span>Rotherham United</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.66</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">4.00</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">5.30</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+368</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/934.png" alt="Hull City"><span>Hull City</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/907.png" alt="Plymouth Argyle"><span>Plymouth Argyle</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.90</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.85</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.97</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+345</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/939.png" alt="Millwall"><span>Millwall</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/402.png" alt="Swansea City"><span>Swansea City</span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">2.19</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.39</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.50</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc Soccer">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">17:00</time></span></div>
-                                       <span class="ftr-g-icon-bc">+352</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Championship</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/398.png" alt="Norwich City"><span>Norwich City</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/623.png" alt="Birmingham "><span>Birmingham </span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">1.90</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">3.69</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><span class="market-odd-bc">4.10</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="carousel-slide " style="width: 100%;">
-                                 <div class="ftr-game-item-bc " style="background-image: url(&quot;/images/featuredGames/538.png&quot;);">
-                                    <div class="ftr-g-i-head-bc">
-                                       <i class="ftr-g-icon-bc bc-i-prematch"></i>
-                                       <div class="ftr-g-i-b-time-block"><span class="ftr-g-i-b-time-bc"><time class="">30.09.2023</time> | <time class="">19:30</time></span></div>
-                                       <span class="ftr-g-icon-bc">+484</span><i class="ftr-g-icon-bc bc-i-favorite"></i>
-                                    </div>
-                                    <div class="ftr-g-i-body-bc">
-                                       <div class="ftr-g-title-bc"><i class="ftr-g-i-type-icon-bc bc-i-Soccer"></i><i class="ftr-flag-bc flag-bc england"></i><span class="ftr-g-i-title-bc ellipsis">Premier League</span></div>
-                                       <div class="ftr-g-i-b-opp-t-holder-bc">
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/403.png" alt="Tottenham Hotspur"><span>Tottenham Hotspur</span></div>
-                                          <span class="ftr-g-i-b-opp-title-bc">Beraberlik</span>
-                                          <div class="ftr-g-i-b-opp-title-bc"><img class="ftr-g-i-b-opp-logo-bc" src="https://statistics.trexname.com//images/e/s/0/394.png" alt="Liverpool  "><span>Liverpool  </span></div>
-                                       </div>
-                                    </div>
-                                    <div class="market-group-holder-bc ext-44">
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">2.98</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">4.10</span></div>
-                                          </div>
-                                       </div>
-                                       <div class="market-group-item-bc">
-                                          <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                             <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">2.29</span></div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="product-banner-container-bc col-4 product-banner-without-titles"><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Soccer/Turkey/3013?specialSection=popular-competitions"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_9e13e42b789378b5b6789cd1f5884472.webp" alt=""></a><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Soccer/Spain/545?specialSection=popular-competitions"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_30f38da1cc06338ac70e6c3b1c9c3617.webp" alt=""></a><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Soccer/England/538?specialSection=popular-competitions"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_6e18ff3eb8fa94e5031a5ff85a31bd04.webp" alt=""></a><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Soccer/Italy/543?specialSection=popular-competitions"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_7a45f5499dfe18c7921e958462462972.webp" alt=""></a></div>
-            </div>
-            <div class="hm-row-bc  has-slider" style="grid-template-columns: 12fr;">
-               <div class="slider-bc  ">
-                  <div class="carousel">
-                     <div class="carousel-viewport">
-                        <div class="carousel-container slider-slickone" style="transform: translate3d(0%, 0px, 0px);">
-                           <div class="carousel-slide active-slide" style="width: 100%;">
-                              <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/casino/slots/207?categoryName=MostPlayed"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_dcfb815bcd14d5585a98ef91b419447f.webp" loading="lazy" class="sdr-image-bc" alt="" title="1"></a></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="product-banner-container-bc col-4 product-banner-without-titles"><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Basketball/"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_36536c984d3e8f78e13f2a0cede4f15c.webp" alt=""></a><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Basketball/"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_d922d3cafd7932eab8ac8c7c8444bb13.webp" alt=""></a><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Basketball/"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_319d78b46cbb6a30bb4591ee976f1961.webp" alt=""></a><a target="_self" class="product-banner-info-bc product-banner-bc" href="/tr/sports/pre-match/event-view/Basketball/"><img class="product-banner-img-bc" src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_348f9444b97f271e40dcb9ddb295d451.webp" alt=""></a></div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;" onclick="window.location.href = 'casino'">
-               <div class="page-view-more">
-                  <h3 class="view-title-more ellipsis">CASİNO OYUNLARI</h3>
-                  <a class="view-see-more" href="/tr/casino/slots/">DAHA FAZLASI<i class="view-arrow-more bc-i-small-arrow-right"></i></a>
-               </div>
-               <div class="games-horiz casino-game-item-amount">
-                  <div class="games-horiz-scroll" data-scroll-lock-scrollable="" style="grid-template-rows: auto;">
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  badge-exclusive" data-badge="Özel"><img src="https://cmsbetconstruct.com/content/images/casino/icon2/84285ff8492f1f61d725788d2dae3126_casinoGameIcon2.gif" class="casino-game-item-image-bc" alt="Trendbet Yummy" title="Trendbet Yummy" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon2/d6a20614a9588cc9917aa505cef52c45_casinoGameIcon2.gif" class="casino-game-item-image-bc" alt="Sweet Bonanza" title="Sweet Bonanza" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon2/2df8a998234fa5585c1b5fc29f1d81d2_casinoGameIcon2.gif" class="casino-game-item-image-bc" alt="Gravity Bonanza™" title="Gravity Bonanza™" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon2/486ae60359abe2259c568e061cba32d7_casinoGameIcon2.gif" class="casino-game-item-image-bc" alt="Big Bass Crash™" title="Big Bass Crash™" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;" onclick="window.location.href = 'livecasino'">
-               <div class="page-view-more">
-                  <h3 class="view-title-more ellipsis">CANLI CASİNO</h3>
-                  <a class="view-see-more" href="/tr/live-casino/home">DAHA FAZLASI<i class="view-arrow-more bc-i-small-arrow-right"></i></a>
-               </div>
-               <div class="games-horiz casino-game-item-amount">
-                  <div class="games-horiz-scroll" data-scroll-lock-scrollable="" style="grid-template-rows: auto;">
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon2/4fb7258eae4b63ae5fa3bea383f13f88_casinoGameIcon2.webp" class="casino-game-item-image-bc" alt="Turkish Lighting roulette" title="Turkish Lighting roulette" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon2/9bc64eebd0bc82dfef81459d36431efc_casinoGameIcon2.webp" class="casino-game-item-image-bc" alt="Lightning Lotto" title="Lightning Lotto" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon2/1a3e8d7f0f587a1f2fd76c125d055263_casinoGameIcon2.webp" class="casino-game-item-image-bc" alt="Gonzo's Treasure Map" title="Gonzo's Treasure Map" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                     <div class="casino-game-item-content">
-                        <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon2/90767e84b05611216b81ea73dc189fcb_casinoGameIcon2.webp" class="casino-game-item-image-bc" alt="Crazy Time" title="Crazy Time" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="popular-competitions-bc">
-                  <div class="page-view-more">
-                     <h3 class="view-title-more ellipsis">POPÜLER LİGLER </h3>
-                  </div>
-                  <div class="sp-s-l-b-c-item-bc " title="UEFA Avrupa Şampiyonası Elemeleri"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">UEFA Avrupa Şampiyonası Elemeleri</span><i class="sp-s-l-h-flag-bc flag-bc europe" title="Avrupa"></i><span class="sp-s-l-b-c-i-g-count-bc">16</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Süper Lig"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Süper Lig</span><i class="sp-s-l-h-flag-bc flag-bc turkey" title="Türkiye"></i><span class="sp-s-l-b-c-i-g-count-bc">10</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="TFF 1. Lig"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">TFF 1. Lig</span><i class="sp-s-l-h-flag-bc flag-bc turkey" title="Türkiye"></i><span class="sp-s-l-b-c-i-g-count-bc">8</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="UEFA Şampiyonlar Ligi"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">UEFA Şampiyonlar Ligi</span><i class="sp-s-l-h-flag-bc flag-bc europe" title="Avrupa"></i><span class="sp-s-l-b-c-i-g-count-bc">23</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="UEFA Avrupa Ligi"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">UEFA Avrupa Ligi</span><i class="sp-s-l-h-flag-bc flag-bc europe" title="Avrupa"></i><span class="sp-s-l-b-c-i-g-count-bc">17</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="UEFA Avrupa Konferans Ligi"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">UEFA Avrupa Konferans Ligi</span><i class="sp-s-l-h-flag-bc flag-bc europe" title="Avrupa"></i><span class="sp-s-l-b-c-i-g-count-bc">16</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Premier Lig"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Premier Lig</span><i class="sp-s-l-h-flag-bc flag-bc russia" title="Rusya"></i><span class="sp-s-l-b-c-i-g-count-bc">14</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Serie A"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Serie A</span><i class="sp-s-l-h-flag-bc flag-bc italy" title="İtalya"></i><span class="sp-s-l-b-c-i-g-count-bc">20</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Premier League"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Premier League</span><i class="sp-s-l-h-flag-bc flag-bc england" title="İngiltere"></i><span class="sp-s-l-b-c-i-g-count-bc">21</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Ligue 1"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Ligue 1</span><i class="sp-s-l-h-flag-bc flag-bc france" title="Fransa"></i><span class="sp-s-l-b-c-i-g-count-bc">17</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Championship"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Championship</span><i class="sp-s-l-h-flag-bc flag-bc england" title="İngiltere"></i><span class="sp-s-l-b-c-i-g-count-bc">24</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="La Liga"><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">La Liga</span><i class="sp-s-l-h-flag-bc flag-bc spain" title="İspanya"></i><span class="sp-s-l-b-c-i-g-count-bc">19</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Liga ACB "><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Basketball"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Liga ACB </span><i class="sp-s-l-h-flag-bc flag-bc spain" title="İspanya"></i><span class="sp-s-l-b-c-i-g-count-bc">3</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Bundesliga "><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Soccer"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Bundesliga </span><i class="sp-s-l-h-flag-bc flag-bc germany" title="Almanya"></i><span class="sp-s-l-b-c-i-g-count-bc">17</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="NBA "><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Basketball"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">NBA </span><i class="sp-s-l-h-flag-bc flag-bc northamerica" title="Kuzey Amerika"></i><span class="sp-s-l-b-c-i-g-count-bc">14</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="Euroleague "><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Basketball"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">Euroleague </span><i class="sp-s-l-h-flag-bc flag-bc europe" title="Avrupa"></i><span class="sp-s-l-b-c-i-g-count-bc">9</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-                  <div class="sp-s-l-b-c-item-bc " title="TBSL "><i class="sp-s-l-b-c-i-fav-icon-bc bc-i-favorite"></i><i class="sp-s-l-b-c-i-sport-icon-bc bc-i-Basketball"></i><span class="sp-s-l-b-c-i-title-bc ellipsis">TBSL </span><i class="sp-s-l-h-flag-bc flag-bc turkey" title="Türkiye"></i><span class="sp-s-l-b-c-i-g-count-bc">4</span><i class="competition-ico-arr-bc bc-i-small-arrow-right"></i></div>
-               </div>
-            </div>
-            <div class="hm-row-bc  " style="grid-template-columns: 12fr;">
-               <div class="prematch-page-bc">
-                  <div class="page-view-more">
-                     <h3 class="view-title-more ellipsis">ARTIRILMIŞ ORANLAR</h3>
-                  </div>
-                  <div class="sports-group-bc">
-                     <div class="sg-head-bc sg-head-sticky-bc Soccer-bg"><i class="sg-type-icon-bc bc-i-Soccer"></i><span class="sg-title-bc ellipsis">Futbol </span><i class="sg-collapse-icon-bc bc-i-small-arrow-down active"></i></div>
-                     <div class="sg-body-bc">
-                        <div>
-                           <div class="market-filter-bc">
-                              <div class="market-filter-s-bc">
-                                 <div class="form-control-bc select s-small filled">
-                                    <label class="form-control-label-bc inputs">
-                                       <select class="form-control-select-bc ellipsis">
-                                          <option value="WINNER">KAZANAN</option>
-                                          <option value="HANDICAP">HANDİKAP</option>
-                                          <option value="TOTALS">TOPLAMLAR</option>
-                                       </select>
-                                       <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                                    </label>
-                                 </div>
-                              </div>
-                              <div class="market-filter-cell-bc">
-                                 <div class="market-filter-info-bc">W1</div>
-                                 <div class="market-filter-info-bc">X</div>
-                                 <div class="market-filter-info-bc">W2</div>
-                              </div>
-                           </div>
-                           <div class="competition-bc">
-                              <div class="c-segment-holder-bc head">
-                                 <div class="c-head-bc">
-                                    <i class="c-country-bc flag-bc england"></i>
-                                    <p class="c-country-bc-text ellipsis"><span class="c-title-bc ellipsis">Premier League</span></p>
-                                    <i class="sgm-market-g-h-toggle-icon-bc bc-i-small-arrow-up"></i>
-                                 </div>
-                              </div>
-                              <div class="c-segment-holder-bc single-g-info-bc">
-                                 <div class="sw-container-bc " style="transform: translateX(0px);">
-                                    <div class="c-segment-holder-bc markets ">
-                                       <div class="c-row-bc bordered">
-                                          <div class="c-teams-bc">
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Tottenham Hotspur">Tottenham Hotspur</span></div>
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Liverpool  ">Liverpool  </span></div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">2.98</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">4.10</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">2.29</span></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="c-segment-holder-bc info">
-                                       <div class="c-info-bc">
-                                          <div class="c-info-content-bc">
-                                             <i class="info-live-prematch-icon-bc bc-i-prematch"></i><time class="c-info-time-bc">30.09.23, 19:30</time>
-                                             <div class="c-info-score-wrapper"></div>
-                                          </div>
-                                          <div class="c-info-more-bc">
-                                             <p class="bet-builder-container"><i class="c-info-icon-bc bc-i-bet-builder"></i></p>
-                                             <span class="c-info-markets-count-bc">+484</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swipe-fav-container-bc " style="transform: translateX(60px);"><i class="c-info-icon-bc bc-i-favorite"></i></div>
-                              </div>
-                           </div>
-                           <div class="competition-bc">
-                              <div class="c-segment-holder-bc head">
-                                 <div class="c-head-bc">
-                                    <i class="c-country-bc flag-bc spain"></i>
-                                    <p class="c-country-bc-text ellipsis"><span class="c-title-bc ellipsis">La Liga</span></p>
-                                    <i class="sgm-market-g-h-toggle-icon-bc bc-i-small-arrow-up"></i>
-                                 </div>
-                              </div>
-                              <div class="c-segment-holder-bc single-g-info-bc">
-                                 <div class="sw-container-bc " style="transform: translateX(0px);">
-                                    <div class="c-segment-holder-bc markets ">
-                                       <div class="c-row-bc bordered">
-                                          <div class="c-teams-bc">
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Girona">Girona</span></div>
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Real Madrid  ">Real Madrid  </span></div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">3.80</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">4.10</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">1.97</span></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="c-segment-holder-bc info">
-                                       <div class="c-info-bc">
-                                          <div class="c-info-content-bc">
-                                             <i class="info-live-prematch-icon-bc bc-i-prematch"></i><time class="c-info-time-bc">30.09.23, 19:30</time>
-                                             <div class="c-info-score-wrapper"></div>
-                                          </div>
-                                          <div class="c-info-more-bc">
-                                             <p class="bet-builder-container"><i class="c-info-icon-bc bc-i-bet-builder"></i></p>
-                                             <span class="c-info-markets-count-bc">+414</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swipe-fav-container-bc " style="transform: translateX(60px);"><i class="c-info-icon-bc bc-i-favorite"></i></div>
-                              </div>
-                           </div>
-                           <div class="competition-bc">
-                              <div class="c-segment-holder-bc head">
-                                 <div class="c-head-bc">
-                                    <i class="c-country-bc flag-bc germany"></i>
-                                    <p class="c-country-bc-text ellipsis"><span class="c-title-bc ellipsis">Bundesliga </span></p>
-                                    <i class="sgm-market-g-h-toggle-icon-bc bc-i-small-arrow-up"></i>
-                                 </div>
-                              </div>
-                              <div class="c-segment-holder-bc single-g-info-bc">
-                                 <div class="sw-container-bc " style="transform: translateX(0px);">
-                                    <div class="c-segment-holder-bc markets ">
-                                       <div class="c-row-bc bordered">
-                                          <div class="c-teams-bc">
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="RB Leipzig">RB Leipzig</span></div>
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Bayern Munich">Bayern Munich</span></div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">3.71</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">4.30</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">1.96</span></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="c-segment-holder-bc info">
-                                       <div class="c-info-bc">
-                                          <div class="c-info-content-bc">
-                                             <i class="info-live-prematch-icon-bc bc-i-prematch"></i><time class="c-info-time-bc">30.09.23, 19:30</time>
-                                             <div class="c-info-score-wrapper"></div>
-                                          </div>
-                                          <div class="c-info-more-bc">
-                                             <p class="bet-builder-container"><i class="c-info-icon-bc bc-i-bet-builder"></i></p>
-                                             <span class="c-info-markets-count-bc">+458</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swipe-fav-container-bc " style="transform: translateX(60px);"><i class="c-info-icon-bc bc-i-favorite"></i></div>
-                              </div>
-                           </div>
-                           <div class="competition-bc">
-                              <div class="c-segment-holder-bc head">
-                                 <div class="c-head-bc">
-                                    <i class="c-country-bc flag-bc italy"></i>
-                                    <p class="c-country-bc-text ellipsis"><span class="c-title-bc ellipsis">Serie A</span></p>
-                                    <i class="sgm-market-g-h-toggle-icon-bc bc-i-small-arrow-up"></i>
-                                 </div>
-                              </div>
-                              <div class="c-segment-holder-bc single-g-info-bc">
-                                 <div class="sw-container-bc " style="transform: translateX(0px);">
-                                    <div class="c-segment-holder-bc markets ">
-                                       <div class="c-row-bc bordered">
-                                          <div class="c-teams-bc">
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="AC Milan">AC Milan</span></div>
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Lazio">Lazio</span></div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">1.80</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">3.82</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">5.00</span></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="c-segment-holder-bc info">
-                                       <div class="c-info-bc">
-                                          <div class="c-info-content-bc">
-                                             <i class="info-live-prematch-icon-bc bc-i-prematch"></i><time class="c-info-time-bc">30.09.23, 19:00</time>
-                                             <div class="c-info-score-wrapper"></div>
-                                          </div>
-                                          <div class="c-info-more-bc">
-                                             <p class="bet-builder-container"><i class="c-info-icon-bc bc-i-bet-builder"></i></p>
-                                             <span class="c-info-markets-count-bc">+438</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swipe-fav-container-bc " style="transform: translateX(60px);"><i class="c-info-icon-bc bc-i-favorite"></i></div>
-                              </div>
-                           </div>
-                           <div class="competition-bc">
-                              <div class="c-segment-holder-bc head">
-                                 <div class="c-head-bc">
-                                    <i class="c-country-bc flag-bc france"></i>
-                                    <p class="c-country-bc-text ellipsis"><span class="c-title-bc ellipsis">Ligue 1</span></p>
-                                    <i class="sgm-market-g-h-toggle-icon-bc bc-i-small-arrow-up"></i>
-                                 </div>
-                              </div>
-                              <div class="c-segment-holder-bc single-g-info-bc">
-                                 <div class="sw-container-bc " style="transform: translateX(0px);">
-                                    <div class="c-segment-holder-bc markets ">
-                                       <div class="c-row-bc bordered">
-                                          <div class="c-teams-bc">
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="AS Monaco">AS Monaco</span></div>
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Olympique de Marseille">Olympique de Marseille</span></div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">2.47</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">3.75</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">2.91</span></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="c-segment-holder-bc info">
-                                       <div class="c-info-bc">
-                                          <div class="c-info-content-bc">
-                                             <i class="info-live-prematch-icon-bc bc-i-prematch"></i><time class="c-info-time-bc">30.09.23, 22:00</time>
-                                             <div class="c-info-score-wrapper"></div>
-                                          </div>
-                                          <div class="c-info-more-bc">
-                                             <p class="bet-builder-container"><i class="c-info-icon-bc bc-i-bet-builder"></i></p>
-                                             <span class="c-info-markets-count-bc">+438</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swipe-fav-container-bc " style="transform: translateX(60px);"><i class="c-info-icon-bc bc-i-favorite"></i></div>
-                              </div>
-                           </div>
-                           <div class="competition-bc">
-                              <div class="c-segment-holder-bc head">
-                                 <div class="c-head-bc">
-                                    <i class="c-country-bc flag-bc turkey"></i>
-                                    <p class="c-country-bc-text ellipsis"><span class="c-title-bc ellipsis">Süper Lig</span></p>
-                                    <i class="sgm-market-g-h-toggle-icon-bc bc-i-small-arrow-up"></i>
-                                 </div>
-                              </div>
-                              <div class="c-segment-holder-bc single-g-info-bc">
-                                 <div class="sw-container-bc " style="transform: translateX(0px);">
-                                    <div class="c-segment-holder-bc markets ">
-                                       <div class="c-row-bc bordered">
-                                          <div class="c-teams-bc">
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Galatasaray">Galatasaray</span></div>
-                                             <div class="c-teams-row-bc"><span class="c-team-info-team-bc team" title="Ankaragücü">Ankaragücü</span></div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">1.31</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">6.50</span></div>
-                                             </div>
-                                          </div>
-                                          <div class="c-odd-bc">
-                                             <div class="sgm-market-g-i-cell-bc market-bc " title="">
-                                                <div class="market-coefficient-bc"><i class="market-icon-bc bc-i-boost"></i><span class="market-odd-bc">10.00</span></div>
-                                             </div>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="c-segment-holder-bc info">
-                                       <div class="c-info-bc">
-                                          <div class="c-info-content-bc">
-                                             <i class="info-live-prematch-icon-bc bc-i-prematch"></i><time class="c-info-time-bc">30.09.23, 19:00</time>
-                                             <div class="c-info-score-wrapper"></div>
-                                          </div>
-                                          <div class="c-info-more-bc">
-                                             <p class="bet-builder-container"><i class="c-info-icon-bc bc-i-bet-builder"></i></p>
-                                             <span class="c-info-markets-count-bc">+376</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="swipe-fav-container-bc " style="transform: translateX(60px);"><i class="c-info-icon-bc bc-i-favorite"></i></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      
+            

@@ -1,37 +1,18 @@
-<html lang="tr" dir="ltr" class=" webp webp-alpha webp-animation webp-lossless" style="--mobile-header-main-section-height: 49px; --mobile-header-navigation-height: 40px; --mobile-header-full-height: 89px; --dynamic-header: 0px; --window-height: 889px; --hero: #ea2323; --brand: #16C72E; --secondary: #06A9AA; --accent: #ea2323; --oc-1: #ea2323; --oc-2: #FFFFFF; --oc-3: #ff3449; --odd-up: #16C72E; --odd-down: #ff3449; --b: #282C37; --header: #282C37; --menu: #282C37; --tab-navigation: #282C37; --hero-hover: #EE5252; --hero-sc: #FFFFFF; --hero-sc-rgb: 255, 255, 255; --hero-rgb: 234, 35, 35; --brand-hover: #119923; --brand-sc: #000000; --brand-sc-rgb: 0, 0, 0; --brand-rgb: 22, 199, 46; --secondary-hover: #047879; --secondary-sc: #000000; --secondary-sc-rgb: 0, 0, 0; --secondary-rgb: 6, 169, 170; --accent-hover: #EE5252; --accent-sc: #FFFFFF; --accent-sc-rgb: 255, 255, 255; --accent-rgb: 234, 35, 35; --oc-1-hover: #EE5252; --oc-1-sc: #FFFFFF; --oc-1-sc-rgb: 255, 255, 255; --oc-1-rgb: 234, 35, 35; --oc-2-hover: #E6E6E6; --oc-2-sc: #000000; --oc-2-sc-rgb: 0, 0, 0; --oc-2-rgb: 255, 255, 255; --oc-3-hover: #FF6777; --oc-3-sc: #FFFFFF; --oc-3-sc-rgb: 255, 255, 255; --oc-3-rgb: 255, 52, 73; --odd-up-hover: #119923; --odd-up-sc: #000000; --odd-up-sc-rgb: 0, 0, 0; --odd-up-rgb: 22, 199, 46; --odd-down-hover: #FF6777; --odd-down-sc: #FFFFFF; --odd-down-sc-rgb: 255, 255, 255; --odd-down-rgb: 255, 52, 73; --b-hover: #3D4455; --b-sc: #FFFFFF; --b-sc-rgb: 255, 255, 255; --b-rgb: 40, 44, 55; --header-hover: #3D4455; --header-sc: #FFFFFF; --header-sc-rgb: 255, 255, 255; --header-rgb: 40, 44, 55; --menu-hover: #3D4455; --menu-sc: #FFFFFF; --menu-sc-rgb: 255, 255, 255; --menu-rgb: 40, 44, 55; --tab-navigation-hover: #3D4455; --tab-navigation-sc: #FFFFFF; --tab-navigation-sc-rgb: 255, 255, 255; --tab-navigation-rgb: 40, 44, 55;">
+<html lang="tr">
    <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,viewport-fit=cover">
-      <meta name="revisit-after" content="1 Days">
-      <meta name="Robots" content="all">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="description" content="" data-reactroot="">
+      <meta name="keywords" content="" data-reactroot="">
+      <meta name="robots" data-reactroot="">
+      <link rel="canonical" data-reactroot="">
+      <meta property="og:description" content="" data-reactroot="">
+      <meta property="og:url" data-reactroot="">
+      <meta charset="UTF-8">
       <meta name="google" content="notranslate">
-      <link rel="stylesheet" href="assets/static//custom.css" id="app-custom-css">
-      <link rel="shortcut icon" href="/favicon.ico?version=1694433544641">
-      <meta name="author" data-rh="true" content="Trendbet">
-      <meta name="language" data-rh="true" content="Türkçe">
-      <title>Trendbet | Türkiye'nin en güvenilir şans oyunları sitesi</title>
-      <link href="assets/static/css/634.030ebb42.chunk.css" rel="stylesheet">
-      <link href="assets/static/css/main.5e1fea96.chunk.css" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/217.a061a824.chunk.css">
-      <link rel="home" href="https://m.trendbet525.com" data-rh="true">
-      <meta property="og:site_name" content="m.trendbet525.com" data-rh="true">
-      <meta property="og:type" content="website" data-rh="true">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/42.ca73cd22.chunk.css">
-      <meta name="copyright" content="Trendbet |" data-rh="true">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/4.a4020a44.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/6.586d2659.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/119.d4737c22.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/157.e0bda5e5.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/104.455f8be6.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/116.dd97c6c3.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/49.54817c6f.chunk.css">
-     <link rel="stylesheet" type="text/css" href="assets/static/css/57.f779afc7.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/105.44a5dfdc.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/50.5788ee07.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/186.a061a824.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/39.dcf20575.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/106.b060b5a0.chunk.css">
-      <link rel="stylesheet" type="text/css" href="assets/static/css/28.0be81305.chunk.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <link rel="apple-touch-icon" sizes="76x76" href="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/apple-touch-icon.png?v=2">
+      <link rel="icon" type="image/png" sizes="32x32" href="https://cdn2-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-32x32.png?v=2">
+      <link rel="icon" type="image/png" sizes="16x16" href="https://cdn3-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-16x16.png?v=2">
       <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!-- Add the slick-theme.css if you want default styling -->
@@ -84,3928 +65,461 @@ div:where(.swal2-icon).swal2-warning {
         let phone_status = <?= intval($main['phone_status']) ?>;
         let passport_status = <?= intval($main['passport_status']) ?>;
     </script>
-      <meta name="keywords" content="Trendbet" data-rh="true">
-      <meta name="description" content="Trendbet - Türkiye'nin en güvenilir şans oyunları sitesi! Yüksek oranlar, canlı bahis, casino, poker ve daha fazlası. Üye olun ve heyecan verici bonusları kaçırmayın. En iyi online bahis deneyimi için Trendbet'i tercih edin!" data-rh="true">
-      <meta property="og:title" content="Trendbet | Türkiye'nin en güvenilir şans oyunları sitesi" data-rh="true">
-      <meta property="og:url" content="https://m.trendbet525.com/tr" data-rh="true">
-      <meta property="og:description" content="Trendbet - Türkiye'nin en güvenilir şans oyunları sitesi! Yüksek oranlar, canlı bahis, casino, poker ve daha fazlası. Üye olun ve heyecan verici bonusları kaçırmayın. En iyi online bahis deneyimi için Trendbet'i tercih edin!" data-rh="true">
-   </head>
+      <link rel="stylesheet" href="https://cdn1-client.btkmcdn.com/build/themes/mobi/turkish/betkom/css/style.css?r=1696319036__9a91cd57c9dcf3325c4e203b0c48d68e__72d473b011fc9a580051f639bc75f294" id="current_theme">
+    </head>
    <body>
-      <noscript>You need to enable JavaScript to run this app.</noscript>
-      <div id="root" class="layout-bc theme-default betslip-Hidden is-home-page">
-         <div class="Toastify"></div>
-         <div class="hdr-smart-panel-holder-arrow-bc">
-         <?php if(isset($us['id'])){ ?>
-          <div class="hdr-smart-panel-holder-bc" style="margin: 60px -5px;"><div class="hdr-smart-panel-holder-bc"><button onclick="openmodal('notifications')" class="sp-button-bc " title="BahisCasino Ayrıcalıkları !" data-component="Notifications" style=""><i id="smart-panel-notification-button-id" class="sp-button-icon-bc bc-i-notification"></i><i class=" count-odd-animation count-blink-even " data-badge="12"></i></button><button class="sp-button-bc " onclick="openmodal('favourites')" title="FAVORİLER" data-component="FavoriteGames" style=""><i id="smart-panel-favorites-button-id" class="sp-button-icon-bc bc-i-favorite"></i><i class="  count-blink-even " data-badge=""></i></button><button  onclick="openmodal('messages')" class="sp-button-bc " title="MESAJLAR" data-component="Messages" style=""><i class="sp-button-icon-bc bc-i-message"></i><i class="  count-blink-even " data-badge=""></i></button><button class="sp-button-bc " title="BONUSLAR" data-component="Bonuses"  onclick="openmodal('bonussport')"><i class="sp-button-icon-bc bc-i-bonus"></i><i class="  count-blink-even " data-badge=""></i></button><button class="sp-button-bc "  onclick="openmodal('settings')" title="Ayarlar" data-component="Settings" style=""><i id="smart-panel-settings-button-id" class="sp-button-icon-bc bc-i-settings"></i><span class="sp-button-content-text-bc"></span></button><button class="sp-button-bc " type="button" id="maximizeButton" title="DESTEK İLE İLETİŞİME GEÇİN" style=""><i class="sp-button-icon-bc bc-i-live-chat"></i></button><button  onclick="openmodal('betall')" class="sp-button-bc " title="Bet History" style=""><i class="sp-button-icon-bc bc-i-history"></i></button><button class="sp-button-bc "  onclick="openmodal('openbetslip')" title="BAHİS KUPONU" data-component="Betslip" style=""><i class="sp-button-icon-bc bc-i-betslip"></i><i class="  count-blink-even " data-badge=""></i></button></div></div>
-          <?php }else{?>
-            <div class="hdr-smart-panel-holder-bc" style="margin: 60px -5px;"><button onclick="openmodal('notifications')" class="sp-button-bc " title="BahisCasino Ayrıcalıkları !" data-component="Notifications" style=""><i id="smart-panel-notification-button-id" class="sp-button-icon-bc bc-i-notification"></i><i class=" count-odd-animation count-blink-even " data-badge="12"></i></button><button class="sp-button-bc " onclick="openmodal('favourites')" title="FAVORİLER" data-component="FavoriteGames"><i id="smart-panel-favorites-button-id" class="sp-button-icon-bc bc-i-favorite"></i><i class="  count-blink-even " data-badge=""></i></button><button class="sp-button-bc "  onclick="openmodal('settings')" title="Ayarlar" data-component="Settings"><i id="smart-panel-settings-button-id" class="sp-button-icon-bc bc-i-settings"></i><span class="sp-button-content-text-bc"></span></button><button class="sp-button-bc " id="maximizeButton" type="button" title="DESTEK İLE İLETİŞİME GEÇİN" style=""><i class="sp-button-icon-bc bc-i-live-chat"></i></button><button  onclick="openmodal('betall')" class="sp-button-bc " title="Bet History"><i class="sp-button-icon-bc bc-i-history"></i></button><button class="sp-button-bc "  onclick="openmodal('openbetslip')" title="BAHİS KUPONU" data-component="Betslip"><i class="sp-button-icon-bc bc-i-betslip"></i><i class="  count-blink-even " data-badge=""></i></button></div>
-         <?php }?>
-         </div>
-         <div class="overlay-sliding-wrapper-bc  display-none" style="transform: translateY(0px); opacity: 1;">
-            <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-               <div class="back-nav-bc"><i class="back-nav-icon-bc bc-i-round-arrow-left"></i><span class="back-nav-title-bc ellipsis">YENİLİKLER</span></div>
-            </div>
-         </div>
-         <div class="overlay-sliding-wrapper-bc  display-none" style="transform: translateY(0px); opacity: 1;">
-            <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-               <div class="back-nav-bc"><i class="back-nav-icon-bc bc-i-round-arrow-left"></i><span class="back-nav-title-bc ellipsis">FAVORİLER</span></div>
-            </div>
-         </div>
-         <div class="layout-header-holder-bc">
-            <div class="header-bc  ">
-               <div class="hdr-main-content-bc">
-                  <div class="logo-container"><a class="logo" href="/"><img class="hdr-logo-bc" src="/logo.png?v=09/11/2023-15:59" alt=""></a><a href="#" class=" header-icon"><img src="https://cmsbetconstruct.com/content/images/dbfeb70b5169a15c33a865e729c88e28_839_media.png" alt=""></a></div>
-                  
-                  <?php if(isset($us['id'])){ ?>
-                      <div class="hdr-user-bc">
-                      <a target="_self" class="user-nav-icon bc-i-wallet" onclick="openmodal('deposit')"> </a>
-                        <div class="user-balance-dropdown">
-                            <div class="hdr-user-info-content-bc "><span class="hdr-user-info-texts-bc ext-1 ellipsis"><?=$us['balance']?> ₺</span></div>
-                        </div>
-                        <div><i class="hdr-user-avatar-icon-bc bc-i-user " onclick="openmodal('profile')"></i></div>
-                      </div>
-                      <?php }else{?>
-                    <div class="hdr-user-bc">
-                    <div class="header-custom-buttons"><a target="_self" class="btn a-color  header-icon-text bc-i-wallet" onclick="openmodal('login-modal')"><span></span></a></div> 
-                    <button class="btn s-small sign-in " onclick="openmodal('login-modal')" type="button" title="GİRİŞ"><span>GİRİŞ</span></button><button class="btn s-small register " onclick="openmodal('register-modal')" type="button" title="Kayıt"><span>Kayıt</span></button>
-                  </div>
-                  <?php }?>
-                  <i class="  count-blink-even hdr-toggle-button-bc bc-i-vertical-toggle" data-badge="" id="smart-panel-holder"></i>
-                  <i class="hdr-user-close bc-i-close-remove hidden" id="profileclosed" onclick="closemodal('profile')"></i>
+      <div id="app" class="root  ">
+         <div class="application  tr_TR">
+            <div class="overlay_bf57d"></div>
+            <div class="burger-menu_d57a3">
+               <div class="burger-menu-header_ad9fc">
+                  <a class="logo-link_ecfc5" href="/tr/" aria-label="Main page">
+                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 36" width="136px" height="36px" class="logo-icon_5a2ad">
+                        <path fill="#ffffff" d="M20.3,21.9c.6-.7,1-1.6,1.2-2.6,.1-.6,.2-1.2,.2-1.8,0-.9-.2-1.7-.5-2.4-.3-.7-.8-1.2-1.5-1.6-.6-.4-1.4-.7-2.2-.9-.9-.2-1.8-.3-2.8-.3H4.5L1.7,26.5l7.4-6.9-1.4-2.4c0-.1,0-.2,0-.3,0-.1,.2-.2,.3-.2l2.7,.2,1.8-2.2c.2-.2,.5-.1,.5,.1l.6,2.8,2.5,1c.1,0,.2,.2,.2,.3,0,.1,0,.2-.2,.3l-2.4,1.5-.2,2.9c0,.1,0,.2-.2,.3,0,0-.1,0-.2,0,0,0,0,0-.1,0l-2.1-1.8L1,30.3l-1,5.1H11.7c1.3,0,2.4-.1,3.4-.3,1-.2,1.9-.6,2.7-1.1,.8-.5,1.4-1.2,1.9-2,.5-.8,.8-1.9,1-3.1,0-.2,0-.4,0-.6v-.5c0-1.1-.2-2.1-.7-2.8-.5-.7-1.1-1.2-1.8-1.5,.8-.3,1.5-.9,2.1-1.6Zm-6.6,5.9c0,.1,0,.3,0,.4-.1,.6-.4,1.1-.8,1.3-.4,.2-1.1,.4-2,.4h-3.2l.7-3.9h3.1c.7,0,1.3,.1,1.6,.3,.3,.2,.5,.6,.5,1.2s0,.2,0,.4Z"></path>
+                        <path fill="#ffffff" d="M57.3,18.4l-3.3,17h-7.4l3.3-17h-7.1l2.3-6.1h20.4l-2.3,6.1h-5.9Z"></path>
+                        <path fill="#1fe1ff" d="M72.5,21l7.1-8.7h8.2l-9.7,11.4,6.3,11.7h-8.7l-4.2-8.9-1.7,8.9h-7l4.5-23.1h7l-1.7,8.7Z"></path>
+                        <path fill="#1fe1ff" d="M105.4,13.8c-1.6-1.4-4-2.1-7.2-2.1s-3.3,.2-4.7,.6c-1.4,.4-2.6,1.1-3.6,2-1,.9-1.9,2.1-2.6,3.6-.7,1.5-1.2,3.4-1.7,5.6-.3,1.4-.4,2.7-.4,3.9,0,2.9,.8,5.1,2.4,6.5s4,2.1,7.2,2.1,3.3-.2,4.7-.6c1.4-.4,2.6-1.1,3.6-2,1-.9,1.9-2.1,2.6-3.6,.7-1.5,1.2-3.4,1.7-5.6,.3-1.4,.4-2.7,.4-3.9,0-3-.8-5.1-2.4-6.6Zm-2.3,11.3c-.4,2.2-2.5,3.9-4.7,3.9s-1.4-.3-1.8-.7v.8c-.3,.9,.3,1,.8,1.5,.1,.1,0,.3-.2,.3h-3.9c-.2,0-.2-.2,0-.3,.6-.4,1.3-.5,1.4-1.5v-.8c-.5,.5-1.2,.7-1.9,.7-2.2,0-3.7-1.7-3.3-3.9,.2-1.2,1-2.4,2.1-3.1,2.4-1.7,4.8-3.8,5.7-4.8,.3-.2,.6-.2,.8,0,.6,.9,2.2,3.1,4.1,4.8,.8,.8,1.2,1.9,1,3.1Z"></path>
+                        <path fill="#1fe1ff" d="M124.8,35.4l2.3-12.2-3.6,5.9h-5.6l-1.3-5.8-2.3,12.1h-6.8l4.5-23.1h7.6l2.4,10.2,6.4-10.2h7.6l-4.5,23.1h-6.8Z"></path>
+                        <path fill="#ffffff" d="M107.3,5.3c0,.7-.5,1.2-1.2,1.2h0l-.9,3.2c-.3-.1-.6-.2-.9-.3-1.6-.4-3.6-.6-5.9-.6s-4.3,.2-5.9,.6c-.3,0-.6,.2-.9,.3l-.9-3.2h0c-.7,0-1.2-.5-1.2-1.2s.5-1.2,1.2-1.2,1.2,.5,1.2,1.2,0,.3,0,.4l2.9,1.7,3.1-5.2c-.3-.2-.5-.6-.5-1,0-.7,.5-1.2,1.2-1.2s1.2,.5,1.2,1.2-.2,.8-.5,1l3.1,5.2,2.9-1.7c0-.1,0-.2,0-.4,0-.7,.5-1.2,1.2-1.2s1.2,.5,1.2,1.2Z"></path>
+                        <path fill="#ffffff" d="M25.7,12.3l-1.1,5.8h15.6s.9,0,.9,0l2.2-5.8H25.7Zm4.4,14.3h8.1l2.2-5.7H24l-2.8,14.5h16.8l2.2-5.8h-10.8l.6-3Z"></path>
+                     </svg>
+                  </a>
+                  <button class="button-container_dbd2d">
+                     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="button-icon_4eaff">
+                        <path d="M11.6924 1.79254C12.1025 1.38246 12.1025 0.717619 11.6924 0.307557C11.2824 -0.102519 10.6175 -0.102519 10.2074 0.307557L5.99996 4.51496L1.79255 0.307557C1.38248 -0.102519 0.717633 -0.102519 0.307571 0.307557C-0.102505 0.717619 -0.102505 1.38246 0.307571 1.79254L4.51507 5.99999L0.307557 10.2074C-0.102519 10.6175 -0.102519 11.2824 0.307557 11.6925C0.717619 12.1024 1.38246 12.1024 1.79254 11.6925L5.99996 7.48489L10.2074 11.6925C10.6175 12.1024 11.2824 12.1024 11.6924 11.6925C12.1025 11.2824 12.1025 10.6175 11.6924 10.2074L7.485 5.99999L11.6924 1.79254Z" fill="currentColor"></path>
+                     </svg>
+                  </button>
                </div>
-               <div class="hdr-additional-info"></div>
-               <div class="hdr-navigation-scrollable-bc-holder">
-                  <div class="hdr-navigation-scrollable-bc " data-scroll-lock-scrollable="">
-                     <nav class="hdr-navigation-scrollable-content"><a class="hdr-navigation-link-bc" target="_self" href="livesports">Canlı Bahis</a><a class="hdr-navigation-link-bc" target="_self" href="sportsbook">Spor Bahisleri</a><a class="hdr-navigation-link-bc" target="_self" href="livecasino">Canlı Casino</a><a class="hdr-navigation-link-bc" target="_self" href="casino">Slot</a><a class="hdr-navigation-link-bc badge-new" target="_self" data-badge="Yeni" href="aviator">Aviator</a><a class="hdr-navigation-link-bc" target="_self" href="aviatrix">Aviatrix</a><a class="hdr-navigation-link-bc" target="_self" href="tombala">Tombala</a><a class="hdr-navigation-link-bc" target="_self" href="virtualsports">Sanal Sporlar</a><a class="hdr-navigation-link-bc" target="_self" href="poker">Poker</a><a class="hdr-navigation-link-bc" target="_self" href="games">Oyunlar</a><a class="hdr-navigation-link-bc" target="_self" href="promotions">Promosyonlar</a><a class="hdr-navigation-link-bc" target="_self" href="esports">e-sporlar</a><a class="hdr-navigation-link-bc" target="_self" href="tv">TV Oyunları</a></nav>
+               <div class="welcome-block_d7b63">
+                  <h2 class="welcome-title_43b7d">Betkom'a Hoş Geldiniz!</h2>
+                  <p class="welcome-text_42c89">Bahsin Yıldızı, Casinonun Kralı Olacağın Yerdesin! </p>
+                  <div class="auth-block_3861e">
+                     <a class="auth-button_48db0" href="/tr/login/">
+                        <span>Giriş</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+                           <path d="M8.00035 0C3.58234 0 0 3.58164 0 8C0 12.4184 3.58199 16 8.00035 16C12.4191 16 16.0007 12.4184 16.0007 8C16.0007 3.58164 12.4191 0 8.00035 0ZM8.00035 2.39209C9.46224 2.39209 10.6469 3.57707 10.6469 5.03826C10.6469 6.4998 9.46224 7.68443 8.00035 7.68443C6.53916 7.68443 5.35454 6.4998 5.35454 5.03826C5.35454 3.57707 6.53916 2.39209 8.00035 2.39209ZM7.99859 13.9084C6.54057 13.9084 5.20518 13.3774 4.17518 12.4985C3.92427 12.2845 3.77949 11.9707 3.77949 11.6414C3.77949 10.1595 4.97887 8.97342 6.46115 8.97342H9.54026C11.0229 8.97342 12.2177 10.1595 12.2177 11.6414C12.2177 11.971 12.0736 12.2841 11.8224 12.4981C10.7927 13.3774 9.45697 13.9084 7.99859 13.9084Z" fill="currentColor"></path>
+                        </svg>
+                     </a>
+                     <a class="auth-button_48db0 register_67a9a" href="/tr/registration/">
+                        <span>Kayıt Ol</span>
+                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M9.31818 4.09092H5.90908V0.68182C5.90908 0.305454 5.60363 0 5.22726 0H4.77274C4.39637 0 4.09092 0.305454 4.09092 0.68182V4.09092H0.68182C0.305454 4.09092 0 4.39637 0 4.77274V5.22726C0 5.60363 0.305454 5.90908 0.68182 5.90908H4.09092V9.31818C4.09092 9.69455 4.39637 10 4.77274 10H5.22726C5.60363 10 5.90908 9.69455 5.90908 9.31818V5.90908H9.31818C9.69455 5.90908 10 5.60363 10 5.22726V4.77274C10 4.39637 9.69455 4.09092 9.31818 4.09092Z" fill="currentColor"></path>
+                        </svg>
+                     </a>
                   </div>
                </div>
-               <div class="center-bottom-btn nav-floating-btn-hide"><button class="btn nav-floating-btn bc-i-double-arrow-top " type="button"></button></div>
-            </div>
-         </div>
-
-        <div class="hdr-nav-menu-holder-bc bottommenu" id="bottommenu">
-          <div class="m-navigation-container-bc active">
-            <div class="m-nav-title-row-bc">
-              <h3 class="m-nav-title-content-bc">MENÜ</h3>
-              <div class="closed-n-p-bc" onclick="openmenu()">
-                <i class="bc-i-close-remove"></i>
-              </div>
-            </div>
-            <div class="m-nav-info-w-container-bc" data-scroll-lock-scrollable="">
-              <div class="m-nav-collapsed-container-bc">
-              <div class="m-block-nav-items-bc" data-scroll-lock-scrollable="">
-   <span class="menu-group-title">SPOR</span>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="sportsbook">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-live"></i></div>
-            <p class="m-nav-list-item-title-bc">CANLI</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="sportsbook">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-prematch"></i></div>
-            <p class="m-nav-list-item-title-bc">MAÇ ÖNCESİ</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="esports">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-E-sports"></i></div>
-            <p class="m-nav-list-item-title-bc">E-SPORLAR</p>
-         </div>
-      </a>
-   </div>
-   <span class="menu-group-title">CASİNO</span>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="casino">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-casino"></i></div>
-            <p class="m-nav-list-item-title-bc">CASİNO</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="livecasino">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-livecasino"></i></div>
-            <p class="m-nav-list-item-title-bc">CANLI CASİNO</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="tv">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-tv"></i></div>
-            <p class="m-nav-list-item-title-bc">TV Oyunları</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="games">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-games"></i></div>
-            <p class="m-nav-list-item-title-bc">OYUNLAR</p>
-         </div>
-      </a>
-   </div>
-   <span class="menu-group-title">PROMOSYONLAR</span>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="promotions">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-default-icon"></i></div>
-            <p class="m-nav-list-item-title-bc">PROMOSYONLAR</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a href="#" target="_blank" class="app-nav-link">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-exchange-shop"></i></div>
-            <p class="m-nav-list-item-title-bc">BONUS TALEP</p>
-         </div>
-      </a>
-   </div>
-   <span class="menu-group-title">DİĞER</span>
-   <div class="app-nav-arrow-block-bc">
-      <a href="#" target="_blank" class="app-nav-link">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-call"></i></div>
-            <p class="m-nav-list-item-title-bc">SİZİ ARAYALIM</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="casino">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-jackpots"></i></div>
-            <p class="m-nav-list-item-title-bc">JACKPOTLAR</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="tournaments">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-tournament"></i></div>
-            <p class="m-nav-list-item-title-bc">TURNUVALAR</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a class="app-nav-link" target="_self" href="results">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-results"></i></div>
-            <p class="m-nav-list-item-title-bc">SONUÇLAR</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a href="javascript:;" onclick="maximizeTawkToWidget()" target="_self" class="app-nav-link">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-whatsapp"></i></div>
-            <p class="m-nav-list-item-title-bc">WHATSAPP DESTEK</p>
-         </div>
-      </a>
-   </div>
-   <div class="app-nav-arrow-block-bc">
-      <a href="javascript:;" onclick="maximizeTawkToWidget()" target="_self" class="app-nav-link">
-         <div class="m-nav-items-list-item-bc ">
-            <div class="nav-ico-w-row-bc"><i class="m-nav-icon-bc bc-i-telegram"></i></div>
-            <p class="m-nav-list-item-title-bc">TELEGRAM DESTEK</p>
-         </div>
-      </a>
-   </div>
-</div>
-              </div>
-            </div>
-          </div>
-        </div>
-         <div class="popup-holder-bc full-screen  content-manager hidden modal" style="" id="login-modal">
-        <div class="popup-middleware-bc">
-          <div class="popup-inner-bc">
-            <i class="e-p-close-icon-bc bc-i-close-remove" onclick="closemodal()"></i>
-            <div class="entrance-popup-bc sign-in">
-              <div class="e-p-content-holder-bc">
-                <div class="e-p-content-bc">
-                  <div class="e-p-header-bc">
-                    <a class="popup-t-logo-w-bc" href="/m/">
-                      <img class="hdr-logo-bc" src="/logo.png" alt="">
-                    </a>
-                    <div class="e-p-sections-bc">
-                      <div class="e-p-section-item-bc">
-                        <button class="btn s-small register " type="button" title="Kayıt" onclick="openmodal('register-modal')">
-                          <span>Kayıt</span>
-                        </button>
-                      </div>
-                    </div>
+               <div class="mt15 switcher_50ec4">
+                  <div class="switcher-wrapper_5cdb5">
+                     <a href="/tr/" rel="alternate" hreflang="tr" class="selected-lang-link_d230a">
+                        <span class="dib  pr " style="width: 20px; height: 20px;"><i class="flag_b4452 flag_TR_2e54d" style="transform: scale(0.714286);"></i></span><span class="selected-lang-text_b273a">Türkçe</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" class="switcher-arrow_44449">
+                           <path d="M9.84016 0.501475L9.5126 0.166416C9.40951 0.0617774 9.27235 0.0041311 9.12577 0.00413108C8.97926 0.00413105 8.84194 0.0617773 8.73885 0.166416L5.00224 3.96231L1.26131 0.162203C1.15838 0.0575639 1.02107 1.78529e-07 0.87456 1.52913e-07C0.728055 1.27297e-07 0.590655 0.0575638 0.487646 0.162202L0.160001 0.495196C-0.0533339 0.711741 -0.053334 1.06447 0.160001 1.28102L4.61402 5.82178C4.71695 5.92633 4.8541 6 5.00191 6L5.00362 6C5.1502 6 5.28736 5.92625 5.39029 5.82178L9.84016 1.29333C9.94325 1.18877 9.99984 1.04523 10 0.896409C10 0.747503 9.94325 0.605948 9.84016 0.501475Z" fill="currentColor"></path>
+                        </svg>
+                     </a>
                   </div>
-                  <div class="e-p-body-bc">
-                    <form id="login_form" onsubmit="logIn()" class="entrance-form-bc login popup" data-scroll-lock-scrollable="">
-                      <div class="form-sign-bc">
-                        <div class="sg-n-text-row-1-bc">Hesabınız var mı?</div>
-                        <div class="sg-n-text-row-2-bc">HEMEN GİRİŞ YAPIN!</div>
-                        <div class="entrance-f-item-bc">
-                          <div class="form-control-bc default ">
-                            <label class="form-control-label-bc inputs">
-                              <input type="text" class="form-control-input-bc" name="login" step="0" value="">
-                              <i class="form-control-input-stroke-bc"></i>
-                              <span class="form-control-title-bc ellipsis">E-posta / Kullanıcı Adı</span>
-                            </label>
-                          </div>
-                        </div>
-                        <div class="entrance-f-item-bc">
-                          <div class="form-control-bc default has-icon ">
-                            <label class="form-control-label-bc inputs">
-                              <input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value="">
-                              <i class="form-control-input-stroke-bc"></i>
-                              <span class="form-control-title-bc ellipsis">Şifre</span>
-                            </label>
-                          </div>
-                        </div>
-                        <div class="entrance-f-item-bc entrance-f-item-checkbox-bc">
-                          <div class="checkbox-control-bc">
-                            <label class="checkbox-control-content-bc">
-                              <input type="checkbox" class="checkbox-control-input-bc" step="0">
-                              <i class="checkbox-control-icon-bc bc-i-checked"></i>
-                              <p class="checkbox-control-text-bc">Beni hatırla</p>
-                            </label>
-                          </div>
-                        </div>
-                        <div class="entrance-form-actions-holder-bc login-ext-1">
-                          <div class="entrance-form-action-item-bc right">
-                            <button class="btn a-color " type="submit" title="GİRİŞ">
-                              <span>GİRİŞ</span>
-                            </button>
-                          </div>
-                        </div>
-                        <div class="sg-n-forgot-password-text">ŞİFRENİZİ Mİ UNUTTUNUZ?</div>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="popup-holder-bc full-screen  content-manager hidden modal" style="" id="register-modal">
-        <div class="popup-middleware-bc">
-          <div class="popup-inner-bc">
-            <i class="e-p-close-icon-bc bc-i-close-remove" onclick="closemodal()"></i>
-            <div class="entrance-popup-bc register">
-              <div class="e-p-content-holder-bc">
-                <div class="e-p-content-bc">
-                  <div class="e-p-header-bc">
-                    <a class="popup-t-logo-w-bc" href="/m/">
-                      <img class="hdr-logo-bc" src="/logo.png" alt="">
-                    </a>
-                    <div class="e-p-sections-bc">
-                      <div class="e-p-section-item-bc" onclick="openmodal('login-modal')">
-                        <span class="e-p-section-title-bc">GİRİŞ</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="e-p-body-bc">
-                    <div class="reg-form-block-bc">
-                      <form class="entrance-form-bc registration popup" id="register_form" onsubmit="signUp()">
-                        <div class="entrance-form-content-bc single-side step-0" data-scroll-lock-scrollable="">
-                          <div class="reg-form-content" data-scroll-lock-scrollable="">
-                            <div class="sg-n-text-row-1-bc">Yeni üyemisiniz?</div>
-                            <div class="sg-n-text-row-2-bc">ŞİMDİ KAYDOLUN, HERŞEY ÇOK KOLAY!</div>
-                            <div class="reg-form-fields">
-                              <div class="entrance-form-content-section-bc">
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Adı</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Orta isim</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Soyadı</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" name="login" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Kullanıcı adı</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="react-datepicker-wrapper">
-                                    <div class="react-datepicker__input-container">
-                                      <div class="form-control-bc default filled ">
-                                        <label class="form-control-label-bc inputs">
-                                          <input class="form-control-input-bc " type="text" placeholder=""  value="">
-                                          <i class="form-control-input-stroke-bc"></i>
-                                          <span class="form-control-title-bc ellipsis">Doğum tarihi</span>
-                                          <i class="dropdownIcon-bc bc-i-datepicker"></i>
-                                        </label>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default has-icon ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Şifre</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default has-icon ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="password" class="form-control-input-bc" autocomplete="current-password" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Şifreyi onayla</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" inputmode="decimal" class="form-control-input-bc" name="passport" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">TC kimlik NO</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="email" class="form-control-input-bc" autocomplete="username" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">E-posta</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc select has-icon focused">
-                                    <label class="form-control-label-bc inputs">
-                                      <select class="form-control-select-bc active" step="0">
-                                        <option value="">Cinsiyet seçin</option>
-                                        <option value="M">Erkek</option>
-                                        <option value="F">Kadın</option>
-                                      </select>
-                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Cinsiyet</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc select select-flag filled">
-                                    <label class="form-control-label-bc inputs">
-                                      <i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i>
-                                      <select class="form-control-select-bc ellipsis">
-                                        <option value="AF">Afganistan</option>
-                                        <option value="AX">Aland Adaları</option>
-                                        <option value="AL">Arnavutluk</option>
-                                        <option value="DZ">Cezayir</option>
-                                        <option value="AS">Amerikan Samoası</option>
-                                        <option value="AD">Andora</option>
-                                        <option value="AO">Angola</option>
-                                        <option value="AI">Anguilla</option>
-                                        <option value="AQ">Antarktika</option>
-                                        <option value="AG">Antigua ve Barbuda</option>
-                                        <option value="AR">Arjantin</option>
-                                        <option value="AM">Ermenistan</option>
-                                        <option value="AW">Aruba</option>
-                                        <option value="AU">Avustralya</option>
-                                        <option value="AZ">Azerbaycan</option>
-                                        <option value="BS">Bahamalar</option>
-                                        <option value="BH">Bahreyn</option>
-                                        <option value="BD">Bangladeş</option>
-                                        <option value="BB">Barbados</option>
-                                        <option value="BY">Belarus</option>
-                                        <option value="BE">Belçika</option>
-                                        <option value="BZ">Belize</option>
-                                        <option value="BJ">Benin</option>
-                                        <option value="BM">Bermuda</option>
-                                        <option value="BT">Bhutan</option>
-                                        <option value="BO">Bolivya</option>
-                                        <option value="BQ">Bonaire</option>
-                                        <option value="BA">Bosna Hersek</option>
-                                        <option value="BW">Botsvana</option>
-                                        <option value="BV">Bouvet Adası</option>
-                                        <option value="BR">Brezilya</option>
-                                        <option value="IO">İngiliz Hint Okyanusu Bölgesi</option>
-                                        <option value="BN">Brunei Darüsselam</option>
-                                        <option value="BG">Bulgaristan</option>
-                                        <option value="BF">Burkina Faso</option>
-                                        <option value="BI">Burundi</option>
-                                        <option value="CV">Cabo Verde</option>
-                                        <option value="KH">Kamboçya</option>
-                                        <option value="CM">Kamerun</option>
-                                        <option value="CA">Kanada</option>
-                                        <option value="KY">Cayman Adaları</option>
-                                        <option value="CF">Orta Afrika Cumhuriyeti</option>
-                                        <option value="TD">Çad</option>
-                                        <option value="CL">Şili</option>
-                                        <option value="CN">Çin</option>
-                                        <option value="CX">Christmas Adası</option>
-                                        <option value="CC">Cocos (Keeling) Adaları</option>
-                                        <option value="CO">Kolombiya</option>
-                                        <option value="KM">Komoros</option>
-                                        <option value="CG">Kongo</option>
-                                        <option value="CD">Kongo Demokratik Cumhuriyeti (Zaire)</option>
-                                        <option value="CK">Cook Adaları</option>
-                                        <option value="CR">Kosta Rika</option>
-                                        <option value="CI">Fildişi Sahili</option>
-                                        <option value="HR">Hırvatistan</option>
-                                        <option value="CU">Küba</option>
-                                        <option value="CW">Curaçao</option>
-                                        <option value="CY">Kıbrıs</option>
-                                        <option value="CZ">Çekya</option>
-                                        <option value="DK">Danimarka</option>
-                                        <option value="DJ">Cibuti</option>
-                                        <option value="DM">Dominika</option>
-                                        <option value="DO">Dominik Cumhuriyeti</option>
-                                        <option value="EC">Ekvador</option>
-                                        <option value="EG">Mısır</option>
-                                        <option value="SV">El Salvador</option>
-                                        <option value="GQ">Ekvator Ginesi</option>
-                                        <option value="ER">Eritrea</option>
-                                        <option value="EE">Estonya</option>
-                                        <option value="ET">Etiyopya</option>
-                                        <option value="FK">Falkland Adaları</option>
-                                        <option value="FO">Faroe Adaları</option>
-                                        <option value="FJ">Fiji</option>
-                                        <option value="FI">Finlandiya</option>
-                                        <option value="FR">Fransa</option>
-                                        <option value="GF">Fransız Guyanası</option>
-                                        <option value="PF">Fransız Polinezyası</option>
-                                        <option value="TF">Fransız Güney Toprakları</option>
-                                        <option value="GA">Gabon</option>
-                                        <option value="GM">Gambiya</option>
-                                        <option value="GE">Gürcistan</option>
-                                        <option value="DE">Almanya</option>
-                                        <option value="GE-AB">Abhazya</option>
-                                        <option value="GH">Gana</option>
-                                        <option value="GI">Cebelitarık</option>
-                                        <option value="GR">Yunanistan</option>
-                                        <option value="GL">Grönland</option>
-                                        <option value="GD">Grenada</option>
-                                        <option value="GP">Guadelup</option>
-                                        <option value="GU">Guam</option>
-                                        <option value="GT">Guatemala</option>
-                                        <option value="GG">Guernsey</option>
-                                        <option value="GN">Gine</option>
-                                        <option value="GW">Gine-Bissau</option>
-                                        <option value="GY">Guyana</option>
-                                        <option value="HT">Haiti</option>
-                                        <option value="HM">Heard Adası ve McDonald Adaları</option>
-                                        <option value="VA">Vatikan</option>
-                                        <option value="HN">Honduras</option>
-                                        <option value="HK">Honk Kong</option>
-                                        <option value="HU">Macaristan</option>
-                                        <option value="IS">İzlanda</option>
-                                        <option value="IN">Hindistan</option>
-                                        <option value="ID">Endonezya</option>
-                                        <option value="IR">İran</option>
-                                        <option value="IQ">Irak</option>
-                                        <option value="IE">İrlanda</option>
-                                        <option value="IM">Man Adası</option>
-                                        <option value="IL">İsrail</option>
-                                        <option value="IT">İtalya</option>
-                                        <option value="JM">Jamaika</option>
-                                        <option value="JP">Japonya</option>
-                                        <option value="JE">Jersey</option>
-                                        <option value="JO">Ürdün</option>
-                                        <option value="KZ">Kazakistan</option>
-                                        <option value="KE">Kenya</option>
-                                        <option value="KI">Kiribati</option>
-                                        <option value="KP">Kuzey Kore</option>
-                                        <option value="KW">Kuveyt</option>
-                                        <option value="KG">Kırgızistan</option>
-                                        <option value="LA">Laos</option>
-                                        <option value="LV">Letonya</option>
-                                        <option value="LB">Lübnan</option>
-                                        <option value="LS">Lesoto</option>
-                                        <option value="LR">Liberya</option>
-                                        <option value="LY">Libya</option>
-                                        <option value="LI">Lihtenştayn</option>
-                                        <option value="LT">Litvanya</option>
-                                        <option value="LU">Lüksemburg</option>
-                                        <option value="MO">Makao</option>
-                                        <option value="MG">Madagaskar</option>
-                                        <option value="MW">Malavi</option>
-                                        <option value="MY">Malezya</option>
-                                        <option value="MV">Maldivler</option>
-                                        <option value="ML">Mali</option>
-                                        <option value="MT">Malta</option>
-                                        <option value="MH">Marshall Adaları</option>
-                                        <option value="MQ">Martinik</option>
-                                        <option value="MR">Moritanya</option>
-                                        <option value="MU">Morityus</option>
-                                        <option value="YT">Mayotte</option>
-                                        <option value="MX">Meksika</option>
-                                        <option value="FM">Mikronezya Federe Devletleri</option>
-                                        <option value="MD">Moldova</option>
-                                        <option value="MC">Monako</option>
-                                        <option value="MN">Moğolistan</option>
-                                        <option value="ME">Karadağ</option>
-                                        <option value="MS">Montserrat</option>
-                                        <option value="MA">Fas</option>
-                                        <option value="MZ">Mozambik</option>
-                                        <option value="MM">Myanmar</option>
-                                        <option value="NA">Namibya</option>
-                                        <option value="NR">Nauru</option>
-                                        <option value="NP">Nepal</option>
-                                        <option value="NL">Hollanda</option>
-                                        <option value="NC">Yeni Kaledonya</option>
-                                        <option value="NZ">Yeni Zelanda</option>
-                                        <option value="NI">Nikaragua</option>
-                                        <option value="NE">Nijer</option>
-                                        <option value="NG">Nijerya</option>
-                                        <option value="NU">Niue</option>
-                                        <option value="NF">Norfolk Adası</option>
-                                        <option value="MP">Kuzey Mariana Adaları</option>
-                                        <option value="MK">Makedonya</option>
-                                        <option value="NO">Norveç</option>
-                                        <option value="OM">Umman</option>
-                                        <option value="PK">Pakistan</option>
-                                        <option value="PW">Palau</option>
-                                        <option value="PS">Filistin Devleti</option>
-                                        <option value="PA">Panama</option>
-                                        <option value="PG">Papua Yeni Gine</option>
-                                        <option value="PY">Paraguay</option>
-                                        <option value="PE">Peru</option>
-                                        <option value="PH">Filipinler</option>
-                                        <option value="PN">Pitcairn</option>
-                                        <option value="PL">Polonya</option>
-                                        <option value="PT">Portekiz</option>
-                                        <option value="PR">Porto Riko</option>
-                                        <option value="QA">Katar</option>
-                                        <option value="RE">Réunion</option>
-                                        <option value="RO">Romanya</option>
-                                        <option value="RU">Rusya</option>
-                                        <option value="RW">Ruanda</option>
-                                        <option value="BL">Saint Barthelemy</option>
-                                        <option value="SH">Saint Helena</option>
-                                        <option value="KN">Saint Kitts ve Nevis</option>
-                                        <option value="LC">Saint Lucia</option>
-                                        <option value="MF">Saint Martin (Fransa)</option>
-                                        <option value="PM">Saint Pierre ve Miquelon</option>
-                                        <option value="VC">Saint Vincent ve Grenadinler</option>
-                                        <option value="WS">Samoa</option>
-                                        <option value="SM">San Marino</option>
-                                        <option value="ST">Sao Tome ve Principe</option>
-                                        <option value="SA">Suudi Arabistan</option>
-                                        <option value="SN">Senegal</option>
-                                        <option value="RS">Sırbistan</option>
-                                        <option value="SC">Seyşeller</option>
-                                        <option value="SL">Sierra Leone</option>
-                                        <option value="SG">Singapur</option>
-                                        <option value="SX">Sint Maarten (Hollanda)</option>
-                                        <option value="SI">Slovenya</option>
-                                        <option value="SB">Solomon Adaları</option>
-                                        <option value="SO">Somali</option>
-                                        <option value="ZA">Güney Afrika</option>
-                                        <option value="GS">Güney Georgia ve Güney Sandwich Adaları</option>
-                                        <option value="SS">Güney Sudan</option>
-                                        <option value="KR">Güney Kore</option>
-                                        <option value="ES">İspanya</option>
-                                        <option value="LK">Sri Lanka</option>
-                                        <option value="SD">Sudan</option>
-                                        <option value="SR">Surinam</option>
-                                        <option value="SJ">Svalbard ve Jan Mayen</option>
-                                        <option value="SZ">Svaziland</option>
-                                        <option value="SE">İsveç</option>
-                                        <option value="CH">İsviçre</option>
-                                        <option value="SY">Suriye</option>
-                                        <option value="TW">Tayvan</option>
-                                        <option value="TJ">Tacikistan</option>
-                                        <option value="TZ">Tanzanya</option>
-                                        <option value="TH">Tayland</option>
-                                        <option value="TL">Doğu Timor</option>
-                                        <option value="TG">Togo</option>
-                                        <option value="TK">Tokelau</option>
-                                        <option value="TO">Tonga</option>
-                                        <option value="TT">Trinidad ve Tobago</option>
-                                        <option value="TN">Tunus</option>
-                                        <option selected value="TR">Türkiye</option>
-                                        <option value="TM">Türkmenistan</option>
-                                        <option value="TC">Turks ve Caicos Adaları</option>
-                                        <option value="XC">Turkish Republic of Northern Cyprus</option>
-                                        <option value="TV">Tuvalu</option>
-                                        <option value="UG">Uganda</option>
-                                        <option value="UA">Ukrayna</option>
-                                        <option value="AE">Birleşik Arap Emirlikleri</option>
-                                        <option value="GB">Birleşik Krallık</option>
-                                        <option value="US">Amerika Birleşik Devletleri</option>
-                                        <option value="UY">Uruguay</option>
-                                        <option value="UZ">Özbekistan</option>
-                                        <option value="VU">Vanuatu</option>
-                                        <option value="VE">Venezuela</option>
-                                        <option value="VN">Vietnam</option>
-                                        <option value="VG">Britanya Virjin Adaları</option>
-                                        <option value="VI">ABD Virgin Adaları</option>
-                                        <option value="WF">Wallis ve Futuna</option>
-                                        <option value="EH">Batı Sahra</option>
-                                        <option value="YE">Yemen</option>
-                                        <option value="ZM">Zambiya</option>
-                                        <option value="ZW">Zimbabve</option>
-                                      </select>
-                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                                      <span class="form-control-title-bc ellipsis">Ülke</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Şehir</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Adres</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-controls-group-bc telephone">
-                                    <div class="form-controls-field-content">
-                                      <div class="form-controls-field-bc country-code">
-                                        <div class="form-control-bc select  filled">
-                                          <label class="form-control-label-bc inputs">
-                                            <i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i>
-                                            <select class="form-control-select-bc ellipsis">
-                                              <option value="AF">93</option>
-                                              <option value="AX">358</option>
-                                              <option value="AL">355</option>
-                                              <option value="DZ">213</option>
-                                              <option value="AS">1684</option>
-                                              <option value="AD">376</option>
-                                              <option value="AO">244</option>
-                                              <option value="AI">1264</option>
-                                              <option value="AQ">672</option>
-                                              <option value="AG">1268</option>
-                                              <option value="AR">54</option>
-                                              <option value="AM">374</option>
-                                              <option value="AW">297</option>
-                                              <option value="AU">61</option>
-                                              <option value="AZ">994</option>
-                                              <option value="BS">1242</option>
-                                              <option value="BH">973</option>
-                                              <option value="BD">880</option>
-                                              <option value="BB">1246</option>
-                                              <option value="BY">375</option>
-                                              <option value="BE">32</option>
-                                              <option value="BZ">501</option>
-                                              <option value="BJ">229</option>
-                                              <option value="BM">1441</option>
-                                              <option value="BT">975</option>
-                                              <option value="BO">591</option>
-                                              <option value="BQ">5997</option>
-                                              <option value="BA">387</option>
-                                              <option value="BW">267</option>
-                                              <option value="BV">47</option>
-                                              <option value="BR">55</option>
-                                              <option value="IO">246</option>
-                                              <option value="BN">673</option>
-                                              <option value="BG">359</option>
-                                              <option value="BF">226</option>
-                                              <option value="BI">257</option>
-                                              <option value="CV">238</option>
-                                              <option value="KH">855</option>
-                                              <option value="CM">237</option>
-                                              <option value="CA">1</option>
-                                              <option value="KY">1345</option>
-                                              <option value="CF">236</option>
-                                              <option value="TD">235</option>
-                                              <option value="CL">56</option>
-                                              <option value="CN">86</option>
-                                              <option value="CX">6189164</option>
-                                              <option value="CC">6189162</option>
-                                              <option value="CO">57</option>
-                                              <option value="KM">269</option>
-                                              <option value="CG">242</option>
-                                              <option value="CD">243</option>
-                                              <option value="CK">682</option>
-                                              <option value="CR">506</option>
-                                              <option value="CI">225</option>
-                                              <option value="HR">385</option>
-                                              <option value="CU">53</option>
-                                              <option value="CW">5999</option>
-                                              <option value="CY">357</option>
-                                              <option value="CZ">420</option>
-                                              <option value="DK">45</option>
-                                              <option value="DJ">253</option>
-                                              <option value="DM">1767</option>
-                                              <option value="DO">1809</option>
-                                              <option value="EC">593</option>
-                                              <option value="EG">20</option>
-                                              <option value="SV">503</option>
-                                              <option value="GQ">240</option>
-                                              <option value="ER">291</option>
-                                              <option value="EE">372</option>
-                                              <option value="ET">251</option>
-                                              <option value="FK">500</option>
-                                              <option value="FO">298</option>
-                                              <option value="FJ">679</option>
-                                              <option value="FI">358</option>
-                                              <option value="FR">33</option>
-                                              <option value="GF">594</option>
-                                              <option value="PF">689</option>
-                                              <option value="TF">596</option>
-                                              <option value="GA">241</option>
-                                              <option value="GM">220</option>
-                                              <option value="GE">995</option>
-                                              <option value="DE">49</option>
-                                              <option value="GE-AB">7840</option>
-                                              <option value="GH">233</option>
-                                              <option value="GI">350</option>
-                                              <option value="GR">30</option>
-                                              <option value="GL">299</option>
-                                              <option value="GD">1473</option>
-                                              <option value="GP">590</option>
-                                              <option value="GU">1671</option>
-                                              <option value="GT">502</option>
-                                              <option value="GG">441481</option>
-                                              <option value="GN">224</option>
-                                              <option value="GW">245</option>
-                                              <option value="GY">592</option>
-                                              <option value="HT">509</option>
-                                              <option value="HM">672</option>
-                                              <option value="VA">379</option>
-                                              <option value="HN">504</option>
-                                              <option value="HK">852</option>
-                                              <option value="HU">36</option>
-                                              <option value="IS">354</option>
-                                              <option value="IN">91</option>
-                                              <option value="ID">62</option>
-                                              <option value="IR">98</option>
-                                              <option value="IQ">964</option>
-                                              <option value="IE">353</option>
-                                              <option value="IM">441624</option>
-                                              <option value="IL">972</option>
-                                              <option value="IT">39</option>
-                                              <option value="JM">1876</option>
-                                              <option value="JP">81</option>
-                                              <option value="JE">441534</option>
-                                              <option value="JO">962</option>
-                                              <option value="KZ">7</option>
-                                              <option value="KE">254</option>
-                                              <option value="KI">686</option>
-                                              <option value="KP">850</option>
-                                              <option value="KW">965</option>
-                                              <option value="KG">996</option>
-                                              <option value="LA">856</option>
-                                              <option value="LV">371</option>
-                                              <option value="LB">961</option>
-                                              <option value="LS">266</option>
-                                              <option value="LR">231</option>
-                                              <option value="LY">218</option>
-                                              <option value="LI">423</option>
-                                              <option value="LT">370</option>
-                                              <option value="LU">352</option>
-                                              <option value="MO">853</option>
-                                              <option value="MG">261</option>
-                                              <option value="MW">265</option>
-                                              <option value="MY">60</option>
-                                              <option value="MV">960</option>
-                                              <option value="ML">223</option>
-                                              <option value="MT">356</option>
-                                              <option value="MH">692</option>
-                                              <option value="MQ">596</option>
-                                              <option value="MR">222</option>
-                                              <option value="MU">230</option>
-                                              <option value="YT">262</option>
-                                              <option value="MX">52</option>
-                                              <option value="FM">691</option>
-                                              <option value="MD">373</option>
-                                              <option value="MC">377</option>
-                                              <option value="MN">976</option>
-                                              <option value="ME">382</option>
-                                              <option value="MS">1664</option>
-                                              <option value="MA">212</option>
-                                              <option value="MZ">258</option>
-                                              <option value="MM">95</option>
-                                              <option value="NA">264</option>
-                                              <option value="NR">674</option>
-                                              <option value="NP">977</option>
-                                              <option value="NL">31</option>
-                                              <option value="NC">687</option>
-                                              <option value="NZ">64</option>
-                                              <option value="NI">505</option>
-                                              <option value="NE">227</option>
-                                              <option value="NG">234</option>
-                                              <option value="NU">683</option>
-                                              <option value="NF">6723</option>
-                                              <option value="MP">1670</option>
-                                              <option value="MK">389</option>
-                                              <option value="NO">47</option>
-                                              <option value="OM">968</option>
-                                              <option value="PK">92</option>
-                                              <option value="PW">680</option>
-                                              <option value="PS">970</option>
-                                              <option value="PA">507</option>
-                                              <option value="PG">675</option>
-                                              <option value="PY">595</option>
-                                              <option value="PE">51</option>
-                                              <option value="PH">63</option>
-                                              <option value="PN">64</option>
-                                              <option value="PL">48</option>
-                                              <option value="PT">351</option>
-                                              <option value="PR">1787</option>
-                                              <option value="QA">974</option>
-                                              <option value="RE">262</option>
-                                              <option value="RO">40</option>
-                                              <option value="RU">7</option>
-                                              <option value="RW">250</option>
-                                              <option value="BL">590</option>
-                                              <option value="SH">290</option>
-                                              <option value="KN">1869</option>
-                                              <option value="LC">1758</option>
-                                              <option value="MF">590</option>
-                                              <option value="PM">508</option>
-                                              <option value="VC">1784</option>
-                                              <option value="WS">685</option>
-                                              <option value="SM">378</option>
-                                              <option value="ST">239</option>
-                                              <option value="SA">966</option>
-                                              <option value="SN">221</option>
-                                              <option value="RS">381</option>
-                                              <option value="SC">248</option>
-                                              <option value="SL">232</option>
-                                              <option value="SG">65</option>
-                                              <option value="SX">1721</option>
-                                              <option value="SI">386</option>
-                                              <option value="SB">677</option>
-                                              <option value="SO">252</option>
-                                              <option value="ZA">27</option>
-                                              <option value="GS">500</option>
-                                              <option value="SS">211</option>
-                                              <option value="KR">82</option>
-                                              <option value="ES">34</option>
-                                              <option value="LK">94</option>
-                                              <option value="SD">249</option>
-                                              <option value="SR">597</option>
-                                              <option value="SJ">47</option>
-                                              <option value="SZ">268</option>
-                                              <option value="SE">46</option>
-                                              <option value="CH">41</option>
-                                              <option value="SY">963</option>
-                                              <option value="TW">886</option>
-                                              <option value="TJ">992</option>
-                                              <option value="TZ">255</option>
-                                              <option value="TH">66</option>
-                                              <option value="TL">670</option>
-                                              <option value="TG">228</option>
-                                              <option value="TK">690</option>
-                                              <option value="TO">676</option>
-                                              <option value="TT">1868</option>
-                                              <option value="TN">216</option>
-                                              <option selected value="TR">90</option>
-                                              <option value="TM">993</option>
-                                              <option value="TC">1649</option>
-                                              <option value="XC">90392</option>
-                                              <option value="TV">688</option>
-                                              <option value="UG">256</option>
-                                              <option value="UA">380</option>
-                                              <option value="AE">971</option>
-                                              <option value="GB">44</option>
-                                              <option value="US">1</option>
-                                              <option value="UY">598</option>
-                                              <option value="UZ">998</option>
-                                              <option value="VU">678</option>
-                                              <option value="VE">58</option>
-                                              <option value="VN">84</option>
-                                              <option value="VG">1284</option>
-                                              <option value="VI">1340</option>
-                                              <option value="WF">681</option>
-                                              <option value="EH">212</option>
-                                              <option value="YE">967</option>
-                                              <option value="ZM">260</option>
-                                              <option value="ZW">263</option>
-                                            </select>
-                                            <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                                            <span class="form-control-title-bc ellipsis">Kodu</span>
-                                          </label>
-                                        </div>
-                                      </div>
-                                      <div class="form-controls-field-bc">
-                                        <div class="form-control-bc default ">
-                                          <label class="form-control-label-bc inputs">
-                                            <input type="tel" name="phone" class="form-control-input-bc" step="0" value="">
-                                            <i class="form-control-input-stroke-bc"></i>
-                                            <span class="form-control-title-bc ellipsis">Telefon numarası</span>
-                                          </label>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc select has-icon focused filled">
-                                    <label class="form-control-label-bc inputs">
-                                      <select class="form-control-select-bc active" step="0">
-                                        <option value="TRY">TRY</option>
-                                      </select>
-                                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">Para birimi</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="form-control-bc default ">
-                                    <label class="form-control-label-bc inputs">
-                                      <input type="text" class="form-control-input-bc" step="0" value="">
-                                      <i class="form-control-input-stroke-bc"></i>
-                                      <span class="form-control-title-bc ellipsis">PROMOSYON KODU</span>
-                                    </label>
-                                  </div>
-                                </div>
-                                <div class="entrance-f-item-bc">
-                                  <div class="checkbox-control-bc">
-                                    <label class="checkbox-control-content-bc">
-                                      <input type="checkbox" class="checkbox-control-input-bc" label="Agree with terms and conditions" step="0">
-                                      <i class="checkbox-control-icon-bc bc-i-checked"></i>
-                                      <div class="checkbox-control-text-bc checkbox-control-text-content">
-                                        <span>18 yaşından büyüğüm , Genel Kurallar ve Şartları okudum ve kabul ediyorum.</span>
-                                        <p class="checkbox-control-text-privacy">
-                                          <a class="" href="/?helpPageContent=privacy-policy">
-                                            <span>Gizlilik Politikası</span>
-                                          </a>
-                                          <span class="privacy-police-text">ve</span>
-                                          <a class="" href="/?helpPageContent=general-terms-and-conditions">
-                                            <span>Genel Şartlar ve Koşullar</span>
-                                          </a>
-                                        </p>
-                                      </div>
-                                    </label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div class="entrance-f-item-bc entrance-f-recaptcha-bc">
-                              <div class="u-i-p-control-item-holder-bc ">
-                                <img class="recaptcha-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABL1BMVEUAAAD///////////////////////////////////////////////+rq6tChfQcOqkkQa0hP6xUkfatra1OjfX19fU+fezX5v3i5vS1tbU3UrSwsLCmqbCvr6/t7e2xsbH8/P1XkvYuSrGkqLDi4uK4ubn4+v1Bg/Lx8fHW1tbIyMjDw8O9vb20tLSnqq7m7/7m6fZgmfZHiPS5zPPv7+9Cge/M0uzH0Ove3t5bccE+WLezs7MnRK7y9//C2PyryfuZvvpuovdEhPDs7Ozo6Ojk5OSwu+G7yNygrduMm9TM3v2yzvv19viEsPh5qfhZlPZkmfOvxPCqwfCRsvB2n+3f5OzK1+vY3um/z+h7nua6w+Wst+Crtt/Z2dmTodaPntXByNTR0dFsf8hNZLxHYLreSXCvAAAADHRSTlMA/fPy2baba04cGm5J2ZqkAAACaElEQVRYw63YaVfaQBSA4bALjgFssLUkhEZAWVxQAQGX1rp23/e9/v/f4BgTZ5IL3EHv+80RnjPnDJdDRvNKpxLxKJuyaDyRSmtymWSE3bJIMiOcmRi7Q7EZ35lFtoNuatbbD+bgkrunTIzduViGQ0lGUJKfe4QCiqS1FCMppSVooIQWp4HiWpQGimqhhfX2vJyxedjpLDiD//9+fatNlMIQu2/o4Raybrn+9xoKQQlCPOf8BQ5BCUKcOhMv3AAQkCAk6vvvfzDAIPYeQHJO99p5mMegt8sQktvtuk4Wg7Y8B0BC6l05AIIOBmVzP7iDQOuHOg7xUOiJTgMd6DTQnjECMk7O+86U0GN9RI/4P8onF9NAtdCGPhg+xDvLq0PPA0znHZ8WAbGuowLBI1vecudOQKyXV4T2NmXoqzfBAmK/FaF92Xlz813gQ3wucAie2T7zpTZwMOiV5LyWpgY4GNSWoJdiGTgoNC9BB9BRh+RDexZ0NgY50O5YyDTNJXPpKtO0ijzLqhYYGoTW5sItAkcJwhx1CDoEEOIgEOasqEH3AtAfBtqxnqpDos9gP9YckFQg8yMLVBryxWJJHRKdMqlji68ICYfkqhX/1/N2g/8pJAyC2c165Xjnb0teKuGQWvY2BSQkHMJr4dDi6RruDFdQiM/FF1SygQMgd756iFTET82b00/mJGcV/xzdfK8WmuOdZo2hUEGac3vMdirI0ILKdXsEUy8zFIJUpRn4YFkNb/BwCFpH9UarOlyttho/j8psUmQPfmSPomQPx2SP62QXCFRXGmSXLFTXPlQXUVRXY6SXdWTXh5dIMReAck/CkAAAAABJRU5ErkJggg==" alt="">
-                                <div class="form-control-title-static-bc">
-                                  <a href="https://policies.google.com/privacy" rel="noopener noreferrer" target="_blank">Gizlilik Politikası</a> ve <a href="https://policies.google.com/terms" rel="noopener noreferrer" target="_blank">Kullanım Şartları</a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="reg-form-footer-bc">
-                          <div class="entrance-form-actions-holder-bc reg-ext-1">
-                            <button class="btn a-color " type="submit" title="Kayıt">
-                              <span>Kayıt</span>
-                            </button>
-                          </div>
-                          <div class="steps-indicator">
-                            <div class="step-indicator step-indicator-active"></div>
-                          </div>
-                        </div>
-                      </form>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="profile" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="u-i-profile-page-bc">
-        <div class="u-i-p-amount-holder-bc">
-          <div class="carousel">
-            <div class="carousel-viewport">
-              <div class="carousel-container" style="transform: translate3d(10.0002%, 0px, 0px);">
-                <div class="carousel-slide active-slide">
-                  <div class="u-i-p-amounts-bc withdrawable">
-                    <div class="u-i-p-a-content-bc">
-                      <div class="total-balance-r-bc">
-                        <div class="u-i-p-a-user-balance">
-                          <span class="u-i-p-a-title-bc ellipsis">ANA BAKİYE</span>
-                          <b class="u-i-p-a-amount-bc"><?=$us['balance']?> ₺</b>
-                        </div>
-                        <i class="u-i-p-a-c-icon-bc bc-i-eye"></i>
-                      </div>
-                      <div class="u-i-p-a-buttons-bc">
-                        <a class="u-i-p-a-deposit-bc ellipsis" href="javascript:;" onclick="openmodal('deposit')">
-                          <i class="bc-i-wallet"></i>
-                          <span class="ellipsis" title="PARA YATIR">PARA YATIR</span>
+               </div>
+               <nav class="mt20 main-nav-menu_c526f">
+                  <ul class="main-nav-list_59b86">
+                     <li class="main-nav-item_1127b active_38c58">
+                        <a href="/tr/" id="INDEX" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_19180)">
+                                    <path d="M15.5686 6.95923C15.5683 6.95886 15.5679 6.9585 15.5675 6.95813L9.04079 0.431641C8.76259 0.15332 8.39272 0 7.99928 0C7.60585 0 7.23598 0.153198 6.95766 0.431519L0.434343 6.95471C0.432145 6.95691 0.429948 6.95923 0.427751 6.96143C-0.143538 7.53601 -0.142562 8.46826 0.430558 9.04138C0.692399 9.30334 1.03822 9.45508 1.40798 9.47095C1.42299 9.47241 1.43813 9.47314 1.45339 9.47314H1.71352V14.2762C1.71352 15.2267 2.48683 16 3.43752 16H5.99098C6.24977 16 6.45973 15.7902 6.45973 15.5312V11.7656C6.45973 11.3319 6.81252 10.9791 7.24623 10.9791H8.75233C9.18605 10.9791 9.53883 11.3319 9.53883 11.7656V15.5312C9.53883 15.7902 9.74867 16 10.0076 16H12.561C13.5117 16 14.285 15.2267 14.285 14.2762V9.47314H14.5263C14.9196 9.47314 15.2894 9.31995 15.5679 9.04163C16.1416 8.46753 16.1419 7.53369 15.5686 6.95923Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Ana Sayfa</span>
                         </a>
-                        <a class="u-i-p-a-withdraw-bc ellipsis" href="javascript:;" onclick="openmodal('withdraw')">
-                          <i class="bc-i-withdraw"></i>
-                          <span class="ellipsis" title="ÇEKİM">ÇEKİM</span>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/sports/" id="PRE_LIVE" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_19037)">
+                                    <path d="M8.00019 0C3.5816 0 7.1871e-08 3.58141 7.1871e-08 8C-0.000585866 12.418 3.5816 15.9994 8.00019 16C12.4186 16 16.0008 12.4186 16 7.99941C16.0008 3.58078 12.4178 0 8.00019 0ZM13.4206 11.871L12.2998 11.056L9.57855 13.0332L10.0086 14.3568C9.37457 14.5572 8.69996 14.6666 7.99976 14.6666C7.29977 14.6666 6.62578 14.5572 5.99176 14.3574L6.42195 13.0332L3.7 11.056L2.57961 11.8704C1.80801 10.7922 1.34762 9.47781 1.33602 8.05402L2.72543 8.0532L3.76441 4.8548L2.64461 4.04102C3.45062 2.9518 4.57781 2.11723 5.88941 1.67961L6.31859 3H9.68121L10.1102 1.67961C11.4226 2.11781 12.5494 2.95242 13.3554 4.04102L12.2354 4.8548L13.2744 8.0532H14.6646C14.653 9.47801 14.1924 10.7924 13.4206 11.871Z" fill="currentColor"></path>
+                                    <path d="M9.67094 5.70068H6.30695L5.26855 8.89908L7.98938 10.8757L10.7102 8.89908L9.67094 5.70068Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Spor</span>
                         </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-slide ">
-                  <div class="u-i-p-amounts-bc bonuses">
-                    <div class="u-i-p-a-content-bc">
-                      <span class="u-i-p-a-title-bc ellipsis">TOPLAM BONUS PARA</span>
-                      <span class="u-i-p-a-amount-bc"><?=$us['balance']?> ₺</span>
-                      <div class="bonus-info-section">
-                        <div>
-                          <span class="ellipsis">Bonus bakiyesi</span>
-                          <b>0.00 ₺</b>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="u-i-p-p-u-i-edit-button-bc">
-          <span class="u-i-p-p-u-i-avatar-holder-bc">
-          <i class="hdr-user-avatar-icon-bc bc-i-user"></i>
-          </span>
-          <p class="u-i-p-p-u-i-identifiers-bc">
-            <span class="u-i-p-p-u-i-d-username-bc ellipsis" style="text-transform: uppercase;"><?=$us['login']?></span>
-            <span class="u-i-p-p-u-i-d-user-id-bc ellipsis">1441944021<?=$us['id']?> <i class="u-i-p-p-u-i-d-user-id-copy-bc bc-i-copy"></i>
-            </span>
-          </p>
-          <a class="u-i-p-l-h-icon-bc right bc-i-small-arrow-right" href="javascript:;" onclick="openmodal('profilemain')"></a>
-        </div>
-        <div class="separator-line-bc"></div>
-        <div class="u-i-p-links-lists-holder-bc menu" id="mainmenu">
-          <div class="u-i-p-l-head-bc" onclick="openaccordion('balance')">
-            <i class="user-nav-icon bc-i-balance-management"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">BAKİYE YÖNETİMİ</span>
-            <i class="  count-blink-even " data-badge=""></i>
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-          </div>
-          <div class="u-i-p-l-head-bc" onclick="openaccordion('builder')">
-            <i class="user-nav-icon bc-i-bet-builder-history"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">Bet Builder history</span>
-            <i class="  count-blink-even " data-badge=""></i>
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-          </div>
-          <div class="u-i-p-l-head-bc" onclick="openaccordion('bonus')">
-            <i class="user-nav-icon bc-i-promotion"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">BONUSLAR</span>
-            <i class="  count-blink-even " data-badge=""></i>
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-          </div>
-          <div class="u-i-p-l-head-bc" onclick="openaccordion('profiles')">
-            <i class="user-nav-icon bc-i-user"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">PROFİLİM</span>
-            <i class="  count-blink-even " data-badge=""></i>
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-          </div>
-          <div class="u-i-p-l-head-bc" onclick="openaccordion('bethistory')">
-            <i class="user-nav-icon bc-i-history"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-            <i class="  count-blink-even " data-badge=""></i>
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-          </div>
-          <div class="u-i-p-l-head-bc" onclick="openaccordion('messages')">
-            <i class="user-nav-icon bc-i-message"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">MESAJLAR</span>
-            <i class="  count-blink-even " data-badge=""></i>
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-          </div>
-        </div>
-        <div class="u-i-p-links-lists-holder-bc menu hidden" id="balance">
-          <div class="u-i-p-l-head-bc"  onclick="backaccordion()">
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-left"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">BAKİYE YÖNETİMİ</span>
-          </div>
-          <div class="u-i-p-l-body-bc">
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('deposit')">
-              <i class="user-nav-icon bc-i-circle-dollar"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">PARA YATIR</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('withdraw')">
-              <i class="user-nav-icon bc-i-withdraw"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">ÇEKİM</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('transactionhistory')">
-              <i class="user-nav-icon bc-i-history"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">İŞLEM GEÇMİŞİ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('withdrawrequest')">
-              <i class="user-nav-icon bc-i-withdraws"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">PARA ÇEKME DURUMU</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="u-i-p-links-lists-holder-bc menu hidden" id="builder">
-          <div class="u-i-p-l-head-bc" onclick="backaccordion()">
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-left"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">Bet Builder history</span>
-          </div>
-          <div class="u-i-p-l-body-bc">
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('buildall')">
-              <i class="user-nav-icon bc-i-bet-history"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">TÜMÜ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('buildopen')">
-              <i class="user-nav-icon bc-i-open-bets"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">AÇIK BAHİSLER</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('buildwin')">
-              <i class="user-nav-icon bc-i-won"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">KAZANÇ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('buildlose')">
-              <i class="user-nav-icon bc-i-lost"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">KAYIP</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="u-i-p-links-lists-holder-bc menu hidden" id="bonus">
-          <div class="u-i-p-l-head-bc" onclick="backaccordion()">
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-left"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">BONUSLAR</span>
-          </div>
-          <div class="u-i-p-l-body-bc">
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonusloyalty')">
-              <i class="user-nav-icon bc-i-loyalty-points"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Sadakat Puanları</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonussport')">
-              <i class="user-nav-icon bc-i-bonus-sportsbook"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">SPOR BONUSU</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonushistory')">
-              <i class="user-nav-icon bc-i-history"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">BONUS GEÇMİŞİ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonusfrespin')">
-              <i class="user-nav-icon bc-i-bonus"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">CASİNO FREESPİNLERİ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonuscasino')">
-              <i class="user-nav-icon bc-i-bonus-casino"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">CASİNO BONUSU</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonusrequest')">
-              <i class="user-nav-icon bc-i-bonus-request"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">BONUS TALEBİ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('bonuscode')">
-              <i class="user-nav-icon bc-i-promo-code"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">PROMOSYON KODU</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="u-i-p-links-lists-holder-bc menu hidden" id="profiles">
-          <div class="u-i-p-l-head-bc" onclick="backaccordion()">
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-left"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">PROFİLİM</span>
-          </div>
-          <div class="u-i-p-l-body-bc">
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('profilemain')">
-              <i class="user-nav-icon bc-i-user"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">KİŞİSEL DETAYLAR</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('profilepassword')">
-              <i class="user-nav-icon bc-i-change-password"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">ŞİFRE DEĞİŞTİR</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('profilefreeze')">
-              <i class="user-nav-icon bc-i-time-out"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Hesabı Dondur</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('profileauth')">
-              <i class="user-nav-icon bc-i-verify-account"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">HESABI DOĞRULA</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('profilegoogle')">
-              <i class="user-nav-icon bc-i-two-factor-authentication"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Authentication</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="u-i-p-links-lists-holder-bc menu hidden" id="bethistory">
-          <div class="u-i-p-l-head-bc" onclick="backaccordion()">
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-left"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-          </div>
-          <div class="u-i-p-l-body-bc">
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betopen')">
-              <i class="user-nav-icon bc-i-open-bets"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">AÇIK BAHİSLER</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betall')">
-              <i class="user-nav-icon bc-i-bet-history"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">TÜMÜ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betcash')">
-              <i class="user-nav-icon bc-i-cashed-out"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">NAKTE ÇEVRİLDİ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betwin')">
-              <i class="user-nav-icon bc-i-won"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">KAZANÇ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betlose')">
-              <i class="user-nav-icon bc-i-lost"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">KAYIP</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betrefund')">
-              <i class="user-nav-icon bc-i-returned"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">İade edildi</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betwinrefund')">
-              <i class="user-nav-icon bc-i-won-return"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Kazanan İade</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('betloserefund')">
-              <i class="user-nav-icon bc-i-lost-return"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Kaybeden İade</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="u-i-p-links-lists-holder-bc menu hidden" id="messages">
-          <div class="u-i-p-l-head-bc" onclick="backaccordion()">
-            <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-left"></i>
-            <span class="u-i-p-l-h-title-bc ellipsis">MESAJLAR</span>
-          </div>
-          <div class="u-i-p-l-body-bc">
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('messageinbox')">
-              <i class="user-nav-icon bc-i-inbox"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Gelen kutusu</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('messagesent')">
-              <i class="user-nav-icon bc-i-sent"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">Gönderildi</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-            <a class="u-i-p-l-head-bc" href="javascript:;" onclick="openmodal('messagenew')">
-              <i class="user-nav-icon bc-i-add-circle"></i>
-              <span class="u-i-p-l-h-title-bc ellipsis">YENİ</span>
-              <i class="  count-blink-even " data-badge=""></i>
-              <i class="u-i-p-l-h-icon-bc bc-i-small-arrow-right"></i>
-            </a>
-          </div>
-        </div>
-        <div class="promoCodeWrapper-bc profile-panel-promo-code">
-          <form>
-            <div class="u-i-p-control-item-holder-bc">
-              <div class="form-control-bc default ">
-                <label class="form-control-label-bc inputs">
-                  <input type="text" class="form-control-input-bc" name="promoCode" step="0" value="">
-                  <i class="form-control-input-stroke-bc"></i>
-                  <span class="form-control-title-bc ellipsis">PROMOSYON KODU</span>
-                </label>
-              </div>
-            </div>
-            <div class="u-i-p-c-footer-bc">
-              <button class="btn a-color big-btn " type="submit" title="UYGULA " disabled="">
-                <span>UYGULA </span>
-              </button>
-            </div>
-          </form>
-        </div>
-        <div class="user-logout-bc">
-          <button class="btn " type="button" title="Çıkış Yap" onclick="logOut()">
-            <span>Çıkış Yap</span>
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="deposit"  style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAKİYE YÖNETİMİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('deposit')">PARA YATIR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('withdraw')">ÇEKİM <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('transactionhistory')">İŞLEM GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('withdrawrequest')">PARA ÇEKME DURUMU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="dep-w-info-bc" data-scroll-lock-scrollable="">
-        <div class="m-block-nav-items-bc">
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/4784.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Papara Oto</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10619.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">PapIban</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12165.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">StarPayNew</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/6050.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Allpapara</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10596.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Papara</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/11973.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">AsPayPapara</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/payfix'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/4338.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Payfix</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/payfix'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10604.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Payfix</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13298.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">JetPay Online</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10602.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Havale</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/1181.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Anında Havale</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/havale'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12040.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">AsPayHavale</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10603.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Mefete</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10608.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Pep</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/5417.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Ödendibil PEP</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10605.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Parazula</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13511.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Jetpay Online Paycell</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10606.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">VevoPayV2Fups</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13122.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Payco</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10575.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">HEETPAY PLUS</p>
-          </div>
-          <div class="m-nav-items-list-item-bc "onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/8671.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">AsPay</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="window.location.href = '/payment/papara'">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/1424.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Envoy Hızlı Havale</p>
-          </div>
-          <div class="m-nav-items-list-item-bc " onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/2557.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">KriptoPay</p>
-          </div>
-          <div class="m-nav-items-list-item-bc "onclick="guncelleniyor()">
-            <div class="nav-ico-w-row-bc">
-              <img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10423.png" alt="">
-            </div>
-            <p class="m-nav-list-item-title-bc">Kripto Para Birimi</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-</div>
-
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="withdraw" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAKİYE YÖNETİMİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc" href="javascript:;" onclick="openmodal('deposit')">PARA YATIR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('withdraw')">ÇEKİM <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('transactionhistory')">İŞLEM GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('withdrawrequest')">PARA ÇEKME DURUMU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-    <div class="dep-w-info-bc" onclick="yetersiz()" data-scroll-lock-scrollable=""><div class="m-block-nav-items-bc"><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/1950.png" alt=""></div><p class="m-nav-list-item-title-bc">Papara</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12165.png" alt=""></div><p class="m-nav-list-item-title-bc">StarPayNew</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10596.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Papara</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/11973.png" alt=""></div><p class="m-nav-list-item-title-bc">AsPayPapara</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/4338.png" alt=""></div><p class="m-nav-list-item-title-bc">Payfix</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10604.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Payfix</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/2.png" alt=""></div><p class="m-nav-list-item-title-bc">BankTransfer</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10602.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Havale</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/12040.png" alt=""></div><p class="m-nav-list-item-title-bc">AsPayHavale</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10603.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Mefete</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10608.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Pep</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/5417.png" alt=""></div><p class="m-nav-list-item-title-bc">Ödendibil PEP</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10605.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Parazula</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10606.png" alt=""></div><p class="m-nav-list-item-title-bc">VevoPayV2Fups</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/13122.png" alt=""></div><p class="m-nav-list-item-title-bc">Payco</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/2557.png" alt=""></div><p class="m-nav-list-item-title-bc">KriptoPay</p></div><div class="m-nav-items-list-item-bc "><div class="nav-ico-w-row-bc"><img class="payment-logo" src="https://cmsbetconstruct.com/content/images/payments/custom/839/10423.png" alt=""></div><p class="m-nav-list-item-title-bc">Kripto Para Birimi</p></div></div></div>    
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="transactionhistory" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAKİYE YÖNETİMİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('deposit')">PARA YATIR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('withdraw')">ÇEKİM <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('transactionhistory')">İŞLEM GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('withdrawrequest')">PARA ÇEKME DURUMU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="type" step="0">
-                        <option value="999">TÜMÜ</option>
-                        <option value="301">Nakit Bakiye Eklemesi</option>
-                        <option value="302">Düzeltme Alt</option>
-                        <option value="87">Casino Slot Cashback Bonusu</option>
-                        <option value="90">Sanal Slot Bahis Kazanması</option>
-                        <option value="80">Bağlılık Puanı Değişimi</option>
-                        <option value="309">CashBack Düzeltmesi</option>
-                        <option value="131"> Casino</option>
-                        <option value="16">Kazancın Azaltması</option>
-                        <option value="3">Para Yatırma</option>
-                        <option value="6">Para Yatırma</option>
-                        <option value="1">Para çekme talebi</option>
-                        <option value="2">Para çekme talebi ücreti</option>
-                        <option value="7">Para Yatırma Talebi Ödemesi</option>
-                        <option value="14">Nakit Çıkışı</option>
-                        <option value="15">Bahis Kazancı</option>
-                        <option value="8">Para çekimi reddedilmiştir</option>
-                        <option value="10">Bahis</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">İŞLEM TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="product" step="0">
-                        <option value="">ANA</option>
-                        <option value="Casino">SLOT</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">KATEGORİ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc halfPartFilterSection">
-                  <div class="react-datepicker-wrapper">
-                    <div class="react-datepicker__input-container">
-                      <div class="form-control-bc default filled valid filled">
-                        <label class="form-control-label-bc inputs">
-                          <input class="form-control-input-bc " type="text" placeholder="...dan/den" readonly="" value="03.06.2023">
-                          <i class="form-control-input-stroke-bc"></i>
-                          <span class="form-control-title-bc ellipsis">ARALIK</span>
-                          <i class="dropdownIcon-bc bc-i-datepicker"></i>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc halfPartFilterSection">
-                  <div class="react-datepicker-wrapper">
-                    <div class="react-datepicker__input-container">
-                      <div class="form-control-bc default filled valid filled">
-                        <label class="form-control-label-bc inputs">
-                          <input class="form-control-input-bc " type="text" placeholder="...a/e" readonly="" value="03.06.2023">
-                          <i class="form-control-input-stroke-bc"></i>
-                          <span class="form-control-title-bc ellipsis"></span>
-                          <i class="dropdownIcon-bc bc-i-datepicker"></i>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/live/" id="LIVE" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_15048)">
+                                    <path d="M13.0765 12.9692C12.867 13.2775 12.9577 13.6906 13.279 13.8917C13.6002 14.0928 14.0305 14.0058 14.2401 13.6974C15.3532 12.0585 16 10.1008 16 8.00001C16 5.89922 15.3532 3.94144 14.2401 2.30262C14.0305 1.99421 13.6002 1.9072 13.279 2.10829C12.9577 2.30939 12.867 2.72243 13.0765 3.03085C14.047 4.45964 14.611 6.16558 14.611 8.00001C14.611 9.83438 14.047 11.5403 13.0765 12.9692Z" fill="currentColor"></path>
+                                    <path d="M2.72106 2.10829C3.04236 2.30938 3.133 2.72243 2.9235 3.03085C1.95302 4.45964 1.38898 6.16558 1.38898 8.00001C1.38898 9.83438 1.95301 11.5403 2.9235 12.9692C3.133 13.2775 3.04236 13.6906 2.72106 13.8917C2.39977 14.0928 1.96949 14.0058 1.76 13.6974C0.646856 12.0585 0 10.1008 0 8.00001C0 5.89922 0.646856 3.94144 1.76 2.30262C1.96949 1.99421 2.39977 1.9072 2.72106 2.10829Z" fill="currentColor"></path>
+                                    <path d="M4.74399 4.79169C5.05554 5.00643 5.12677 5.42296 4.90306 5.72204C4.43963 6.34156 4.16693 7.10048 4.16693 7.92252C4.16693 8.74455 4.43963 9.50347 4.90306 10.123C5.12677 10.4221 5.05554 10.8387 4.74399 11.0534C4.43242 11.2681 3.9985 11.1997 3.7748 10.9007C3.14748 10.062 2.77795 9.03272 2.77795 7.92252C2.77795 6.8124 3.14748 5.78306 3.7748 4.94439C3.9985 4.64532 4.43242 4.57694 4.74399 4.79169Z" fill="currentColor"></path>
+                                    <path d="M8.10237 5.55566C6.69598 5.55566 5.55591 6.65005 5.55591 8.00008C5.55591 9.35011 6.69598 10.4445 8.10237 10.4445C9.50876 10.4445 10.6488 9.35011 10.6488 8.00008C10.6488 6.65005 9.50876 5.55566 8.10237 5.55566Z" fill="currentColor"></path>
+                                    <path d="M11.2422 10.123C11.0185 10.4221 11.0897 10.8387 11.4013 11.0534C11.7128 11.2682 12.1467 11.1997 12.3704 10.9007C12.9977 10.062 13.3673 9.03272 13.3673 7.92251C13.3673 6.81239 12.9977 5.78307 12.3704 4.94439C12.1467 4.64531 11.7128 4.57695 11.4013 4.79169C11.0897 5.00643 11.0185 5.42296 11.2422 5.72204C11.7055 6.34164 11.9783 7.10047 11.9783 7.92251C11.9783 8.74454 11.7055 9.50347 11.2422 10.123Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Canlı Bahis</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/virtual/" id="VIRTUAL" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_15041)">
+                                    <path d="M8.65905 3.92285H8.50001C8.49177 3.92285 8.48645 3.92847 8.48206 3.9351C8.53922 3.94446 8.59767 3.9499 8.65905 3.95229C8.68158 3.95297 8.68158 3.92285 8.65905 3.92285Z" fill="currentColor"></path>
+                                    <path d="M15.9349 13.7753C15.9291 13.7553 15.9397 13.7479 15.9584 13.7592C15.959 13.7595 15.9595 13.7598 15.9601 13.76C15.979 13.7709 15.9896 13.7638 15.9834 13.7439C15.8642 13.3519 15.6385 13.0147 15.4999 12.6412C15.4926 12.6215 15.4977 12.6189 15.5111 12.6356C15.5412 12.6729 15.5713 12.7101 15.6015 12.747C15.615 12.7637 15.6283 12.7756 15.6314 12.7737C15.6345 12.7717 15.6276 12.7559 15.6163 12.738C15.4501 12.4777 15.284 12.2174 15.1178 11.9573C15.1065 11.9394 15.1032 11.9212 15.1109 11.9168C15.1185 11.9123 15.1353 11.9224 15.1482 11.9392C15.1848 11.9864 15.2213 12.0337 15.2581 12.0808C15.271 12.0976 15.2845 12.1104 15.2876 12.1094C15.2907 12.1083 15.2887 12.0935 15.2827 12.0764C15.2767 12.0592 15.2754 12.042 15.2799 12.0376C15.2843 12.0333 15.3005 12.0418 15.3162 12.0566C15.3904 12.1276 15.4654 12.1994 15.5487 12.279C15.5644 12.294 15.568 12.2909 15.5571 12.2727C15.5381 12.2409 15.5212 12.2121 15.505 12.1851C15.494 12.1669 15.4884 12.1468 15.4924 12.1425C15.4962 12.1383 15.5139 12.141 15.5325 12.1529C15.6243 12.2131 15.7168 12.2666 15.8152 12.3309C15.8336 12.3428 15.842 12.3249 15.8342 12.3081C15.8263 12.2911 15.8803 12.2632 15.8591 12.2593C15.7589 12.2409 15.6728 12.1167 15.6728 12.1167C15.5316 11.9076 15.353 11.714 15.2153 11.5028C15.0272 11.2143 14.889 10.9021 14.8256 10.5667C14.8177 10.5252 14.8132 10.4825 14.8106 10.44C14.8093 10.4192 14.8037 10.4138 14.8 10.4281C14.7966 10.4422 14.7873 10.4378 14.78 10.4179C14.6907 10.1783 14.6053 9.94898 14.5202 9.72049C14.5129 9.70075 14.5085 9.68391 14.5104 9.68272C14.5125 9.68153 14.5222 9.69565 14.5322 9.71419C14.5683 9.78157 14.6044 9.8486 14.6404 9.91614C14.6506 9.93452 14.6618 9.94847 14.6661 9.94728C14.67 9.94592 14.6692 9.93061 14.6636 9.91342C14.6603 9.90287 14.6568 9.8925 14.6516 9.88297C14.4304 9.47719 14.2108 9.07074 13.9845 8.66752C13.9401 8.58807 13.8774 8.51355 13.8078 8.45145C13.5966 8.26345 13.3769 8.08361 13.163 7.89817C13.087 7.83232 13.0187 7.75866 12.9457 7.68958C12.9079 7.65402 12.8717 7.61506 12.8276 7.58801C12.5372 7.41073 12.2779 7.20589 12.0613 6.94796C11.7725 6.60412 11.3788 6.37375 10.9869 6.14543C10.8927 6.09065 10.7996 6.03178 10.6986 5.99027C10.5646 5.93514 10.4268 5.8756 10.2845 5.85348C10.0801 5.82166 9.86857 5.83136 9.66287 5.80499C9.51456 5.78593 9.36753 5.74527 9.22542 5.69933C8.88563 5.5896 8.55021 5.46829 8.21096 5.35736C7.98832 5.28454 7.86351 5.10318 7.69644 4.96843C7.6866 4.96044 7.68095 4.94785 7.67622 4.93424C7.66947 4.91433 7.6682 4.89442 7.67348 4.88966C7.67877 4.8849 7.69917 4.88847 7.71921 4.89766C7.77314 4.92267 7.82762 4.94785 7.88592 4.9749C7.90596 4.98408 7.91143 4.97813 7.89813 4.96129C7.88392 4.94308 7.87025 4.92573 7.85677 4.90871C7.84347 4.89187 7.83454 4.8752 7.83673 4.87146C7.83892 4.86771 7.85714 4.87162 7.87736 4.8803C7.96846 4.91892 8.05955 4.95771 8.15065 4.99633C8.17088 5.00501 8.1911 5.00875 8.19547 5.00501C8.20003 5.0011 8.19401 4.98357 8.18235 4.96588C8.17179 4.94989 8.15994 4.93185 8.14482 4.90906C8.13316 4.89136 8.14045 4.88319 8.16122 4.89085C8.30789 4.94529 8.43816 4.99361 8.56697 5.04142C8.58774 5.04908 8.60541 5.05333 8.60669 5.05078C8.60814 5.04823 8.59302 5.03819 8.57316 5.02849C8.46239 4.97303 8.35161 4.91773 8.24084 4.86227C8.22134 4.8524 8.20786 4.83896 8.21114 4.83232C8.2146 4.82569 8.23428 4.82569 8.25541 4.83232C8.30096 4.84662 8.34633 4.86091 8.39188 4.8752C8.41301 4.88183 8.43196 4.88353 8.43415 4.87877C8.43633 4.87418 8.42413 4.85972 8.407 4.84645C8.3957 4.83777 8.38441 4.82926 8.37311 4.82058C8.35562 4.80748 8.34323 4.79217 8.34487 4.78639C8.34651 4.7806 8.36582 4.77822 8.38787 4.78111C8.41902 4.78503 8.45073 4.78911 8.48443 4.79319C8.50648 4.79592 8.51067 4.78741 8.49354 4.77414C8.48389 4.76682 8.47441 4.75934 8.46421 4.75151C8.4469 4.73824 8.4489 4.71918 8.46968 4.71221C8.59739 4.66916 8.71218 4.7333 8.83898 4.75236C8.86103 4.75559 8.86431 4.74692 8.84609 4.73501C8.72511 4.65572 8.61306 4.58256 8.50192 4.50975C8.48352 4.49784 8.46949 4.48627 8.47059 4.48389C8.4715 4.4815 8.48899 4.4861 8.50958 4.49392L8.71837 4.57304C8.73896 4.58086 8.75809 4.58342 8.76082 4.57848C8.76356 4.57372 8.75026 4.56096 8.73149 4.5499C8.64896 4.50209 8.56642 4.45445 8.48389 4.40664C8.46494 4.39593 8.45073 4.383 8.45237 4.37823C8.45401 4.37347 8.47259 4.37432 8.49409 4.3801C8.51449 4.38555 8.53581 4.39116 8.55859 4.39729C8.58008 4.4029 8.5892 4.39252 8.57662 4.37534C8.4848 4.25352 8.32064 4.23089 8.21187 4.13664C8.19565 4.12252 8.20112 4.11469 8.22244 4.12116C8.24375 4.12779 8.26653 4.13477 8.29313 4.14293C8.31426 4.1494 8.31718 4.14447 8.29932 4.13188C8.2873 4.12337 8.27637 4.11554 8.26525 4.10755C8.2474 4.09496 8.25122 4.08339 8.27345 4.08203C8.30297 4.08015 8.33066 4.07828 8.36145 4.07624C8.38368 4.07488 8.38459 4.06807 8.36345 4.06144C8.32483 4.04936 8.29094 4.03813 8.25833 4.02792C8.23719 4.02129 8.2208 4.01176 8.22189 4.00768C8.22298 4.00359 8.24138 4.00172 8.26343 4.00581C8.32191 4.01686 8.38076 4.02486 8.43961 4.03167C8.45073 4.03286 8.46239 4.02112 8.47423 4.0155C8.49209 4.00717 8.49591 3.97824 8.48316 3.96957C8.47496 3.96395 8.47623 3.94677 8.48352 3.93486C8.39334 3.91989 8.3088 3.89147 8.23373 3.82665C8.21733 3.81253 8.22298 3.80113 8.24539 3.80232C8.26489 3.80334 8.28511 3.80419 8.30698 3.80539C8.3292 3.80658 8.33066 3.80079 8.31025 3.79246C8.30625 3.79075 8.30206 3.78905 8.29841 3.78752C8.27801 3.77918 8.27837 3.76659 8.29932 3.75945C8.38295 3.73087 8.46803 3.70194 8.55348 3.67285C8.57444 3.6657 8.59047 3.65601 8.58938 3.65124C8.58828 3.64648 8.56934 3.64172 8.54711 3.64086C8.54091 3.64052 8.53454 3.64035 8.52761 3.64001C8.50539 3.63899 8.49828 3.62487 8.51176 3.60837C8.53891 3.57519 8.56314 3.54542 8.58464 3.51905C8.59794 3.50254 8.59885 3.4789 8.58719 3.46562C8.57863 3.45593 8.57152 3.44589 8.57389 3.43823C8.58081 3.41629 8.60978 3.39332 8.63493 3.38498C8.68375 3.36899 8.73422 3.35844 8.78341 3.33615C8.80327 3.32713 8.80072 3.3171 8.77831 3.31608C8.64549 3.31029 8.51285 3.30434 8.38003 3.29855C8.35781 3.29753 8.33886 3.29124 8.33813 3.28443C8.3374 3.27763 8.34524 3.26742 8.3558 3.2618C8.36655 3.25619 8.35744 3.24819 8.33558 3.24394C8.31281 3.23951 8.29003 3.23526 8.26762 3.23101C8.24576 3.22675 8.2279 3.2191 8.2279 3.21382C8.2279 3.20855 8.24576 3.20294 8.26799 3.2014C8.31718 3.198 8.36783 3.1946 8.42577 3.19052C8.44799 3.18898 8.44818 3.1849 8.42631 3.18133C8.33175 3.16602 8.24539 3.15207 8.16013 3.13811C8.13808 3.13454 8.1195 3.12637 8.11877 3.11974C8.11786 3.1131 8.1348 3.10409 8.15648 3.09932C8.16541 3.09745 8.17434 3.09558 8.18326 3.09371C8.20476 3.08911 8.20713 3.07686 8.18782 3.06632C8.0304 2.98023 7.87025 2.89278 7.68915 2.79376C7.66984 2.78321 7.67221 2.77641 7.69443 2.77879C7.83418 2.79478 7.95771 2.82302 8.07176 2.77164C8.0918 2.76262 8.08907 2.7502 8.06702 2.74663C8.0253 2.74 7.98139 2.73285 7.9373 2.72571C7.91526 2.72213 7.89977 2.71516 7.90268 2.71022C7.9056 2.70512 7.89066 2.6961 7.86934 2.68998C7.80357 2.67092 7.73798 2.65187 7.67221 2.63264C7.65089 2.62652 7.63449 2.61495 7.63559 2.60695C7.63668 2.59895 7.65545 2.59096 7.67767 2.58909C7.72778 2.58483 7.7777 2.58058 7.8278 2.57633C7.85003 2.57445 7.8677 2.56986 7.86752 2.56612C7.86734 2.56238 7.84912 2.55659 7.82707 2.55336C7.76932 2.54468 7.71138 2.53617 7.65362 2.5275C7.63158 2.52426 7.6139 2.51542 7.61427 2.50776C7.61463 2.50011 7.63267 2.49143 7.65472 2.4882C7.69188 2.48292 7.72905 2.47765 7.76622 2.4722C7.78827 2.46914 7.79665 2.45944 7.7848 2.45077C7.77296 2.44209 7.76239 2.42831 7.76112 2.41997C7.75984 2.41163 7.77624 2.40092 7.79792 2.39598C7.95279 2.36008 8.1082 2.32385 8.2729 2.28556C8.29459 2.28046 8.29404 2.27825 8.27199 2.28046C8.07832 2.29969 8.02785 2.30309 8.00453 2.28097C7.98886 2.26617 8.00143 2.24048 8.02166 2.23163C8.06666 2.21156 8.10929 2.18893 8.09909 2.12683C8.09563 2.10624 8.07067 2.09144 8.04826 2.09229C8.01182 2.09382 7.97028 2.09552 7.9291 2.10029C7.77424 2.11815 7.76075 2.12053 7.70081 2.01471C7.69043 1.99633 7.69844 1.97422 7.71867 1.96537C7.78699 1.93577 7.85531 1.90599 7.92345 1.87639C7.94368 1.86754 7.95825 1.85614 7.95588 1.85087C7.95352 1.84559 7.93475 1.84713 7.91398 1.85495C7.86388 1.87384 7.81432 1.89408 7.76239 1.90531C7.69516 1.91994 7.61773 1.96792 7.5618 1.88115C7.55815 1.87554 7.54394 1.87588 7.53483 1.87316C7.23385 1.77958 6.93268 1.68669 6.63224 1.59192C6.5794 1.57525 6.52839 1.55398 6.47992 1.52217C6.4617 1.51026 6.46589 1.50022 6.48812 1.50158L6.51126 1.50294C6.53349 1.5043 6.55335 1.50226 6.55553 1.49869C6.55772 1.49511 6.54351 1.48406 6.52365 1.47436C6.44567 1.43591 6.36751 1.39763 6.28953 1.35918C6.26894 1.34948 6.25436 1.33859 6.25582 1.33485C6.25746 1.3311 6.27659 1.32974 6.29882 1.33212C6.3052 1.33281 6.31139 1.33349 6.31722 1.334C6.33945 1.33621 6.34091 1.3311 6.3205 1.3226C6.14723 1.24944 5.95866 1.16982 5.769 1.08968C5.74859 1.08117 5.73347 1.06807 5.73529 1.06059C5.73693 1.0531 5.75643 1.04783 5.77865 1.04885C5.82621 1.05106 5.87649 1.05327 5.93826 1.05617C5.96048 1.05719 5.96103 1.05429 5.93917 1.0497C5.90291 1.04221 5.87321 1.03592 5.84188 1.02945C5.82001 1.02486 5.81855 1.01346 5.83841 1.00376C5.9337 0.957657 6.02006 0.915973 6.10278 0.875992C6.12264 0.866464 6.12082 0.86102 6.09877 0.864422C5.99109 0.881266 5.88269 0.897599 5.77428 0.914612C5.75224 0.918015 5.73256 0.913251 5.73019 0.905765C5.72782 0.898449 5.73675 0.882627 5.75005 0.874801C5.76335 0.866974 5.75624 0.850301 5.73456 0.846048C5.67626 0.834649 5.61978 0.811 5.56366 0.800111C5.56366 0.800111 5.71033 0.759279 5.49898 0.731376C5.3013 0.705175 5.13295 0.636611 4.9657 0.53555C4.82978 0.453375 4.66672 0.405737 4.51021 0.358609C4.32346 0.302294 4.13052 0.263844 3.94103 0.215525C3.87053 0.197661 3.80293 0.162613 3.73169 0.155467C3.64205 0.14662 3.55096 0.150874 3.4697 0.152405C3.44747 0.152745 3.41431 0.143388 3.39664 0.130628C3.37769 0.116847 3.35965 0.104427 3.34143 0.104086C2.9488 0.0974512 2.55653 0.104427 2.17374 0.199362C2.0974 0.218247 2.02726 0.257549 1.95183 0.280857C1.92286 0.289874 1.8784 0.293107 1.85691 0.278646C1.77874 0.225393 1.70678 0.164144 1.63372 0.104767C1.60019 0.0775453 1.56776 0.0486223 1.53533 0.0200395C1.51912 0.00574814 1.50071 -0.00275864 1.49416 0.000814205C1.4876 0.00438705 1.48231 0.0225916 1.48249 0.0414766C1.48268 0.0530458 1.48322 0.0644449 1.48632 0.0753336C1.5049 0.142197 1.52695 0.208209 1.5479 0.274392C1.59127 0.411862 1.59035 0.40931 1.44369 0.453885C1.38047 0.473111 1.31251 0.495739 1.26368 0.53521C1.19791 0.587442 1.1314 0.584549 1.05743 0.581657C0.994394 0.579275 0.930808 0.587612 0.867404 0.588292C0.662799 0.590334 0.468033 0.552053 0.285109 0.463583C0.274724 0.458479 0.262335 0.456948 0.249763 0.456097C0.229539 0.454736 0.214235 0.469197 0.21551 0.488253C0.216239 0.500332 0.218243 0.512242 0.224438 0.521089C0.304604 0.638142 0.388596 0.749921 0.53672 0.804875C0.617251 0.834819 0.693408 0.878033 0.766286 0.922609C0.89364 1.0007 0.922427 1.09325 0.880522 1.23021C0.817118 1.43829 0.744605 1.64534 0.703975 1.85733C0.684298 1.95958 0.727479 2.07255 0.74424 2.18042C0.751893 2.22959 0.775031 2.27808 0.774303 2.32674C0.767379 2.75956 0.692315 3.18286 0.563685 3.5985C0.541822 3.66877 0.526335 3.74073 0.512488 3.8013C0.507933 3.82172 0.498277 3.84724 0.494633 3.85966C0.492447 3.86731 0.491172 3.87497 0.491172 3.88263C0.491172 3.89113 0.492447 3.89913 0.494451 3.90662C0.498277 3.91955 0.507387 3.93673 0.513035 3.94558C0.518501 3.95442 0.526517 3.96701 0.530526 3.97433C0.532894 3.97858 0.535445 3.98267 0.538724 3.98692C0.561134 4.01686 0.586642 4.04358 0.612331 4.07046C0.627271 4.08594 0.629093 4.11282 0.615429 4.12915C0.604497 4.14225 0.593019 4.15518 0.581358 4.16811C0.572431 4.17815 0.566236 4.18904 0.562228 4.20044C0.555486 4.22001 0.555122 4.2394 0.553482 4.2428C0.552207 4.24519 0.551478 4.2474 0.551478 4.24944C0.551478 4.2719 0.563139 4.30473 0.58154 4.31494C0.667536 4.36241 0.756265 4.40528 0.850642 4.45224C0.870319 4.46194 0.871595 4.4798 0.853375 4.49205C0.845177 4.4975 0.83716 4.50294 0.828779 4.50856C0.810559 4.52064 0.809284 4.54207 0.827504 4.55398C0.921698 4.6154 1.02263 4.612 1.12867 4.59635C1.17859 4.58903 1.23088 4.59652 1.2819 4.59601C1.30449 4.59584 1.33583 4.60043 1.34785 4.58886C1.41982 4.52047 1.50855 4.51332 1.60457 4.50277C1.73739 4.48814 1.85363 4.33587 1.83522 4.20997C1.81099 4.04494 1.86237 3.92023 1.98626 3.79467C2.09012 3.68952 2.14277 3.54117 2.22403 3.41526C2.24535 3.38209 2.2847 3.35163 2.32314 3.33734C2.38381 3.31488 2.43647 3.33615 2.45359 3.40063C2.49513 3.55801 2.56346 3.71521 2.56747 3.87361C2.57348 4.11078 2.54196 4.34982 2.5108 4.58614C2.47582 4.85138 2.33371 5.07579 2.17502 5.29373C1.99647 5.5389 1.89426 5.80397 1.95001 6.11106C1.98025 6.27763 1.98371 6.44861 1.99173 6.6179C1.99319 6.65005 1.96896 6.69905 1.94053 6.71419C1.43239 6.98573 0.990022 7.33842 0.54583 7.68941C0.471677 7.74811 0.386045 7.79438 0.313714 7.85478C0.12496 8.01199 0.101092 8.2153 0.144637 8.43239C0.154475 8.48122 0.168869 8.53328 0.196927 8.57429C0.328836 8.76875 0.334666 8.97427 0.277457 9.1895C0.188546 9.52415 0.10674 9.86051 0.0138205 10.1941C-0.0131443 10.2911 -0.000755089 10.3765 0.0518993 10.4556C0.172695 10.6368 0.251585 10.8322 0.292215 11.0411C0.326285 11.2167 0.428679 11.3589 0.537267 11.5001C0.621441 11.6098 0.695412 11.726 0.776671 11.8375C0.844448 11.9305 0.911678 11.9562 1.0168 11.9038C1.1028 11.8608 1.19353 11.8031 1.24619 11.7294C1.39377 11.5227 1.43294 11.2883 1.38265 11.0443C1.37281 10.9968 1.35168 10.9433 1.3167 10.9099C1.18552 10.7849 1.05087 10.6625 0.908945 10.5484C0.816208 10.4737 0.784323 10.3602 0.836613 10.2569C0.867222 10.1965 0.887446 10.1281 0.895098 10.0616C0.903661 9.98624 0.899106 9.90917 0.897831 9.82036C0.897466 9.7996 0.912589 9.79212 0.930626 9.80437C1.06308 9.89437 1.16074 9.99645 1.18351 10.1353C1.22469 10.3871 1.39176 10.4982 1.63426 10.5695C2.05677 10.6935 2.47983 10.7927 2.92803 10.7781C3.13537 10.7712 3.13755 10.7823 3.12225 10.5861C3.10002 10.3007 2.94844 10.0684 2.7646 9.85183C2.74456 9.82801 2.70211 9.80794 2.67022 9.80811C2.56947 9.80896 2.46835 9.81627 2.36869 9.82955C2.33735 9.8338 2.30802 9.8634 2.2816 9.88535C2.23223 9.92652 2.18467 9.96974 2.13293 10.0158C2.11672 10.0303 2.09595 10.0296 2.08611 10.0148C2.07864 10.0036 2.07354 9.99577 2.06989 9.98726C1.99993 9.82257 2.00011 9.81951 1.81846 9.81968C1.68236 9.81985 1.57705 9.75622 1.51474 9.65992C1.37263 9.44045 1.24692 9.21093 1.1223 8.9821C1.10517 8.95063 1.11993 8.89227 1.14106 8.85756C1.17878 8.79563 1.22651 8.73574 1.28226 8.68726C1.31488 8.65884 1.37081 8.64217 1.41709 8.64081C1.82721 8.62635 2.23824 8.62703 2.64745 8.60202C3.01931 8.57939 3.38953 8.53209 3.75993 8.49177C3.80676 8.48667 3.86415 8.46693 3.89294 8.43546C3.99005 8.32929 4.09936 8.33201 4.21998 8.38458C4.45774 8.48786 4.6915 8.59981 4.9329 8.69491C5.27944 8.83187 5.63363 8.95165 5.98053 9.08792C6.64754 9.34993 7.36339 9.42564 8.06083 9.57094C8.20804 9.60156 8.36018 9.61194 8.51067 9.62725C8.57899 9.63423 8.62764 9.66179 8.64476 9.72253C8.66863 9.80675 8.70106 9.89301 8.70124 9.97841C8.70216 10.2891 8.79981 10.5707 8.96233 10.8376C9.01881 10.93 9.07402 11.0246 9.11301 11.1239C9.19991 11.3446 9.15947 11.5501 8.9995 11.7325C8.68703 12.0889 8.321 12.3945 7.94987 12.695C7.83564 12.7875 7.72104 12.8802 7.615 12.9806C7.57838 13.0153 7.55105 13.0723 7.54722 13.1212C7.52609 13.4005 7.4953 13.6777 7.4042 13.9465C7.33879 14.1396 7.42752 14.3082 7.51115 14.4758C7.58257 14.6189 7.65636 14.7608 7.73907 14.9222C7.74873 14.9408 7.76859 14.9436 7.78371 14.9283C7.87699 14.8336 7.96427 14.7511 8.0417 14.6609C8.19984 14.477 8.3026 14.2645 8.36819 14.0387C8.38805 13.9703 8.37238 13.8886 8.35562 13.8163C8.33485 13.7255 8.28784 13.6396 8.26926 13.5485C8.26288 13.5171 8.30042 13.4533 8.33139 13.4439C8.45692 13.4061 8.50229 13.3071 8.57407 13.2209C8.71181 13.0555 8.8705 12.9054 9.02519 12.7528C9.19062 12.5893 9.38776 12.4677 9.60275 12.3637C9.83213 12.2528 10.0522 12.124 10.2692 11.9925C10.3231 11.96 10.3592 11.9016 10.4029 11.8455C10.4161 11.8285 10.4443 11.8218 10.4642 11.8314C10.6356 11.9108 10.7648 12.0491 10.8532 12.2382C11.0282 12.6119 10.9574 12.965 10.7739 13.3083C10.6074 13.62 10.4243 13.924 10.247 14.2308C10.1384 14.4186 9.96659 14.5481 9.78385 14.6682C9.73265 14.7019 9.67945 14.7407 9.64538 14.7887C9.40998 15.122 9.22305 15.4794 9.04869 15.843C9.00241 15.9395 9.01043 15.9682 9.12521 15.9822C9.26751 15.9999 9.41345 16.0033 9.55702 15.9973C9.80316 15.9871 10.0362 15.9308 10.2299 15.777C10.3765 15.6606 10.4609 15.5175 10.4439 15.3321C10.4428 15.3225 10.4438 15.313 10.4414 15.3038C10.4024 15.1344 10.4481 15.0199 10.6458 14.9642C10.7954 14.922 10.8763 14.7931 10.9422 14.6684C11.1332 14.3084 11.3112 13.9424 11.5076 13.5851C11.661 13.3059 11.831 13.0347 11.9992 12.7632C12.1103 12.5839 12.2276 12.4076 12.3493 12.2346C12.4672 12.0663 12.4364 11.9157 12.3264 11.7548C12.1799 11.5409 12.05 11.3174 11.9122 11.0984C11.79 10.9043 11.8457 10.7069 11.9753 10.5608C12.3047 10.189 12.4568 9.73614 12.6837 9.31761C12.7013 9.28511 12.7123 9.24887 12.7309 9.21485C12.7409 9.1963 12.7494 9.19919 12.7465 9.21978C12.7429 9.24309 12.74 9.26606 12.7411 9.28902C12.7545 9.58149 12.7737 9.87395 12.7831 10.1666C12.7873 10.3046 12.7575 10.4448 12.7735 10.5809C12.7975 10.7857 12.8476 10.988 12.8872 11.1911C12.8963 11.2372 12.9061 11.2832 12.924 11.3283C12.9318 11.3478 12.9378 11.346 12.9356 11.3254C12.9327 11.2999 12.9302 11.274 12.9274 11.2483C12.9251 11.2277 12.9278 11.2274 12.9329 11.2475C13.0185 11.577 13.0967 11.9079 13.2906 12.2017C13.302 12.2194 13.3062 12.2176 13.2991 12.198C13.2958 12.1895 13.2927 12.1806 13.2893 12.1718C13.282 12.1521 13.2876 12.1492 13.3017 12.1653C13.4117 12.2921 13.5181 12.4151 13.6371 12.5521C13.6511 12.5684 13.6662 12.5648 13.6708 12.5444C13.6735 12.5321 13.6755 12.5216 13.6779 12.5111C13.6821 12.4906 13.7023 12.4811 13.7225 12.4896C13.7748 12.5112 13.8249 12.5303 13.8705 12.557C13.9215 12.5871 13.9701 12.6245 14.0199 12.6645C14.0368 12.6781 14.0505 12.6774 14.0505 12.663C14.0505 12.6485 14.0576 12.638 14.066 12.6405C14.0727 12.6427 14.0751 12.6444 14.0796 12.648C14.3263 12.835 14.5402 13.0473 14.7109 13.3022C14.8228 13.4699 14.9693 13.6249 15.1298 13.7537C15.1899 13.802 15.24 13.8585 15.3067 13.9036C15.3249 13.9159 15.3313 13.9099 15.32 13.8919C15.3038 13.8662 15.2876 13.8402 15.2712 13.8145C15.2599 13.7966 15.2537 13.7799 15.2574 13.7769C15.2608 13.7741 15.2756 13.7847 15.2901 13.8003C15.3333 13.847 15.3774 13.8949 15.4275 13.9485C15.4421 13.9645 15.4505 13.9604 15.4463 13.94C15.4457 13.9387 15.4456 13.9375 15.4454 13.9363C15.4412 13.9159 15.4523 13.9092 15.4705 13.9213C15.5771 13.9928 15.6795 14.0615 15.7892 14.135C15.8072 14.1469 15.8232 14.1399 15.8245 14.1192C15.8274 14.08 15.8296 14.0486 15.8316 14.0198C15.8331 13.9992 15.8413 13.9812 15.8495 13.9802C15.8577 13.9792 15.8757 13.9911 15.8898 14.0074C15.893 14.0111 15.8963 14.0151 15.8996 14.0188C15.9134 14.0353 15.9271 14.0475 15.93 14.0467C15.9331 14.0458 15.9282 14.0295 15.9196 14.0103C15.9049 13.9773 15.8903 13.9444 15.8755 13.9114C15.867 13.8922 15.8633 13.8749 15.8675 13.8728C15.8717 13.8706 15.8859 13.8825 15.8992 13.8992C15.9222 13.9281 15.9451 13.9569 15.9683 13.9856C15.9816 14.0023 15.9951 14.0147 15.9983 14.0132C16.0018 14.0115 15.9996 13.9943 15.994 13.9742C15.9741 13.9097 15.9553 13.8454 15.9349 13.7753Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Sanal</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/live_casino/" id="LIVE_CASINO" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_15007)">
+                                    <path d="M19.2061 4.91008L12.2742 1.82577C11.6453 1.54769 10.9154 1.81517 10.5958 2.42439V14.9633C10.5958 15.944 9.82056 16.7421 8.86799 16.7421H5.86389C5.90306 16.7654 5.94429 16.7867 5.98759 16.8058L12.9175 19.8901C13.6065 20.1893 14.3682 19.8542 14.6494 19.1833L19.8927 6.69321C20.1793 6.00538 19.8721 5.20724 19.2061 4.91008ZM12.3546 3.74894L12.4948 4.93554L11.5587 5.6424L11.4185 4.4558L12.3546 3.74894ZM12.8391 17.9669L12.6969 16.7824L13.6329 16.0756L13.7731 17.26L12.8391 17.9669ZM11.3752 13.766L10.9402 10.1234L13.8185 7.94976L14.2494 11.5945L11.3752 13.766Z" fill="currentColor"></path>
+                                    <path d="M8.86797 0H1.31544C0.589687 0 0 0.607094 0 1.35427V14.963C0 15.7102 0.589687 16.3173 1.31544 16.3173H8.86801C9.59376 16.3173 10.1834 15.7102 10.1834 14.963V1.35427C10.1834 0.607094 9.59376 0 8.86797 0ZM2.13047 3.57788C2.13047 3.57788 1.27473 3.10711 1.27473 2.42346C1.27473 2.16126 1.48197 1.94712 1.73741 1.94712C1.90414 1.94712 2.04943 2.03767 2.13047 2.17309C2.21154 2.03767 2.35759 1.94712 2.52281 1.94712C2.779 1.94712 2.98549 2.16126 2.98549 2.42346C2.98545 3.10711 2.13047 3.57788 2.13047 3.57788ZM5.0927 10.2044C5.0927 10.2044 2.94545 9.02319 2.94545 7.30777C2.94545 6.64991 3.46547 6.11253 4.10637 6.11253C4.52468 6.11253 4.88927 6.33973 5.09266 6.67951C5.29605 6.33973 5.66258 6.11253 6.07707 6.11253C6.71992 6.11253 7.238 6.64987 7.238 7.30777C7.23804 9.02314 5.0927 10.2044 5.0927 10.2044ZM8.05382 14.3698C8.05382 14.3698 7.19807 13.899 7.19807 13.2154C7.19807 12.9532 7.40532 12.739 7.66076 12.739C7.82749 12.739 7.97278 12.8296 8.05382 12.965C8.13489 12.8296 8.28094 12.739 8.44616 12.739C8.70235 12.739 8.90884 12.9532 8.90884 13.2154C8.9088 13.899 8.05382 14.3698 8.05382 14.3698Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Canlı Casino</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/casino/" id="CASINO_PROVIDER" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_15036)">
+                                    <path d="M10.3207 5.67917C7.78198 3.14047 5.43066 1.2883 2.36572 4.35336C-0.439947 7.15903 -0.57337 13.3466 1.03991 14.9599C2.65319 16.5732 8.84082 16.4398 11.6465 13.6341C14.7115 10.5691 12.8594 8.21787 10.3207 5.67917ZM3.3601 13.3027L2.69714 12.6397L4.02295 11.3139L4.68591 11.9768L3.3601 13.3027ZM3.3601 10.651L2.69714 9.98813L4.02295 8.6622L4.68591 9.32517L3.3601 10.651ZM3.3601 7.99936L2.69714 7.3364L4.02295 6.01059L4.68591 6.67355L3.3601 7.99936ZM6.01172 13.3027L5.34887 12.6397L6.67468 11.3139L7.33764 11.9768L6.01172 13.3027ZM6.01172 10.651L5.34887 9.98813L6.67468 8.6622L7.33764 9.32517L6.01172 10.651ZM6.01172 7.99936L5.34887 7.3364L6.67468 6.01059L7.33764 6.67355L6.01172 7.99936ZM8.66345 13.3027L8.00049 12.6397L9.32629 11.3139L9.98926 11.9768L8.66345 13.3027ZM8.66345 10.651L8.00049 9.98813L9.32629 8.6622L9.98926 9.32517L8.66345 10.651Z" fill="currentColor"></path>
+                                    <path d="M11.1291 4.19007C11.3102 3.29614 11.057 2.0177 10.3652 1.32581L9.03939 0C8.41476 0.624512 8.1141 1.84705 8.20089 2.66358C9.2944 3.32886 10.2346 4.26734 10.9835 5.01636C11.7325 5.76538 12.6711 6.70545 13.3364 7.79908C14.1529 7.88587 15.3574 7.56714 15.982 6.94263L14.6562 5.61682C13.9643 4.92493 12.6858 4.67176 11.792 4.85291L11.8047 4.84021C12.9253 3.71973 14.4153 3.10242 16 3.10242V2.16504C14.1647 2.16504 12.4394 2.87964 11.1417 4.17737L11.1291 4.19007Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Slot Casino</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/other_games/" id="OTHER_GAMES" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="">
+                                 <g clip-path="url(#clip0_21_14991)">
+                                    <path d="M3.33333 0H0.666667C0.298667 0 0 0.298667 0 0.666667V3.33333C0 3.70133 0.298667 4 0.666667 4H3.33333C3.70133 4 4 3.70133 4 3.33333V0.666667C4 0.298667 3.70133 0 3.33333 0Z" fill="currentColor"></path>
+                                    <path d="M3.33333 6H0.666667C0.298667 6 0 6.29867 0 6.66667V9.33333C0 9.70133 0.298667 10 0.666667 10H3.33333C3.70133 10 4 9.70133 4 9.33333V6.66667C4 6.29867 3.70133 6 3.33333 6Z" fill="currentColor"></path>
+                                    <path d="M3.33333 12H0.666667C0.298667 12 0 12.2987 0 12.6667V15.3333C0 15.7013 0.298667 16 0.666667 16H3.33333C3.70133 16 4 15.7013 4 15.3333V12.6667C4 12.2987 3.70133 12 3.33333 12Z" fill="currentColor"></path>
+                                    <path d="M9.33333 0H6.66667C6.29867 0 6 0.298667 6 0.666667V3.33333C6 3.70133 6.29867 4 6.66667 4H9.33333C9.70133 4 10 3.70133 10 3.33333V0.666667C10 0.298667 9.70133 0 9.33333 0Z" fill="currentColor"></path>
+                                    <path d="M9.33333 6H6.66667C6.29867 6 6 6.29867 6 6.66667V9.33333C6 9.70133 6.29867 10 6.66667 10H9.33333C9.70133 10 10 9.70133 10 9.33333V6.66667C10 6.29867 9.70133 6 9.33333 6Z" fill="currentColor"></path>
+                                    <path d="M9.33333 12H6.66667C6.29867 12 6 12.2987 6 12.6667V15.3333C6 15.7013 6.29867 16 6.66667 16H9.33333C9.70133 16 10 15.7013 10 15.3333V12.6667C10 12.2987 9.70133 12 9.33333 12Z" fill="currentColor"></path>
+                                    <path d="M15.3333 0H12.6667C12.2987 0 12 0.298667 12 0.666667V3.33333C12 3.70133 12.2987 4 12.6667 4H15.3333C15.7013 4 16 3.70133 16 3.33333V0.666667C16 0.298667 15.7013 0 15.3333 0Z" fill="currentColor"></path>
+                                    <path d="M15.3333 6H12.6667C12.2987 6 12 6.29867 12 6.66667V9.33333C12 9.70133 12.2987 10 12.6667 10H15.3333C15.7013 10 16 9.70133 16 9.33333V6.66667C16 6.29867 15.7013 6 15.3333 6Z" fill="currentColor"></path>
+                                    <path d="M15.3333 12H12.6667C12.2987 12 12 12.2987 12 12.6667V15.3333C12 15.7013 12.2987 16 12.6667 16H15.3333C15.7013 16 16 15.7013 16 15.3333V12.6667C16 12.2987 15.7013 12 15.3333 12Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Diğer Oyunlar</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/game/aviator/play/" id="PLAY_GAME" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none" class="">
+                                 <g clip-path="url(#clip0_1_646)">
+                                    <path d="M19.414 9.41902H19.3452V7.28787C19.3452 6.96425 19.0828 6.7019 18.7592 6.7019C18.4356 6.7019 18.1733 6.96425 18.1733 7.28787V9.41902H17.3959V8.67647C17.3959 8.17329 16.9866 7.76396 16.4834 7.76396H15.9014V12.246H16.4835C16.9867 12.246 17.396 11.8367 17.396 11.3335V10.5909H18.1733V12.7221C18.1733 13.0457 18.4357 13.308 18.7593 13.308C19.0829 13.308 19.3452 13.0457 19.3452 12.7221V10.5909H19.4141C19.7377 10.5909 20 10.3286 20 10.005C20 9.68141 19.7376 9.41902 19.414 9.41902Z" fill="currentColor"></path>
+                                    <path d="M13.2444 0H11.0054C10.2622 0 9.65747 0.604675 9.65747 1.34793V2.78263H14.5923V1.34793C14.5923 0.604675 13.9876 0 13.2444 0Z" fill="currentColor"></path>
+                                    <path d="M14.5922 3.95435H9.65741V16.0553H14.5922V3.95435Z" fill="currentColor"></path>
+                                    <path d="M9.65753 17.2273V18.6556C9.65753 19.3988 10.2622 20.0035 11.0055 20.0035H13.2444C13.9877 20.0035 14.5924 19.3988 14.5924 18.6556V17.2273H9.65753Z" fill="currentColor"></path>
+                                    <path d="M4.49599 7.76382L3.93694 6.58033C3.81997 6.33264 3.56743 6.17261 3.29347 6.17261H0.712127C0.466967 6.17261 0.24228 6.29622 0.111007 6.50333C-0.0201878 6.71043 -0.036089 6.96642 0.0686166 7.18817L1.36892 9.94103L0.0686557 12.6939C-0.036089 12.9156 -0.0201878 13.1716 0.111046 13.3787C0.24228 13.5858 0.466967 13.7094 0.712166 13.7094H3.29355C3.56754 13.7094 3.82013 13.5494 3.93702 13.3017L4.4357 12.2459H8.4246V7.76382H4.49599Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Aviator</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/zeppelin/" id="ZEPPELIN" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" class="">
+                                 <g>
+                                    <path d="M0.196659 3.60831C1.12668 2.56744 2.43939 1.63759 4.09793 0.842114C3.26598 0.390622 2.13417 0 0.705883 0C0.316047 0 0 0.315429 0 0.704501V3.83728C0.0635765 3.76034 0.129035 3.68398 0.196659 3.60831Z" fill="currentColor"></path>
+                                    <path d="M0.196706 11.3266C0.129082 11.2509 0.0635765 11.1745 0 11.0977V14.2304C0 14.6195 0.316047 14.935 0.705882 14.935C2.13421 14.935 3.26664 14.5446 4.09925 14.0934C2.44019 13.2979 1.12701 12.3677 0.196706 11.3266Z" fill="currentColor"></path>
+                                    <path d="M2.48081 8.95291C3.62848 9.23058 5.22279 9.53112 7.09126 9.82194C10.799 10.399 14.6753 10.8021 16.5177 10.8021C19.2295 10.8021 20.8652 10.6247 21.987 10.2089C23.3166 9.71622 23.9935 8.80422 23.9998 7.49845C23.9998 7.4907 24 7.48309 24 7.47534C23.9984 6.10992 23.3393 5.20445 21.9849 4.70726C20.8879 4.30462 19.2529 4.13281 16.5177 4.13281C14.6634 4.13281 10.6994 4.53748 7.09206 5.09497C5.21521 5.38504 3.61949 5.6876 2.47742 5.96992C1.81916 6.13266 1.32302 6.28459 0.960715 6.43446C0.698786 6.54282 0.00438532 6.83016 0.000244141 7.47464C0.000291199 7.49342 0.00142061 7.51212 0.00175002 7.5309C0.0364324 8.13644 0.688433 8.3941 0.971256 8.50579C1.32664 8.64613 1.83455 8.79656 2.48081 8.95291Z" fill="currentColor"></path>
+                                    <path d="M2.13792 4.60251C3.32023 4.31023 4.95863 3.99912 6.87595 3.70281C10.5456 3.13569 14.6005 2.72407 16.5176 2.72407C19.4678 2.72407 21.1929 2.9156 22.4722 3.38517C22.7531 3.48827 23.0147 3.60751 23.2573 3.7417C22.8517 2.91306 22.2784 2.23069 21.5324 1.68587C19.9575 0.535703 17.6463 0 14.2588 0C11.0958 0 7.57594 0.765558 4.84291 2.04784C3.05609 2.8862 1.72955 3.87518 0.920654 4.94799C1.26244 4.83368 1.66498 4.71941 2.13792 4.60251Z" fill="currentColor"></path>
+                                    <path d="M22.4784 11.5307C21.1729 12.0145 19.4459 12.2119 16.5177 12.2119C14.611 12.2119 10.6453 11.802 6.87376 11.2149C4.9674 10.9182 3.33338 10.6098 2.14825 10.3231C1.66712 10.2066 1.26001 10.0941 0.916626 9.98242C1.7251 11.0574 3.0531 12.0484 4.84303 12.8882C6.14449 13.4988 7.62453 13.9919 9.15936 14.3413L9.89126 16.5329H6.7979C6.49126 16.5329 6.21969 16.7305 6.12585 17.0219L4.17503 23.0806C4.10604 23.2949 4.14378 23.5292 4.27667 23.7111C4.40957 23.893 4.62152 24.0006 4.84707 24.0006H19.153C19.3785 24.0006 19.5905 23.893 19.7234 23.7111C19.8562 23.5292 19.894 23.2949 19.825 23.0806L17.8742 17.0219C17.7803 16.7305 17.5088 16.5329 17.2021 16.5329H14.1088L14.643 14.9334C17.8218 14.8938 20.0179 14.3562 21.5324 13.2502C22.2869 12.6992 22.8646 12.0075 23.271 11.1661C23.0263 11.3035 22.7621 11.4255 22.4784 11.5307ZM8.9883 20.9476C8.59846 20.9476 8.28242 20.6322 8.28242 20.2431C8.28242 19.854 8.59846 19.5386 8.9883 19.5386C9.37813 19.5386 9.69418 19.854 9.69418 20.2431C9.69418 20.6322 9.37813 20.9476 8.9883 20.9476ZM15.0118 19.5386C15.4017 19.5386 15.7177 19.854 15.7177 20.2431C15.7177 20.6322 15.4017 20.9476 15.0118 20.9476C14.622 20.9476 14.3059 20.6322 14.3059 20.2431C14.3059 19.854 14.6219 19.5386 15.0118 19.5386ZM12.0001 20.9476C11.6102 20.9476 11.2942 20.6322 11.2942 20.2431C11.2942 19.854 11.6102 19.5386 12.0001 19.5386C12.3899 19.5386 12.7059 19.854 12.7059 20.2431C12.7059 20.6322 12.3899 20.9476 12.0001 20.9476ZM11.3794 16.5329L10.75 14.6483C11.5571 14.7766 12.3674 14.8637 13.164 14.906L12.6207 16.5329H11.3794Z" fill="currentColor"></path>
+                                 </g>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Zeppelin</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/game/live_spaceman/play/" id="SPACEMAN" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+                                 <path d="M19.1574 5.943C18.8995 5.78013 18.596 5.68706 18.2728 5.68706H18.0544C17.7324 4.6646 17.2007 3.73004 16.5061 2.92474C14.5864 2.29653 12.3805 1.93848 10.0352 1.93848C7.68984 1.93848 5.45555 2.30041 3.52723 2.93638C2.83758 3.7378 2.30954 4.66977 1.98877 5.68706H1.72722C1.40275 5.68706 1.09925 5.78142 0.84017 5.94429C0.336808 6.25969 0 6.83749 0 7.49673V9.56491C0 10.5641 0.773549 11.3746 1.72722 11.3746H2.41441C3.63704 13.8784 6.17975 15.679 9.19006 15.9608C9.46394 15.9866 9.74153 15.9996 10.0216 15.9996C10.3016 15.9996 10.5891 15.9853 10.8679 15.9595C13.8708 15.6725 16.4086 13.8745 17.6288 11.3746H18.2728C19.2277 11.3746 20 10.5641 20 9.56491V7.49673C20 6.8362 19.662 6.2584 19.1574 5.943ZM16.2926 11.4896C16.2926 12.0584 15.9015 12.5328 15.3871 12.6336C15.1761 12.6749 14.9725 12.7422 14.7739 12.8262L13.7215 13.2747C11.3478 14.2855 8.69286 14.2894 6.31546 13.2851L5.22485 12.8249C5.02868 12.7422 4.82759 12.6737 4.62032 12.6349C4.10215 12.5366 3.70859 12.061 3.70859 11.4896V5.02654C3.70859 4.44874 4.11079 3.96918 4.63883 3.87869C4.79304 3.85155 4.94726 3.82828 5.09901 3.78692L7.49985 3.12768C9.13947 2.67785 10.8618 2.67785 12.5014 3.12768L14.9022 3.78692C15.0527 3.82828 15.2082 3.85155 15.3624 3.87869C15.8892 3.96918 16.2926 4.44874 16.2926 5.02654V11.4896Z" fill="currentColor"></path>
+                                 <path d="M15.7239 2.13282C14.0078 1.59509 12.0709 1.29262 10.0216 1.29262C7.97241 1.29262 6.03545 1.59509 4.31934 2.13282C4.36622 2.09145 4.4131 2.05009 4.46122 2.01002C4.46122 2.01002 4.46245 2.00873 4.46368 2.00743C4.51056 1.96865 4.55745 1.92988 4.60556 1.8911C4.65368 1.85103 4.70303 1.81225 4.75361 1.77476C4.79556 1.74115 4.83874 1.70884 4.88192 1.67652C4.99049 1.59638 5.10029 1.51882 5.21256 1.44514C5.26437 1.41024 5.31742 1.37534 5.37047 1.34174C5.47781 1.27323 5.58638 1.2073 5.69741 1.14397C5.74553 1.11553 5.79364 1.08838 5.84176 1.06253C5.93799 1.00953 6.03545 0.957828 6.13415 0.910002C6.1687 0.891905 6.20201 0.875101 6.23655 0.85959C6.38583 0.787203 6.53635 0.718694 6.68933 0.656649C6.73128 0.638552 6.77446 0.621748 6.81764 0.604944C6.88796 0.576507 6.95828 0.549362 7.02984 0.52351C7.07179 0.509291 7.11373 0.493779 7.15568 0.479561C7.3136 0.423978 7.47275 0.373566 7.6356 0.328324C7.63807 0.327032 7.64054 0.325739 7.64424 0.325739C7.74911 0.296009 7.85521 0.267572 7.96254 0.243012C8.06247 0.218452 8.16241 0.196478 8.2648 0.175796C8.33143 0.161577 8.39928 0.148651 8.46714 0.137017C8.57817 0.117628 8.68921 0.0995314 8.80148 0.08402C8.87673 0.0736791 8.95323 0.0633382 9.02972 0.0555825C9.08894 0.0491194 9.14692 0.0426563 9.20614 0.0374859C9.26413 0.0323154 9.32211 0.0271449 9.38133 0.0232671C9.46276 0.016804 9.54542 0.0129262 9.62808 0.00904831C9.691 0.00646308 9.75268 0.00387785 9.8156 0.00258523C9.88469 0.00129262 9.95255 0 10.0216 0C10.0907 0 10.1586 0.00129262 10.2277 0.00258523C10.2906 0.00258523 10.3523 0.00646308 10.4152 0.00904831C10.4979 0.0129262 10.5805 0.016804 10.6619 0.0232671C10.7212 0.0271449 10.7791 0.0323154 10.8371 0.0374859C10.8964 0.0426563 10.9543 0.0491194 11.0136 0.0555825C11.09 0.0633382 11.1665 0.0736791 11.2418 0.08402C11.3541 0.0995314 11.4651 0.117628 11.5761 0.137017C11.644 0.148651 11.7118 0.161577 11.7785 0.175796C11.8796 0.196478 11.9808 0.218452 12.0807 0.243012C12.1881 0.268864 12.2942 0.296009 12.399 0.325739C12.4027 0.325739 12.4052 0.325739 12.4077 0.328324C12.5705 0.373566 12.7297 0.423978 12.8876 0.479561C12.9369 0.496365 12.9863 0.514461 13.0344 0.531265C13.0418 0.53385 13.0492 0.536436 13.0566 0.540313C13.1047 0.55841 13.1528 0.576507 13.1997 0.594603C13.2515 0.615285 13.3034 0.635967 13.3539 0.656649C13.5069 0.718694 13.6574 0.787203 13.8067 0.85959C13.8499 0.880271 13.8931 0.900953 13.9363 0.922928C13.9905 0.950073 14.0448 0.97851 14.0991 1.00824C14.1423 1.03021 14.1855 1.05348 14.2274 1.07675C14.2805 1.10519 14.3335 1.13621 14.3853 1.16723C14.4335 1.19438 14.4803 1.22152 14.526 1.24996C14.5852 1.28486 14.6432 1.32235 14.7012 1.36112C14.7456 1.38698 14.7888 1.41541 14.8307 1.44514C14.8665 1.46841 14.901 1.49168 14.9356 1.51624C14.9751 1.54338 15.0145 1.57053 15.0528 1.59767C15.0886 1.62353 15.1256 1.65067 15.1614 1.67652C15.2045 1.70884 15.2477 1.74115 15.2897 1.77476C15.3402 1.81225 15.3896 1.85103 15.4377 1.8911C15.4858 1.92988 15.5327 1.96865 15.5796 2.00743L15.5821 2.01002C15.6302 2.05009 15.6771 2.09145 15.7239 2.13282Z" fill="currentColor"></path>
+                                 <path d="M7.62073 6.42969H6.8805C6.47167 6.42969 6.14026 6.77692 6.14026 7.20526V9.53197C6.14026 9.9603 6.47167 10.3075 6.8805 10.3075H7.62073C8.02956 10.3075 8.36097 9.9603 8.36097 9.53197V7.20526C8.36097 6.77692 8.02956 6.42969 7.62073 6.42969Z" fill="currentColor"></path>
+                                 <path d="M13.0492 6.42969H12.309C11.9001 6.42969 11.5687 6.77692 11.5687 7.20526V9.53197C11.5687 9.9603 11.9001 10.3075 12.309 10.3075H13.0492C13.458 10.3075 13.7894 9.9603 13.7894 9.53197V7.20526C13.7894 6.77692 13.458 6.42969 13.0492 6.42969Z" fill="currentColor"></path>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Spaceman</span>
+                        </a>
+                     </li>
+                     <li class="main-nav-item_1127b">
+                        <a href="/tr/promo/" id="PROMO_INDEX" class="main-nav-link_8bb06">
+                           <div class="main-nav-icon-container_3a690">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="">
+                                 <path d="M0.726562 13.3643C0.728289 13.9425 0.958713 14.4964 1.36751 14.9052C1.77631 15.314 2.33026 15.5444 2.90838 15.5462H7.27202V8.27344H0.726562V13.3643Z" fill="currentColor"></path>
+                                 <path d="M8.27344 15.5462H12.6371C13.2152 15.5444 13.7691 15.314 14.1779 14.9052C14.5867 14.4964 14.8172 13.9425 14.8189 13.3643V8.27344H8.27344V15.5462Z" fill="currentColor"></path>
+                                 <path d="M13.8182 2.90909H11.5055C11.5935 2.6768 11.6379 2.43024 11.6364 2.18182C11.6346 1.6037 11.4042 1.04974 10.9954 0.640947C10.5866 0.23215 10.0327 0.00172661 9.45454 0C8.91598 0.00140456 8.39731 0.203685 8 0.567273C7.60269 0.203685 7.08402 0.00140456 6.54545 0C5.96733 0.00172661 5.41338 0.23215 5.00458 0.640947C4.59579 1.04974 4.36536 1.6037 4.36364 2.18182C4.36209 2.43024 4.40647 2.6768 4.49454 2.90909H2.18182C1.60369 2.91082 1.04974 3.14124 0.640947 3.55004C0.23215 3.95883 0.00172661 4.51279 0 5.09091V6.54545C0 6.73834 0.0766231 6.92332 0.213013 7.05971C0.349403 7.1961 0.534388 7.27273 0.727273 7.27273H7.27273V2.90909H6.54545C6.40161 2.90909 6.261 2.86644 6.1414 2.78652C6.0218 2.70661 5.92859 2.59303 5.87354 2.46013C5.8185 2.32724 5.80409 2.18101 5.83216 2.03993C5.86022 1.89886 5.92948 1.76927 6.03119 1.66756C6.13291 1.56585 6.26249 1.49658 6.40357 1.46852C6.54465 1.44046 6.69088 1.45486 6.82377 1.50991C6.95666 1.56495 7.07024 1.65817 7.15016 1.77777C7.23007 1.89737 7.27273 2.03798 7.27273 2.18182V2.90909H8.72727V2.18182C8.72727 2.03798 8.76993 1.89737 8.84984 1.77777C8.92975 1.65817 9.04334 1.56495 9.17623 1.50991C9.30912 1.45486 9.45535 1.44046 9.59643 1.46852C9.7375 1.49658 9.86709 1.56585 9.9688 1.66756C10.0705 1.76927 10.1398 1.89886 10.1678 2.03993C10.1959 2.18101 10.1815 2.32724 10.1265 2.46013C10.0714 2.59303 9.9782 2.70661 9.8586 2.78652C9.739 2.86644 9.59838 2.90909 9.45454 2.90909H8.72727V7.27273H15.2727C15.4656 7.27273 15.6506 7.1961 15.787 7.05971C15.9234 6.92332 16 6.73834 16 6.54545V5.09091C15.9983 4.51279 15.7678 3.95883 15.3591 3.55004C14.9503 3.14124 14.3963 2.91082 13.8182 2.90909Z" fill="currentColor"></path>
+                              </svg>
+                           </div>
+                           <span class="main-nav-text_81e21">Promosyonlar</span>
+                        </a>
+                     </li>
+                  </ul>
+               </nav>
+               <div class="additional-menu_4c075"><a id="about_us" href="/tr/info/help/about_us/" class="additional-menu-item_2d86c"><span class="">Hakkımızda</span></a><a id="affiliates" href="/tr/info/help/affiliates/" class="additional-menu-item_2d86c"><span class="">Bayilik &amp; Ortaklık</span></a><a id="contact" href="/tr/info/help/contact/" class="additional-menu-item_2d86c"><span class="">İletişim Kanallarımız</span></a></div>
+               <div class="social-block_1ad55">
+                  <ul class="social-links-list_18114">
+                     <li class="social-item_7b4e9">
+                        <a href="">
+                           <svg width="18" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M12 0C14.235 0.0255044 16.2541 0.574807 18.0574 1.64791C19.8391 2.69959 21.3212 4.19078 22.362 5.97888C23.4286 7.79297 23.9746 9.82434 24 12.073C23.9367 15.1496 22.9663 17.7774 21.0888 19.9563C19.2113 22.1352 16.8067 23.4832 14.3175 23.9999V15.3739H16.6708L17.203 11.9841H13.6395V9.76383C13.6197 9.30356 13.7653 8.85139 14.0499 8.4891C14.3349 8.12581 14.8367 7.93488 15.5554 7.91628H17.7073V4.94686C17.6764 4.93693 17.3835 4.89765 16.8284 4.82901C16.1989 4.75536 15.5658 4.71602 14.932 4.71116C13.4975 4.71778 12.363 5.12242 11.5286 5.92508C10.6941 6.72752 10.2678 7.88847 10.2497 9.40794V11.9841H7.53783V15.3739H10.2497V23.9999C7.19328 23.4832 4.78868 22.1352 2.9112 19.9563C1.03371 17.7774 0.0633511 15.1496 0 12.073C0.0253463 9.82423 0.571329 7.79287 1.63795 5.97888C2.67876 4.19078 4.1609 2.69959 5.94263 1.64791C7.74581 0.575014 9.76492 0.0257111 12 0Z" fill="#D5D5D7"></path>
+                           </svg>
+                        </a>
+                     </li>
+                     <li class="social-item_7b4e9">
+                        <a href="https://twitter.com/betkomresmi">
+                           <svg width="18" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M12 0C5.3736 0 0 5.3736 0 12C0 18.6264 5.3736 24 12 24C18.6264 24 24 18.6264 24 12C24 5.3736 18.6264 0 12 0ZM17.4791 9.35632C17.4844 9.47443 17.4869 9.59308 17.4869 9.71228C17.4869 13.3519 14.7166 17.5488 9.65021 17.549H9.65039H9.65021C8.09473 17.549 6.64728 17.0931 5.42834 16.3118C5.64386 16.3372 5.86322 16.3499 6.08533 16.3499C7.37585 16.3499 8.56348 15.9097 9.50629 15.1708C8.30054 15.1485 7.28394 14.3522 6.93311 13.2578C7.10101 13.29 7.27368 13.3076 7.45074 13.3076C7.70215 13.3076 7.94568 13.2737 8.17712 13.2105C6.91681 12.9582 5.96741 11.8444 5.96741 10.5106C5.96741 10.4982 5.96741 10.487 5.96777 10.4755C6.33893 10.6818 6.76337 10.806 7.21527 10.8199C6.47571 10.3264 5.98956 9.48285 5.98956 8.52722C5.98956 8.02258 6.12598 7.5498 6.36255 7.14276C7.72083 8.80939 9.75073 9.90546 12.0399 10.0206C11.9927 9.81885 11.9683 9.60864 11.9683 9.39258C11.9683 7.87207 13.2019 6.63849 14.723 6.63849C15.5153 6.63849 16.2308 6.97339 16.7335 7.50879C17.361 7.38501 17.9502 7.15576 18.4825 6.84027C18.2765 7.48315 17.84 8.02258 17.2712 8.36371C17.8284 8.29706 18.3594 8.14929 18.8529 7.92993C18.4843 8.48236 18.0168 8.96759 17.4791 9.35632Z" fill="#D5D5D7"></path>
+                           </svg>
+                        </a>
+                     </li>
+                     <li class="social-item_7b4e9">
+                        <a href="https://instagram.com/betkomresmi">
+                           <svg width="18" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M18 0H6C2.70029 0 0 2.69912 0 6V18C0 21.2997 2.70029 24 6 24H18C21.2997 24 24 21.2997 24 18V6C24 2.69912 21.2997 0 18 0ZM12 16.9998C9.23818 16.9998 6.9999 14.7606 6.9999 12C6.9999 9.23818 9.23818 6.9999 12 6.9999C14.7606 6.9999 17.0001 9.23818 17.0001 12C17.0001 14.7606 14.7606 16.9998 12 16.9998ZM18.5001 6.9999C17.6709 6.9999 17.0001 6.32818 17.0001 5.4999C17.0001 4.67162 17.6709 3.9999 18.5001 3.9999C19.3293 3.9999 20.0001 4.67162 20.0001 5.4999C20.0001 6.32818 19.3293 6.9999 18.5001 6.9999Z" fill="#D5D5D7"></path>
+                           </svg>
+                        </a>
+                     </li>
+                     <li class="social-item_7b4e9">
+                        <a href="https://t.me/betkomresmi">
+                           <svg width="18" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M12 24C18.629 24 24 18.629 24 12C24 5.371 18.629 0 12 0C5.371 0 0 5.371 0 12C0 18.629 5.371 24 12 24ZM5.491 11.74L17.061 7.279C17.598 7.085 18.067 7.41 17.893 8.222L17.894 8.221L15.924 17.502C15.778 18.16 15.387 18.32 14.84 18.01L11.84 15.799L10.393 17.193C10.233 17.353 10.098 17.488 9.788 17.488L10.001 14.435L15.561 9.412C15.803 9.199 15.507 9.079 15.188 9.291L8.317 13.617L5.355 12.693C4.712 12.489 4.698 12.05 5.491 11.74Z" fill="#D5D5D7"></path>
+                           </svg>
+                        </a>
+                     </li>
+                  </ul>
+                  <button class="live-chat-button_fce9a">
+                     <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1119 6.25671H11.7958V4.30761C11.7958 1.93245 9.93913 0 7.6574 0H6.3426C4.06082 0 2.20423 1.93239 2.20423 4.30761V6.25685H1.8882C1.38764 6.25746 0.907739 6.46467 0.553766 6.83303C0.199793 7.2014 0.000644065 7.70085 0 8.22183L0 9.88955C0.000593462 10.4106 0.199723 10.9101 0.553703 11.2785C0.907684 11.6468 1.38761 11.8541 1.8882 11.8546H2.75108C2.82291 11.8547 2.89403 11.84 2.96039 11.8114C3.02675 11.7828 3.08705 11.7409 3.13784 11.688C3.18862 11.6351 3.22891 11.5724 3.25638 11.5033C3.28385 11.4342 3.29798 11.3602 3.29796 11.2855V4.30761C3.29883 3.46741 3.61986 2.66188 4.19065 2.06772C4.76143 1.47357 5.53534 1.13931 6.3426 1.13829H7.6574C8.46467 1.13931 9.23859 1.47356 9.80938 2.06771C10.3802 2.66187 10.7012 3.46741 10.7021 4.30761V11.9618C10.7019 12.2004 10.6107 12.4291 10.4486 12.5979C10.2864 12.7666 10.0666 12.8614 9.83738 12.8616H7C6.85496 12.8616 6.71586 12.9216 6.6133 13.0283C6.51074 13.1351 6.45312 13.2799 6.45312 13.4308C6.45312 13.5818 6.51074 13.7265 6.6133 13.8333C6.71586 13.94 6.85496 14 7 14H9.83738C10.3566 13.9994 10.8544 13.7845 11.2215 13.4024C11.5887 13.0202 11.7952 12.5021 11.7958 11.9617V11.8547H12.1119C12.6125 11.8541 13.0924 11.6469 13.4464 11.2785C13.8004 10.91 13.9994 10.4105 14 9.88953V8.2218C13.9994 7.70082 13.8003 7.20136 13.4463 6.83296C13.0924 6.46457 12.6125 6.25734 12.1119 6.25671Z" fill="white"></path>
+                     </svg>
+                     <span class="live-chat-text_615cc">Canlı Destek</span>
                   </button>
-                </div>
-              </form>
+               </div>
             </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">Seçilen zaman aralığı için veri yok</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="withdrawrequest" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAKİYE YÖNETİMİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc" href="javascript:;" onclick="openmodal('deposit')">PARA YATIR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('withdraw')">ÇEKİM <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('transactionhistory')">İŞLEM GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('withdrawrequest')">PARA ÇEKME DURUMU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="historyLayoutWrapper-bc">
-        <div class="historyList-bc ">
-          <p class="empty-b-text-v-bc">Para Çekme Bilgisi Yok</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="buildall" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">Bet Builder history</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('buildall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content BetBuilder-history" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
+            <div class="header-container_2ccda fixed_f9a92">
+               <div class="notification_content_ticker_23ec7">
+                  <span class="notification_icon_539b5"></span>
+                  <div class="content_header_ticker_0afcf">
+                     <p class="header_ticker_a10f7">
+                        <span>
+                     <div><p>SİZ İSTEDİNİZ BİZ YAPTIK!.. HER AYIN 5'İ,15'İ VE 25'İNDE VERMİŞ OLDUĞUMUZ %100 1001TL YATIRIM BONUSUNU, BU AYIN 3'Ü VE 4'ÜNDE DE GÜNDE BİRER KEZ 1001TL OLARAK DAĞITIYORUZ...</p>
+                     </div></span></p>
                   </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
+                  <button class="close-button_ff8c3">
+                     <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M16.026 4L11 9.026L5.974 4L4 5.974L9.026 11L4 16.026L5.974 18L11 12.974L16.026 18L18 16.026L12.974 11L18 5.974L16.026 4Z" fill="url(#paint0_linear_690_4746)"></path>
+                        <defs>
+                           <linearGradient id="paint0_linear_690_4746" x1="6.89855" y1="7.77966" x2="21" y2="7.77966" gradientUnits="userSpaceOnUse">
+                              <stop stop-color="#E5DC93"></stop>
+                              <stop offset="1" stop-color="#C19E6B"></stop>
+                           </linearGradient>
+                        </defs>
+                     </svg>
                   </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="buildopen" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">Bet Builder history</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('buildopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content BetBuilder-history" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
+               </div>
+               <header class="header_5b53f">
+                  <button class="header-burger_889cf">
+                     <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="header-burger-icon_e5ccf">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 1C0 0.447715 0.447715 0 1 0H15C15.5523 0 16 0.447715 16 1C16 1.55228 15.5523 2 15 2H1C0.447715 2 0 1.55228 0 1ZM0 8C0 7.44772 0.447715 7 1 7H7C7.55228 7 8 7.44772 8 8C8 8.55229 7.55228 9 7 9H1C0.447715 9 0 8.55229 0 8ZM1 14C0.447715 14 0 14.4477 0 15C0 15.5523 0.447715 16 1 16H19C19.5523 16 20 15.5523 20 15C20 14.4477 19.5523 14 19 14H1Z" fill="white"></path>
+                     </svg>
                   </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="buildwin" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">Bet Builder history</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('buildwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content BetBuilder-history" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
+                  <div class="header-wrapper_6a890">
+                     <a class="logo-link_36cd7" href="/tr/" aria-label="Main page">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 36" width="136px" height="36px" class="logo-icon_23342">
+                           <path fill="#ffffff" d="M20.3,21.9c.6-.7,1-1.6,1.2-2.6,.1-.6,.2-1.2,.2-1.8,0-.9-.2-1.7-.5-2.4-.3-.7-.8-1.2-1.5-1.6-.6-.4-1.4-.7-2.2-.9-.9-.2-1.8-.3-2.8-.3H4.5L1.7,26.5l7.4-6.9-1.4-2.4c0-.1,0-.2,0-.3,0-.1,.2-.2,.3-.2l2.7,.2,1.8-2.2c.2-.2,.5-.1,.5,.1l.6,2.8,2.5,1c.1,0,.2,.2,.2,.3,0,.1,0,.2-.2,.3l-2.4,1.5-.2,2.9c0,.1,0,.2-.2,.3,0,0-.1,0-.2,0,0,0,0,0-.1,0l-2.1-1.8L1,30.3l-1,5.1H11.7c1.3,0,2.4-.1,3.4-.3,1-.2,1.9-.6,2.7-1.1,.8-.5,1.4-1.2,1.9-2,.5-.8,.8-1.9,1-3.1,0-.2,0-.4,0-.6v-.5c0-1.1-.2-2.1-.7-2.8-.5-.7-1.1-1.2-1.8-1.5,.8-.3,1.5-.9,2.1-1.6Zm-6.6,5.9c0,.1,0,.3,0,.4-.1,.6-.4,1.1-.8,1.3-.4,.2-1.1,.4-2,.4h-3.2l.7-3.9h3.1c.7,0,1.3,.1,1.6,.3,.3,.2,.5,.6,.5,1.2s0,.2,0,.4Z"></path>
+                           <path fill="#ffffff" d="M57.3,18.4l-3.3,17h-7.4l3.3-17h-7.1l2.3-6.1h20.4l-2.3,6.1h-5.9Z"></path>
+                           <path fill="#1fe1ff" d="M72.5,21l7.1-8.7h8.2l-9.7,11.4,6.3,11.7h-8.7l-4.2-8.9-1.7,8.9h-7l4.5-23.1h7l-1.7,8.7Z"></path>
+                           <path fill="#1fe1ff" d="M105.4,13.8c-1.6-1.4-4-2.1-7.2-2.1s-3.3,.2-4.7,.6c-1.4,.4-2.6,1.1-3.6,2-1,.9-1.9,2.1-2.6,3.6-.7,1.5-1.2,3.4-1.7,5.6-.3,1.4-.4,2.7-.4,3.9,0,2.9,.8,5.1,2.4,6.5s4,2.1,7.2,2.1,3.3-.2,4.7-.6c1.4-.4,2.6-1.1,3.6-2,1-.9,1.9-2.1,2.6-3.6,.7-1.5,1.2-3.4,1.7-5.6,.3-1.4,.4-2.7,.4-3.9,0-3-.8-5.1-2.4-6.6Zm-2.3,11.3c-.4,2.2-2.5,3.9-4.7,3.9s-1.4-.3-1.8-.7v.8c-.3,.9,.3,1,.8,1.5,.1,.1,0,.3-.2,.3h-3.9c-.2,0-.2-.2,0-.3,.6-.4,1.3-.5,1.4-1.5v-.8c-.5,.5-1.2,.7-1.9,.7-2.2,0-3.7-1.7-3.3-3.9,.2-1.2,1-2.4,2.1-3.1,2.4-1.7,4.8-3.8,5.7-4.8,.3-.2,.6-.2,.8,0,.6,.9,2.2,3.1,4.1,4.8,.8,.8,1.2,1.9,1,3.1Z"></path>
+                           <path fill="#1fe1ff" d="M124.8,35.4l2.3-12.2-3.6,5.9h-5.6l-1.3-5.8-2.3,12.1h-6.8l4.5-23.1h7.6l2.4,10.2,6.4-10.2h7.6l-4.5,23.1h-6.8Z"></path>
+                           <path fill="#ffffff" d="M107.3,5.3c0,.7-.5,1.2-1.2,1.2h0l-.9,3.2c-.3-.1-.6-.2-.9-.3-1.6-.4-3.6-.6-5.9-.6s-4.3,.2-5.9,.6c-.3,0-.6,.2-.9,.3l-.9-3.2h0c-.7,0-1.2-.5-1.2-1.2s.5-1.2,1.2-1.2,1.2,.5,1.2,1.2,0,.3,0,.4l2.9,1.7,3.1-5.2c-.3-.2-.5-.6-.5-1,0-.7,.5-1.2,1.2-1.2s1.2,.5,1.2,1.2-.2,.8-.5,1l3.1,5.2,2.9-1.7c0-.1,0-.2,0-.4,0-.7,.5-1.2,1.2-1.2s1.2,.5,1.2,1.2Z"></path>
+                           <path fill="#ffffff" d="M25.7,12.3l-1.1,5.8h15.6s.9,0,.9,0l2.2-5.8H25.7Zm4.4,14.3h8.1l2.2-5.7H24l-2.8,14.5h16.8l2.2-5.8h-10.8l.6-3Z"></path>
+                        </svg>
+                     </a>
+                     <div class="user-block-container_e430e">
+                        <div class="header-auth_1ca24"><button class="header-auth-button_b6ff1">Giriş</button><button class="header-auth-button_b6ff1 blue_dbba1">Kayıt Ol</button></div>
+                     </div>
                   </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
+               </header>
+               <ul class="header-nav-menu_4dd9b">
+                  <li class="header-nav-menu-item_0e1c2 active_be207">
+                     <a class="nav-menu-link_fe598" href="/tr/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <g clip-path="url(#clip0_21_19180)">
+                              <path d="M15.5686 6.95923C15.5683 6.95886 15.5679 6.9585 15.5675 6.95813L9.04079 0.431641C8.76259 0.15332 8.39272 0 7.99928 0C7.60585 0 7.23598 0.153198 6.95766 0.431519L0.434343 6.95471C0.432145 6.95691 0.429948 6.95923 0.427751 6.96143C-0.143538 7.53601 -0.142562 8.46826 0.430558 9.04138C0.692399 9.30334 1.03822 9.45508 1.40798 9.47095C1.42299 9.47241 1.43813 9.47314 1.45339 9.47314H1.71352V14.2762C1.71352 15.2267 2.48683 16 3.43752 16H5.99098C6.24977 16 6.45973 15.7902 6.45973 15.5312V11.7656C6.45973 11.3319 6.81252 10.9791 7.24623 10.9791H8.75233C9.18605 10.9791 9.53883 11.3319 9.53883 11.7656V15.5312C9.53883 15.7902 9.74867 16 10.0076 16H12.561C13.5117 16 14.285 15.2267 14.285 14.2762V9.47314H14.5263C14.9196 9.47314 15.2894 9.31995 15.5679 9.04163C16.1416 8.46753 16.1419 7.53369 15.5686 6.95923Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Ana Sayfa</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/sports/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <g clip-path="url(#clip0_21_19037)">
+                              <path d="M8.00019 0C3.5816 0 7.1871e-08 3.58141 7.1871e-08 8C-0.000585866 12.418 3.5816 15.9994 8.00019 16C12.4186 16 16.0008 12.4186 16 7.99941C16.0008 3.58078 12.4178 0 8.00019 0ZM13.4206 11.871L12.2998 11.056L9.57855 13.0332L10.0086 14.3568C9.37457 14.5572 8.69996 14.6666 7.99976 14.6666C7.29977 14.6666 6.62578 14.5572 5.99176 14.3574L6.42195 13.0332L3.7 11.056L2.57961 11.8704C1.80801 10.7922 1.34762 9.47781 1.33602 8.05402L2.72543 8.0532L3.76441 4.8548L2.64461 4.04102C3.45062 2.9518 4.57781 2.11723 5.88941 1.67961L6.31859 3H9.68121L10.1102 1.67961C11.4226 2.11781 12.5494 2.95242 13.3554 4.04102L12.2354 4.8548L13.2744 8.0532H14.6646C14.653 9.47801 14.1924 10.7924 13.4206 11.871Z" fill="currentColor"></path>
+                              <path d="M9.67094 5.70068H6.30695L5.26855 8.89908L7.98938 10.8757L10.7102 8.89908L9.67094 5.70068Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Spor</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/live/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <g clip-path="url(#clip0_21_15048)">
+                              <path d="M13.0765 12.9692C12.867 13.2775 12.9577 13.6906 13.279 13.8917C13.6002 14.0928 14.0305 14.0058 14.2401 13.6974C15.3532 12.0585 16 10.1008 16 8.00001C16 5.89922 15.3532 3.94144 14.2401 2.30262C14.0305 1.99421 13.6002 1.9072 13.279 2.10829C12.9577 2.30939 12.867 2.72243 13.0765 3.03085C14.047 4.45964 14.611 6.16558 14.611 8.00001C14.611 9.83438 14.047 11.5403 13.0765 12.9692Z" fill="currentColor"></path>
+                              <path d="M2.72106 2.10829C3.04236 2.30938 3.133 2.72243 2.9235 3.03085C1.95302 4.45964 1.38898 6.16558 1.38898 8.00001C1.38898 9.83438 1.95301 11.5403 2.9235 12.9692C3.133 13.2775 3.04236 13.6906 2.72106 13.8917C2.39977 14.0928 1.96949 14.0058 1.76 13.6974C0.646856 12.0585 0 10.1008 0 8.00001C0 5.89922 0.646856 3.94144 1.76 2.30262C1.96949 1.99421 2.39977 1.9072 2.72106 2.10829Z" fill="currentColor"></path>
+                              <path d="M4.74399 4.79169C5.05554 5.00643 5.12677 5.42296 4.90306 5.72204C4.43963 6.34156 4.16693 7.10048 4.16693 7.92252C4.16693 8.74455 4.43963 9.50347 4.90306 10.123C5.12677 10.4221 5.05554 10.8387 4.74399 11.0534C4.43242 11.2681 3.9985 11.1997 3.7748 10.9007C3.14748 10.062 2.77795 9.03272 2.77795 7.92252C2.77795 6.8124 3.14748 5.78306 3.7748 4.94439C3.9985 4.64532 4.43242 4.57694 4.74399 4.79169Z" fill="currentColor"></path>
+                              <path d="M8.10237 5.55566C6.69598 5.55566 5.55591 6.65005 5.55591 8.00008C5.55591 9.35011 6.69598 10.4445 8.10237 10.4445C9.50876 10.4445 10.6488 9.35011 10.6488 8.00008C10.6488 6.65005 9.50876 5.55566 8.10237 5.55566Z" fill="currentColor"></path>
+                              <path d="M11.2422 10.123C11.0185 10.4221 11.0897 10.8387 11.4013 11.0534C11.7128 11.2682 12.1467 11.1997 12.3704 10.9007C12.9977 10.062 13.3673 9.03272 13.3673 7.92251C13.3673 6.81239 12.9977 5.78307 12.3704 4.94439C12.1467 4.64531 11.7128 4.57695 11.4013 4.79169C11.0897 5.00643 11.0185 5.42296 11.2422 5.72204C11.7055 6.34164 11.9783 7.10047 11.9783 7.92251C11.9783 8.74454 11.7055 9.50347 11.2422 10.123Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Canlı Bahis</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/virtual/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <g clip-path="url(#clip0_21_15041)">
+                              <path d="M8.65905 3.92285H8.50001C8.49177 3.92285 8.48645 3.92847 8.48206 3.9351C8.53922 3.94446 8.59767 3.9499 8.65905 3.95229C8.68158 3.95297 8.68158 3.92285 8.65905 3.92285Z" fill="currentColor"></path>
+                              <path d="M15.9349 13.7753C15.9291 13.7553 15.9397 13.7479 15.9584 13.7592C15.959 13.7595 15.9595 13.7598 15.9601 13.76C15.979 13.7709 15.9896 13.7638 15.9834 13.7439C15.8642 13.3519 15.6385 13.0147 15.4999 12.6412C15.4926 12.6215 15.4977 12.6189 15.5111 12.6356C15.5412 12.6729 15.5713 12.7101 15.6015 12.747C15.615 12.7637 15.6283 12.7756 15.6314 12.7737C15.6345 12.7717 15.6276 12.7559 15.6163 12.738C15.4501 12.4777 15.284 12.2174 15.1178 11.9573C15.1065 11.9394 15.1032 11.9212 15.1109 11.9168C15.1185 11.9123 15.1353 11.9224 15.1482 11.9392C15.1848 11.9864 15.2213 12.0337 15.2581 12.0808C15.271 12.0976 15.2845 12.1104 15.2876 12.1094C15.2907 12.1083 15.2887 12.0935 15.2827 12.0764C15.2767 12.0592 15.2754 12.042 15.2799 12.0376C15.2843 12.0333 15.3005 12.0418 15.3162 12.0566C15.3904 12.1276 15.4654 12.1994 15.5487 12.279C15.5644 12.294 15.568 12.2909 15.5571 12.2727C15.5381 12.2409 15.5212 12.2121 15.505 12.1851C15.494 12.1669 15.4884 12.1468 15.4924 12.1425C15.4962 12.1383 15.5139 12.141 15.5325 12.1529C15.6243 12.2131 15.7168 12.2666 15.8152 12.3309C15.8336 12.3428 15.842 12.3249 15.8342 12.3081C15.8263 12.2911 15.8803 12.2632 15.8591 12.2593C15.7589 12.2409 15.6728 12.1167 15.6728 12.1167C15.5316 11.9076 15.353 11.714 15.2153 11.5028C15.0272 11.2143 14.889 10.9021 14.8256 10.5667C14.8177 10.5252 14.8132 10.4825 14.8106 10.44C14.8093 10.4192 14.8037 10.4138 14.8 10.4281C14.7966 10.4422 14.7873 10.4378 14.78 10.4179C14.6907 10.1783 14.6053 9.94898 14.5202 9.72049C14.5129 9.70075 14.5085 9.68391 14.5104 9.68272C14.5125 9.68153 14.5222 9.69565 14.5322 9.71419C14.5683 9.78157 14.6044 9.8486 14.6404 9.91614C14.6506 9.93452 14.6618 9.94847 14.6661 9.94728C14.67 9.94592 14.6692 9.93061 14.6636 9.91342C14.6603 9.90287 14.6568 9.8925 14.6516 9.88297C14.4304 9.47719 14.2108 9.07074 13.9845 8.66752C13.9401 8.58807 13.8774 8.51355 13.8078 8.45145C13.5966 8.26345 13.3769 8.08361 13.163 7.89817C13.087 7.83232 13.0187 7.75866 12.9457 7.68958C12.9079 7.65402 12.8717 7.61506 12.8276 7.58801C12.5372 7.41073 12.2779 7.20589 12.0613 6.94796C11.7725 6.60412 11.3788 6.37375 10.9869 6.14543C10.8927 6.09065 10.7996 6.03178 10.6986 5.99027C10.5646 5.93514 10.4268 5.8756 10.2845 5.85348C10.0801 5.82166 9.86857 5.83136 9.66287 5.80499C9.51456 5.78593 9.36753 5.74527 9.22542 5.69933C8.88563 5.5896 8.55021 5.46829 8.21096 5.35736C7.98832 5.28454 7.86351 5.10318 7.69644 4.96843C7.6866 4.96044 7.68095 4.94785 7.67622 4.93424C7.66947 4.91433 7.6682 4.89442 7.67348 4.88966C7.67877 4.8849 7.69917 4.88847 7.71921 4.89766C7.77314 4.92267 7.82762 4.94785 7.88592 4.9749C7.90596 4.98408 7.91143 4.97813 7.89813 4.96129C7.88392 4.94308 7.87025 4.92573 7.85677 4.90871C7.84347 4.89187 7.83454 4.8752 7.83673 4.87146C7.83892 4.86771 7.85714 4.87162 7.87736 4.8803C7.96846 4.91892 8.05955 4.95771 8.15065 4.99633C8.17088 5.00501 8.1911 5.00875 8.19547 5.00501C8.20003 5.0011 8.19401 4.98357 8.18235 4.96588C8.17179 4.94989 8.15994 4.93185 8.14482 4.90906C8.13316 4.89136 8.14045 4.88319 8.16122 4.89085C8.30789 4.94529 8.43816 4.99361 8.56697 5.04142C8.58774 5.04908 8.60541 5.05333 8.60669 5.05078C8.60814 5.04823 8.59302 5.03819 8.57316 5.02849C8.46239 4.97303 8.35161 4.91773 8.24084 4.86227C8.22134 4.8524 8.20786 4.83896 8.21114 4.83232C8.2146 4.82569 8.23428 4.82569 8.25541 4.83232C8.30096 4.84662 8.34633 4.86091 8.39188 4.8752C8.41301 4.88183 8.43196 4.88353 8.43415 4.87877C8.43633 4.87418 8.42413 4.85972 8.407 4.84645C8.3957 4.83777 8.38441 4.82926 8.37311 4.82058C8.35562 4.80748 8.34323 4.79217 8.34487 4.78639C8.34651 4.7806 8.36582 4.77822 8.38787 4.78111C8.41902 4.78503 8.45073 4.78911 8.48443 4.79319C8.50648 4.79592 8.51067 4.78741 8.49354 4.77414C8.48389 4.76682 8.47441 4.75934 8.46421 4.75151C8.4469 4.73824 8.4489 4.71918 8.46968 4.71221C8.59739 4.66916 8.71218 4.7333 8.83898 4.75236C8.86103 4.75559 8.86431 4.74692 8.84609 4.73501C8.72511 4.65572 8.61306 4.58256 8.50192 4.50975C8.48352 4.49784 8.46949 4.48627 8.47059 4.48389C8.4715 4.4815 8.48899 4.4861 8.50958 4.49392L8.71837 4.57304C8.73896 4.58086 8.75809 4.58342 8.76082 4.57848C8.76356 4.57372 8.75026 4.56096 8.73149 4.5499C8.64896 4.50209 8.56642 4.45445 8.48389 4.40664C8.46494 4.39593 8.45073 4.383 8.45237 4.37823C8.45401 4.37347 8.47259 4.37432 8.49409 4.3801C8.51449 4.38555 8.53581 4.39116 8.55859 4.39729C8.58008 4.4029 8.5892 4.39252 8.57662 4.37534C8.4848 4.25352 8.32064 4.23089 8.21187 4.13664C8.19565 4.12252 8.20112 4.11469 8.22244 4.12116C8.24375 4.12779 8.26653 4.13477 8.29313 4.14293C8.31426 4.1494 8.31718 4.14447 8.29932 4.13188C8.2873 4.12337 8.27637 4.11554 8.26525 4.10755C8.2474 4.09496 8.25122 4.08339 8.27345 4.08203C8.30297 4.08015 8.33066 4.07828 8.36145 4.07624C8.38368 4.07488 8.38459 4.06807 8.36345 4.06144C8.32483 4.04936 8.29094 4.03813 8.25833 4.02792C8.23719 4.02129 8.2208 4.01176 8.22189 4.00768C8.22298 4.00359 8.24138 4.00172 8.26343 4.00581C8.32191 4.01686 8.38076 4.02486 8.43961 4.03167C8.45073 4.03286 8.46239 4.02112 8.47423 4.0155C8.49209 4.00717 8.49591 3.97824 8.48316 3.96957C8.47496 3.96395 8.47623 3.94677 8.48352 3.93486C8.39334 3.91989 8.3088 3.89147 8.23373 3.82665C8.21733 3.81253 8.22298 3.80113 8.24539 3.80232C8.26489 3.80334 8.28511 3.80419 8.30698 3.80539C8.3292 3.80658 8.33066 3.80079 8.31025 3.79246C8.30625 3.79075 8.30206 3.78905 8.29841 3.78752C8.27801 3.77918 8.27837 3.76659 8.29932 3.75945C8.38295 3.73087 8.46803 3.70194 8.55348 3.67285C8.57444 3.6657 8.59047 3.65601 8.58938 3.65124C8.58828 3.64648 8.56934 3.64172 8.54711 3.64086C8.54091 3.64052 8.53454 3.64035 8.52761 3.64001C8.50539 3.63899 8.49828 3.62487 8.51176 3.60837C8.53891 3.57519 8.56314 3.54542 8.58464 3.51905C8.59794 3.50254 8.59885 3.4789 8.58719 3.46562C8.57863 3.45593 8.57152 3.44589 8.57389 3.43823C8.58081 3.41629 8.60978 3.39332 8.63493 3.38498C8.68375 3.36899 8.73422 3.35844 8.78341 3.33615C8.80327 3.32713 8.80072 3.3171 8.77831 3.31608C8.64549 3.31029 8.51285 3.30434 8.38003 3.29855C8.35781 3.29753 8.33886 3.29124 8.33813 3.28443C8.3374 3.27763 8.34524 3.26742 8.3558 3.2618C8.36655 3.25619 8.35744 3.24819 8.33558 3.24394C8.31281 3.23951 8.29003 3.23526 8.26762 3.23101C8.24576 3.22675 8.2279 3.2191 8.2279 3.21382C8.2279 3.20855 8.24576 3.20294 8.26799 3.2014C8.31718 3.198 8.36783 3.1946 8.42577 3.19052C8.44799 3.18898 8.44818 3.1849 8.42631 3.18133C8.33175 3.16602 8.24539 3.15207 8.16013 3.13811C8.13808 3.13454 8.1195 3.12637 8.11877 3.11974C8.11786 3.1131 8.1348 3.10409 8.15648 3.09932C8.16541 3.09745 8.17434 3.09558 8.18326 3.09371C8.20476 3.08911 8.20713 3.07686 8.18782 3.06632C8.0304 2.98023 7.87025 2.89278 7.68915 2.79376C7.66984 2.78321 7.67221 2.77641 7.69443 2.77879C7.83418 2.79478 7.95771 2.82302 8.07176 2.77164C8.0918 2.76262 8.08907 2.7502 8.06702 2.74663C8.0253 2.74 7.98139 2.73285 7.9373 2.72571C7.91526 2.72213 7.89977 2.71516 7.90268 2.71022C7.9056 2.70512 7.89066 2.6961 7.86934 2.68998C7.80357 2.67092 7.73798 2.65187 7.67221 2.63264C7.65089 2.62652 7.63449 2.61495 7.63559 2.60695C7.63668 2.59895 7.65545 2.59096 7.67767 2.58909C7.72778 2.58483 7.7777 2.58058 7.8278 2.57633C7.85003 2.57445 7.8677 2.56986 7.86752 2.56612C7.86734 2.56238 7.84912 2.55659 7.82707 2.55336C7.76932 2.54468 7.71138 2.53617 7.65362 2.5275C7.63158 2.52426 7.6139 2.51542 7.61427 2.50776C7.61463 2.50011 7.63267 2.49143 7.65472 2.4882C7.69188 2.48292 7.72905 2.47765 7.76622 2.4722C7.78827 2.46914 7.79665 2.45944 7.7848 2.45077C7.77296 2.44209 7.76239 2.42831 7.76112 2.41997C7.75984 2.41163 7.77624 2.40092 7.79792 2.39598C7.95279 2.36008 8.1082 2.32385 8.2729 2.28556C8.29459 2.28046 8.29404 2.27825 8.27199 2.28046C8.07832 2.29969 8.02785 2.30309 8.00453 2.28097C7.98886 2.26617 8.00143 2.24048 8.02166 2.23163C8.06666 2.21156 8.10929 2.18893 8.09909 2.12683C8.09563 2.10624 8.07067 2.09144 8.04826 2.09229C8.01182 2.09382 7.97028 2.09552 7.9291 2.10029C7.77424 2.11815 7.76075 2.12053 7.70081 2.01471C7.69043 1.99633 7.69844 1.97422 7.71867 1.96537C7.78699 1.93577 7.85531 1.90599 7.92345 1.87639C7.94368 1.86754 7.95825 1.85614 7.95588 1.85087C7.95352 1.84559 7.93475 1.84713 7.91398 1.85495C7.86388 1.87384 7.81432 1.89408 7.76239 1.90531C7.69516 1.91994 7.61773 1.96792 7.5618 1.88115C7.55815 1.87554 7.54394 1.87588 7.53483 1.87316C7.23385 1.77958 6.93268 1.68669 6.63224 1.59192C6.5794 1.57525 6.52839 1.55398 6.47992 1.52217C6.4617 1.51026 6.46589 1.50022 6.48812 1.50158L6.51126 1.50294C6.53349 1.5043 6.55335 1.50226 6.55553 1.49869C6.55772 1.49511 6.54351 1.48406 6.52365 1.47436C6.44567 1.43591 6.36751 1.39763 6.28953 1.35918C6.26894 1.34948 6.25436 1.33859 6.25582 1.33485C6.25746 1.3311 6.27659 1.32974 6.29882 1.33212C6.3052 1.33281 6.31139 1.33349 6.31722 1.334C6.33945 1.33621 6.34091 1.3311 6.3205 1.3226C6.14723 1.24944 5.95866 1.16982 5.769 1.08968C5.74859 1.08117 5.73347 1.06807 5.73529 1.06059C5.73693 1.0531 5.75643 1.04783 5.77865 1.04885C5.82621 1.05106 5.87649 1.05327 5.93826 1.05617C5.96048 1.05719 5.96103 1.05429 5.93917 1.0497C5.90291 1.04221 5.87321 1.03592 5.84188 1.02945C5.82001 1.02486 5.81855 1.01346 5.83841 1.00376C5.9337 0.957657 6.02006 0.915973 6.10278 0.875992C6.12264 0.866464 6.12082 0.86102 6.09877 0.864422C5.99109 0.881266 5.88269 0.897599 5.77428 0.914612C5.75224 0.918015 5.73256 0.913251 5.73019 0.905765C5.72782 0.898449 5.73675 0.882627 5.75005 0.874801C5.76335 0.866974 5.75624 0.850301 5.73456 0.846048C5.67626 0.834649 5.61978 0.811 5.56366 0.800111C5.56366 0.800111 5.71033 0.759279 5.49898 0.731376C5.3013 0.705175 5.13295 0.636611 4.9657 0.53555C4.82978 0.453375 4.66672 0.405737 4.51021 0.358609C4.32346 0.302294 4.13052 0.263844 3.94103 0.215525C3.87053 0.197661 3.80293 0.162613 3.73169 0.155467C3.64205 0.14662 3.55096 0.150874 3.4697 0.152405C3.44747 0.152745 3.41431 0.143388 3.39664 0.130628C3.37769 0.116847 3.35965 0.104427 3.34143 0.104086C2.9488 0.0974512 2.55653 0.104427 2.17374 0.199362C2.0974 0.218247 2.02726 0.257549 1.95183 0.280857C1.92286 0.289874 1.8784 0.293107 1.85691 0.278646C1.77874 0.225393 1.70678 0.164144 1.63372 0.104767C1.60019 0.0775453 1.56776 0.0486223 1.53533 0.0200395C1.51912 0.00574814 1.50071 -0.00275864 1.49416 0.000814205C1.4876 0.00438705 1.48231 0.0225916 1.48249 0.0414766C1.48268 0.0530458 1.48322 0.0644449 1.48632 0.0753336C1.5049 0.142197 1.52695 0.208209 1.5479 0.274392C1.59127 0.411862 1.59035 0.40931 1.44369 0.453885C1.38047 0.473111 1.31251 0.495739 1.26368 0.53521C1.19791 0.587442 1.1314 0.584549 1.05743 0.581657C0.994394 0.579275 0.930808 0.587612 0.867404 0.588292C0.662799 0.590334 0.468033 0.552053 0.285109 0.463583C0.274724 0.458479 0.262335 0.456948 0.249763 0.456097C0.229539 0.454736 0.214235 0.469197 0.21551 0.488253C0.216239 0.500332 0.218243 0.512242 0.224438 0.521089C0.304604 0.638142 0.388596 0.749921 0.53672 0.804875C0.617251 0.834819 0.693408 0.878033 0.766286 0.922609C0.89364 1.0007 0.922427 1.09325 0.880522 1.23021C0.817118 1.43829 0.744605 1.64534 0.703975 1.85733C0.684298 1.95958 0.727479 2.07255 0.74424 2.18042C0.751893 2.22959 0.775031 2.27808 0.774303 2.32674C0.767379 2.75956 0.692315 3.18286 0.563685 3.5985C0.541822 3.66877 0.526335 3.74073 0.512488 3.8013C0.507933 3.82172 0.498277 3.84724 0.494633 3.85966C0.492447 3.86731 0.491172 3.87497 0.491172 3.88263C0.491172 3.89113 0.492447 3.89913 0.494451 3.90662C0.498277 3.91955 0.507387 3.93673 0.513035 3.94558C0.518501 3.95442 0.526517 3.96701 0.530526 3.97433C0.532894 3.97858 0.535445 3.98267 0.538724 3.98692C0.561134 4.01686 0.586642 4.04358 0.612331 4.07046C0.627271 4.08594 0.629093 4.11282 0.615429 4.12915C0.604497 4.14225 0.593019 4.15518 0.581358 4.16811C0.572431 4.17815 0.566236 4.18904 0.562228 4.20044C0.555486 4.22001 0.555122 4.2394 0.553482 4.2428C0.552207 4.24519 0.551478 4.2474 0.551478 4.24944C0.551478 4.2719 0.563139 4.30473 0.58154 4.31494C0.667536 4.36241 0.756265 4.40528 0.850642 4.45224C0.870319 4.46194 0.871595 4.4798 0.853375 4.49205C0.845177 4.4975 0.83716 4.50294 0.828779 4.50856C0.810559 4.52064 0.809284 4.54207 0.827504 4.55398C0.921698 4.6154 1.02263 4.612 1.12867 4.59635C1.17859 4.58903 1.23088 4.59652 1.2819 4.59601C1.30449 4.59584 1.33583 4.60043 1.34785 4.58886C1.41982 4.52047 1.50855 4.51332 1.60457 4.50277C1.73739 4.48814 1.85363 4.33587 1.83522 4.20997C1.81099 4.04494 1.86237 3.92023 1.98626 3.79467C2.09012 3.68952 2.14277 3.54117 2.22403 3.41526C2.24535 3.38209 2.2847 3.35163 2.32314 3.33734C2.38381 3.31488 2.43647 3.33615 2.45359 3.40063C2.49513 3.55801 2.56346 3.71521 2.56747 3.87361C2.57348 4.11078 2.54196 4.34982 2.5108 4.58614C2.47582 4.85138 2.33371 5.07579 2.17502 5.29373C1.99647 5.5389 1.89426 5.80397 1.95001 6.11106C1.98025 6.27763 1.98371 6.44861 1.99173 6.6179C1.99319 6.65005 1.96896 6.69905 1.94053 6.71419C1.43239 6.98573 0.990022 7.33842 0.54583 7.68941C0.471677 7.74811 0.386045 7.79438 0.313714 7.85478C0.12496 8.01199 0.101092 8.2153 0.144637 8.43239C0.154475 8.48122 0.168869 8.53328 0.196927 8.57429C0.328836 8.76875 0.334666 8.97427 0.277457 9.1895C0.188546 9.52415 0.10674 9.86051 0.0138205 10.1941C-0.0131443 10.2911 -0.000755089 10.3765 0.0518993 10.4556C0.172695 10.6368 0.251585 10.8322 0.292215 11.0411C0.326285 11.2167 0.428679 11.3589 0.537267 11.5001C0.621441 11.6098 0.695412 11.726 0.776671 11.8375C0.844448 11.9305 0.911678 11.9562 1.0168 11.9038C1.1028 11.8608 1.19353 11.8031 1.24619 11.7294C1.39377 11.5227 1.43294 11.2883 1.38265 11.0443C1.37281 10.9968 1.35168 10.9433 1.3167 10.9099C1.18552 10.7849 1.05087 10.6625 0.908945 10.5484C0.816208 10.4737 0.784323 10.3602 0.836613 10.2569C0.867222 10.1965 0.887446 10.1281 0.895098 10.0616C0.903661 9.98624 0.899106 9.90917 0.897831 9.82036C0.897466 9.7996 0.912589 9.79212 0.930626 9.80437C1.06308 9.89437 1.16074 9.99645 1.18351 10.1353C1.22469 10.3871 1.39176 10.4982 1.63426 10.5695C2.05677 10.6935 2.47983 10.7927 2.92803 10.7781C3.13537 10.7712 3.13755 10.7823 3.12225 10.5861C3.10002 10.3007 2.94844 10.0684 2.7646 9.85183C2.74456 9.82801 2.70211 9.80794 2.67022 9.80811C2.56947 9.80896 2.46835 9.81627 2.36869 9.82955C2.33735 9.8338 2.30802 9.8634 2.2816 9.88535C2.23223 9.92652 2.18467 9.96974 2.13293 10.0158C2.11672 10.0303 2.09595 10.0296 2.08611 10.0148C2.07864 10.0036 2.07354 9.99577 2.06989 9.98726C1.99993 9.82257 2.00011 9.81951 1.81846 9.81968C1.68236 9.81985 1.57705 9.75622 1.51474 9.65992C1.37263 9.44045 1.24692 9.21093 1.1223 8.9821C1.10517 8.95063 1.11993 8.89227 1.14106 8.85756C1.17878 8.79563 1.22651 8.73574 1.28226 8.68726C1.31488 8.65884 1.37081 8.64217 1.41709 8.64081C1.82721 8.62635 2.23824 8.62703 2.64745 8.60202C3.01931 8.57939 3.38953 8.53209 3.75993 8.49177C3.80676 8.48667 3.86415 8.46693 3.89294 8.43546C3.99005 8.32929 4.09936 8.33201 4.21998 8.38458C4.45774 8.48786 4.6915 8.59981 4.9329 8.69491C5.27944 8.83187 5.63363 8.95165 5.98053 9.08792C6.64754 9.34993 7.36339 9.42564 8.06083 9.57094C8.20804 9.60156 8.36018 9.61194 8.51067 9.62725C8.57899 9.63423 8.62764 9.66179 8.64476 9.72253C8.66863 9.80675 8.70106 9.89301 8.70124 9.97841C8.70216 10.2891 8.79981 10.5707 8.96233 10.8376C9.01881 10.93 9.07402 11.0246 9.11301 11.1239C9.19991 11.3446 9.15947 11.5501 8.9995 11.7325C8.68703 12.0889 8.321 12.3945 7.94987 12.695C7.83564 12.7875 7.72104 12.8802 7.615 12.9806C7.57838 13.0153 7.55105 13.0723 7.54722 13.1212C7.52609 13.4005 7.4953 13.6777 7.4042 13.9465C7.33879 14.1396 7.42752 14.3082 7.51115 14.4758C7.58257 14.6189 7.65636 14.7608 7.73907 14.9222C7.74873 14.9408 7.76859 14.9436 7.78371 14.9283C7.87699 14.8336 7.96427 14.7511 8.0417 14.6609C8.19984 14.477 8.3026 14.2645 8.36819 14.0387C8.38805 13.9703 8.37238 13.8886 8.35562 13.8163C8.33485 13.7255 8.28784 13.6396 8.26926 13.5485C8.26288 13.5171 8.30042 13.4533 8.33139 13.4439C8.45692 13.4061 8.50229 13.3071 8.57407 13.2209C8.71181 13.0555 8.8705 12.9054 9.02519 12.7528C9.19062 12.5893 9.38776 12.4677 9.60275 12.3637C9.83213 12.2528 10.0522 12.124 10.2692 11.9925C10.3231 11.96 10.3592 11.9016 10.4029 11.8455C10.4161 11.8285 10.4443 11.8218 10.4642 11.8314C10.6356 11.9108 10.7648 12.0491 10.8532 12.2382C11.0282 12.6119 10.9574 12.965 10.7739 13.3083C10.6074 13.62 10.4243 13.924 10.247 14.2308C10.1384 14.4186 9.96659 14.5481 9.78385 14.6682C9.73265 14.7019 9.67945 14.7407 9.64538 14.7887C9.40998 15.122 9.22305 15.4794 9.04869 15.843C9.00241 15.9395 9.01043 15.9682 9.12521 15.9822C9.26751 15.9999 9.41345 16.0033 9.55702 15.9973C9.80316 15.9871 10.0362 15.9308 10.2299 15.777C10.3765 15.6606 10.4609 15.5175 10.4439 15.3321C10.4428 15.3225 10.4438 15.313 10.4414 15.3038C10.4024 15.1344 10.4481 15.0199 10.6458 14.9642C10.7954 14.922 10.8763 14.7931 10.9422 14.6684C11.1332 14.3084 11.3112 13.9424 11.5076 13.5851C11.661 13.3059 11.831 13.0347 11.9992 12.7632C12.1103 12.5839 12.2276 12.4076 12.3493 12.2346C12.4672 12.0663 12.4364 11.9157 12.3264 11.7548C12.1799 11.5409 12.05 11.3174 11.9122 11.0984C11.79 10.9043 11.8457 10.7069 11.9753 10.5608C12.3047 10.189 12.4568 9.73614 12.6837 9.31761C12.7013 9.28511 12.7123 9.24887 12.7309 9.21485C12.7409 9.1963 12.7494 9.19919 12.7465 9.21978C12.7429 9.24309 12.74 9.26606 12.7411 9.28902C12.7545 9.58149 12.7737 9.87395 12.7831 10.1666C12.7873 10.3046 12.7575 10.4448 12.7735 10.5809C12.7975 10.7857 12.8476 10.988 12.8872 11.1911C12.8963 11.2372 12.9061 11.2832 12.924 11.3283C12.9318 11.3478 12.9378 11.346 12.9356 11.3254C12.9327 11.2999 12.9302 11.274 12.9274 11.2483C12.9251 11.2277 12.9278 11.2274 12.9329 11.2475C13.0185 11.577 13.0967 11.9079 13.2906 12.2017C13.302 12.2194 13.3062 12.2176 13.2991 12.198C13.2958 12.1895 13.2927 12.1806 13.2893 12.1718C13.282 12.1521 13.2876 12.1492 13.3017 12.1653C13.4117 12.2921 13.5181 12.4151 13.6371 12.5521C13.6511 12.5684 13.6662 12.5648 13.6708 12.5444C13.6735 12.5321 13.6755 12.5216 13.6779 12.5111C13.6821 12.4906 13.7023 12.4811 13.7225 12.4896C13.7748 12.5112 13.8249 12.5303 13.8705 12.557C13.9215 12.5871 13.9701 12.6245 14.0199 12.6645C14.0368 12.6781 14.0505 12.6774 14.0505 12.663C14.0505 12.6485 14.0576 12.638 14.066 12.6405C14.0727 12.6427 14.0751 12.6444 14.0796 12.648C14.3263 12.835 14.5402 13.0473 14.7109 13.3022C14.8228 13.4699 14.9693 13.6249 15.1298 13.7537C15.1899 13.802 15.24 13.8585 15.3067 13.9036C15.3249 13.9159 15.3313 13.9099 15.32 13.8919C15.3038 13.8662 15.2876 13.8402 15.2712 13.8145C15.2599 13.7966 15.2537 13.7799 15.2574 13.7769C15.2608 13.7741 15.2756 13.7847 15.2901 13.8003C15.3333 13.847 15.3774 13.8949 15.4275 13.9485C15.4421 13.9645 15.4505 13.9604 15.4463 13.94C15.4457 13.9387 15.4456 13.9375 15.4454 13.9363C15.4412 13.9159 15.4523 13.9092 15.4705 13.9213C15.5771 13.9928 15.6795 14.0615 15.7892 14.135C15.8072 14.1469 15.8232 14.1399 15.8245 14.1192C15.8274 14.08 15.8296 14.0486 15.8316 14.0198C15.8331 13.9992 15.8413 13.9812 15.8495 13.9802C15.8577 13.9792 15.8757 13.9911 15.8898 14.0074C15.893 14.0111 15.8963 14.0151 15.8996 14.0188C15.9134 14.0353 15.9271 14.0475 15.93 14.0467C15.9331 14.0458 15.9282 14.0295 15.9196 14.0103C15.9049 13.9773 15.8903 13.9444 15.8755 13.9114C15.867 13.8922 15.8633 13.8749 15.8675 13.8728C15.8717 13.8706 15.8859 13.8825 15.8992 13.8992C15.9222 13.9281 15.9451 13.9569 15.9683 13.9856C15.9816 14.0023 15.9951 14.0147 15.9983 14.0132C16.0018 14.0115 15.9996 13.9943 15.994 13.9742C15.9741 13.9097 15.9553 13.8454 15.9349 13.7753Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Sanal</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/live_casino/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                           <g clip-path="url(#clip0_21_15007)">
+                              <path d="M19.2061 4.91008L12.2742 1.82577C11.6453 1.54769 10.9154 1.81517 10.5958 2.42439V14.9633C10.5958 15.944 9.82056 16.7421 8.86799 16.7421H5.86389C5.90306 16.7654 5.94429 16.7867 5.98759 16.8058L12.9175 19.8901C13.6065 20.1893 14.3682 19.8542 14.6494 19.1833L19.8927 6.69321C20.1793 6.00538 19.8721 5.20724 19.2061 4.91008ZM12.3546 3.74894L12.4948 4.93554L11.5587 5.6424L11.4185 4.4558L12.3546 3.74894ZM12.8391 17.9669L12.6969 16.7824L13.6329 16.0756L13.7731 17.26L12.8391 17.9669ZM11.3752 13.766L10.9402 10.1234L13.8185 7.94976L14.2494 11.5945L11.3752 13.766Z" fill="currentColor"></path>
+                              <path d="M8.86797 0H1.31544C0.589687 0 0 0.607094 0 1.35427V14.963C0 15.7102 0.589687 16.3173 1.31544 16.3173H8.86801C9.59376 16.3173 10.1834 15.7102 10.1834 14.963V1.35427C10.1834 0.607094 9.59376 0 8.86797 0ZM2.13047 3.57788C2.13047 3.57788 1.27473 3.10711 1.27473 2.42346C1.27473 2.16126 1.48197 1.94712 1.73741 1.94712C1.90414 1.94712 2.04943 2.03767 2.13047 2.17309C2.21154 2.03767 2.35759 1.94712 2.52281 1.94712C2.779 1.94712 2.98549 2.16126 2.98549 2.42346C2.98545 3.10711 2.13047 3.57788 2.13047 3.57788ZM5.0927 10.2044C5.0927 10.2044 2.94545 9.02319 2.94545 7.30777C2.94545 6.64991 3.46547 6.11253 4.10637 6.11253C4.52468 6.11253 4.88927 6.33973 5.09266 6.67951C5.29605 6.33973 5.66258 6.11253 6.07707 6.11253C6.71992 6.11253 7.238 6.64987 7.238 7.30777C7.23804 9.02314 5.0927 10.2044 5.0927 10.2044ZM8.05382 14.3698C8.05382 14.3698 7.19807 13.899 7.19807 13.2154C7.19807 12.9532 7.40532 12.739 7.66076 12.739C7.82749 12.739 7.97278 12.8296 8.05382 12.965C8.13489 12.8296 8.28094 12.739 8.44616 12.739C8.70235 12.739 8.90884 12.9532 8.90884 13.2154C8.9088 13.899 8.05382 14.3698 8.05382 14.3698Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Canlı Casino</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/casino/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <g clip-path="url(#clip0_21_15036)">
+                              <path d="M10.3207 5.67917C7.78198 3.14047 5.43066 1.2883 2.36572 4.35336C-0.439947 7.15903 -0.57337 13.3466 1.03991 14.9599C2.65319 16.5732 8.84082 16.4398 11.6465 13.6341C14.7115 10.5691 12.8594 8.21787 10.3207 5.67917ZM3.3601 13.3027L2.69714 12.6397L4.02295 11.3139L4.68591 11.9768L3.3601 13.3027ZM3.3601 10.651L2.69714 9.98813L4.02295 8.6622L4.68591 9.32517L3.3601 10.651ZM3.3601 7.99936L2.69714 7.3364L4.02295 6.01059L4.68591 6.67355L3.3601 7.99936ZM6.01172 13.3027L5.34887 12.6397L6.67468 11.3139L7.33764 11.9768L6.01172 13.3027ZM6.01172 10.651L5.34887 9.98813L6.67468 8.6622L7.33764 9.32517L6.01172 10.651ZM6.01172 7.99936L5.34887 7.3364L6.67468 6.01059L7.33764 6.67355L6.01172 7.99936ZM8.66345 13.3027L8.00049 12.6397L9.32629 11.3139L9.98926 11.9768L8.66345 13.3027ZM8.66345 10.651L8.00049 9.98813L9.32629 8.6622L9.98926 9.32517L8.66345 10.651Z" fill="currentColor"></path>
+                              <path d="M11.1291 4.19007C11.3102 3.29614 11.057 2.0177 10.3652 1.32581L9.03939 0C8.41476 0.624512 8.1141 1.84705 8.20089 2.66358C9.2944 3.32886 10.2346 4.26734 10.9835 5.01636C11.7325 5.76538 12.6711 6.70545 13.3364 7.79908C14.1529 7.88587 15.3574 7.56714 15.982 6.94263L14.6562 5.61682C13.9643 4.92493 12.6858 4.67176 11.792 4.85291L11.8047 4.84021C12.9253 3.71973 14.4153 3.10242 16 3.10242V2.16504C14.1647 2.16504 12.4394 2.87964 11.1417 4.17737L11.1291 4.19007Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Slot Casino</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/poker/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                           <g clip-path="url(#clip0_21_15007)">
+                              <path d="M19.2061 4.91008L12.2742 1.82577C11.6453 1.54769 10.9154 1.81517 10.5958 2.42439V14.9633C10.5958 15.944 9.82056 16.7421 8.86799 16.7421H5.86389C5.90306 16.7654 5.94429 16.7867 5.98759 16.8058L12.9175 19.8901C13.6065 20.1893 14.3682 19.8542 14.6494 19.1833L19.8927 6.69321C20.1793 6.00538 19.8721 5.20724 19.2061 4.91008ZM12.3546 3.74894L12.4948 4.93554L11.5587 5.6424L11.4185 4.4558L12.3546 3.74894ZM12.8391 17.9669L12.6969 16.7824L13.6329 16.0756L13.7731 17.26L12.8391 17.9669ZM11.3752 13.766L10.9402 10.1234L13.8185 7.94976L14.2494 11.5945L11.3752 13.766Z" fill="currentColor"></path>
+                              <path d="M8.86797 0H1.31544C0.589687 0 0 0.607094 0 1.35427V14.963C0 15.7102 0.589687 16.3173 1.31544 16.3173H8.86801C9.59376 16.3173 10.1834 15.7102 10.1834 14.963V1.35427C10.1834 0.607094 9.59376 0 8.86797 0ZM2.13047 3.57788C2.13047 3.57788 1.27473 3.10711 1.27473 2.42346C1.27473 2.16126 1.48197 1.94712 1.73741 1.94712C1.90414 1.94712 2.04943 2.03767 2.13047 2.17309C2.21154 2.03767 2.35759 1.94712 2.52281 1.94712C2.779 1.94712 2.98549 2.16126 2.98549 2.42346C2.98545 3.10711 2.13047 3.57788 2.13047 3.57788ZM5.0927 10.2044C5.0927 10.2044 2.94545 9.02319 2.94545 7.30777C2.94545 6.64991 3.46547 6.11253 4.10637 6.11253C4.52468 6.11253 4.88927 6.33973 5.09266 6.67951C5.29605 6.33973 5.66258 6.11253 6.07707 6.11253C6.71992 6.11253 7.238 6.64987 7.238 7.30777C7.23804 9.02314 5.0927 10.2044 5.0927 10.2044ZM8.05382 14.3698C8.05382 14.3698 7.19807 13.899 7.19807 13.2154C7.19807 12.9532 7.40532 12.739 7.66076 12.739C7.82749 12.739 7.97278 12.8296 8.05382 12.965C8.13489 12.8296 8.28094 12.739 8.44616 12.739C8.70235 12.739 8.90884 12.9532 8.90884 13.2154C8.9088 13.899 8.05382 14.3698 8.05382 14.3698Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Poker Lobi</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/other_games/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <g clip-path="url(#clip0_21_14991)">
+                              <path d="M3.33333 0H0.666667C0.298667 0 0 0.298667 0 0.666667V3.33333C0 3.70133 0.298667 4 0.666667 4H3.33333C3.70133 4 4 3.70133 4 3.33333V0.666667C4 0.298667 3.70133 0 3.33333 0Z" fill="currentColor"></path>
+                              <path d="M3.33333 6H0.666667C0.298667 6 0 6.29867 0 6.66667V9.33333C0 9.70133 0.298667 10 0.666667 10H3.33333C3.70133 10 4 9.70133 4 9.33333V6.66667C4 6.29867 3.70133 6 3.33333 6Z" fill="currentColor"></path>
+                              <path d="M3.33333 12H0.666667C0.298667 12 0 12.2987 0 12.6667V15.3333C0 15.7013 0.298667 16 0.666667 16H3.33333C3.70133 16 4 15.7013 4 15.3333V12.6667C4 12.2987 3.70133 12 3.33333 12Z" fill="currentColor"></path>
+                              <path d="M9.33333 0H6.66667C6.29867 0 6 0.298667 6 0.666667V3.33333C6 3.70133 6.29867 4 6.66667 4H9.33333C9.70133 4 10 3.70133 10 3.33333V0.666667C10 0.298667 9.70133 0 9.33333 0Z" fill="currentColor"></path>
+                              <path d="M9.33333 6H6.66667C6.29867 6 6 6.29867 6 6.66667V9.33333C6 9.70133 6.29867 10 6.66667 10H9.33333C9.70133 10 10 9.70133 10 9.33333V6.66667C10 6.29867 9.70133 6 9.33333 6Z" fill="currentColor"></path>
+                              <path d="M9.33333 12H6.66667C6.29867 12 6 12.2987 6 12.6667V15.3333C6 15.7013 6.29867 16 6.66667 16H9.33333C9.70133 16 10 15.7013 10 15.3333V12.6667C10 12.2987 9.70133 12 9.33333 12Z" fill="currentColor"></path>
+                              <path d="M15.3333 0H12.6667C12.2987 0 12 0.298667 12 0.666667V3.33333C12 3.70133 12.2987 4 12.6667 4H15.3333C15.7013 4 16 3.70133 16 3.33333V0.666667C16 0.298667 15.7013 0 15.3333 0Z" fill="currentColor"></path>
+                              <path d="M15.3333 6H12.6667C12.2987 6 12 6.29867 12 6.66667V9.33333C12 9.70133 12.2987 10 12.6667 10H15.3333C15.7013 10 16 9.70133 16 9.33333V6.66667C16 6.29867 15.7013 6 15.3333 6Z" fill="currentColor"></path>
+                              <path d="M15.3333 12H12.6667C12.2987 12 12 12.2987 12 12.6667V15.3333C12 15.7013 12.2987 16 12.6667 16H15.3333C15.7013 16 16 15.7013 16 15.3333V12.6667C16 12.2987 15.7013 12 15.3333 12Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Diğer Oyunlar</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/game/aviator/play/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                           <g clip-path="url(#clip0_1_646)">
+                              <path d="M19.414 9.41902H19.3452V7.28787C19.3452 6.96425 19.0828 6.7019 18.7592 6.7019C18.4356 6.7019 18.1733 6.96425 18.1733 7.28787V9.41902H17.3959V8.67647C17.3959 8.17329 16.9866 7.76396 16.4834 7.76396H15.9014V12.246H16.4835C16.9867 12.246 17.396 11.8367 17.396 11.3335V10.5909H18.1733V12.7221C18.1733 13.0457 18.4357 13.308 18.7593 13.308C19.0829 13.308 19.3452 13.0457 19.3452 12.7221V10.5909H19.4141C19.7377 10.5909 20 10.3286 20 10.005C20 9.68141 19.7376 9.41902 19.414 9.41902Z" fill="currentColor"></path>
+                              <path d="M13.2444 0H11.0054C10.2622 0 9.65747 0.604675 9.65747 1.34793V2.78263H14.5923V1.34793C14.5923 0.604675 13.9876 0 13.2444 0Z" fill="currentColor"></path>
+                              <path d="M14.5922 3.95435H9.65741V16.0553H14.5922V3.95435Z" fill="currentColor"></path>
+                              <path d="M9.65753 17.2273V18.6556C9.65753 19.3988 10.2622 20.0035 11.0055 20.0035H13.2444C13.9877 20.0035 14.5924 19.3988 14.5924 18.6556V17.2273H9.65753Z" fill="currentColor"></path>
+                              <path d="M4.49599 7.76382L3.93694 6.58033C3.81997 6.33264 3.56743 6.17261 3.29347 6.17261H0.712127C0.466967 6.17261 0.24228 6.29622 0.111007 6.50333C-0.0201878 6.71043 -0.036089 6.96642 0.0686166 7.18817L1.36892 9.94103L0.0686557 12.6939C-0.036089 12.9156 -0.0201878 13.1716 0.111046 13.3787C0.24228 13.5858 0.466967 13.7094 0.712166 13.7094H3.29355C3.56754 13.7094 3.82013 13.5494 3.93702 13.3017L4.4357 12.2459H8.4246V7.76382H4.49599Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Aviator</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/zeppelin/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                           <g>
+                              <path d="M0.196659 3.60831C1.12668 2.56744 2.43939 1.63759 4.09793 0.842114C3.26598 0.390622 2.13417 0 0.705883 0C0.316047 0 0 0.315429 0 0.704501V3.83728C0.0635765 3.76034 0.129035 3.68398 0.196659 3.60831Z" fill="currentColor"></path>
+                              <path d="M0.196706 11.3266C0.129082 11.2509 0.0635765 11.1745 0 11.0977V14.2304C0 14.6195 0.316047 14.935 0.705882 14.935C2.13421 14.935 3.26664 14.5446 4.09925 14.0934C2.44019 13.2979 1.12701 12.3677 0.196706 11.3266Z" fill="currentColor"></path>
+                              <path d="M2.48081 8.95291C3.62848 9.23058 5.22279 9.53112 7.09126 9.82194C10.799 10.399 14.6753 10.8021 16.5177 10.8021C19.2295 10.8021 20.8652 10.6247 21.987 10.2089C23.3166 9.71622 23.9935 8.80422 23.9998 7.49845C23.9998 7.4907 24 7.48309 24 7.47534C23.9984 6.10992 23.3393 5.20445 21.9849 4.70726C20.8879 4.30462 19.2529 4.13281 16.5177 4.13281C14.6634 4.13281 10.6994 4.53748 7.09206 5.09497C5.21521 5.38504 3.61949 5.6876 2.47742 5.96992C1.81916 6.13266 1.32302 6.28459 0.960715 6.43446C0.698786 6.54282 0.00438532 6.83016 0.000244141 7.47464C0.000291199 7.49342 0.00142061 7.51212 0.00175002 7.5309C0.0364324 8.13644 0.688433 8.3941 0.971256 8.50579C1.32664 8.64613 1.83455 8.79656 2.48081 8.95291Z" fill="currentColor"></path>
+                              <path d="M2.13792 4.60251C3.32023 4.31023 4.95863 3.99912 6.87595 3.70281C10.5456 3.13569 14.6005 2.72407 16.5176 2.72407C19.4678 2.72407 21.1929 2.9156 22.4722 3.38517C22.7531 3.48827 23.0147 3.60751 23.2573 3.7417C22.8517 2.91306 22.2784 2.23069 21.5324 1.68587C19.9575 0.535703 17.6463 0 14.2588 0C11.0958 0 7.57594 0.765558 4.84291 2.04784C3.05609 2.8862 1.72955 3.87518 0.920654 4.94799C1.26244 4.83368 1.66498 4.71941 2.13792 4.60251Z" fill="currentColor"></path>
+                              <path d="M22.4784 11.5307C21.1729 12.0145 19.4459 12.2119 16.5177 12.2119C14.611 12.2119 10.6453 11.802 6.87376 11.2149C4.9674 10.9182 3.33338 10.6098 2.14825 10.3231C1.66712 10.2066 1.26001 10.0941 0.916626 9.98242C1.7251 11.0574 3.0531 12.0484 4.84303 12.8882C6.14449 13.4988 7.62453 13.9919 9.15936 14.3413L9.89126 16.5329H6.7979C6.49126 16.5329 6.21969 16.7305 6.12585 17.0219L4.17503 23.0806C4.10604 23.2949 4.14378 23.5292 4.27667 23.7111C4.40957 23.893 4.62152 24.0006 4.84707 24.0006H19.153C19.3785 24.0006 19.5905 23.893 19.7234 23.7111C19.8562 23.5292 19.894 23.2949 19.825 23.0806L17.8742 17.0219C17.7803 16.7305 17.5088 16.5329 17.2021 16.5329H14.1088L14.643 14.9334C17.8218 14.8938 20.0179 14.3562 21.5324 13.2502C22.2869 12.6992 22.8646 12.0075 23.271 11.1661C23.0263 11.3035 22.7621 11.4255 22.4784 11.5307ZM8.9883 20.9476C8.59846 20.9476 8.28242 20.6322 8.28242 20.2431C8.28242 19.854 8.59846 19.5386 8.9883 19.5386C9.37813 19.5386 9.69418 19.854 9.69418 20.2431C9.69418 20.6322 9.37813 20.9476 8.9883 20.9476ZM15.0118 19.5386C15.4017 19.5386 15.7177 19.854 15.7177 20.2431C15.7177 20.6322 15.4017 20.9476 15.0118 20.9476C14.622 20.9476 14.3059 20.6322 14.3059 20.2431C14.3059 19.854 14.6219 19.5386 15.0118 19.5386ZM12.0001 20.9476C11.6102 20.9476 11.2942 20.6322 11.2942 20.2431C11.2942 19.854 11.6102 19.5386 12.0001 19.5386C12.3899 19.5386 12.7059 19.854 12.7059 20.2431C12.7059 20.6322 12.3899 20.9476 12.0001 20.9476ZM11.3794 16.5329L10.75 14.6483C11.5571 14.7766 12.3674 14.8637 13.164 14.906L12.6207 16.5329H11.3794Z" fill="currentColor"></path>
+                           </g>
+                        </svg>
+                        <span>Zeppelin</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/game/live_spaceman/play/">
+                        <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M19.1574 5.943C18.8995 5.78013 18.596 5.68706 18.2728 5.68706H18.0544C17.7324 4.6646 17.2007 3.73004 16.5061 2.92474C14.5864 2.29653 12.3805 1.93848 10.0352 1.93848C7.68984 1.93848 5.45555 2.30041 3.52723 2.93638C2.83758 3.7378 2.30954 4.66977 1.98877 5.68706H1.72722C1.40275 5.68706 1.09925 5.78142 0.84017 5.94429C0.336808 6.25969 0 6.83749 0 7.49673V9.56491C0 10.5641 0.773549 11.3746 1.72722 11.3746H2.41441C3.63704 13.8784 6.17975 15.679 9.19006 15.9608C9.46394 15.9866 9.74153 15.9996 10.0216 15.9996C10.3016 15.9996 10.5891 15.9853 10.8679 15.9595C13.8708 15.6725 16.4086 13.8745 17.6288 11.3746H18.2728C19.2277 11.3746 20 10.5641 20 9.56491V7.49673C20 6.8362 19.662 6.2584 19.1574 5.943ZM16.2926 11.4896C16.2926 12.0584 15.9015 12.5328 15.3871 12.6336C15.1761 12.6749 14.9725 12.7422 14.7739 12.8262L13.7215 13.2747C11.3478 14.2855 8.69286 14.2894 6.31546 13.2851L5.22485 12.8249C5.02868 12.7422 4.82759 12.6737 4.62032 12.6349C4.10215 12.5366 3.70859 12.061 3.70859 11.4896V5.02654C3.70859 4.44874 4.11079 3.96918 4.63883 3.87869C4.79304 3.85155 4.94726 3.82828 5.09901 3.78692L7.49985 3.12768C9.13947 2.67785 10.8618 2.67785 12.5014 3.12768L14.9022 3.78692C15.0527 3.82828 15.2082 3.85155 15.3624 3.87869C15.8892 3.96918 16.2926 4.44874 16.2926 5.02654V11.4896Z" fill="currentColor"></path>
+                           <path d="M15.7239 2.13282C14.0078 1.59509 12.0709 1.29262 10.0216 1.29262C7.97241 1.29262 6.03545 1.59509 4.31934 2.13282C4.36622 2.09145 4.4131 2.05009 4.46122 2.01002C4.46122 2.01002 4.46245 2.00873 4.46368 2.00743C4.51056 1.96865 4.55745 1.92988 4.60556 1.8911C4.65368 1.85103 4.70303 1.81225 4.75361 1.77476C4.79556 1.74115 4.83874 1.70884 4.88192 1.67652C4.99049 1.59638 5.10029 1.51882 5.21256 1.44514C5.26437 1.41024 5.31742 1.37534 5.37047 1.34174C5.47781 1.27323 5.58638 1.2073 5.69741 1.14397C5.74553 1.11553 5.79364 1.08838 5.84176 1.06253C5.93799 1.00953 6.03545 0.957828 6.13415 0.910002C6.1687 0.891905 6.20201 0.875101 6.23655 0.85959C6.38583 0.787203 6.53635 0.718694 6.68933 0.656649C6.73128 0.638552 6.77446 0.621748 6.81764 0.604944C6.88796 0.576507 6.95828 0.549362 7.02984 0.52351C7.07179 0.509291 7.11373 0.493779 7.15568 0.479561C7.3136 0.423978 7.47275 0.373566 7.6356 0.328324C7.63807 0.327032 7.64054 0.325739 7.64424 0.325739C7.74911 0.296009 7.85521 0.267572 7.96254 0.243012C8.06247 0.218452 8.16241 0.196478 8.2648 0.175796C8.33143 0.161577 8.39928 0.148651 8.46714 0.137017C8.57817 0.117628 8.68921 0.0995314 8.80148 0.08402C8.87673 0.0736791 8.95323 0.0633382 9.02972 0.0555825C9.08894 0.0491194 9.14692 0.0426563 9.20614 0.0374859C9.26413 0.0323154 9.32211 0.0271449 9.38133 0.0232671C9.46276 0.016804 9.54542 0.0129262 9.62808 0.00904831C9.691 0.00646308 9.75268 0.00387785 9.8156 0.00258523C9.88469 0.00129262 9.95255 0 10.0216 0C10.0907 0 10.1586 0.00129262 10.2277 0.00258523C10.2906 0.00258523 10.3523 0.00646308 10.4152 0.00904831C10.4979 0.0129262 10.5805 0.016804 10.6619 0.0232671C10.7212 0.0271449 10.7791 0.0323154 10.8371 0.0374859C10.8964 0.0426563 10.9543 0.0491194 11.0136 0.0555825C11.09 0.0633382 11.1665 0.0736791 11.2418 0.08402C11.3541 0.0995314 11.4651 0.117628 11.5761 0.137017C11.644 0.148651 11.7118 0.161577 11.7785 0.175796C11.8796 0.196478 11.9808 0.218452 12.0807 0.243012C12.1881 0.268864 12.2942 0.296009 12.399 0.325739C12.4027 0.325739 12.4052 0.325739 12.4077 0.328324C12.5705 0.373566 12.7297 0.423978 12.8876 0.479561C12.9369 0.496365 12.9863 0.514461 13.0344 0.531265C13.0418 0.53385 13.0492 0.536436 13.0566 0.540313C13.1047 0.55841 13.1528 0.576507 13.1997 0.594603C13.2515 0.615285 13.3034 0.635967 13.3539 0.656649C13.5069 0.718694 13.6574 0.787203 13.8067 0.85959C13.8499 0.880271 13.8931 0.900953 13.9363 0.922928C13.9905 0.950073 14.0448 0.97851 14.0991 1.00824C14.1423 1.03021 14.1855 1.05348 14.2274 1.07675C14.2805 1.10519 14.3335 1.13621 14.3853 1.16723C14.4335 1.19438 14.4803 1.22152 14.526 1.24996C14.5852 1.28486 14.6432 1.32235 14.7012 1.36112C14.7456 1.38698 14.7888 1.41541 14.8307 1.44514C14.8665 1.46841 14.901 1.49168 14.9356 1.51624C14.9751 1.54338 15.0145 1.57053 15.0528 1.59767C15.0886 1.62353 15.1256 1.65067 15.1614 1.67652C15.2045 1.70884 15.2477 1.74115 15.2897 1.77476C15.3402 1.81225 15.3896 1.85103 15.4377 1.8911C15.4858 1.92988 15.5327 1.96865 15.5796 2.00743L15.5821 2.01002C15.6302 2.05009 15.6771 2.09145 15.7239 2.13282Z" fill="currentColor"></path>
+                           <path d="M7.62073 6.42969H6.8805C6.47167 6.42969 6.14026 6.77692 6.14026 7.20526V9.53197C6.14026 9.9603 6.47167 10.3075 6.8805 10.3075H7.62073C8.02956 10.3075 8.36097 9.9603 8.36097 9.53197V7.20526C8.36097 6.77692 8.02956 6.42969 7.62073 6.42969Z" fill="currentColor"></path>
+                           <path d="M13.0492 6.42969H12.309C11.9001 6.42969 11.5687 6.77692 11.5687 7.20526V9.53197C11.5687 9.9603 11.9001 10.3075 12.309 10.3075H13.0492C13.458 10.3075 13.7894 9.9603 13.7894 9.53197V7.20526C13.7894 6.77692 13.458 6.42969 13.0492 6.42969Z" fill="currentColor"></path>
+                        </svg>
+                        <span>Spaceman</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/account/bonuses/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                           <path d="M13.816 2.912H11.504C11.592 2.68 11.64 2.432 11.64 2.184C11.632 0.976 10.656 0 9.456 0C8.92 0 8.4 0.2 8 0.568C7.6 0.2 7.08 0 6.544 0C5.344 0 4.368 0.976 4.36 2.184C4.36 2.432 4.408 2.68 4.496 2.912H2.184C0.976 2.912 0 3.888 0 5.088V6.544C0 6.944 0.328 7.272 0.728 7.272V13.816C0.728 15.024 1.704 16 2.912 16H13.088C14.296 16 15.272 15.024 15.272 13.816V7.272C15.672 7.272 16 6.944 16 6.544V5.088C16 3.888 15.024 2.912 13.816 2.912ZM8.728 2.184C8.728 1.784 9.056 1.456 9.456 1.456C9.856 1.456 10.184 1.784 10.184 2.184C10.184 2.584 9.856 2.912 9.456 2.912H8.728V2.184ZM6.544 1.456C6.944 1.456 7.272 1.784 7.272 2.184V2.912H6.544C6.144 2.912 5.816 2.584 5.816 2.184C5.816 1.784 6.144 1.456 6.544 1.456ZM10.4 10.4H8.8V12C8.8 12.44 8.44 12.8 8 12.8C7.56 12.8 7.2 12.44 7.2 12V10.4H5.6C5.16 10.4 4.8 10.04 4.8 9.6C4.8 9.16 5.16 8.8 5.6 8.8H7.2V7.2C7.2 6.76 7.56 6.4 8 6.4C8.44 6.4 8.8 6.76 8.8 7.2V8.8H10.4C10.84 8.8 11.2 9.16 11.2 9.6C11.2 10.04 10.84 10.4 10.4 10.4Z" fill="currentColor"></path>
+                        </svg>
+                        <span>Bonus Talep Et</span>
+                     </a>
+                  </li>
+                  <li class="header-nav-menu-item_0e1c2">
+                     <a class="nav-menu-link_fe598" href="/tr/promo/">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+                           <path d="M0.726562 13.3643C0.728289 13.9425 0.958713 14.4964 1.36751 14.9052C1.77631 15.314 2.33026 15.5444 2.90838 15.5462H7.27202V8.27344H0.726562V13.3643Z" fill="currentColor"></path>
+                           <path d="M8.27344 15.5462H12.6371C13.2152 15.5444 13.7691 15.314 14.1779 14.9052C14.5867 14.4964 14.8172 13.9425 14.8189 13.3643V8.27344H8.27344V15.5462Z" fill="currentColor"></path>
+                           <path d="M13.8182 2.90909H11.5055C11.5935 2.6768 11.6379 2.43024 11.6364 2.18182C11.6346 1.6037 11.4042 1.04974 10.9954 0.640947C10.5866 0.23215 10.0327 0.00172661 9.45454 0C8.91598 0.00140456 8.39731 0.203685 8 0.567273C7.60269 0.203685 7.08402 0.00140456 6.54545 0C5.96733 0.00172661 5.41338 0.23215 5.00458 0.640947C4.59579 1.04974 4.36536 1.6037 4.36364 2.18182C4.36209 2.43024 4.40647 2.6768 4.49454 2.90909H2.18182C1.60369 2.91082 1.04974 3.14124 0.640947 3.55004C0.23215 3.95883 0.00172661 4.51279 0 5.09091V6.54545C0 6.73834 0.0766231 6.92332 0.213013 7.05971C0.349403 7.1961 0.534388 7.27273 0.727273 7.27273H7.27273V2.90909H6.54545C6.40161 2.90909 6.261 2.86644 6.1414 2.78652C6.0218 2.70661 5.92859 2.59303 5.87354 2.46013C5.8185 2.32724 5.80409 2.18101 5.83216 2.03993C5.86022 1.89886 5.92948 1.76927 6.03119 1.66756C6.13291 1.56585 6.26249 1.49658 6.40357 1.46852C6.54465 1.44046 6.69088 1.45486 6.82377 1.50991C6.95666 1.56495 7.07024 1.65817 7.15016 1.77777C7.23007 1.89737 7.27273 2.03798 7.27273 2.18182V2.90909H8.72727V2.18182C8.72727 2.03798 8.76993 1.89737 8.84984 1.77777C8.92975 1.65817 9.04334 1.56495 9.17623 1.50991C9.30912 1.45486 9.45535 1.44046 9.59643 1.46852C9.7375 1.49658 9.86709 1.56585 9.9688 1.66756C10.0705 1.76927 10.1398 1.89886 10.1678 2.03993C10.1959 2.18101 10.1815 2.32724 10.1265 2.46013C10.0714 2.59303 9.9782 2.70661 9.8586 2.78652C9.739 2.86644 9.59838 2.90909 9.45454 2.90909H8.72727V7.27273H15.2727C15.4656 7.27273 15.6506 7.1961 15.787 7.05971C15.9234 6.92332 16 6.73834 16 6.54545V5.09091C15.9983 4.51279 15.7678 3.95883 15.3591 3.55004C14.9503 3.14124 14.3963 2.91082 13.8182 2.90909Z" fill="currentColor"></path>
+                        </svg>
+                        <span>Promosyonlar</span>
+                     </a>
+                  </li>
+               </ul>
             </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="buildlose" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">Bet Builder history</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('buildwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('buildlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content BetBuilder-history" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonusloyalty" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscode')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="loyaltyPointsWrapper">
-        <div class="loyaltyPointsCurrentPlanBlock-bc">
-          <img src="https://cmsbetconstruct.com/content/images/loyalty_points/bronze.png" class="loyaltyPointsCurrentPlanMedal-bc" alt="">
-          <div class="loyaltyPoints-title-block">
-            <h3 class="loyaltyPointsCurrentPlanTitle-bc ellipsis">Bronze</h3>
-            <span class="loyaltyPointsCurrentPlanLabel-bc" style="color: rgb(163, 144, 111);">Mevcut planınız</span>
-          </div>
-        </div>
-        <div class="loyaltyPointsCurrentPlanProgressBlockInner-bc">
-          <div class="loyaltyPointsCurrentPlanProgressBar-bc">
-            <span class="progress-bar loyalProgressBarStick-bc" style="width: 0%;"></span>
-            <div class="loyalProgressBarNumPar-bc" style="background: rgb(163, 144, 111);">
-              <span>0</span>
-            </div>
-          </div>
-          <div class="loyalty-points-progress-numbers">
-            <span>0</span>
-            <span>1000001</span>
-          </div>
-        </div>
-        <div class="loyalty-status-block">
-          <ul class="loyalty-status">
-            <li class="loyalty-status-row">
-              <div class="loyalty-status-main-info">
-                <span class="loyalty-status-title ellipsis">Sonraki durum güncellemesi</span>
-                <i class="loyalty-status-info-icon bc-i-player-info"></i>
-              </div>
-              <div class="loyalty-status-point">Bronze</div>
-            </li>
-            <li class="loyalty-status-row">
-              <div class="loyalty-status-period ellipsis">0 gün içinde</div>
-              <div class="loyalty-status-point-small"></div>
-            </li>
-          </ul>
-          <ul class="loyalty-status">
-            <li class="loyalty-status-row">
-              <div class="loyalty-status-main-info">
-                <span class="loyalty-status-title ellipsis">Toplam puanlar</span>
-                <i class="loyalty-status-info-icon bc-i-player-info"></i>
-              </div>
-              <div class="loyalty-status-point">0</div>
-            </li>
-            <li class="loyalty-status-row">
-              <div class="loyalty-status-period ellipsis">Minimum Paket</div>
-              <div class="loyalty-status-point-small">0+</div>
-            </li>
-          </ul>
-          <ul class="loyalty-status">
-            <li class="loyalty-status-row">
-              <div class="loyalty-status-main-info">
-                <span class="loyalty-status-title ellipsis">Her zaman</span>
-                <i class="loyalty-status-info-icon bc-i-player-info"></i>
-              </div>
-              <div class="loyalty-status-point">0</div>
-            </li>
-          </ul>
-          <ul class="loyalty-status">
-            <li class="loyalty-status-row">
-              <div class="loyalty-status-main-info">
-                <span class="loyalty-status-title ellipsis">Değiştirilebilir</span>
-                <i class="loyalty-status-info-icon bc-i-player-info"></i>
-              </div>
-              <div class="loyalty-status-point">0</div>
-            </li>
-          </ul>
-        </div>
-        <div class="loyaltyButtons-bc">
-          <a class="btn a-color s-small ellipsis" href="/?profile=open&amp;account=bonuses&amp;page=exchange-shop">
-            <span>Döviz Büfesi</span>
-          </a>
-          <button class="btn a-outline s-small ellipsis " type="button" title="Para dönüştürme">
-            <span>Para dönüştürme</span>
-          </button>
-        </div>
-        <div class="loyaltyMedalSlider-bc" data-scroll-lock-scrollable="">
-          <div class="loyaltyMedalSliderElBody-bc">
-            <img src="https://cmsbetconstruct.com/content/images/loyalty_points/bronze.png" class="loyaltySliderImage-bc" alt="">
-            <div class="loyaltyPoints-title-block">
-              <h3 class="loyaltySliderTitle-bc ellipsis">Bronze</h3>
-              <span class="loyaltyNum-bc ellipsis" style="color: rgb(163, 144, 111);">0+/Ay</span>
-            </div>
-          </div>
-          <div class="loyaltyMedalSliderElBody-bc">
-            <img src="https://cmsbetconstruct.com/content/images/loyalty_points/silver.png" class="loyaltySliderImage-bc" alt="">
-            <div class="loyaltyPoints-title-block">
-              <h3 class="loyaltySliderTitle-bc ellipsis">Silver</h3>
-              <span class="loyaltyNum-bc ellipsis" style="color: rgb(194, 197, 205);">20001+/Ay</span>
-            </div>
-          </div>
-          <div class="loyaltyMedalSliderElBody-bc">
-            <img src="https://cmsbetconstruct.com/content/images/loyalty_points/gold.png" class="loyaltySliderImage-bc" alt="">
-            <div class="loyaltyPoints-title-block">
-              <h3 class="loyaltySliderTitle-bc ellipsis">Gold</h3>
-              <span class="loyaltyNum-bc ellipsis" style="color: rgb(185, 149, 82);">100001+/Ay</span>
-            </div>
-          </div>
-          <div class="loyaltyMedalSliderElBody-bc">
-            <img src="https://cmsbetconstruct.com/content/images/loyalty_points/platin.png" class="loyaltySliderImage-bc" alt="">
-            <div class="loyaltyPoints-title-block">
-              <h3 class="loyaltySliderTitle-bc ellipsis">Platin</h3>
-              <span class="loyaltyNum-bc ellipsis" style="color: rgb(211, 208, 207);">500001+/Ay</span>
-            </div>
-          </div>
-          <div class="loyaltyMedalSliderElBody-bc">
-            <img src="https://cmsbetconstruct.com/content/images/21c27a01f258bdd8ea550f0a678cda42_158_loyalty_point.png" class="loyaltySliderImage-bc" alt="">
-            <div class="loyaltyPoints-title-block">
-              <h3 class="loyaltySliderTitle-bc ellipsis">HİGH GRAND PLAYER</h3>
-              <span class="loyaltyNum-bc ellipsis" style="color: rgb(0, 0, 0);">1000001+/Ay</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonussport" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscode')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="sportBonusWrapper-bc casinoBonus_ProgressBar" data-scroll-lock-scrollable="">
-        <p class="empty-b-text-v-bc">Seçilen tür için bonus yok</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonushistory" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscode')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="product" step="0">
-                        <option value="Sport">SPOR</option>
-                        <option value="Casino">SLOT</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">KATEGORİ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">Seçilen zaman aralığı için veri yok</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonusfreespin" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="sportBonusWrapper-bc" data-scroll-lock-scrollable="">
-        <div class="second-tabs-bc">
-          <div class="tab-bc selected-underline  active" title="">New free spins</div>
-          <div class="tab-bc selected-underline " title="">AKTİF</div>
-        </div>
-        <p class="empty-b-text-v-bc">Seçilen tür için bonus yok</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonuscasino" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscode')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="sportBonusWrapper-bc casinoBonus_ProgressBar" data-scroll-lock-scrollable="">
-        <p class="empty-b-text-v-bc">Seçilen tür için bonus yok</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonusrequest" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <iframe height="100%" class="iframe-widget " title="https://grandbtakip.com/bonus" src="https://grandbtakip.com/bonus"></iframe>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="bonuscode" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BONUSLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusloyalty')">Sadakat Puanları <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonussport')">SPOR BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonushistory')">BONUS GEÇMİŞİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusfreespin')">CASİNO FREESPİNLERİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonuscasino')">CASİNO BONUSU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('bonusrequest')">BONUS TALEBİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('bonuscode')"PROMOSYON KODU <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="promoCodeWrapper-bc ">
-        <form>
-          <div class="u-i-p-control-item-holder-bc">
-            <div class="form-control-bc default ">
-              <label class="form-control-label-bc inputs">
-                <input type="text" class="form-control-input-bc" name="promoCode" step="0" value="">
-                <i class="form-control-input-stroke-bc"></i>
-                <span class="form-control-title-bc ellipsis">PROMOSYON KODU</span>
-              </label>
-            </div>
-          </div>
-          <div class="u-i-p-c-footer-bc">
-            <button class="btn a-color big-btn " type="submit" title="UYGULA " disabled="">
-              <span>UYGULA </span>
-            </button>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="profilemain" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">PROFİLİM</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('profilemain')">KİŞİSEL DETAYLAR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilepassword')">ŞİFRE DEĞİŞTİR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilfreeze')">Hesabı Dondur <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profileauth')">HESABI DOĞRULA <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilegoogle')">Authentication <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content user-profile" data-scroll-lock-scrollable="">
-        <form>
-          <div class="u-i-p-control-item-holder-bc">
-            <div class="eligible-bonus">
-              <i class="bc-i-player-info"></i>
-              <span class="eligible-bonus-title">BONUS İÇİN UYGUN: </span>
-              <b class="eligible-bonus-status green">Evet</b>
-            </div>
-          </div>
-          <div class="userProfile-content" data-scroll-lock-scrollable="">
-            <div class="userProfileWrapper-bc userProfileSection-0">
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="id" readonly="" step="0" value="1441944021">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">KİMLİK</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="username" readonly="" step="0" value="****">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Kullanıcı adı</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="first_name" readonly="" step="0" value="****">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Adı</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default ">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="middle_name" step="0" value="">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Orta isim</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="last_name" readonly="" step="0" value="****">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Soyadı</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="birth_date" readonly="" step="0" value="****-**-**">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Doğum tarihi</span>
-                  </label>
-                </div>
-                <i class="dropdownIcon-bc bc-i-datepicker disabled"></i>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc select has-icon focused valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="gender" readonly="" step="0" value="****">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Cinsiyet</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc dropdownArrowParent-bc">
-                <div class="form-control-bc select select-flag filled">
-                  <label class="form-control-label-bc inputs">
-                    <i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i>
-                    <select class="form-control-select-bc ellipsis">
-                      <option value="AF">Afganistan</option>
-                      <option value="AX">Aland Adaları</option>
-                      <option value="AL">Arnavutluk</option>
-                      <option value="DZ">Cezayir</option>
-                      <option value="AS">Amerikan Samoası</option>
-                      <option value="AD">Andora</option>
-                      <option value="AO">Angola</option>
-                      <option value="AI">Anguilla</option>
-                      <option value="AQ">Antarktika</option>
-                      <option value="AG">Antigua ve Barbuda</option>
-                      <option value="AR">Arjantin</option>
-                      <option value="AM">Ermenistan</option>
-                      <option value="AW">Aruba</option>
-                      <option value="AU">Avustralya</option>
-                      <option value="AZ">Azerbaycan</option>
-                      <option value="BS">Bahamalar</option>
-                      <option value="BH">Bahreyn</option>
-                      <option value="BD">Bangladeş</option>
-                      <option value="BB">Barbados</option>
-                      <option value="BY">Belarus</option>
-                      <option value="BE">Belçika</option>
-                      <option value="BZ">Belize</option>
-                      <option value="BJ">Benin</option>
-                      <option value="BM">Bermuda</option>
-                      <option value="BT">Bhutan</option>
-                      <option value="BO">Bolivya</option>
-                      <option value="BQ">Bonaire</option>
-                      <option value="BA">Bosna Hersek</option>
-                      <option value="BW">Botsvana</option>
-                      <option value="BV">Bouvet Adası</option>
-                      <option value="BR">Brezilya</option>
-                      <option value="IO">İngiliz Hint Okyanusu Bölgesi</option>
-                      <option value="BN">Brunei Darüsselam</option>
-                      <option value="BG">Bulgaristan</option>
-                      <option value="BF">Burkina Faso</option>
-                      <option value="BI">Burundi</option>
-                      <option value="CV">Cabo Verde</option>
-                      <option value="KH">Kamboçya</option>
-                      <option value="CM">Kamerun</option>
-                      <option value="CA">Kanada</option>
-                      <option value="KY">Cayman Adaları</option>
-                      <option value="CF">Orta Afrika Cumhuriyeti</option>
-                      <option value="TD">Çad</option>
-                      <option value="CL">Şili</option>
-                      <option value="CN">Çin</option>
-                      <option value="CX">Christmas Adası</option>
-                      <option value="CC">Cocos (Keeling) Adaları</option>
-                      <option value="CO">Kolombiya</option>
-                      <option value="KM">Komoros</option>
-                      <option value="CG">Kongo</option>
-                      <option value="CD">Kongo Demokratik Cumhuriyeti (Zaire)</option>
-                      <option value="CK">Cook Adaları</option>
-                      <option value="CR">Kosta Rika</option>
-                      <option value="CI">Fildişi Sahili</option>
-                      <option value="HR">Hırvatistan</option>
-                      <option value="CU">Küba</option>
-                      <option value="CW">Curaçao</option>
-                      <option value="CY">Kıbrıs</option>
-                      <option value="CZ">Çekya</option>
-                      <option value="DK">Danimarka</option>
-                      <option value="DJ">Cibuti</option>
-                      <option value="DM">Dominika</option>
-                      <option value="DO">Dominik Cumhuriyeti</option>
-                      <option value="EC">Ekvador</option>
-                      <option value="EG">Mısır</option>
-                      <option value="SV">El Salvador</option>
-                      <option value="GQ">Ekvator Ginesi</option>
-                      <option value="ER">Eritrea</option>
-                      <option value="EE">Estonya</option>
-                      <option value="ET">Etiyopya</option>
-                      <option value="FK">Falkland Adaları</option>
-                      <option value="FO">Faroe Adaları</option>
-                      <option value="FJ">Fiji</option>
-                      <option value="FI">Finlandiya</option>
-                      <option value="FR">Fransa</option>
-                      <option value="GF">Fransız Guyanası</option>
-                      <option value="PF">Fransız Polinezyası</option>
-                      <option value="TF">Fransız Güney Toprakları</option>
-                      <option value="GA">Gabon</option>
-                      <option value="GM">Gambiya</option>
-                      <option value="GE">Gürcistan</option>
-                      <option value="DE">Almanya</option>
-                      <option value="GE-AB">Abhazya</option>
-                      <option value="GH">Gana</option>
-                      <option value="GI">Cebelitarık</option>
-                      <option value="GR">Yunanistan</option>
-                      <option value="GL">Grönland</option>
-                      <option value="GD">Grenada</option>
-                      <option value="GP">Guadelup</option>
-                      <option value="GU">Guam</option>
-                      <option value="GT">Guatemala</option>
-                      <option value="GG">Guernsey</option>
-                      <option value="GN">Gine</option>
-                      <option value="GW">Gine-Bissau</option>
-                      <option value="GY">Guyana</option>
-                      <option value="HT">Haiti</option>
-                      <option value="HM">Heard Adası ve McDonald Adaları</option>
-                      <option value="VA">Vatikan</option>
-                      <option value="HN">Honduras</option>
-                      <option value="HK">Honk Kong</option>
-                      <option value="HU">Macaristan</option>
-                      <option value="IS">İzlanda</option>
-                      <option value="IN">Hindistan</option>
-                      <option value="ID">Endonezya</option>
-                      <option value="IR">İran</option>
-                      <option value="IQ">Irak</option>
-                      <option value="IE">İrlanda</option>
-                      <option value="IM">Man Adası</option>
-                      <option value="IL">İsrail</option>
-                      <option value="IT">İtalya</option>
-                      <option value="JM">Jamaika</option>
-                      <option value="JP">Japonya</option>
-                      <option value="JE">Jersey</option>
-                      <option value="JO">Ürdün</option>
-                      <option value="KZ">Kazakistan</option>
-                      <option value="KE">Kenya</option>
-                      <option value="KI">Kiribati</option>
-                      <option value="KP">Kuzey Kore</option>
-                      <option value="KW">Kuveyt</option>
-                      <option value="KG">Kırgızistan</option>
-                      <option value="LA">Laos</option>
-                      <option value="LV">Letonya</option>
-                      <option value="LB">Lübnan</option>
-                      <option value="LS">Lesoto</option>
-                      <option value="LR">Liberya</option>
-                      <option value="LY">Libya</option>
-                      <option value="LI">Lihtenştayn</option>
-                      <option value="LT">Litvanya</option>
-                      <option value="LU">Lüksemburg</option>
-                      <option value="MO">Makao</option>
-                      <option value="MG">Madagaskar</option>
-                      <option value="MW">Malavi</option>
-                      <option value="MY">Malezya</option>
-                      <option value="MV">Maldivler</option>
-                      <option value="ML">Mali</option>
-                      <option value="MT">Malta</option>
-                      <option value="MH">Marshall Adaları</option>
-                      <option value="MQ">Martinik</option>
-                      <option value="MR">Moritanya</option>
-                      <option value="MU">Morityus</option>
-                      <option value="YT">Mayotte</option>
-                      <option value="MX">Meksika</option>
-                      <option value="FM">Mikronezya Federe Devletleri</option>
-                      <option value="MD">Moldova</option>
-                      <option value="MC">Monako</option>
-                      <option value="MN">Moğolistan</option>
-                      <option value="ME">Karadağ</option>
-                      <option value="MS">Montserrat</option>
-                      <option value="MA">Fas</option>
-                      <option value="MZ">Mozambik</option>
-                      <option value="MM">Myanmar</option>
-                      <option value="NA">Namibya</option>
-                      <option value="NR">Nauru</option>
-                      <option value="NP">Nepal</option>
-                      <option value="NL">Hollanda</option>
-                      <option value="NC">Yeni Kaledonya</option>
-                      <option value="NZ">Yeni Zelanda</option>
-                      <option value="NI">Nikaragua</option>
-                      <option value="NE">Nijer</option>
-                      <option value="NG">Nijerya</option>
-                      <option value="NU">Niue</option>
-                      <option value="NF">Norfolk Adası</option>
-                      <option value="MP">Kuzey Mariana Adaları</option>
-                      <option value="MK">Makedonya</option>
-                      <option value="NO">Norveç</option>
-                      <option value="OM">Umman</option>
-                      <option value="PK">Pakistan</option>
-                      <option value="PW">Palau</option>
-                      <option value="PS">Filistin Devleti</option>
-                      <option value="PA">Panama</option>
-                      <option value="PG">Papua Yeni Gine</option>
-                      <option value="PY">Paraguay</option>
-                      <option value="PE">Peru</option>
-                      <option value="PH">Filipinler</option>
-                      <option value="PN">Pitcairn</option>
-                      <option value="PL">Polonya</option>
-                      <option value="PT">Portekiz</option>
-                      <option value="PR">Porto Riko</option>
-                      <option value="QA">Katar</option>
-                      <option value="RE">Réunion</option>
-                      <option value="RO">Romanya</option>
-                      <option value="RU">Rusya</option>
-                      <option value="RW">Ruanda</option>
-                      <option value="BL">Saint Barthelemy</option>
-                      <option value="SH">Saint Helena</option>
-                      <option value="KN">Saint Kitts ve Nevis</option>
-                      <option value="LC">Saint Lucia</option>
-                      <option value="MF">Saint Martin (Fransa)</option>
-                      <option value="PM">Saint Pierre ve Miquelon</option>
-                      <option value="VC">Saint Vincent ve Grenadinler</option>
-                      <option value="WS">Samoa</option>
-                      <option value="SM">San Marino</option>
-                      <option value="ST">Sao Tome ve Principe</option>
-                      <option value="SA">Suudi Arabistan</option>
-                      <option value="SN">Senegal</option>
-                      <option value="RS">Sırbistan</option>
-                      <option value="SC">Seyşeller</option>
-                      <option value="SL">Sierra Leone</option>
-                      <option value="SG">Singapur</option>
-                      <option value="SX">Sint Maarten (Hollanda)</option>
-                      <option value="SI">Slovenya</option>
-                      <option value="SB">Solomon Adaları</option>
-                      <option value="SO">Somali</option>
-                      <option value="ZA">Güney Afrika</option>
-                      <option value="GS">Güney Georgia ve Güney Sandwich Adaları</option>
-                      <option value="SS">Güney Sudan</option>
-                      <option value="KR">Güney Kore</option>
-                      <option value="ES">İspanya</option>
-                      <option value="LK">Sri Lanka</option>
-                      <option value="SD">Sudan</option>
-                      <option value="SR">Surinam</option>
-                      <option value="SJ">Svalbard ve Jan Mayen</option>
-                      <option value="SZ">Svaziland</option>
-                      <option value="SE">İsveç</option>
-                      <option value="CH">İsviçre</option>
-                      <option value="SY">Suriye</option>
-                      <option value="TW">Tayvan</option>
-                      <option value="TJ">Tacikistan</option>
-                      <option value="TZ">Tanzanya</option>
-                      <option value="TH">Tayland</option>
-                      <option value="TL">Doğu Timor</option>
-                      <option value="TG">Togo</option>
-                      <option value="TK">Tokelau</option>
-                      <option value="TO">Tonga</option>
-                      <option value="TT">Trinidad ve Tobago</option>
-                      <option value="TN">Tunus</option>
-                      <option selected value="TR">Türkiye</option>
-                      <option value="TM">Türkmenistan</option>
-                      <option value="TC">Turks ve Caicos Adaları</option>
-                      <option value="XC">Turkish Republic of Northern Cyprus</option>
-                      <option value="TV">Tuvalu</option>
-                      <option value="UG">Uganda</option>
-                      <option value="UA">Ukrayna</option>
-                      <option value="AE">Birleşik Arap Emirlikleri</option>
-                      <option value="GB">Birleşik Krallık</option>
-                      <option value="US">Amerika Birleşik Devletleri</option>
-                      <option value="UY">Uruguay</option>
-                      <option value="UZ">Özbekistan</option>
-                      <option value="VU">Vanuatu</option>
-                      <option value="VE">Venezuela</option>
-                      <option value="VN">Vietnam</option>
-                      <option value="VG">Britanya Virjin Adaları</option>
-                      <option value="VI">ABD Virgin Adaları</option>
-                      <option value="WF">Wallis ve Futuna</option>
-                      <option value="EH">Batı Sahra</option>
-                      <option value="YE">Yemen</option>
-                      <option value="ZM">Zambiya</option>
-                      <option value="ZW">Zimbabve</option>
-                    </select>
-                    <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                    <span class="form-control-title-bc ellipsis">Ülke</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="city" step="0" value="*****">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Şehir</span>
-                  </label>
-                </div>
-              </div>
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default valid filled">
-                  <label class="form-control-label-bc inputs">
-                    <input type="text" class="form-control-input-bc" name="address" step="0" value="*****">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Adres</span>
-                  </label>
-                </div>
-              </div>
-            </div>
-            <div class="userProfileWrapper-bc userProfileSection-1">
-              <div class="u-i-p-control-item-holder-bc">
-                <div class="form-control-bc default has-icon ">
-                  <label class="form-control-label-bc inputs">
-                    <input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value="">
-                    <i class="form-control-input-stroke-bc"></i>
-                    <span class="form-control-title-bc ellipsis">Geçerli Şifre</span>
-                  </label>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="u-i-p-c-footer-bc">
-            <button class="btn a-color right-aligned " type="submit" title="DEĞİŞİKLİKLERİ KAYDET" disabled="">
-              <span>DEĞİŞİKLİKLERİ KAYDET</span>
-            </button>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="profilepassword" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">PROFİLİM</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilemain')">KİŞİSEL DETAYLAR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('profilepassword')">ŞİFRE DEĞİŞTİR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilfreeze')">Hesabı Dondur <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profileauth')">HESABI DOĞRULA <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilegoogle')">Authentication <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-edit-change-password-page-bc">
-        <div class="u-i-e-ch-p-content-bc u-i-common-content">
-          <form>
-            <div class="u-i-p-control-item-holder-bc">
-              <div class="form-control-bc default has-icon ">
-                <label class="form-control-label-bc inputs">
-                  <input type="password" class="form-control-input-bc" autocomplete="current-password" name="password" step="0" value="">
-                  <i class="form-control-input-stroke-bc"></i>
-                  <span class="form-control-title-bc ellipsis">Geçerli Şifre</span>
-                </label>
-              </div>
-            </div>
-            <div class="u-i-p-control-item-holder-bc">
-              <div class="form-control-bc default has-icon ">
-                <label class="form-control-label-bc inputs">
-                  <input type="password" class="form-control-input-bc" autocomplete="current-password" name="new_password" step="0" value="">
-                  <i class="form-control-input-stroke-bc"></i>
-                  <span class="form-control-title-bc ellipsis">Yeni Şifre</span>
-                </label>
-              </div>
-            </div>
-            <div class="u-i-p-control-item-holder-bc">
-              <div class="form-control-bc default has-icon ">
-                <label class="form-control-label-bc inputs">
-                  <input type="password" class="form-control-input-bc" autocomplete="current-password" name="new_password_confirm" step="0" value="">
-                  <i class="form-control-input-stroke-bc"></i>
-                  <span class="form-control-title-bc ellipsis">Yeni şifreyi onayla</span>
-                </label>
-              </div>
-            </div>
-            <div class="u-i-p-c-footer-bc">
-              <button class="btn a-color right-aligned " type="submit" title="ŞİFRE DEĞİŞTİR" disabled="">
-                <span>ŞİFRE DEĞİŞTİR</span>
-              </button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="profilefreeze" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">PROFİLİM</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilemain')">KİŞİSEL DETAYLAR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilepassword')">ŞİFRE DEĞİŞTİR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('profilfreeze')">Hesabı Dondur <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profileauth')">HESABI DOĞRULA <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilegoogle')">Authentication <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-edit-timeout-limits-page-bc">
-        <div class="u-i-e-to-l-content-bc u-i-common-content">
-          <div class="u-i-p-info-text-holder-bc">
-            <p class="u-i-p-info-text-bc">Bu web sitesindeki oyun etkinliğinizi kısa bir süre için durdurmak istiyor musunuz? Mola özelliğini kullanabilirsiniz. Mola özelliği sayesinde, özel oyun hesabınıza para yükleyemez veya bu web sitesinde bulunan oyun tekliflerinden herhangi birini kullanamazsınız, ancak özel oyun hesabınızdan para çekebilirsiniz.</p>
-          </div>
-          <form>
-            <div class="timeoutRadios-bc">
-              <div class="radio-v-bc undefined">
-                <div class="radio-control-bc ">
-                  <label class="radio-control-content-bc">
-                    <input type="radio" class="radio-control-input-bc" name="minutes" step="0" value="1440">
-                    <span class="radio-control-input-holder-bc"></span>
-                    <p class="radio-control-text-bc">24 saat</p>
-                  </label>
-                </div>
-                <div class="radio-control-bc ">
-                  <label class="radio-control-content-bc">
-                    <input type="radio" class="radio-control-input-bc" name="minutes" step="0" value="10080">
-                    <span class="radio-control-input-holder-bc"></span>
-                    <p class="radio-control-text-bc">Bir hafta</p>
-                  </label>
-                </div>
-                <div class="radio-control-bc ">
-                  <label class="radio-control-content-bc">
-                    <input type="radio" class="radio-control-input-bc" name="minutes" step="0" value="43200">
-                    <span class="radio-control-input-holder-bc"></span>
-                    <p class="radio-control-text-bc">Bir ay</p>
-                  </label>
-                </div>
-                <div class="radio-control-bc ">
-                  <label class="radio-control-content-bc">
-                    <input type="radio" class="radio-control-input-bc" name="minutes" step="0" value="86400">
-                    <span class="radio-control-input-holder-bc"></span>
-                    <p class="radio-control-text-bc">İki ay</p>
-                  </label>
-                </div>
-              </div>
-            </div>
-            <div class="u-i-p-c-footer-bc">
-              <button class="btn a-color " type="submit" title="DEĞİŞİKLİKLERİ KAYDET" disabled="">
-                <span>DEĞİŞİKLİKLERİ KAYDET</span>
-              </button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="profileauth" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">PROFİLİM</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilemain')">KİŞİSEL DETAYLAR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilepassword')">ŞİFRE DEĞİŞTİR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilfreeze')">Hesabı Dondur <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('profileauth')">HESABI DOĞRULA <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilegoogle')">Authentication <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-edit-verify-account-page-bc" data-scroll-lock-scrollable="">
-        <form enctype="multipart/form-data" novalidate="">
-          <div class="u-i-p-info-text-holder-bc">
-            <div class="u-i-p-info-text-bc">
-              <p>Sayın kullanıcı, hesabınızı doğrulamak için bir kişisel kimlik belgesi yüklemeniz gerekiyor. Yükleme yaparken aşağıdaki kriterlere uygun olduğundan emin olun: <br> • Dosya JPG, PNG, GIF veya PDF biçimindedir ve 3 MB'ı aşmaz. <br> • Belgenin geçerlilik süresi. <br> • Resim siyah beyaz değil, gerçek renklerde olmalıdır. <br> • Resim orijinal belgeden alınmış olmalıdır, herhangi bir dijital fotoğraf montajına izin verilmez. <br> • Belge resmi, kişisel veriler, imza, mühür ve diğer bilgiler açıkça okunabilir olmalıdır. <br> • Gerekirse şirket sizden başka belgeler de sunmanızı isteyebilir. <br>
-              </p>
-            </div>
-          </div>
-          <div class="verify-form">
-            <div class="u-i-p-control-item-holder-bc">
-              <div class="form-control-bc select has-icon valid filled">
-                <label class="form-control-label-bc inputs">
-                  <select class="form-control-select-bc active" name="selectedImageType" step="0">
-                    <option value="1">Banka Fişi</option>
-                    <option value="2">Belge</option>
-                    <option value="3">Pasaport / Kimlik Kartı</option>
-                    <option value="4">Driver's License</option>
-                    <option value="5">IBAN</option>
-                    <option value="6">Sosyal Kart Kimliği</option>
-                    <option value="7">Diğer</option>
-                    <option value="15">Selfie</option>
-                  </select>
-                  <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                  <i class="form-control-input-stroke-bc"></i>
-                  <span class="form-control-title-bc ellipsis">Lütfen kimlik türünüzü seçin</span>
-                </label>
-              </div>
-            </div>
-            <div class="u-i-p-control-item-holder-bc">
-              <div class="form-control-bc has-icon file filled">
-                <label class="form-control-label-bc form-control-label-file-bc inputs">
-                  <input type="file" class="form-control-input-bc" name="passportImage" step="0" multiple="" value="">
-                  <span class="form-control-icon-holder-bc">
-                    <i class="form-control-icon-bc bc-i-upload"></i>
-                  </span>
-                  <span class="form-control-filename-bc ellipsis">Dosya Seçin</span>
-                  <span class="form-control-title-bc ellipsis">Dosya ekle</span>
-                </label>
-              </div>
-            </div>
-            <div class="u-i-p-c-footer-bc-verify">
-              <button class="btn a-color big-btn " type="submit" title="Doğrula" disabled="">
-                <span>Doğrula</span>
-              </button>
-            </div>
-          </div>
-        </form>
-        <span class="u-i-e-v-a-t-title-bc">Yüklenen belgeler</span>
-        <div class="u-i-p-info-light-text-holder-bc">
-          <p class="u-i-p-info-light-text-bc">Yüklenmiş belge yok.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="profilegoogle" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">PROFİLİM</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilemain')">KİŞİSEL DETAYLAR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilepassword')">ŞİFRE DEĞİŞTİR <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profilfreeze')">Hesabı Dondur <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('profileauth')">HESABI DOĞRULA <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('profilegoogle')">Authentication <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="authentication-section">
-        <p class="authentication-description">İki faktörlü kimlik doğrulama kapatıldı</p>
-        <div class="authentication-content">
-          <img src="assetsassets/static/media/authentication.0663f736.png" alt="authentication" class="authentication-image">
-          <i class="ui-kit-toggle "></i>
-        </div>
-        <div class="toggle-wrapper  ">İKİ FAKTÖRLÜ DOĞRULAMAYI ETKİNLEŞTİR</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betopen" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betall" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betcash" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betwin" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betlose" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betrefund" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betwinrefund" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="betloserefund" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">BAHİS GEÇMİŞİ</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betopen')">AÇIK BAHİSLER <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betall')">TÜMÜ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betcash')">NAKTE ÇEVRİLDİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwin')">KAZANÇ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betlose')">KAYIP <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betrefund')">İade edildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('betwinrefund')">Kazanan İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('betloserefund')">Kaybeden İade <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content" data-scroll-lock-scrollable="">
-        <div class="componentFilterWrapper-bc">
-          <div class="componentFilterLabel-bc ">
-            <i class="componentFilterLabel-filter-i-bc bc-i-filter"></i>
-            <div class="componentFilterLabel-filter-bc">
-              <p class="ellipsis">FİLTRE</p>
-              <p class="componentFilterLabel-filter-description ellipsis">TÜMÜ, 24 saat</p>
-            </div>
-            <i class="componentFilterChevron-bc bc-i-small-arrow-down"></i>
-          </div>
-          <div class="componentFilterBody-bc">
-            <div class="componentFilterElsWrapper-bc">
-              <form class="filter-form-w-bc">
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="bet_type" step="0">
-                        <option value="">TÜMÜ</option>
-                        <option value="1">Tekli</option>
-                        <option value="2">Kombine</option>
-                        <option value="3">Sistem</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">BAHİS TÜRÜ</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-control-item-holder-bc">
-                  <div class="form-control-bc select has-icon valid filled">
-                    <label class="form-control-label-bc inputs">
-                      <select class="form-control-select-bc active" name="period" step="0">
-                        <option value="1">1 saat</option>
-                        <option value="2">2 saat</option>
-                        <option value="3">3 saat</option>
-                        <option value="6">6 saat</option>
-                        <option value="12">12 saat</option>
-                        <option value="24">24 saat</option>
-                        <option value="48">48 saat</option>
-                        <option value="72">72 saat</option>
-                        <option value="">Özel</option>
-                      </select>
-                      <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-                      <i class="form-control-input-stroke-bc"></i>
-                      <span class="form-control-title-bc ellipsis">PERİYOT</span>
-                    </label>
-                  </div>
-                </div>
-                <div class="u-i-p-c-footer-bc">
-                  <button class="btn a-color " type="submit" title="Göster">
-                    <span>Göster</span>
-                  </button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">GÖSTERİLECEK BAHİS YOK</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="messageinbox" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">MESAJLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('messageinbox')">Gelen kutusu <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('messagesend')">Gönderildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('messagenew')">YENİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="messageBoxWrapper-bc">
-        <p class="empty-b-text-v-bc">Hiç mesajınız yok</p>
-        <a class="btn a-color" href="javascript:;" onclick="openmodal('messagenew')">YENİ MESAJ</a>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="messagesend" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">MESAJLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('messageinbox')">Gelen kutusu <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('messagesend')">Gönderildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('messagenew')">YENİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="messageBoxWrapper-bc">
-        <p class="empty-b-text-v-bc">Hiç mesajınız yok</p>
-        <a class="btn a-color" href="javascript:;" onclick="openmodal('messagenew')">YENİ MESAJ</a>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc user-profile-container modal hidden" id="messagenew" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="u-i-p-c-body-bc">
-      <div class="back-nav-bc">
-        <i class="back-nav-icon-bc bc-i-round-arrow-left" onclick="backModal()"></i>
-        <span class="back-nav-title-bc ellipsis">MESAJLAR</span>
-      </div>
-      <div class="hdr-navigation-scrollable-bc">
-        <div class="hdr-navigation-scrollable-content" data-scroll-lock-scrollable="">
-        <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('messageinbox')">Gelen kutusu <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc " href="javascript:;" onclick="openmodal('messagesend')">Gönderildi <i class="  count-blink-even " data-badge=""></i>
-          </a>
-          <a class="hdr-navigation-link-bc active" href="javascript:;" onclick="openmodal('messagenew')">YENİ <i class="  count-blink-even " data-badge=""></i>
-          </a>
-        </div>
-      </div>
-      <div class="u-i-e-p-p-content-bc u-i-common-content message-content" data-scroll-lock-scrollable="">
-        <form novalidate="">
-          <div class="u-i-p-control-item-holder-bc">
-            <div class="form-control-bc default ">
-              <label class="form-control-label-bc inputs">
-                <input type="text" class="form-control-input-bc" name="subject" step="0" value="">
-                <i class="form-control-input-stroke-bc"></i>
-                <span class="form-control-title-bc ellipsis">Konu</span>
-              </label>
-            </div>
-          </div>
-          <div class="u-i-p-control-item-holder-bc">
-            <div class="form-control-bc default ">
-              <label class="form-control-label-bc textareas">
-                <div class="form-control-textarea-bc">
-                  <textarea placeholder="lütfen mesajınızı girin" class="form-control-textarea" name="body" maxlength="4000" step="0"></textarea>
-                </div>
-                <i class="form-control-input-stroke-bc"></i>
-                <span class="form-control-title-bc ellipsis">MESAJ</span>
-              </label>
-            </div>
-          </div>
-          <div class="u-i-p-c-footer-bc">
-            <button class="btn a-color " type="submit" title="Gönder" disabled="">
-              <span>Gönder</span>
-            </button>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc modal hidden" id="notifications" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="back-nav-bc" onclick="backModal('favourites')">
-      <i class="back-nav-icon-bc bc-i-round-arrow-left"></i>
-      <span class="back-nav-title-bc ellipsis">YENİLİKLER</span>
-    </div>
-    <div class="notification-new-container">
-      <div class="notification-new-header">
-        <time class="">03 Haziran 2023</time>
-        <span>Clear</span>
-      </div>
-      <div class="notification-new-item" data-status="unread">
-        <i class="notification-new-item-icon bc-i-notification"></i>
-        <span class="notification-new-item-info">Güncel Adresimiz</span>
-        <i class="bc-i-close-remove"></i>
-      </div>
-    </div>
-  </div>
-</div> 
-<div class="overlay-sliding-wrapper-bc modal hidden" id="favourites" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="back-nav-bc" onclick="backModal('favourites')">
-      <i class="back-nav-icon-bc bc-i-round-arrow-left"></i>
-      <span class="back-nav-title-bc ellipsis">FAVORİLER</span>
-    </div>
-    <div class="smart-panel-tabs-bc">
-      <div class="second-tabs-bc">
-        <div class="tab-bc selected-underline  active" title="">
-          <span>SPOR</span>
-          <span>(0)</span>
-        </div>
-        <div class="tab-bc selected-underline " title="">
-          <span>SLOT</span>
-          <span>(0)</span>
-        </div>
-      </div>
-      <div class="sp-fav-body-bc">
-        <div class="second-tabs-bc">
-          <div class="tab-bc selected-underline " title="">
-            <span>Yarışma</span>
-            <span>(0)</span>
-          </div>
-          <div class="tab-bc selected-underline  active" title="">
-            <span>Maç</span>
-            <span>(0)</span>
-          </div>
-        </div>
-        <p class="empty-b-text-v-bc">Favori oyunlarınız yok. Bazılarını eklemek için oyun adının yanındaki yıldız simgesine tıklayın.</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="overlay-sliding-wrapper-bc modal hidden" id="settings" style="transform: translateY(0px); opacity: 1;">
-  <div class="overlay-sliding-w-c-content-slider-bc" data-scroll-lock-scrollable="">
-    <div class="back-nav-bc" onclick="backModal('settings')">
-      <i class="back-nav-icon-bc bc-i-round-arrow-left"></i>
-      <span class="back-nav-title-bc ellipsis">Ayarlar</span>
-    </div>
-    <div class="settings-selectors-bc">
-      <div class="settings-selectors-item">
-        <div class="form-control-bc select  filled">
-          <label class="form-control-label-bc inputs">
-            <select class="form-control-select-bc ellipsis">
-              <option value="0">Ondalık</option>
-              <option value="1">Kesirli</option>
-              <option value="2">Amerikan</option>
-              <option value="3">HongKong</option>
-              <option value="4">Malay</option>
-              <option value="5">Indo</option>
-            </select>
-            <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-            <span class="form-control-title-bc ellipsis">Oran formatı</span>
-          </label>
-        </div>
-        <div class="form-control-bc select  filled">
-          <label class="form-control-label-bc inputs">
-            <i class="select-icon-bc ftr-lang-bar-flag-bc flag-bc turkey"></i>
-            <select class="form-control-select-bc ellipsis">
-              <option value="tur">Türkçe</option>
-              <option value="eng">English</option>
-              <option value="rus">Russian</option>
-              <option value="ukr">Українська</option>
-              <option value="heb">Hebrew</option>
-              <option value="chi">繁体中文</option>
-              <option value="arb">Arapça</option>
-            </select>
-            <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-            <span class="form-control-title-bc ellipsis">Dil</span>
-          </label>
-        </div>
-        <div class="form-control-bc select  filled">
-          <label class="form-control-label-bc inputs">
-            <select class="form-control-select-bc ellipsis">
-              <option value="12h">12 saat</option>
-              <option value="24h">24 saat</option>
-            </select>
-            <i class="form-control-icon-bc bc-i-small-arrow-down"></i>
-            <span class="form-control-title-bc ellipsis">SAAT FORMATI</span>
-          </label>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> 
          <script>
       function opensidebar() {
   var element = $("#smart-panel-holder");

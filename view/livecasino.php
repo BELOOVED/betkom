@@ -1,255 +1,1086 @@
-<div class="layout-content-holder-bc" onclick="yetersiz()">
-   <div class="live-casino-block">
-      <div class="hm-row-bc  has-slider" style="grid-template-columns: 12fr;">
-         <div class="slider-bc  ">
-            <div class="carousel">
-               <div class="carousel-viewport">
-                  <div class="carousel-container" style="transform: translate3d(0%, 0px, 0px);">
-                     <div class="carousel-slide active-slide" style="width: 100%; left: 0%;">
-                        <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18181/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_c1e098b8793bbd478be835a0fea3469f.webp" loading="lazy" class="sdr-image-bc" alt="" title="Sadakat"></a></div>
+<div class="main-content-wrapper_d1c25">
+   <div class="background-wrapper_fd3c4">
+      <img class="background-wrapper__image_f2967" src="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/web/turkish/betkom/img/casino/live_casino_bg.png" alt="">
+      <div class="background-wrapper__content_a5907 container_01a5e">
+         <div class="slots-info_5dd95">
+            <h2 class="slots-info__title_4c481">Canlı Casino</h2>
+            <span class="slots-info__description_c0c5a">Heyecanına Hoş geldiniz!</span>
+            <div class="slots-bonus-wrapper_8c58e">
+               <div class="slots-bonus-title_50e0f">Süper İkili</div>
+               <div class="slots-bonus-content_683cd">
+                  <div class="slots-bonus_6c926"><span class="slots-bonus__count_2c4f8">%25</span><span class="slots-bonus__title_a6a8e">Limitsiz</span><span class="slots-bonus__subtitle_d0c6c">Yatırım Bonusu</span></div>
+                  <div class="separator_3b3ec"></div>
+                  <div class="slots-bonus_6c926"><span class="slots-bonus__count_2c4f8">%50</span><span class="slots-bonus__title_a6a8e">Limitsiz</span><span class="slots-bonus__subtitle_d0c6c">Kayıp Bonusu</span></div>
+               </div>
+            </div>
+         </div>
+         <div class="slots-content_c84d1">
+            <div class="slots-content-header_890e8">
+               <div class="filters-wrapper_16d31">
+                  <div class="select_20f72">
+                     <div class="icon-wrap_6a312">
+                        <div class="select-icon_e6626 all_3e71f provider-icon_a846d all_3e71f"></div>
                      </div>
-                     <div class="carousel-slide " style="width: 100%;">
-                        <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18180/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_0fb8f10b30671d1cd41b502d4bef7354.webp" loading="lazy" class="sdr-image-bc" alt="" title="%100 HG Casino"></a></div>
-                     </div>
-                     <div class="carousel-slide " style="width: 100%;">
-                        <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18176/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_6eed267562102a947bad936ef253bff9.webp" loading="lazy" class="sdr-image-bc" alt="" title="%50 Poker Rakeback"></a></div>
-                     </div>
-                     <div class="carousel-slide " style="width: 100%;">
-                        <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/24986/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_ccc90a3c6bc87c922c68b199293c82ec.webp" loading="lazy" class="sdr-image-bc" alt="" title="%15 Casino Yatırım"></a></div>
-                     </div>
-                     <div class="carousel-slide " style="width: 100%;">
-                        <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/18178/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_8c8c6a9d7f73945780a6161cc8f6d540.webp" loading="lazy" class="sdr-image-bc" alt="" title="%30 Casino Kayıp"></a></div>
-                     </div>
-                     <div class="carousel-slide " style="width: 100%;">
-                        <div class="sdr-item-holder-bc"><a target="_self" class="sdr-item-bc" href="/tr/promotions/all/89785/"><img src="https://cmsbetconstruct.com/storage/medias/trendbet/content_839_3700825eea6c916f4bb6c9acadf9d16a.webp" loading="lazy" class="sdr-image-bc" alt="" title="%100 Risksiz"></a></div>
+                     <span>Tüm Sağlayıcılar</span>
+                     <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg" class="arrow-icon_093be">
+                        <g clip-path="url(#clip0_1_3827)">
+                           <path d="M8.62633 -1.50828e-06L5 3.41372L1.37367 -2.40181e-07L2.26099e-07 1.29314L5 6L10 1.29314L8.62633 -1.50828e-06Z" fill="#96A7B0"></path>
+                        </g>
+                        <defs>
+                           <clipPath id="clip0_1_3827">
+                              <rect width="10" height="6" fill="white"></rect>
+                           </clipPath>
+                        </defs>
+                     </svg>
+                  </div>
+                  <div class="dropdown-menu_86b21">
+                     <div class="dropdown-list_964ca">
+                        <button class="item_ec4e5 selected_4be12">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d all_3e71f"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Tümü</div>
+                           <span class="count_46e25">625</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d pragmatic_play_casino_9981b"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Pragmatic Play</div>
+                           <span class="count_46e25">171</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d evolution_oss_597a2"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Evolution</div>
+                           <span class="count_46e25">197</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d ezugi_0e056"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Ezugi</div>
+                           <span class="count_46e25">76</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d playtech_casino_81914"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Playtech Casino</div>
+                           <span class="count_46e25">36</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d lucky_streak_b11aa"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Lucky Streak</div>
+                           <span class="count_46e25">19</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d alg_net_e6504"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Absolute Gaming</div>
+                           <span class="count_46e25">12</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d vivo_casino_f9e6b"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Vivo</div>
+                           <span class="count_46e25">38</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d onetouch_casino_340e5"></div>
+                           </div>
+                           <div class="item-title_a1cf2">OneTouch Casino</div>
+                           <span class="count_46e25">53</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d x_pro_gaming_dd784"></div>
+                           </div>
+                           <div class="item-title_a1cf2">XPG Casino</div>
+                           <span class="count_46e25">15</span>
+                        </button>
+                        <button class="item_ec4e5">
+                           <div class="icon-wrap_6a312">
+                              <div class="item-icon_4554a provider-icon_a846d the_ear_liveg24_9b456"></div>
+                           </div>
+                           <div class="item-title_a1cf2">Liveg24</div>
+                           <span class="count_46e25">8</span>
+                        </button>
                      </div>
                   </div>
                </div>
-               <div class="carousel-count-arrow-container with-count">
-                  <i class="carousel-arrow-left bc-i-small-arrow-left "></i>
-                  <div class="carousel-count-arrow">1 / 6</div>
-                  <i class="carousel-arrow-right bc-i-small-arrow-right "></i>
+               <div class="tabs-wrapper_44234">
+                  <div class="menu_f7b67">
+                     <button class="tab_a39e9 selected_b220e">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M3.33333 0H0.666667C0.298667 0 0 0.298667 0 0.666667V3.33333C0 3.70133 0.298667 4 0.666667 4H3.33333C3.70133 4 4 3.70133 4 3.33333V0.666667C4 0.298667 3.70133 0 3.33333 0Z" fill="#D3E0FF"></path>
+                           <path d="M3.33333 6H0.666667C0.298667 6 0 6.29867 0 6.66667V9.33333C0 9.70133 0.298667 10 0.666667 10H3.33333C3.70133 10 4 9.70133 4 9.33333V6.66667C4 6.29867 3.70133 6 3.33333 6Z" fill="#D3E0FF"></path>
+                           <path d="M3.33333 12H0.666667C0.298667 12 0 12.2987 0 12.6667V15.3333C0 15.7013 0.298667 16 0.666667 16H3.33333C3.70133 16 4 15.7013 4 15.3333V12.6667C4 12.2987 3.70133 12 3.33333 12Z" fill="#D3E0FF"></path>
+                           <path d="M9.33333 0H6.66667C6.29867 0 6 0.298667 6 0.666667V3.33333C6 3.70133 6.29867 4 6.66667 4H9.33333C9.70133 4 10 3.70133 10 3.33333V0.666667C10 0.298667 9.70133 0 9.33333 0Z" fill="#D3E0FF"></path>
+                           <path d="M9.33333 6H6.66667C6.29867 6 6 6.29867 6 6.66667V9.33333C6 9.70133 6.29867 10 6.66667 10H9.33333C9.70133 10 10 9.70133 10 9.33333V6.66667C10 6.29867 9.70133 6 9.33333 6Z" fill="#D3E0FF"></path>
+                           <path d="M9.33333 12H6.66667C6.29867 12 6 12.2987 6 12.6667V15.3333C6 15.7013 6.29867 16 6.66667 16H9.33333C9.70133 16 10 15.7013 10 15.3333V12.6667C10 12.2987 9.70133 12 9.33333 12Z" fill="#D3E0FF"></path>
+                           <path d="M15.3333 0H12.6667C12.2987 0 12 0.298667 12 0.666667V3.33333C12 3.70133 12.2987 4 12.6667 4H15.3333C15.7013 4 16 3.70133 16 3.33333V0.666667C16 0.298667 15.7013 0 15.3333 0Z" fill="#D3E0FF"></path>
+                           <path d="M15.3333 6H12.6667C12.2987 6 12 6.29867 12 6.66667V9.33333C12 9.70133 12.2987 10 12.6667 10H15.3333C15.7013 10 16 9.70133 16 9.33333V6.66667C16 6.29867 15.7013 6 15.3333 6Z" fill="#D3E0FF"></path>
+                           <path d="M15.3333 12H12.6667C12.2987 12 12 12.2987 12 12.6667V15.3333C12 15.7013 12.2987 16 12.6667 16H15.3333C15.7013 16 16 15.7013 16 15.3333V12.6667C16 12.2987 15.7013 12 15.3333 12Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>tümü</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="14" viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M4.84625 0.00101129C3.44952 -0.028072 2.09396 0.580105 1.20845 1.61761C-0.429287 3.53849 -0.527677 6.7327 1.69127 8.90385C1.70304 8.91553 1.71562 8.9266 1.7284 8.93788L7.57034 13.8446C7.81763 14.0518 8.1832 14.0518 8.43029 13.8446L14.2732 8.93788C14.286 8.9266 14.2976 8.91553 14.3094 8.90385C16.5283 6.7325 16.4287 3.53849 14.7912 1.61761C13.9069 0.579907 12.5501 -0.0282698 11.1542 0.00101129C9.99621 0.024357 8.87943 0.651922 8.00021 1.67933C7.12119 0.651922 6.00441 0.024357 4.84625 0.00101129Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>favoriler</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>popüler</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>gösteri oyunları</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>rulet</span>
+                     </button>
+                     <button class="tab_a39e9">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M15.9372 7.76565L14.9911 6.12665V4.23437C14.9911 4.0669 14.9017 3.91212 14.7567 3.8284L13.1177 2.88228L12.1716 1.24334C12.0879 1.09831 11.9331 1.00897 11.7657 1.00897H9.87335L8.23435 0.0627774C8.08935 -0.0209102 7.9107 -0.0209414 7.76563 0.0627774L6.12667 1.00893H4.23438C4.06692 1.00893 3.91213 1.09828 3.82842 1.24334L2.88232 2.88228L1.24335 3.8284C1.09829 3.91212 1.00895 4.06687 1.00895 4.23437V6.12665L0.0627891 7.76565C-0.0209297 7.91069 -0.0209297 8.08931 0.0627891 8.23434L1.00891 9.87334V11.7656C1.00891 11.9331 1.09826 12.0879 1.24332 12.1716L2.88229 13.1177L3.82842 14.7567C3.91213 14.9017 4.06688 14.9911 4.23438 14.9911H6.1267L7.76567 15.9372C7.83817 15.9791 7.9191 16 8.00004 16C8.08098 16 8.16188 15.9791 8.23438 15.9372L9.87335 14.9911H11.7656C11.9331 14.9911 12.0879 14.9017 12.1716 14.7567L13.1177 13.1177L14.7566 12.1716C14.9017 12.0879 14.991 11.9332 14.991 11.7657V9.87337L15.9372 8.23437C16.0209 8.08931 16.0209 7.91069 15.9372 7.76565ZM5.70729 9.50625C5.70729 9.71281 5.57207 9.895 5.37438 9.95487C5.1752 10.0151 4.96232 9.9369 4.84851 9.76625L3.69895 8.0419V9.50625C3.69895 9.76512 3.48907 9.975 3.2302 9.975C2.97132 9.975 2.76145 9.76512 2.76145 9.50625V6.49375C2.76145 6.28719 2.89666 6.105 3.09435 6.04512C3.29207 5.98531 3.50563 6.06187 3.62023 6.23375L4.76979 7.95809V6.49375C4.76979 6.23487 4.97966 6.025 5.23854 6.025C5.49742 6.025 5.70729 6.23487 5.70729 6.49375V9.50625ZM7.74898 7.53125C8.00785 7.53125 8.21773 7.74112 8.21773 8C8.21773 8.25887 8.00785 8.46875 7.74898 8.46875H7.21357V9.0375H8.25107C8.50995 9.0375 8.71982 9.24737 8.71982 9.50625C8.71982 9.76512 8.50995 9.975 8.25107 9.975H6.74482C6.48595 9.975 6.27607 9.76512 6.27607 9.50625V6.49375C6.27607 6.23487 6.48595 6.025 6.74482 6.025H8.25107C8.50995 6.025 8.71982 6.23487 8.71982 6.49375C8.71982 6.75262 8.50995 6.9625 8.25107 6.9625H7.21357V7.53125H7.74898ZM13.4756 6.60744L12.7225 9.61994C12.6719 9.82212 12.4939 9.96669 12.2857 9.97469C12.2797 9.97491 12.2736 9.97503 12.2676 9.97503C12.0666 9.97506 11.887 9.8465 11.823 9.6545L11.2635 7.97606L10.7041 9.6545C10.6382 9.85222 10.4496 9.98215 10.2414 9.97469C10.0331 9.96669 9.85517 9.82212 9.8046 9.61994L9.05148 6.60744C8.9887 6.35628 9.14139 6.10178 9.39254 6.03903C9.64376 5.97612 9.8982 6.1289 9.96098 6.38009L10.3237 7.83094L10.8188 6.34556C10.8826 6.15415 11.0617 6.02503 11.2635 6.02503C11.4652 6.02503 11.6444 6.15415 11.7082 6.34556L12.2033 7.83094L12.566 6.38009C12.6288 6.12893 12.8833 5.97618 13.1344 6.03903C13.3857 6.10178 13.5384 6.35625 13.4756 6.60744Z" fill="#D3E0FF"></path>
+                        </svg>
+                        <span>blackjack</span>
+                     </button>
+                     <div class="other-tabs-wrapper_81cda">
+                        <button class="tab_a39e9">
+                           <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path d="M8 0C6.41775 0 4.87103 0.469192 3.55544 1.34824C2.23985 2.22729 1.21447 3.47672 0.608967 4.93853C0.00346627 6.40034 -0.15496 8.00887 0.153721 9.56072C0.462403 11.1126 1.22433 12.538 2.34315 13.6569C3.46197 14.7757 4.88743 15.5376 6.43928 15.8463C7.99113 16.155 9.59966 15.9965 11.0615 15.391C12.5233 14.7855 13.7727 13.7602 14.6518 12.4446C15.5308 11.129 16 9.58225 16 8C16 5.87827 15.1571 3.84344 13.6569 2.34315C12.1566 0.842854 10.1217 0 8 0ZM8 14.8571C6.64379 14.8571 5.31803 14.455 4.19038 13.7015C3.06273 12.948 2.18383 11.8771 1.66483 10.6241C1.14583 9.37113 1.01003 7.99239 1.27462 6.66224C1.5392 5.33208 2.19228 4.11026 3.15127 3.15127C4.11026 2.19228 5.33209 1.5392 6.66224 1.27461C7.9924 1.01003 9.37114 1.14582 10.6241 1.66483C11.8771 2.18383 12.948 3.06272 13.7015 4.19037C14.455 5.31803 14.8571 6.64378 14.8571 8C14.8571 9.81863 14.1347 11.5628 12.8487 12.8487C11.5628 14.1347 9.81863 14.8571 8 14.8571ZM5.71429 8C5.71429 8.22603 5.64726 8.44699 5.52168 8.63494C5.3961 8.82288 5.21761 8.96936 5.00878 9.05586C4.79995 9.14236 4.57016 9.16499 4.34847 9.1209C4.12678 9.0768 3.92314 8.96795 3.76331 8.80812C3.60348 8.64829 3.49463 8.44465 3.45053 8.22296C3.40644 8.00127 3.42907 7.77148 3.51557 7.56265C3.60207 7.35382 3.74855 7.17533 3.93649 7.04975C4.12444 6.92417 4.3454 6.85714 4.57143 6.85714C4.87454 6.85714 5.16523 6.97755 5.37955 7.19188C5.59388 7.4062 5.71429 7.69689 5.71429 8ZM9.14286 8C9.14286 8.22603 9.07583 8.44699 8.95025 8.63494C8.82467 8.82288 8.64618 8.96936 8.43736 9.05586C8.22853 9.14236 7.99873 9.16499 7.77704 9.1209C7.55535 9.0768 7.35171 8.96795 7.19188 8.80812C7.03205 8.64829 6.9232 8.44465 6.87911 8.22296C6.83501 8.00127 6.85764 7.77148 6.94414 7.56265C7.03064 7.35382 7.17712 7.17533 7.36507 7.04975C7.55301 6.92417 7.77397 6.85714 8 6.85714C8.30311 6.85714 8.5938 6.97755 8.80812 7.19188C9.02245 7.4062 9.14286 7.69689 9.14286 8ZM12.5714 8C12.5714 8.22603 12.5044 8.44699 12.3788 8.63494C12.2532 8.82288 12.0748 8.96936 11.8659 9.05586C11.6571 9.14236 11.4273 9.16499 11.2056 9.1209C10.9839 9.0768 10.7803 8.96795 10.6205 8.80812C10.4606 8.64829 10.3518 8.44465 10.3077 8.22296C10.2636 8.00127 10.2862 7.77148 10.3727 7.56265C10.4592 7.35382 10.6057 7.17533 10.7936 7.04975C10.9816 6.92417 11.2025 6.85714 11.4286 6.85714C11.7317 6.85714 12.0224 6.97755 12.2367 7.19188C12.451 7.4062 12.5714 7.69689 12.5714 8Z" fill="#D3E0FF"></path>
+                           </svg>
+                           <span>Diğer</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" class="other-tabs-arrow_80e6a">
+                              <path d="M8.62633 -1.50828e-06L5 3.41372L1.37367 -2.40181e-07L2.26099e-07 1.29314L5 6L10 1.29314L8.62633 -1.50828e-06Z" fill="currentColor"></path>
+                           </svg>
+                        </button>
+                        <div class="other-tabs_15fee"></div>
+                     </div>
+                  </div>
+                  <div class="search_660bb">
+                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="search-icon_560f2">
+                        <path d="M9.00137 14C5.1368 14 2.00391 10.866 2.00391 6.99997C2.00391 3.13396 5.13676 0 9.00137 0C12.866 0 15.9988 3.13399 15.9988 7C15.9988 10.866 12.8659 14 9.00137 14ZM9.00137 2.00001C6.24094 2.00001 4.00319 4.23857 4.00319 7C4.00319 9.76143 6.24094 12 9.00137 12C11.7618 12 13.9995 9.76143 13.9995 7C13.9995 4.23857 11.7618 2.00001 9.00137 2.00001Z" fill="#1FE1FF"></path>
+                        <path d="M1.00543 16.0001C0.739718 16.0017 0.484338 15.8973 0.295697 15.7101C-0.0962975 15.3212 -0.0988817 14.688 0.289908 14.2959C0.291838 14.294 0.293767 14.292 0.295697 14.2901L4.05432 10.5301C4.4601 10.138 5.10682 10.1492 5.49881 10.5551C5.89081 10.961 5.87961 11.608 5.47383 12.0001L1.71517 15.7101C1.52653 15.8973 1.27115 16.0017 1.00543 16.0001Z" fill="#1FE1FF"></path>
+                     </svg>
+                     <input class="search-input_edd0f" type="text" placeholder="Ara: Oyun Adı Giriniz..." value="">
+                  </div>
+               </div>
+            </div>
+            <div class="slots-content-main_8f2c8">
+               <div class="left-side_b4ebd">
+                  <div class="tabs-container_1e17b">
+                     <div class="block-title_5e0bd">
+                        <div class="providers-title_d65dd">Sağlayıcılar</div>
+                        <div class="providers-amount_497e5">10</div>
+                     </div>
+                     <div class="mt15 button-wrap_8e68c selected_ae473">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda all_6202d"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Tüm Sağlayıcılar</div>
+                              <span class="item-count_ff94e">625</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda pragmatic_play_casino_75cbb"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Pragmatic Play</div>
+                              <span class="item-count_ff94e">171</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda evolution_oss_1efed"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Evolution</div>
+                              <span class="item-count_ff94e">197</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda ezugi_347d8"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Ezugi</div>
+                              <span class="item-count_ff94e">76</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda playtech_casino_73f62"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Playtech Casino</div>
+                              <span class="item-count_ff94e">36</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda lucky_streak_00bb7"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Lucky Streak</div>
+                              <span class="item-count_ff94e">19</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda alg_net_f8e6a"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Absolute Gaming</div>
+                              <span class="item-count_ff94e">12</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda vivo_casino_cf69d"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Vivo</div>
+                              <span class="item-count_ff94e">38</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda onetouch_casino_dc664"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">OneTouch Casino</div>
+                              <span class="item-count_ff94e">53</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda x_pro_gaming_2c116"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">XPG Casino</div>
+                              <span class="item-count_ff94e">15</span>
+                           </div>
+                        </button>
+                     </div>
+                     <div class="button-wrap_8e68c">
+                        <button class="item_ed235">
+                           <div class="icon-wrap_8ea0d">
+                              <div class="item-icon_51dda the_ear_liveg24_a5c05"></div>
+                           </div>
+                           <div class="separator_7e58c"></div>
+                           <div class="item-right_e9596">
+                              <div class="item-title_3f5c7">Liveg24</div>
+                              <span class="item-count_ff94e">8</span>
+                           </div>
+                        </button>
+                     </div>
+                  </div>
+                  <div class="casino-top-winners-wrapper_beffe">
+                     <div class="top-winners-header_50350">
+                        <div class="top-winners-title_28253">
+                           <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="winners-icon_06274">
+                              <path d="M17.1126 0H2.88672V1.17188H4.49727V7.00129C4.49922 9.99406 6.92922 12.458 9.92168 12.4995C12.9963 12.542 15.502 10.0625 15.502 6.99762V1.17188H17.1126V0Z" fill="#2764FF"></path>
+                              <path d="M13.8098 17.4323C13.8098 16.7851 13.2851 16.2604 12.6379 16.2604H11.7191V13.4477C11.1618 13.5961 10.5868 13.6714 10.0004 13.6714C9.96922 13.6714 9.93746 13.6712 9.90621 13.6708C9.35266 13.6631 8.80918 13.5878 8.28164 13.4463V16.2604H7.36289C6.71566 16.2604 6.19102 16.7851 6.19102 17.4323V18.8277H4.49805V19.9996H15.5027V18.8277H13.8098V17.4323Z" fill="#2764FF"></path>
+                              <path d="M16.6752 2.34375V3.51562H18.8291V6.15227C18.8291 7.61301 17.7545 8.82727 16.3543 9.04648C16.2944 9.23184 16.2267 9.41516 16.1503 9.59594C16.0546 9.82207 15.9469 10.0413 15.8281 10.2538H15.8994C18.161 10.2538 20.001 8.41387 20.001 6.15227V2.34375H16.6752Z" fill="#2764FF"></path>
+                              <path d="M3.65 9.04707C2.2482 8.82926 1.17188 7.61418 1.17188 6.15227V3.51562H3.32574V2.34375H0V6.15227C0 8.41387 1.83996 10.2538 4.10156 10.2538H4.17926C4.05562 10.0337 3.94395 9.80645 3.84523 9.57203C3.77238 9.39914 3.70762 9.22402 3.65 9.04707Z" fill="#2764FF"></path>
+                           </svg>
+                           <h3>En Yüksek Kazananlar!</h3>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none" class="winners-arrow_2ef1c active_da16e">
+                              <path d="M8.62633 -1.50828e-06L5 3.41372L1.37367 -2.40181e-07L2.26099e-07 1.29314L5 6L10 1.29314L8.62633 -1.50828e-06Z" fill="currentColor"></path>
+                           </svg>
+                        </div>
+                        <div class="winners-period-wrapper_c5b32">
+                           <div class="winners-period_7159c active_da16e">Günlük</div>
+                           <div class="winners-period_7159c">Haftalık</div>
+                           <div class="winners-period_7159c">Ay</div>
+                        </div>
+                     </div>
+                     <div class="winners-content_02c8c">
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">1</div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/7x0b1tgh7agmf6hv-bda97175a7e8985e5a4b1182c3eefdd0.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Immersive Roulette</h4>
+                              <div class="winner-info__text_b76e7"><span>Kerem Ö.</span><span class="winner-bet-amount_21452">50,400.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">2</div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Live_Speed_Roulette_5915.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Speed Roulette 1</h4>
+                              <div class="winner-info__text_b76e7"><span>Murat T.</span><span class="winner-bet-amount_21452">24,000.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">3</div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/CrazyTime0000001-b7f3c445a892e9baf25baf0591b42625.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Crazy Time</h4>
+                              <div class="winner-info__text_b76e7"><span>Doğan A.</span><span class="winner-bet-amount_21452">14,140.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">4</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/VIP_Blackjack_2_Ruby_9976.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">VIP Blackjack 2 - Ruby</h4>
+                              <div class="winner-info__text_b76e7"><span>Hasan A.</span><span class="winner-bet-amount_21452">21,250.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">5</div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/48z5pjps3ntvqc1b-4c32a4bf64c79009a6b3a1c0b47bd5be.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Auto-Roulette</h4>
+                              <div class="winner-info__text_b76e7"><span>Story S.</span><span class="winner-bet-amount_21452">18,000.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">6</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/HoldemTable00001-9868149975b30045fe0b7e506d5ded86.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Casino Hold'em</h4>
+                              <div class="winner-info__text_b76e7"><span>Hülya E.</span><span class="winner-bet-amount_21452">11,260.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                        <div class="casino-top-winners-item_452a2">
+                           <div class="winner-img-container_f280d">
+                              <div class="place_49580">7</div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/vctlz20yfnmp1ylr-cec4f06fb1d8186fd5de7b9ce658b809.jpg" alt="">
+                           </div>
+                           <div class="winner-info_c19f1">
+                              <h4 class="winner-info__game_697d9">Roulette</h4>
+                              <div class="winner-info__text_b76e7"><span>Maho R.</span><span class="winner-bet-amount_21452">13,320.00 TRY</span><span>win</span></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="main-wrap_8b2bf">
+                  <div class="block-title_5e0bd"><span class="first-part-title_babef">Tüm Sağlayıcılar</span><span class="second-part-title_311aa">Canlı Casino Oyunları (625)</span></div>
+                  <div class="mt15 games_7ff21">
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 24 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_24_Emerald_9911.jpg" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_24_Emerald_9911.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 24 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 25 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_25_Emerald_9912.jpg" alt="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_25_Emerald_9912.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 25 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Sweet Bonanza CandyLand</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Sweet_Bonanza_CandyLand_7099.png" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Sweet_Bonanza_CandyLand_7099.png" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Sweet Bonanza CandyLand</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 26 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_26_Emerald_9913.jpg" alt="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_26_Emerald_9913.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 26 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 27 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_27_Emerald_9914.jpg" alt="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_27_Emerald_9914.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 27 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 28 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_28_Emerald_9915.jpg" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_28_Emerald_9915.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 28 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 29 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_29_Emerald_9918.jpg" alt="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_29_Emerald_9918.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 29 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Blackjack 30 - Emerald</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_30_Emerald_9919.jpg" alt="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Speed_Blackjack_30_Emerald_9919.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Blackjack 30 - Emerald</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Mega Wheel</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Mega_Wheel_9723.jpg" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Mega_Wheel_9723.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Mega Wheel</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">PowerUP Roulette</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/PowerUP_Roulette_9753.jpg" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/PowerUP_Roulette_9753.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">PowerUP Roulette</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Andar Bahar</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Andar_Bahar_9539.jpg" alt="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Andar_Bahar_9539.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Andar Bahar</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Speed Roulette 1</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Live_Speed_Roulette_5915.jpg" alt="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Live_Speed_Roulette_5915.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Speed Roulette 1</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Auto-Roulette 1</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Auto_Roulette_1_9541.jpg" alt="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Auto_Roulette_1_9541.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Auto-Roulette 1</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Gameshows</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Gameshows_9587.jpg" alt="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Gameshows_9587.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Gameshows</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Türkçe Rulet</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Live_Roulette_Turkey_5919.jpg" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Live_Roulette_Turkey_5919.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Türkçe Rulet</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Baccarat 5</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Baccarat_5_9901.jpg" alt="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Baccarat_5_9901.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Baccarat 5</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Baccarat 6</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Baccarat_6_9902.jpg" alt="https://cdn4-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Baccarat_6_9902.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Baccarat 6</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Blackjack 6 -Azure</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Blackjack_6_Azure_9906.jpg" alt="https://cdn1-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Blackjack_6_Azure_9906.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Blackjack 6 -Azure</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Blackjack 7 - Azure</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Blackjack_7_Azure_9907.jpg" alt="https://cdn2-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Blackjack_7_Azure_9907.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Blackjack 7 - Azure</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                     <div class="game-wrap_fe647">
+                        <div class="game-half-container_c647b">
+                           <div class="game_55042">
+                              <div class="game-info_04b0d">
+                                 <div class="favorite-btn-wrap_8592c">
+                                    <svg width="18" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg" size="20">
+                                       <path d="M16 2L13 1H11L9 3.5L8 2L6 0.5L3.5 1L1 3.5V7L3 10.5L9 15L13.5 11.5L17.5 6L16 2Z"></path>
+                                       <path fill="#2764ff" d="M17.9875 5.08025C17.9826 5.01955 17.977 4.97301 17.9721 4.94106C17.7203 2.18304 15.6282 0 12.9131 0C11.3401 0 9.90263 0.719919 8.96141 1.88702C8.04215 0.712067 6.65945 0 5.09481 0C2.38894 0 0.301671 2.16825 0.0329257 4.95673C0.0277595 4.98923 0.0225582 5.02879 0.0178138 5.07533C-0.0281193 5.52584 0.0100821 6.12278 0.187594 6.8501C0.564758 8.39541 1.44673 9.80289 2.69068 10.8935L8.48338 15.8194C8.76552 16.0594 9.18773 16.0603 9.47096 15.8216L15.3061 10.9037C16.6815 9.51934 17.4989 8.274 17.823 6.83899C17.9856 6.11832 18.0235 5.52529 17.9875 5.08025ZM16.3581 6.52968C16.1031 7.6583 15.4249 8.69157 14.2722 9.85541L8.98084 14.3114L3.68926 9.81173C2.67427 8.92172 1.95294 7.77057 1.64694 6.51693C1.50802 5.94769 1.48012 5.51132 1.51006 5.21764C1.51269 5.19167 1.52387 5.11322 1.52387 5.11322C1.71674 3.01339 3.21489 1.45027 5.09481 1.45027C6.49434 1.45027 7.68505 2.2758 8.26373 3.60167C8.52162 4.19249 9.38728 4.19249 9.64517 3.60167C10.2122 2.30238 11.4874 1.45027 12.9131 1.45027C14.793 1.45027 16.2911 3.0135 16.484 5.11397C16.4892 5.15619 16.4906 5.16788 16.4926 5.19327C16.5174 5.50004 16.4886 5.95109 16.3581 6.52968Z"></path>
+                                    </svg>
+                                 </div>
+                                 <div class="game-info-bottom_9f497">
+                                    <div class="game-name_4584c">Blackjack 4 - Azure</div>
+                                    <div class="provider-name_b3b0b">Pragmatic Play</div>
+                                 </div>
+                              </div>
+                              <img src="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Blackjack_4_Azure_9904.jpg" alt="https://cdn3-platform.btkmcdn.com/media/games_images/pragmatic_play_casino/Blackjack_4_Azure_9904.jpg" class="game-image_1a6d0">
+                              <div class="game-actions_4b351">
+                                 <svg width="44" height="18" viewBox="0 0 44 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-background_775f8">
+                                    <path d="M22 0C17.6239 0 13.4271 1.89642 10.3327 5.27208C7.23839 8.64773 4.83274 18 0 18H44C39.1673 18 36.7616 8.64773 33.6673 5.27208C30.5729 1.89642 26.3761 0 22 0Z" fill="#F2F2F2"></path>
+                                 </svg>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-play_ed642">
+                                    <path d="M12 0C5.37267 0 0 5.37258 0 12C0 18.6274 5.37267 24 12 24C18.6273 24 24 18.6274 24 12C24 5.37258 18.6273 0 12 0ZM16.1475 12.6361L10.1475 16.3861C10.0261 16.4619 9.88805 16.5 9.75 16.5C9.62494 16.5 9.49969 16.4689 9.38634 16.4059C9.14794 16.2737 9 16.0228 9 15.75V8.25C9 7.97719 9.14794 7.72631 9.38634 7.59412C9.62475 7.46119 9.91627 7.46925 10.1475 7.61391L16.1475 11.3639C16.3667 11.5012 16.5 11.7415 16.5 12C16.5 12.2585 16.3667 12.4988 16.1475 12.6361Z" fill="#2764FF"></path>
+                                 </svg>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item-bottom_63299">
+                           <div class="game-title_73c8e">Blackjack 4 - Azure</div>
+                           <div class="provider-title_05c1b">Pragmatic Play</div>
+                        </div>
+                     </div>
+                  </div>
+                  <button type="button" class="btn_dbd91">
+                     <svg width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.9041 0.334315L5.70756 0.110943C5.6457 0.0411838 5.56341 0.00275299 5.47546 0.00275299C5.38756 0.00275299 5.30517 0.0411838 5.24331 0.110943L3.00134 2.64154L0.756787 0.108135C0.69503 0.0383758 0.612639 0 0.524736 0C0.436833 0 0.354393 0.0383758 0.292588 0.108135L0.0960008 0.330131C-0.0320003 0.474494 -0.0320003 0.709649 0.0960008 0.854012L2.76841 3.88118C2.83017 3.95089 2.91246 4 3.00115 4H3.00217C3.09012 4 3.17242 3.95083 3.23417 3.88118L5.9041 0.862216C5.96595 0.792512 5.9999 0.69682 6 0.597605C6 0.498334 5.96595 0.403964 5.9041 0.334315Z" fill="#2764FF"></path>
+                     </svg>
+                     <span>Daha fazla</span>
+                     <svg width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M5.9041 0.334315L5.70756 0.110943C5.6457 0.0411838 5.56341 0.00275299 5.47546 0.00275299C5.38756 0.00275299 5.30517 0.0411838 5.24331 0.110943L3.00134 2.64154L0.756787 0.108135C0.69503 0.0383758 0.612639 0 0.524736 0C0.436833 0 0.354393 0.0383758 0.292588 0.108135L0.0960008 0.330131C-0.0320003 0.474494 -0.0320003 0.709649 0.0960008 0.854012L2.76841 3.88118C2.83017 3.95089 2.91246 4 3.00115 4H3.00217C3.09012 4 3.17242 3.95083 3.23417 3.88118L5.9041 0.862216C5.96595 0.792512 5.9999 0.69682 6 0.597605C6 0.498334 5.96595 0.403964 5.9041 0.334315Z" fill="#2764FF"></path>
+                     </svg>
+                  </button>
                </div>
             </div>
          </div>
       </div>
-      <div class="accordion-title">
-         <div class="page-view-more">
-            <h3 class="view-title-more ellipsis">Sağlayıcılar</h3>
+   </div>
+   <div class="menu-container_aada0">
+      <div class="menu_e11fd">
+         <div class="left_55acb">
+            <button class="btn_24a41" aria-label="login button">
+               <i class="icon-bottom-key"></i>
+               <p>Giriş</p>
+            </button>
+            <button class="btn_24a41" aria-label="registration button">
+               <i class="icon-bottom-plus"></i>
+               <p>kayıt ol !</p>
+            </button>
+            <button class="btn_24a41" aria-label="forgot password button">
+               <i class="icon-bottom-question"></i>
+               <p>şi̇fremi̇ unuttum</p>
+            </button>
+            <button class="btn_24a41" aria-label="promotion button">
+               <i class="icon-bottom-gift"></i>
+               <p>promosyonlar</p>
+            </button>
          </div>
-      </div>
-      <div class="accordion-items-container collapsed">
-         <div class="accordion-items">
-            <div class="accordion-items-resize">
-               <span title="TÜMÜ"><button class="btn s-big accordion-button  a-outline " type="button" data-badge="">TÜMÜ</button></span>
-               <span title="Evolution">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="82" height="16" viewBox="0 0 82 16" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M35.268 5.063c2.714 0 4.624 1.941 4.624 4.677 0 2.699-1.952 4.64-4.682 4.64-2.71 0-4.586-1.904-4.586-4.64 0-2.736 1.91-4.677 4.644-4.677zM22.556 1.418V3.51h-6.854V6.57h4.563v2.093h-4.563v3.42h7.065v2.094h-9.47V1.417h9.259zm2.03 3.645 2.12 6.355 1.972-6.355h2.349l-3.258 9.114H25.59l-3.428-9.114h2.424zm10.687 1.924c-1.395 0-2.237 1.025-2.237 2.737v.075c0 1.674.821 2.66 2.199 2.66 1.395 0 2.253-.986 2.253-2.66v-.075c0-1.712-.842-2.737-2.215-2.737zm5.626-5.772h2.418v12.962h-2.418V1.215zm3.828 9.328v-5.48h2.345v5.348c0 1.223.568 1.936 1.629 1.936 1.23 0 1.74-1.066 1.74-2.636V5.063h2.345v9.143h-2.345v-1.3c-.472.952-1.284 1.474-2.44 1.474-2.027 0-3.274-1.473-3.274-3.837zm10.164 1.253v-4.69h-1.299V5.208h1.299v-1.69l2.342-1.29v2.984h1.799V7.11h-1.82v4.466c0 .437.212.628.657.645h1.065v1.956h-1.858c-1.761-.1-2.147-.899-2.185-2.38zm5.148-10.378h2.418v2.33h-2.418v-2.33zm.037 3.665h2.344v9.094h-2.344V5.083zm3.388 4.657c0-2.736 1.91-4.677 4.645-4.677 2.714 0 4.623 1.941 4.623 4.677 0 2.699-1.947 4.64-4.682 4.64-2.71 0-4.586-1.904-4.586-4.64zm6.864.059v-.075c0-1.712-.841-2.737-2.215-2.737-1.395 0-2.236 1.025-2.236 2.737v.075c0 1.674.82 2.66 2.198 2.66 1.395 0 2.253-.986 2.253-2.66zm3.617-4.743h2.345v1.486c.473-1.063 1.343-1.681 2.61-1.681 1.948 0 3.1 1.334 3.1 3.845v5.471h-2.345V8.841c0-1.274-.473-1.93-1.57-1.93-1.115 0-1.799.927-1.799 2.63v4.636h-2.345V5.056h.004zM9.973 14.177c.505 0 .907.408.907.912a.91.91 0 0 1-.907.911.91.91 0 0 1-.907-.911.91.91 0 0 1 .907-.912zm0 .186a.725.725 0 0 0 0 1.451.722.722 0 0 0 .722-.725c0-.4-.324-.726-.722-.726zm-.016.239c.123 0 .205 0 .287.066a.28.28 0 0 1 .102.23.258.258 0 0 1-.184.26l.209.384h-.201l-.185-.35H9.83v.35h-.172v-.94zm-1.81-6.744a21.872 21.872 0 0 1 2.733.05c-.442 6.233-6.326 8.816-10.88 6.367.463-1.044.883-2.156 1.53-3.154 1.1-1.699 2.862-3.074 6.616-3.263zM0 .917c3.238-1.745 7.15-.94 9.296 1.912.871 1.158 1.454 2.65 1.584 4.454-.888.072-1.692.093-2.425.067C3.256 7.186 1.73 4.82.633 2.376l-.144-.327-.21-.488C.186 1.344.094 1.129 0 .917z" fill="#FFF" fill-rule="nonzero"></path>
-                     </svg>
-                  </button>
-               </span>
-               <span title="Pragmatic Play Live"><button class="btn s-big accordion-button   " type="button" data-badge="">Pragmatic Play Live</button></span>
-               <span title="CREEDROOMZ">
-                  <button class="btn s-big accordion-button badge-jackpot  " type="button" data-badge="Jackpot">
-                     <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 80 14" width="80" height="18" xml:space="preserve">
-                        <style type="text/css">
-                           .st0{fill:#FFFFFF;}
-                        </style>
-                        <g>
-                           <path class="st0" d="M7.5,8.5C7.2,8.8,6.9,9,6.6,9.2C6.1,9.4,5.3,9.5,4.7,9.2C4.4,9.1,4.2,9,4,8.7C3.7,8.5,3.6,8.3,3.5,8 C3.3,7.7,3.3,7.4,3.3,7c0-0.4,0.1-0.7,0.2-1S3.7,5.5,4,5.3C4.2,5,4.4,4.9,4.7,4.8c0.6-0.2,1.4-0.2,1.9,0C6.8,5,7.1,5.1,7.3,5.4 l0.2,0.2l1.4-1.3L8.7,4.1c-0.4-0.4-0.8-0.8-1.3-1c-1-0.4-2.4-0.5-3.4,0C3.4,3.3,2.9,3.6,2.6,4S1.9,4.8,1.7,5.3 C1.4,5.8,1.3,6.4,1.3,7c0,0.6,0.1,1.2,0.3,1.7c0.2,0.5,0.5,1,0.9,1.4c0.4,0.4,0.8,0.7,1.4,0.9c0.5,0.2,1.1,0.3,1.7,0.3 c0.7,0,1.3-0.1,1.8-0.4c0.5-0.3,1-0.6,1.4-1.1L9,9.6L7.6,8.3L7.5,8.5z"></path>
-                           <path class="st0" d="M14.8,7.6c0.2-0.2,0.4-0.3,0.6-0.5c0.2-0.2,0.3-0.4,0.4-0.7C15.9,6.1,16,5.9,16,5.6c0-0.4-0.1-0.7-0.2-1.1 c-0.1-0.3-0.3-0.6-0.6-0.9c-0.2-0.2-0.5-0.4-0.9-0.6c-0.3-0.1-0.7-0.2-1.1-0.2h-3.1v8.2h2V8.2h0.3l2,2.9h2v-0.4l-2-2.8 C14.6,7.8,14.7,7.7,14.8,7.6z M13.8,6.1c-0.2,0.2-0.4,0.2-0.6,0.2H12V4.7h1.1c0.1,0,0.3,0,0.4,0.1c0.1,0,0.2,0.1,0.3,0.2 c0.1,0.1,0.1,0.2,0.2,0.3C14,5.3,14,5.5,14,5.6C14,5.8,13.9,6,13.8,6.1z"></path>
-                           <polygon class="st0" points="17.2,11.1 22.6,11.1 22.6,9.2 19.2,9.2 19.2,7.9 22.3,7.9 22.3,6.1 19.2,6.1 19.2,4.8 22.6,4.8  22.6,2.9 17.2,2.9  "></polygon>
-                           <polygon class="st0" points="24,11.1 29.3,11.1 29.3,9.2 25.9,9.2 25.9,7.9 29,7.9 29,6.1 25.9,6.1 25.9,4.8 29.3,4.8 29.3,2.9  24,2.9  "></polygon>
-                           <path class="st0" d="M36.6,4c-0.4-0.4-0.8-0.6-1.3-0.8c-0.5-0.2-1.1-0.3-1.7-0.3h-2.9v8.2h2.9c0.6,0,1.2-0.1,1.7-0.3 c0.5-0.2,1-0.5,1.3-0.8c0.4-0.4,0.7-0.8,0.8-1.3c0.2-0.5,0.3-1.1,0.3-1.7c0-0.6-0.1-1.1-0.3-1.6C37.2,4.8,37,4.4,36.6,4z M35.6,7.9 c-0.1,0.3-0.2,0.5-0.4,0.7C35,8.8,34.8,9,34.5,9.1c-0.3,0.1-0.6,0.2-1,0.2h-0.8V4.8h0.8c0.4,0,0.7,0.1,1,0.2 C34.8,5,35,5.2,35.2,5.4c0.2,0.2,0.3,0.4,0.4,0.7c0.1,0.3,0.1,0.6,0.1,0.9C35.8,7.3,35.7,7.7,35.6,7.9z"></path>
-                           <path class="st0" d="M42.7,7.7c0.4-0.1,0.8-0.4,1.1-0.7c0.4-0.4,0.6-0.9,0.6-1.5c0-0.7-0.2-1.3-0.7-1.7C43.1,3.3,42.5,3,41.8,3H39 V11h1.2V7.9h0.9l2.1,3.1h1.2l0.1,0v-0.2l-2.1-3L42.7,7.7z M40.3,6.7V4.2h1.5c0.4,0,0.7,0.1,0.9,0.4C42.9,4.8,43,5.1,43,5.4 c0,0.4-0.1,0.6-0.4,0.9c-0.3,0.2-0.6,0.4-0.9,0.4H40.3z"></path>
-                           <path class="st0" d="M49.4,2.9c-1.1,0-2.1,0.4-2.9,1.2c-0.8,0.8-1.2,1.8-1.2,2.9s0.4,2.2,1.2,2.9c0.8,0.8,1.8,1.2,2.9,1.2 c1.1,0,2.1-0.4,2.9-1.2c0.8-0.8,1.2-1.8,1.2-2.9c0-1.2-0.4-2.1-1.2-2.9C51.6,3.3,50.6,2.9,49.4,2.9z M51.4,9.1L51.4,9.1 c-0.5,0.6-1.2,0.8-2,0.8c-0.8,0-1.5-0.3-2-0.8c-0.5-0.6-0.8-1.3-0.8-2.1c0-0.9,0.3-1.6,0.8-2.1c0.5-0.6,1.2-0.8,2-0.8 s1.5,0.3,2,0.8C52,5.4,52.3,6.1,52.3,7C52.3,7.9,52,8.6,51.4,9.1z"></path>
-                           <path class="st0" d="M58.5,2.9c-1.1,0-2.1,0.4-2.9,1.2c-0.8,0.8-1.2,1.8-1.2,2.9s0.4,2.2,1.2,2.9c0.8,0.8,1.8,1.2,2.9,1.2 c1.1,0,2.1-0.4,2.9-1.2c0.8-0.8,1.2-1.8,1.2-2.9c0-1.2-0.4-2.1-1.2-2.9C60.7,3.3,59.7,2.9,58.5,2.9z M60.5,9.1L60.5,9.1 c-0.5,0.6-1.2,0.8-2,0.8c-0.8,0-1.5-0.3-2-0.8C56,8.6,55.7,7.9,55.7,7c0-0.9,0.3-1.6,0.8-2.1c0.5-0.6,1.2-0.8,2-0.8s1.5,0.3,2,0.8 c0.5,0.6,0.8,1.2,0.8,2.1C61.3,7.9,61.1,8.6,60.5,9.1z"></path>
-                           <polygon class="st0" points="67.8,7.6 65.2,3 64,3 64,11 65.3,11 65.3,5.9 65.2,5.4 67.5,9.3 68.2,9.3 70.4,5.4 70.4,11 71.7,11  71.7,3 70.5,3  "></polygon>
-                           <polygon class="st0" points="74.5,9.8 78.5,4.2 78.5,3 73.2,3 73.2,4.2 77,4.2 73,9.8 73,11 78.6,11 78.6,9.8  "></polygon>
-                        </g>
-                     </svg>
-                  </button>
-               </span>
-               <span title="BeterLive">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="55" height="20" viewBox="0 0 55 20" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M55 0v20H30.47l-.011-3.853-.017-3.858-15.218-.017L0 12.262V0h55zM35.64 14.278h-1.155v3.76h3.96v-.817H35.64v-2.943zm4.675 0H39.16v3.76h1.155v-3.76zm1.848 0H40.86l.401.752c.22.409.676 1.259 1.007 1.88l.604 1.128h1.43l.644-1.215c.357-.665.809-1.51 1.006-1.88l.364-.665h-1.304l-.71 1.428-.715 1.433-.715-1.433-.709-1.428zm8.877 0h-4.18v3.76h4.18v-.763h-3.025v-.817h2.915v-.709h-2.915v-.763h3.025v-.708zM54.23.763H.77v10.736h53.46V.763zm-32.042 6.57V8.4H13.85v-.494c0-.275.017-.517.04-.533.014-.02 1.511-.036 3.452-.04h4.846zm18.692 0V8.4h-8.337v-.494c0-.275.016-.517.038-.533.015-.02 1.512-.036 3.453-.04h4.846zM4.034 3.867l3.77.016 3.765.016.312.125c.417.168.735.51.784.84.071.451-.115.782-.565 1-.224.108-.279.157-.202.167.405.066.778.31.937.613.104.201.098.668-.011.896-.132.27-.439.499-.839.618l-.072.022c-.25.072-.522.084-1.898.086h-2.94L6.09 7.29h3.69c1.227-.005 1.288-.023 1.4-.114a.375.375 0 0 0 .028-.57l-.022-.017c-.098-.07-.312-.083-1.945-.085H5.596l-.016.878-.011.885H4.034v-4.4zm27.702 0v1.14l-1.76.011-1.767.017-.017 1.613-.01 1.619h-1.556v-4.4h5.11zm10.354 0 3.737.016 3.73.016.32.125c.65.26.997.662 1.063 1.237.078.646-.341 1.302-.964 1.52l-.281.102.7.69.705.694h-1.928l-1.323-1.302h-3.637l.524-.516.523-.515h2.286c1.776-.004 1.82-.044 1.82-.483 0-.212-.138-.374-.375-.44-.114-.029-.96-.05-2.269-.053h-3.032v3.309H42.09v-4.4zM22.188 5.6v1.067h-8.337V5.6h8.337zm18.692 0v1.067h-8.337V5.6h8.337zM8.395 4.849H5.569v.76h2.826c1.582-.003 2.369-.024 2.483-.06.335-.12.335-.521 0-.64-.12-.039-.986-.06-2.74-.06zm16.532-.982 1.161 1.2H23.13v-1.2h1.797zm-2.739 0v1.066l-4.15-.01-4.154-.018-.017-.522-.016-.516h8.337zm18.692 0v1.066h-8.337V3.867h8.337z" fill="#FFF" fill-rule="nonzero"></path>
-                     </svg>
-                  </button>
-               </span>
-               <span title="Popok Gaming"><button class="btn s-big accordion-button   " type="button" data-badge="">Popok Gaming</button></span>
-               <span title="Playtech Live">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="86px" height="18px" viewBox="0 0 86 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <g id="Jackpot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                           <g id="Provider-Logos" transform="translate(-1258.000000, -388.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                              <path d="M1336.60195,403.2287 C1337.15344,403.2287 1337.46281,403.403587 1337.50317,403.726457 C1337.51213,403.7713 1337.51512,403.816143 1337.51612,403.864973 L1337.51662,404.049327 L1337.03238,404.049327 L1337.03238,403.955157 L1337.00548,403.955157 L1337.00548,403.834081 C1336.99203,403.618834 1336.85752,403.511211 1336.60195,403.511211 C1336.37328,403.511211 1336.22532,403.565022 1336.15807,403.686099 C1336.11771,403.73991 1336.10426,403.793722 1336.09081,403.847534 L1336.09081,405.139013 C1336.09081,405.327354 1336.11771,405.461883 1336.14462,405.515695 C1336.22532,405.636771 1336.35983,405.690583 1336.5616,405.690583 C1336.81717,405.690583 1336.96513,405.569507 1336.99203,405.340807 L1337.01893,405.165919 L1337.01893,405.071749 L1337.50317,405.071749 L1337.50317,405.340807 C1337.48972,405.542601 1337.40901,405.690583 1337.28795,405.811659 C1337.20725,405.878924 1337.11309,405.919283 1337.00548,405.946188 C1336.88442,405.973094 1336.73646,406 1336.5885,406 C1336.45399,406 1336.33293,405.986547 1336.21187,405.973094 C1335.80834,405.90583 1335.62003,405.650224 1335.60658,405.219731 L1335.60658,404.143498 C1335.60658,404.022422 1335.60658,403.914798 1335.63348,403.820628 C1335.64693,403.699552 1335.68728,403.591928 1335.76799,403.511211 C1335.9294,403.32287 1336.19842,403.2287 1336.60195,403.2287 Z M1334.27493,403.2287 C1334.82642,403.2287 1335.13579,403.403587 1335.17614,403.726457 C1335.18511,403.7713 1335.1881,403.816143 1335.1891,403.864973 L1335.1896,404.049327 L1334.70536,404.049327 L1334.70536,403.955157 L1334.67846,403.955157 L1334.67846,403.834081 C1334.66501,403.618834 1334.5305,403.511211 1334.27493,403.511211 C1334.04626,403.511211 1333.8983,403.565022 1333.83105,403.686099 C1333.79069,403.73991 1333.77724,403.793722 1333.76379,403.847534 L1333.76379,405.139013 C1333.76379,405.327354 1333.79069,405.461883 1333.83105,405.515695 C1333.91175,405.636771 1334.04626,405.690583 1334.24803,405.690583 C1334.50359,405.690583 1334.65156,405.569507 1334.67846,405.340807 L1334.69191,405.165919 L1334.69191,405.071749 L1335.17614,405.071749 L1335.17614,405.340807 C1335.16269,405.542601 1335.08199,405.690583 1334.96093,405.811659 C1334.88022,405.878924 1334.78607,405.919283 1334.67846,405.946188 C1334.54395,405.973094 1334.40944,406 1334.26148,406 C1334.12697,406 1334.00591,405.986547 1333.88485,405.973094 C1333.48132,405.90583 1333.29301,405.650224 1333.27955,405.219731 L1333.27955,404.143498 C1333.27955,404.022422 1333.27955,403.914798 1333.30646,403.820628 C1333.31991,403.699552 1333.36026,403.591928 1333.44097,403.511211 C1333.58893,403.32287 1333.8714,403.2287 1334.27493,403.2287 Z M1319.14255,403.2287 C1319.69405,403.2287 1320.00342,403.403587 1320.04377,403.726457 C1320.05722,403.793722 1320.05722,403.860987 1320.05722,403.941704 L1320.05722,404.049327 L1319.57299,404.049327 L1319.57299,403.834081 C1319.55954,403.618834 1319.42503,403.511211 1319.16946,403.511211 C1318.94079,403.511211 1318.79283,403.565022 1318.71212,403.686099 C1318.67177,403.73991 1318.65832,403.793722 1318.64487,403.847534 L1318.64487,405.139013 C1318.64487,405.327354 1318.67177,405.461883 1318.69867,405.515695 C1318.77938,405.636771 1318.91389,405.690583 1319.11565,405.690583 C1319.37122,405.690583 1319.51918,405.569507 1319.54608,405.340807 L1319.55954,405.165919 L1319.55954,405.071749 L1320.04377,405.071749 L1320.04377,405.340807 C1320.03032,405.542601 1319.94961,405.690583 1319.82856,405.811659 C1319.74785,405.878924 1319.65369,405.919283 1319.54608,405.946188 C1319.41157,405.973094 1319.27706,406 1319.1291,406 C1318.99459,406 1318.87353,405.986547 1318.75248,405.973094 C1318.34895,405.90583 1318.16063,405.650224 1318.14718,405.219731 L1318.14718,404.143498 C1318.14718,404.022422 1318.14718,403.914798 1318.17408,403.820628 C1318.18753,403.699552 1318.24134,403.591928 1318.30859,403.511211 C1318.45655,403.32287 1318.73902,403.2287 1319.14255,403.2287 Z M1311.95972,403.201794 C1312.13458,403.201794 1312.30945,403.2287 1312.47086,403.282511 C1312.68608,403.349776 1312.83404,403.470852 1312.90129,403.632287 C1312.94164,403.73991 1312.96855,403.901345 1312.96855,404.116592 L1312.96855,405.017937 C1312.96855,405.179372 1312.9551,405.327354 1312.94164,405.44843 C1312.88784,405.811659 1312.56502,405.986547 1311.98662,405.986547 C1311.55619,405.986547 1311.27372,405.90583 1311.12576,405.730942 C1311.01815,405.609865 1310.96435,405.367713 1310.96435,405.017937 L1310.96435,404.116592 L1310.9509,404.116592 C1310.9509,403.887892 1310.9778,403.726457 1311.01815,403.632287 C1311.08541,403.470852 1311.21992,403.349776 1311.44858,403.282511 C1311.61,403.2287 1311.77141,403.201794 1311.95972,403.201794 Z M1324.36154,403.201794 C1324.5364,403.201794 1324.71127,403.2287 1324.87268,403.282511 C1325.0879,403.349776 1325.23586,403.470852 1325.30311,403.632287 C1325.34346,403.73991 1325.37037,403.901345 1325.37037,404.116592 L1325.37037,405.017937 C1325.37037,405.179372 1325.35692,405.327354 1325.34346,405.44843 C1325.28966,405.811659 1324.96684,405.986547 1324.37499,405.986547 C1323.94456,405.986547 1323.66209,405.90583 1323.51413,405.730942 C1323.40652,405.609865 1323.35272,405.367713 1323.35272,405.017937 L1323.35272,404.116592 C1323.35272,403.887892 1323.37962,403.726457 1323.41997,403.632287 C1323.48723,403.470852 1323.62174,403.349776 1323.8504,403.282511 C1324.01182,403.2287 1324.18668,403.201794 1324.36154,403.201794 Z M1331.30226,403.242152 L1331.30226,405.286996 C1331.31571,405.556054 1331.47712,405.67713 1331.78649,405.690583 C1332.09587,405.690583 1332.25728,405.569507 1332.28418,405.313901 C1332.29315,405.26009 1332.29614,405.200299 1332.29713,405.138515 L1332.29763,403.242152 L1332.78187,403.242152 L1332.78187,405.071749 C1332.78187,405.219731 1332.76842,405.340807 1332.76842,405.421525 C1332.75497,405.542601 1332.70116,405.650224 1332.607,405.730942 C1332.43214,405.892377 1332.16312,405.973094 1331.79994,405.973094 C1331.42332,405.973094 1331.1543,405.892377 1330.97943,405.730942 C1330.88528,405.636771 1330.83147,405.529148 1330.81802,405.408072 C1330.80793,405.357623 1330.80541,405.276906 1330.80478,405.171595 L1330.80457,403.242152 L1331.30226,403.242152 Z M1313.86976,403.242152 L1313.86976,405.286996 C1313.88321,405.556054 1314.04463,405.67713 1314.354,405.690583 C1314.66337,405.690583 1314.82478,405.569507 1314.85169,405.313901 C1314.86514,405.233184 1314.86514,405.139013 1314.86514,405.044843 L1314.86514,403.242152 L1315.34937,403.242152 L1315.34937,405.071749 C1315.34937,405.219731 1315.34937,405.340807 1315.33592,405.421525 C1315.32247,405.542601 1315.26867,405.650224 1315.17451,405.730942 C1314.99965,405.892377 1314.73063,405.973094 1314.36745,405.973094 C1313.99082,405.973094 1313.7218,405.892377 1313.54694,405.730942 C1313.45278,405.636771 1313.39898,405.529148 1313.38553,405.408072 C1313.37544,405.357623 1313.37292,405.276906 1313.37229,405.171595 L1313.37208,403.242152 L1313.86976,403.242152 Z M1339.48046,403.242152 L1339.48046,403.55157 L1338.39093,403.55157 L1338.39093,404.412556 L1339.41321,404.412556 L1339.41321,404.721973 L1338.39093,404.721973 L1338.39093,405.650224 L1339.52082,405.650224 L1339.52082,405.959641 L1337.9067,405.959641 L1337.9067,403.242152 L1339.48046,403.242152 Z M1327.33421,403.255605 L1327.33421,403.55157 L1326.28503,403.55157 L1326.28503,404.412556 L1327.30731,404.412556 L1327.30731,404.721973 L1326.28503,404.721973 L1326.28503,405.959641 L1325.8008,405.959641 L1325.8008,403.255605 L1327.33421,403.255605 Z M1322.07487,403.242152 L1322.07487,403.55157 L1320.97189,403.55157 L1320.97189,404.412556 L1322.00762,404.412556 L1322.00762,404.721973 L1320.97189,404.721973 L1320.97189,405.650224 L1322.10177,405.650224 L1322.10177,405.959641 L1320.48765,405.959641 L1320.48765,403.242152 L1322.07487,403.242152 Z M1329.51327,403.174888 C1329.84955,403.174888 1330.10512,403.242152 1330.25308,403.363229 C1330.37414,403.457399 1330.42794,403.659193 1330.42794,403.941704 L1330.42794,403.995516 L1329.94371,403.995516 L1329.94371,403.928251 L1329.93026,403.793722 C1329.90335,403.578475 1329.75539,403.484305 1329.49982,403.484305 C1329.177,403.484305 1329.01559,403.605381 1329.00214,403.860987 C1329.00214,404.022422 1329.10974,404.143498 1329.31151,404.251121 C1329.43257,404.318386 1329.58053,404.372197 1329.74194,404.439462 C1329.90335,404.506726 1330.03786,404.560538 1330.13202,404.61435 C1330.36069,404.748879 1330.48175,404.950673 1330.48175,405.219731 C1330.48175,405.717489 1330.13202,405.959641 1329.44602,405.959641 C1329.1501,405.959641 1328.92143,405.919283 1328.77347,405.825112 C1328.58516,405.717489 1328.491,405.556054 1328.47755,405.340807 L1328.4641,405.125561 L1328.4641,405.017937 L1328.94833,405.017937 L1328.94833,405.192825 C1328.94833,405.273543 1328.94833,405.340807 1328.97523,405.408072 C1329.02904,405.596413 1329.177,405.67713 1329.44602,405.67713 C1329.54018,405.67713 1329.63433,405.663677 1329.71504,405.636771 C1329.8899,405.58296 1329.98406,405.44843 1329.99751,405.246637 C1329.99751,405.112108 1329.94371,405.004484 1329.82265,404.923767 C1329.74194,404.869955 1329.63433,404.816143 1329.52673,404.762332 L1329.177,404.61435 C1329.04249,404.560538 1328.92143,404.493274 1328.82727,404.426009 C1328.63896,404.29148 1328.53135,404.116592 1328.53135,403.874439 C1328.53135,403.605381 1328.63896,403.430493 1328.85418,403.309417 C1329.01559,403.2287 1329.2308,403.188341 1329.51327,403.174888 Z M1309.64615,403.174888 C1309.98242,403.174888 1310.23799,403.242152 1310.38595,403.363229 C1310.50701,403.457399 1310.56082,403.659193 1310.56082,403.941704 L1310.56082,403.995516 L1310.07658,403.995516 L1310.07658,403.928251 L1310.06313,403.793722 C1310.03623,403.578475 1309.88827,403.484305 1309.6327,403.484305 C1309.30987,403.484305 1309.14846,403.605381 1309.13501,403.860987 C1309.13501,404.022422 1309.24262,404.143498 1309.44438,404.251121 C1309.56544,404.318386 1309.7134,404.372197 1309.87482,404.439462 C1310.03623,404.506726 1310.17074,404.560538 1310.2649,404.61435 C1310.49356,404.748879 1310.61462,404.950673 1310.61462,405.219731 C1310.61462,405.717489 1310.2649,405.959641 1309.57889,405.959641 C1309.28297,405.959641 1309.05431,405.919283 1308.90634,405.825112 C1308.71803,405.717489 1308.62387,405.556054 1308.61042,405.340807 L1308.59697,405.125561 L1308.59697,405.017937 L1309.08121,405.017937 L1309.08121,405.192825 C1309.08121,405.273543 1309.09466,405.340807 1309.10811,405.408072 C1309.16191,405.596413 1309.30987,405.67713 1309.57889,405.67713 C1309.67305,405.67713 1309.76721,405.663677 1309.84791,405.636771 C1310.03623,405.58296 1310.11693,405.44843 1310.13039,405.246637 C1310.13039,405.112108 1310.06313,405.004484 1309.95552,404.923767 C1309.87482,404.869955 1309.76721,404.816143 1309.6596,404.762332 L1309.30987,404.61435 C1309.17536,404.560538 1309.05431,404.493274 1308.96015,404.426009 C1308.77183,404.29148 1308.66423,404.116592 1308.66423,403.874439 C1308.66423,403.605381 1308.77183,403.430493 1308.98705,403.309417 C1309.14846,403.2287 1309.36368,403.188341 1309.64615,403.174888 Z M1316.90969,403.242152 C1317.0173,403.242152 1317.1249,403.255605 1317.21906,403.269058 C1317.58224,403.32287 1317.7571,403.538117 1317.7571,403.914798 C1317.7571,404.116592 1317.7033,404.264574 1317.60914,404.372197 C1317.53068,404.450673 1317.39617,404.510463 1317.19783,404.55157 L1317.0711,404.573991 C1317.23251,404.587444 1317.35357,404.61435 1317.42083,404.641256 C1317.52843,404.695067 1317.59569,404.775785 1317.60914,404.883408 C1317.62259,404.950673 1317.63604,405.044843 1317.63604,405.139013 L1317.66294,405.461883 C1317.6764,405.58296 1317.68985,405.67713 1317.7033,405.744395 C1317.71675,405.798206 1317.74365,405.865471 1317.77055,405.959641 L1317.27287,405.959641 L1317.21906,405.784753 C1317.20561,405.730942 1317.19216,405.67713 1317.19216,405.596413 L1317.17871,405.35426 L1317.16526,405.098655 C1317.13836,404.910314 1317.0442,404.789238 1316.86934,404.748879 C1316.80208,404.735426 1316.70792,404.721973 1316.61377,404.721973 L1316.27749,404.721973 L1316.27749,405.946188 L1315.79326,405.946188 L1315.79326,403.242152 L1316.90969,403.242152 Z M1324.36154,403.511211 C1324.26739,403.511211 1324.20013,403.524664 1324.11942,403.55157 C1323.95801,403.605381 1323.87731,403.713004 1323.8504,403.860987 C1323.83695,403.928251 1323.83695,404.022422 1323.83695,404.116592 L1323.83695,405.03139 C1323.83695,405.26009 1323.8504,405.408072 1323.89076,405.475336 C1323.91766,405.542601 1323.98491,405.596413 1324.07907,405.636771 C1324.17323,405.67713 1324.26739,405.690583 1324.36154,405.690583 C1324.4557,405.690583 1324.5364,405.67713 1324.61711,405.636771 C1324.76507,405.58296 1324.85923,405.475336 1324.87268,405.327354 C1324.88613,405.246637 1324.88613,405.139013 1324.88613,405.017937 L1324.88613,404.116592 C1324.88613,403.914798 1324.85923,403.780269 1324.81888,403.699552 C1324.73817,403.565022 1324.59021,403.511211 1324.36154,403.511211 Z M1311.97317,403.511211 C1311.89247,403.511211 1311.81176,403.524664 1311.73105,403.55157 C1311.56964,403.605381 1311.48894,403.713004 1311.46203,403.860987 C1311.44858,403.928251 1311.44858,404.022422 1311.44858,404.116592 L1311.44858,405.03139 L1311.43513,405.03139 C1311.43513,405.26009 1311.44858,405.408072 1311.48894,405.475336 C1311.51584,405.542601 1311.58309,405.596413 1311.67725,405.636771 C1311.77141,405.67713 1311.86556,405.690583 1311.95972,405.690583 C1312.05388,405.690583 1312.13458,405.67713 1312.21529,405.636771 C1312.36325,405.58296 1312.45741,405.475336 1312.47086,405.327354 C1312.48431,405.246637 1312.48431,405.139013 1312.48431,405.017937 L1312.48431,404.116592 C1312.48431,403.914798 1312.45741,403.780269 1312.41706,403.699552 C1312.33635,403.565022 1312.18839,403.511211 1311.97317,403.511211 Z M1295.83197,388 L1292.8593,399.219731 C1292.84585,399.286996 1292.81895,399.35426 1292.79205,399.44843 C1292.7517,399.596413 1292.73824,399.690583 1292.73824,399.730942 C1292.73824,399.865471 1292.76515,399.973094 1292.81895,400.040359 C1292.87275,400.121076 1292.95346,400.147982 1293.06107,400.147982 C1293.16868,400.147982 1293.28974,400.080717 1293.42425,399.932735 C1293.52325,399.833715 1293.69513,399.603501 1293.93989,399.247461 L1293.939,399.265 L1293.94286,399.160383 C1293.98271,398.389304 1294.18198,397.593423 1294.54068,396.744395 C1294.94421,395.802691 1295.4688,394.96861 1296.14135,394.242152 C1296.66594,393.663677 1297.21743,393.219731 1297.79582,392.910314 C1298.37421,392.600897 1298.9257,392.439462 1299.45029,392.439462 C1299.96143,392.439462 1300.35151,392.560538 1300.64743,392.789238 C1300.94335,393.03139 1301.13167,393.381166 1301.22582,393.865471 L1301.52175,392.762332 L1304.29265,392.762332 L1304.24891,392.916454 C1304.73571,392.855953 1305.22448,392.788963 1305.71846,392.721973 C1306.51207,392.600897 1306.9425,392.547085 1306.9963,392.547085 C1307.31913,392.547085 1307.73611,393.878924 1308.23379,396.556054 C1308.43556,397.618834 1308.61042,398.479821 1308.74493,399.125561 C1309.35023,397.96861 1309.75376,397.121076 1309.98242,396.58296 C1310.21109,396.058296 1310.3187,395.668161 1310.3187,395.412556 C1310.3187,395.224215 1310.13039,394.982063 1309.76721,394.713004 C1309.40403,394.443946 1309.20227,394.134529 1309.20227,393.784753 C1309.20227,393.381166 1309.33678,393.058296 1309.59235,392.816143 C1309.84791,392.573991 1310.18419,392.452915 1310.61462,392.452915 C1310.92379,392.452915 1311.18859,392.519475 1311.40354,392.652594 L1311.42168,392.587444 C1312.20184,392.426009 1312.87439,392.076233 1313.47968,391.538117 C1314.07153,390.986547 1314.60957,390.246637 1315.08035,389.278027 L1315.6991,389.278027 L1314.89204,392.466368 L1316.53306,392.466368 L1316.37165,393.139013 L1314.71718,393.139013 L1313.07615,399.273543 C1313.0358,399.408072 1313.0089,399.529148 1312.99545,399.650224 C1312.982,399.757848 1312.96855,399.865471 1312.96855,399.946188 C1312.96855,400.147982 1313.0089,400.309417 1313.11651,400.41704 C1313.21066,400.524664 1313.34517,400.578475 1313.50659,400.578475 C1313.7218,400.578475 1313.97737,400.457399 1314.27329,400.215247 C1314.5337,400.002152 1314.85661,399.664043 1315.24202,399.210086 L1315.24176,399.179372 C1315.24176,398.358744 1315.41663,397.524664 1315.76635,396.690583 C1316.11608,395.856502 1316.60032,395.103139 1317.20561,394.443946 C1317.79745,393.825112 1318.4431,393.340807 1319.14255,393.017937 C1319.85546,392.695067 1320.58181,392.520179 1321.32162,392.520179 C1322.00762,392.520179 1322.54566,392.668161 1322.94919,392.977578 C1323.35272,393.273543 1323.54103,393.690583 1323.54103,394.2287 C1323.54103,395.183857 1322.96264,396.004484 1321.80585,396.704036 C1320.66252,397.376682 1319.14255,397.793722 1317.27287,397.928251 C1317.20561,398.156951 1317.17871,398.372197 1317.13836,398.587444 C1317.11145,398.789238 1317.098,398.977578 1317.098,399.152466 C1317.098,399.690583 1317.23251,400.09417 1317.51498,400.376682 C1317.784,400.659193 1318.18753,400.860987 1318.72557,400.860987 C1319.25016,400.860987 1319.84201,400.632287 1320.50111,400.282511 C1321.10302,399.975368 1321.78346,399.522366 1322.52195,398.923507 C1322.51059,398.796301 1322.5053,398.666648 1322.5053,398.533632 C1322.5053,397.793722 1322.68017,397.053812 1323.01644,396.286996 C1323.35272,395.520179 1323.81005,394.834081 1324.41535,394.242152 C1324.96684,393.690583 1325.57213,393.273543 1326.25813,392.977578 C1326.93068,392.681614 1327.61668,392.520179 1328.32959,392.520179 C1329.06939,392.520179 1329.66124,392.681614 1330.10512,393.004484 C1330.549,393.327354 1330.76422,393.757848 1330.76422,394.295964 C1330.76422,394.618834 1330.65661,394.901345 1330.41449,395.130045 C1330.18582,395.358744 1329.9168,395.479821 1329.60743,395.479821 C1329.35186,395.479821 1329.13665,395.399103 1328.98869,395.237668 C1328.82727,395.076233 1328.74657,394.874439 1328.74657,394.605381 C1328.74657,394.430493 1328.81382,394.215247 1328.93488,393.973094 C1329.05594,393.730942 1329.1232,393.58296 1329.1232,393.529148 C1329.1232,393.421525 1329.05594,393.327354 1328.93488,393.26009 C1328.80037,393.192825 1328.62551,393.152466 1328.41029,393.152466 C1327.95296,393.152466 1327.49562,393.286996 1327.01139,393.556054 C1326.5406,393.838565 1326.12362,394.215247 1325.7739,394.686099 C1325.34346,395.264574 1325.00719,395.883408 1324.76507,396.529148 C1324.5364,397.174888 1324.41535,397.807175 1324.41535,398.426009 C1324.41535,399.125561 1324.60366,399.690583 1324.98029,400.107623 C1325.35692,400.524664 1325.86805,400.793722 1326.5137,400.793722 C1327.02484,400.793722 1327.52253,400.565022 1328.02021,400.269058 C1328.48603,399.976216 1329.29424,399.38045 1330.15817,398.103843 L1332.43214,390.26009 C1332.45904,390.192825 1332.45904,390.112108 1332.47249,390.044843 C1332.48595,389.977578 1332.48595,389.896861 1332.48595,389.843049 C1332.48595,389.641256 1332.43214,389.493274 1332.32453,389.412556 C1332.21693,389.345291 1331.90755,389.304933 1331.40987,389.304933 L1330.64316,389.304933 L1330.76422,388.780269 C1331.38296,388.753363 1331.96136,388.686099 1332.4994,388.591928 C1333.03744,388.484305 1333.53512,388.349776 1334.01936,388.174888 L1334.62465,388.174888 L1332.29763,396.179372 C1333.49477,395.022422 1334.5843,394.134529 1335.59313,393.488789 C1336.5885,392.856502 1337.38211,392.533632 1337.97395,392.533632 C1338.28333,392.533632 1338.51199,392.600897 1338.65995,392.748879 C1338.80791,392.896861 1338.88862,393.112108 1338.88862,393.421525 C1338.88862,393.515695 1338.87517,393.623318 1338.84827,393.757848 C1338.82137,393.892377 1338.78101,394.040359 1338.74066,394.215247 L1337.04583,399.636771 C1337.01893,399.744395 1336.99203,399.865471 1336.96513,399.986547 C1336.93823,400.107623 1336.92477,400.2287 1336.92477,400.363229 C1336.92477,400.430493 1336.96513,400.497758 1337.01893,400.55157 C1337.08619,400.605381 1337.15344,400.699552 1337.23415,400.699552 C1337.39556,400.699552 1337.63768,400.524664 1337.92015,400.309417 C1338.21607,400.09417 1338.52544,399.798206 1338.84827,399.434978 L1339.19799,399.717489 C1338.60615,400.403587 1338.05466,400.941704 1337.50317,401.304933 C1336.96513,401.668161 1336.45399,401.856502 1335.99666,401.856502 C1335.70073,401.856502 1335.45862,401.789238 1335.28375,401.654709 C1335.10889,401.520179 1335.02818,401.331839 1335.02818,401.089686 C1335.02818,401.008969 1335.04163,400.914798 1335.05509,400.807175 C1335.06854,400.713004 1335.10889,400.605381 1335.14924,400.484305 L1336.89787,394.847534 C1336.92477,394.726457 1336.95168,394.632287 1336.96513,394.565022 C1336.97858,394.497758 1336.97858,394.443946 1336.97858,394.390135 C1336.97858,394.242152 1336.93823,394.134529 1336.84407,394.053812 C1336.76336,393.986547 1336.6423,393.946188 1336.48089,393.946188 C1336.23877,393.946188 1335.86215,394.09417 1335.37791,394.390135 C1334.89367,394.686099 1334.32873,395.116592 1333.69654,395.668161 C1333.13159,396.152466 1332.70116,396.569507 1332.43214,396.919283 C1332.16312,397.269058 1331.97481,397.618834 1331.85375,397.995516 L1330.69696,401.883408 C1330.56245,401.869955 1330.09167,401.856502 1329.95716,401.843049 C1329.89951,401.837284 1329.90363,401.833989 1329.91551,401.832107 L1329.93363,401.82991 L1329.87645,401.829596 C1329.72849,401.829596 1329.59398,401.829596 1329.45947,401.843049 C1329.35186,401.829596 1329.21735,401.843049 1329.06939,401.856502 L1329.62924,399.929544 C1329.16042,400.465046 1328.66163,400.890434 1328.12782,401.210762 C1327.38802,401.641256 1326.59441,401.856502 1325.72009,401.856502 C1324.76507,401.856502 1323.98491,401.547085 1323.39307,400.941704 C1323.07068,400.611944 1322.8361,400.222308 1322.68932,399.774971 C1321.88256,400.42395 1321.11243,400.913052 1320.38005,401.251121 C1319.51918,401.654709 1318.65832,401.856502 1317.82436,401.856502 C1317.00385,401.856502 1316.37165,401.61435 1315.91431,401.156951 C1315.62328,400.857318 1315.4303,400.481414 1315.32843,400.029241 L1315.30923,399.922225 C1314.86598,400.453195 1314.42462,400.874439 1313.99082,401.197309 C1313.42588,401.627803 1312.90129,401.843049 1312.43051,401.843049 C1312.05388,401.843049 1311.75796,401.721973 1311.52929,401.493274 C1311.31407,401.251121 1311.19301,400.941704 1311.19301,400.538117 C1311.19301,400.403587 1311.20647,400.242152 1311.23337,400.067265 C1311.26027,399.892377 1311.30062,399.704036 1311.35443,399.488789 L1313.0627,393.139013 L1311.8286,393.139319 C1311.92181,393.337346 1311.97317,393.572544 1311.97317,393.838565 C1311.97317,394.390135 1311.6907,395.264574 1311.15266,396.475336 C1310.60117,397.686099 1309.84791,399.044843 1308.90634,400.578475 C1307.83026,402.313901 1306.84834,403.578475 1305.97403,404.372197 C1305.09971,405.165919 1304.2523,405.569507 1303.43179,405.569507 C1302.89375,405.569507 1302.46332,405.44843 1302.15394,405.219731 C1301.84457,404.991031 1301.68316,404.668161 1301.68316,404.264574 C1301.68316,403.901345 1301.81767,403.605381 1302.08669,403.363229 C1302.35571,403.121076 1302.69198,403 1303.10896,403 C1303.43179,403 1303.78151,403.121076 1304.14469,403.363229 C1304.50787,403.605381 1304.76344,403.726457 1304.8845,403.726457 C1305.09971,403.726457 1305.35528,403.55157 1305.63775,403.201794 C1305.93367,402.838565 1306.06818,402.502242 1306.06818,402.179372 C1306.06818,401.93722 1306.04128,401.641256 1306.00093,401.278027 C1305.96058,400.914798 1305.89332,400.457399 1305.79916,399.932735 C1305.61085,398.789238 1305.42254,397.753363 1305.23422,396.825112 C1305.04591,395.896861 1304.87105,395.156951 1304.70963,394.618834 C1304.57512,394.161435 1304.44061,393.852018 1304.29265,393.717489 C1304.23363,393.658461 1304.15649,393.609793 1304.06121,393.573757 L1302.70543,398.304933 L1302.70543,398.318386 C1302.46332,399.179372 1302.34226,399.663677 1302.34226,399.811659 C1302.34226,399.946188 1302.36916,400.053812 1302.42296,400.134529 C1302.47677,400.215247 1302.54402,400.255605 1302.63818,400.255605 C1302.89375,400.255605 1303.23002,399.959641 1303.63355,399.367713 C1303.75461,399.192825 1303.84877,399.071749 1303.91602,398.977578 L1304.37336,399.327354 C1303.84877,400.188341 1303.33763,400.834081 1302.81304,401.237668 C1302.28845,401.641256 1301.71006,401.843049 1301.10477,401.843049 C1300.59363,401.843049 1300.217,401.735426 1299.94798,401.520179 C1299.67896,401.304933 1299.54445,400.995516 1299.54445,400.578475 C1299.54445,400.457399 1299.5579,400.295964 1299.5848,400.107623 C1299.6117,399.919283 1299.65206,399.67713 1299.70586,399.367713 C1299.22163,400.201794 1298.69704,400.820628 1298.13209,401.224215 C1297.56715,401.627803 1296.93496,401.829596 1296.24895,401.829596 C1295.53605,401.829596 1294.97111,401.61435 1294.55413,401.197309 C1294.2811,400.915428 1294.10033,400.5701 1294.00807,400.157548 C1293.65872,400.608519 1293.3146,400.96331 1292.98036,401.224215 C1292.44232,401.654709 1291.87738,401.869955 1291.28554,401.869955 C1290.76095,401.869955 1290.35742,401.735426 1290.0884,401.452915 C1289.80593,401.170404 1289.67142,400.780269 1289.67142,400.255605 C1289.67142,400 1289.81938,399.327354 1290.10185,398.237668 L1290.12875,398.130045 L1290.219,397.803 L1290.05376,398.157931 C1289.82077,398.627666 1289.54308,399.07577 1289.22753,399.502242 C1288.63569,400.282511 1288.01694,400.874439 1287.35784,401.264574 C1286.69875,401.654709 1285.98584,401.856502 1285.24604,401.856502 C1284.93667,401.856502 1284.65419,401.816143 1284.38517,401.721973 C1284.11615,401.627803 1283.87404,401.506726 1283.65882,401.345291 L1283.08043,403.443946 C1283.04007,403.565022 1283.01317,403.699552 1282.99972,403.834081 C1282.97282,403.96861 1282.97282,404.089686 1282.97282,404.224215 C1282.97282,404.479821 1283.05353,404.654709 1283.20149,404.762332 C1283.3629,404.869955 1283.67227,404.923767 1284.15651,404.950673 L1284.15651,405.434978 L1278.7223,405.434978 L1278.7223,404.923767 C1278.73575,404.923767 1278.76266,404.923767 1278.80301,404.910314 C1278.84336,404.896861 1278.87026,404.896861 1278.88372,404.896861 C1279.21999,404.896861 1279.47556,404.816143 1279.63697,404.641256 C1279.81183,404.479821 1279.97325,404.035874 1280.16156,403.32287 L1282.31372,394.955157 C1282.35407,394.820628 1282.38098,394.686099 1282.40788,394.55157 C1282.43478,394.430493 1282.44823,394.32287 1282.44823,394.255605 C1282.44823,394.026906 1282.38098,393.865471 1282.23301,393.784753 C1282.08505,393.690583 1281.81603,393.650224 1281.42595,393.650224 L1281.42595,393.219731 L1281.4125,393.219731 C1282.21956,393.165919 1282.97282,393.085202 1283.69917,392.991031 C1284.42553,392.896861 1285.12498,392.802691 1285.79753,392.668161 L1285.23259,394.605381 C1285.79753,393.852018 1286.33557,393.300448 1286.86016,392.964126 C1287.3713,392.61435 1287.89588,392.452915 1288.46083,392.452915 C1289.21408,392.452915 1289.80593,392.681614 1290.20946,393.139013 C1290.62644,393.596413 1290.8282,394.242152 1290.8282,395.089686 C1290.8282,395.275716 1290.81905,395.463577 1290.80049,395.653509 L1292.10605,390.825112 C1292.1195,390.757848 1292.1464,390.663677 1292.18675,390.529148 C1292.30781,390.044843 1292.36162,389.735426 1292.36162,389.600897 C1292.36162,389.412556 1292.29436,389.278027 1292.15985,389.197309 C1292.02534,389.116592 1291.82358,389.06278 1291.54111,389.06278 L1291.36624,389.06278 L1291.36624,388.605381 C1292.1733,388.538117 1292.95346,388.457399 1293.70672,388.363229 C1294.45997,388.255605 1295.15942,388.147982 1295.83197,388 Z M1265.92635,390.340767 L1266.03801,390.394619 L1268.41884,391.807175 C1273.77234,390.017937 1278.70885,390.623318 1279.90599,393.408072 C1281.22419,396.488789 1277.45791,401.049327 1271.47222,403.618834 C1265.49997,406.174888 1259.58153,405.757848 1258.26333,402.67713 C1257.14382,400.068946 1259.68688,396.377312 1264.12462,393.761873 L1264.41044,393.596413 L1264.41044,391.295964 C1264.44878,390.529148 1265.21548,390.041581 1265.92635,390.340767 Z M1260.805,400.552 C1260.13302,402.7713 1261.16875,404.399103 1263.76479,404.587444 C1266.01111,404.748879 1268.88962,403.793722 1271.47222,402.206278 C1271.37806,402.246637 1271.2839,402.286996 1271.18974,402.327354 C1266.57605,404.29148 1262.01616,403.96861 1261.00734,401.600897 C1260.88897,401.342601 1260.83086,401.058475 1260.81235,400.769184 L1260.805,400.552 Z M1316.68102,403.565022 L1316.30439,403.565022 L1316.30439,404.426009 L1316.65412,404.426009 C1316.76173,404.426009 1316.84243,404.426009 1316.92314,404.412556 C1317.0711,404.38565 1317.17871,404.331839 1317.23251,404.237668 C1317.27287,404.183857 1317.28632,404.076233 1317.28632,403.941704 C1317.28632,403.793722 1317.23251,403.686099 1317.1249,403.632287 C1317.0442,403.591928 1316.89624,403.565022 1316.68102,403.565022 Z M1271.33403,393.408335 L1270.98798,393.502242 L1274.41798,395.38565 C1275.00033,395.714851 1275.09416,396.544556 1274.55369,396.977503 L1274.44489,397.053812 L1265.98421,401.964126 C1265.37084,402.296413 1264.52683,401.936648 1264.45549,401.138584 L1264.45079,401.008969 L1264.43734,397.511211 C1264.38354,397.578475 1264.32974,397.632287 1264.28938,397.686099 C1261.98926,400.470852 1262.41969,402.892377 1265.2444,403.09417 C1268.08256,403.295964 1272.23892,401.358744 1274.53904,398.573991 C1276.83916,395.789238 1276.40873,393.367713 1273.59747,393.165919 C1272.90307,393.118834 1272.13657,393.205647 1271.33403,393.408335 Z M1286.94086,394.067265 C1286.49698,394.067265 1286.08,394.349776 1285.70337,394.887892 C1285.32674,395.426009 1284.97702,396.273543 1284.65419,397.41704 L1284.14306,399.219731 C1284.06235,399.488789 1284.00855,399.744395 1283.95474,399.959641 C1283.90094,400.188341 1283.88749,400.349776 1283.88749,400.443946 C1283.88749,400.632287 1283.94129,400.780269 1284.06235,400.901345 C1284.18341,401.008969 1284.33137,401.06278 1284.53314,401.06278 C1284.84251,401.06278 1285.15188,400.901345 1285.47471,400.578475 C1285.79753,400.255605 1286.1069,399.784753 1286.41627,399.179372 C1286.77945,398.399103 1287.07537,397.632287 1287.30404,396.865471 C1287.51926,396.112108 1287.64032,395.506726 1287.64032,395.089686 C1287.64032,394.780269 1287.57306,394.524664 1287.43855,394.349776 C1287.30404,394.161435 1287.14263,394.067265 1286.94086,394.067265 Z M1300.01523,393.529148 C1299.73276,393.529148 1299.46374,393.663677 1299.19472,393.932735 C1298.9257,394.201794 1298.62978,394.64574 1298.28006,395.264574 C1297.87653,396.004484 1297.5537,396.730942 1297.32503,397.443946 C1297.09637,398.170404 1296.97531,398.775785 1296.97531,399.273543 C1296.97531,399.58296 1297.04256,399.811659 1297.16362,400 C1297.29813,400.174888 1297.473,400.255605 1297.68821,400.255605 C1298.01104,400.255605 1298.33386,400.080717 1298.67013,399.704036 C1299.00641,399.340807 1299.32923,398.816143 1299.62516,398.156951 C1299.94798,397.41704 1300.1901,396.690583 1300.37841,396.004484 C1300.59363,395.304933 1300.68778,394.780269 1300.68778,394.41704 C1300.68778,394.147982 1300.63398,393.932735 1300.49947,393.7713 C1300.37841,393.609865 1300.217,393.529148 1300.01523,393.529148 Z M1265.67259,392.688439 L1265.66138,392.789238 L1265.68829,399.394619 C1265.67568,399.974776 1266.20689,400.259336 1266.63908,400.093113 L1266.72401,400.053812 L1272.46759,396.730942 C1272.87977,396.46861 1272.86282,395.916285 1272.52443,395.644839 L1272.44069,395.587444 L1266.76437,392.183857 C1266.28517,391.919002 1265.75869,392.198045 1265.67259,392.688439 Z M1321.25436,393.286996 C1320.4473,393.286996 1319.7075,393.636771 1319.0215,394.336323 C1318.33549,395.049327 1317.81091,396.017937 1317.43428,397.255605 C1318.75248,397.201794 1319.86891,396.852018 1320.77013,396.233184 C1321.67134,395.600897 1322.11523,394.887892 1322.11523,394.09417 C1322.11523,393.825112 1322.04797,393.623318 1321.90001,393.488789 C1321.7655,393.35426 1321.55028,393.286996 1321.25436,393.286996 Z M1269.92796,392.352686 L1269.57562,392.493274 L1270.16747,392.843049 C1273.65912,391.9929 1276.69307,392.516069 1277.61295,394.301292 L1277.68658,394.457399 L1277.726,394.55 L1277.73653,394.376718 C1277.78588,392.76262 1276.70929,391.653626 1274.5794,391.497758 C1273.19843,391.397309 1271.57139,391.718744 1269.92796,392.352686 Z M1340.23372,405.044843 L1340.23372,405.192825 C1340.23372,405.273543 1340.24717,405.340807 1340.26062,405.408072 C1340.31443,405.596413 1340.46239,405.67713 1340.73141,405.67713 C1340.82556,405.67713 1340.91972,405.663677 1341.00043,405.636771 C1341.17529,405.58296 1341.26945,405.44843 1341.2829,405.246637 C1341.2829,405.112108 1341.21564,405.004484 1341.10804,404.923767 C1341.02733,404.869955 1340.91972,404.816143 1340.81211,404.762332 L1340.46239,404.61435 C1340.32788,404.560538 1340.20682,404.493274 1340.11266,404.426009 C1339.92435,404.29148 1339.81674,404.116592 1339.81674,403.874439 C1339.81674,403.605381 1339.92435,403.430493 1340.13956,403.309417 C1340.30098,403.2287 1340.51619,403.188341 1340.79866,403.174888 C1341.13494,403.174888 1341.39051,403.242152 1341.53847,403.363229 C1341.65953,403.457399 1341.71333,403.659193 1341.71333,403.941704 L1341.71333,403.995516 L1341.22909,403.995516 L1341.22909,403.928251 L1341.21564,403.793722 C1341.18874,403.578475 1341.04078,403.484305 1340.78521,403.484305 C1340.46239,403.484305 1340.30098,403.605381 1340.28752,403.860987 C1340.28752,404.022422 1340.39513,404.143498 1340.5969,404.251121 C1340.71796,404.318386 1340.86592,404.372197 1341.02733,404.439462 C1341.18874,404.506726 1341.3098,404.560538 1341.41741,404.61435 C1341.64608,404.748879 1341.76713,404.950673 1341.76713,405.219731 C1341.76713,405.717489 1341.41741,405.959641 1340.73141,405.959641 C1340.43549,405.959641 1340.20682,405.919283 1340.05886,405.825112 C1339.87054,405.717489 1339.77639,405.556054 1339.76294,405.340807 L1339.74948,405.125561 L1339.74948,405.017937 L1340.23372,405.017937 L1340.23372,405.044843 Z M1342.46659,405.044843 L1342.46659,405.192825 C1342.46659,405.273543 1342.48004,405.340807 1342.49349,405.408072 C1342.54729,405.596413 1342.69525,405.67713 1342.96427,405.67713 C1343.05843,405.67713 1343.15259,405.663677 1343.23329,405.636771 C1343.40816,405.58296 1343.50231,405.44843 1343.51576,405.246637 C1343.51576,405.112108 1343.44851,405.004484 1343.3409,404.923767 C1343.2602,404.869955 1343.15259,404.816143 1343.04498,404.762332 L1342.69525,404.61435 C1342.56074,404.560538 1342.43968,404.493274 1342.34553,404.426009 C1342.15721,404.29148 1342.04961,404.116592 1342.04961,403.874439 C1342.04961,403.605381 1342.15721,403.430493 1342.37243,403.309417 C1342.53384,403.2287 1342.74906,403.188341 1343.03153,403.174888 C1343.3678,403.174888 1343.60992,403.242152 1343.77133,403.363229 C1343.89239,403.457399 1343.9462,403.659193 1343.9462,403.941704 L1343.9462,403.995516 L1343.46196,403.995516 L1343.46196,403.928251 L1343.44851,403.793722 C1343.42161,403.578475 1343.27365,403.484305 1343.01808,403.484305 C1342.69525,403.484305 1342.53384,403.605381 1342.52039,403.860987 C1342.52039,404.022422 1342.628,404.143498 1342.82976,404.251121 C1342.95082,404.318386 1343.09878,404.372197 1343.2602,404.439462 C1343.42161,404.506726 1343.55612,404.560538 1343.65027,404.61435 C1343.87894,404.748879 1344,404.950673 1344,405.219731 C1344,405.717489 1343.65027,405.959641 1342.96427,405.959641 C1342.66835,405.959641 1342.43968,405.919283 1342.29172,405.825112 C1342.10341,405.717489 1342.00925,405.556054 1341.9958,405.340807 L1341.98235,405.125561 L1341.98235,405.017937 L1342.46659,405.017937 L1342.46659,405.044843 Z" id="Combined-Shape"></path>
-                           </g>
-                        </g>
-                     </svg>
-                  </button>
-               </span>
-               <span title="Ezugi">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="53" height="20" viewBox="0 0 53 20" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M37.528 20c-.1-.012-.2-.027-.302-.036a8.867 8.867 0 0 1-1.841-.384 7.71 7.71 0 0 1-1.566-.68.183.183 0 0 1-.109-.182V15.596l.114.072c.804.54 1.7.928 2.645 1.147.503.121 1.02.172 1.536.15.301-.008.6-.064.883-.164a1.37 1.37 0 0 0 .672-.499c.14-.204.225-.44.247-.686a3.27 3.27 0 0 0 .017-.347V14.338a.698.698 0 0 0-.072.042 4.04 4.04 0 0 1-2.821.805 4.383 4.383 0 0 1-1.493-.37 4.193 4.193 0 0 1-2.1-2.093 5.333 5.333 0 0 1-.476-1.674 6.175 6.175 0 0 1 .17-2.452 4.533 4.533 0 0 1 .988-1.829 4.12 4.12 0 0 1 2.251-1.297 4.776 4.776 0 0 1 1.62-.077 3.47 3.47 0 0 1 1.871.792c.01.009.022.017.034.024h.02V5.7c.087-.022 3.099-.032 3.334-.012a.554.554 0 0 1 .01.065.69.69 0 0 1 0 .072v9.463a6.11 6.11 0 0 1-.222 1.725 3.832 3.832 0 0 1-.987 1.696 4.09 4.09 0 0 1-1.57.937 6.14 6.14 0 0 1-1.339.292c-.159.017-.32.029-.479.043a.287.287 0 0 0-.055.016l-.98.004zm2.278-9.71V9.182a.197.197 0 0 0-.067-.16 2.439 2.439 0 0 0-1.87-.709 1.557 1.557 0 0 0-1.433.974 2.442 2.442 0 0 0 0 1.987c.147.373.431.675.794.846.353.163.75.209 1.13.132a2.634 2.634 0 0 0 1.384-.708.166.166 0 0 0 .057-.133c.003-.372.005-.746.005-1.12zm13.19-7.845a.325.325 0 0 0-.017.057 2.115 2.115 0 0 1-.57 1.294 2.23 2.23 0 0 1-1.303.74 2.192 2.192 0 0 1-1.775-.44 2.216 2.216 0 0 1-.883-1.47 2.154 2.154 0 0 1 .494-1.774 2.225 2.225 0 0 1 1.934-.845c.493.03.96.227 1.325.558.401.343.672.812.767 1.33.013.072.022.145.032.218l-.005.332zM9.228 10.147H3.444v2.263h6.421v3.226c-.076.02-9.622.03-9.84.011l-.008-.007v-.008C.006 10.988 0 6.344 0 1.7v-.123a.1.1 0 0 1 .011-.032h9.85v3.111c-.025 0-.051.007-.077.009H3.443v2.363H9.22c.024.076.032 2.974.008 3.12zm12.59-4.46h3.34v5.832c-.005.235.042.468.137.683.16.375.504.64.909.702a1.698 1.698 0 0 0 1.482-.442c.11-.1.203-.22.306-.33a.228.228 0 0 0 .06-.167V5.701c.078-.025 3.101-.035 3.322-.013.022.07.031 9.77.009 9.943h-3.277c-.01-.223 0-.45-.008-.691a.617.617 0 0 0-.058.042 3.574 3.574 0 0 1-1.934.937c-.93.14-1.82.019-2.639-.47a3.248 3.248 0 0 1-1.527-2.054 3.95 3.95 0 0 1-.124-.985V5.831l.002-.144zm-10.742 9.964V13.012a.226.226 0 0 1 .075-.178c.35-.33.703-.67 1.045-1.002l1.616-1.567.978-.948.864-.842c.017-.017.029-.034.056-.065h-4.53c-.025-.08-.033-2.586-.01-2.717h9.015V8.281c.002.05-.018.1-.055.134-.358.345-.717.694-1.073 1.04l-.838.814-1.611 1.563-.988.956a1.352 1.352 0 0 0-.067.074h4.736v2.789h-9.213zm37.13 0h-3.329V5.688h3.328v9.963z" fill="#FFF" fill-rule="nonzero"></path>
-                     </svg>
-                  </button>
-               </span>
-               <span title="AMUSNET(EGT)"><button class="btn s-big accordion-button badge-promo  " type="button" data-badge="Promosyon">AMUSNET(EGT)</button></span>
-               <span title="Live Games">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="78" height="22" viewBox="0 0 78 22" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M27.14 13.155v-1.452h-3.352V5.897H22.35v6.29c0 .648.316.968.958.968h3.831zm1.14-7.258h1.37v7.258h-1.37V5.897zm5.48 5.767-1.723-5.767h-1.476l2.165 7.258h2.057l2.164-7.258h-1.476l-1.712 5.767zm8.661 1.49v-1.45h-3.353v-1.452h1.437l.48-1.452h-1.917V7.348h3.353V5.897H38.59c-.641 0-.957.32-.957.968v5.322c0 .648.316.968.957.968h3.832zm34.59-4.346h-3.458V7.352h3.953L78 5.897h-4.942c-.662 0-.988.32-.988.97v2.426c0 .64.326.96.988.96h3.46v1.456H72.07v1.446h4.942c.662 0 .988-.32.988-.97V9.758c0-.621-.336-.951-.988-.951zM66.369 6.865v5.322c0 .648.317.968.958.968h3.832v-1.452h-3.353v-1.451h1.437l.48-1.452h-1.917V7.348h3.353V5.897h-3.832c-.641 0-.958.32-.958.968zm-1.14 0c0-.649-.319-.968-.966-.968h-6.279c-.647 0-.965.32-.965.968v6.29h1.448V7.348h1.932v5.807h1.45V7.348h1.921v5.807h1.45v-6.29h.01zm-10.111-.968h-3.953c-.662 0-.989.32-.989.968v6.29h1.483v-1.936h2.965v1.936h1.482v-6.29c0-.649-.326-.968-.988-.968zm-.494 3.87h-2.965V7.349h2.965v2.42zm-11.29-2.91v5.329c0 .649.326.969.989.969h3.953c.662 0 .988-.32.988-.97V9.774c0-.65-.326-.969-.988-.969h-1.967l-.494 1.453h1.967v1.454h-2.965V7.35h4.447V5.897h-4.941c-.663-.01-.989.31-.989.96zm-13 7.8h.711v1.9h.403v-1.9h.71v-.368h-1.824v.368zm-7.298-.368v2.268h.376v-.921h1.083v-.368h-1.083v-.62h1.22v-.36h-1.596zm5.053 1.28c0 .21-.051.361-.164.466a.607.607 0 0 1-.442.152.576.576 0 0 1-.44-.162c-.103-.104-.165-.265-.165-.474v-1.262h-.42v1.28c0 .143.02.285.071.428a.777.777 0 0 0 .205.303c.093.086.206.143.318.19.134.048.278.067.421.067.144 0 .288-.02.431-.067a.81.81 0 0 0 .534-.503 1.26 1.26 0 0 0 .072-.436v-1.253h-.421v1.272zm41.017-1.28h.456v2.268h-.456v-2.268zm-14.824 0v2.268h.456v-2.268h-.456zm11.626 1.076-.707-1.076h-.428v2.268h.398v-1.619l.727 1.057h.01l.737-1.067v1.629h.409v-2.268h-.429l-.717 1.076zm-30.52.205c0 .209-.052.36-.165.465a.607.607 0 0 1-.441.152.576.576 0 0 1-.442-.162c-.102-.104-.164-.265-.164-.474v-1.262h-.42v1.28c0 .143.02.285.071.428a.777.777 0 0 0 .205.303c.093.086.206.143.319.19.133.048.277.067.42.067v-.01c.144 0 .288-.019.431-.066a.81.81 0 0 0 .534-.503 1.26 1.26 0 0 0 .072-.437V14.29h-.42v1.28zm26.242-1.281-.962 2.268h.392l.225-.538h1.037l.224.538h.402l-.962-2.268h-.356zm-.205 1.374.374-.903.374.903h-.748zm15.41-.044h.563v.413a.8.8 0 0 1-.234.122.9.9 0 0 1-.6-.01.798.798 0 0 1-.234-.159.747.747 0 0 1-.15-.244.9.9 0 0 1-.057-.309v-.01a.812.812 0 0 1 .207-.543.787.787 0 0 1 .224-.169.59.59 0 0 1 .282-.065c.065 0 .13.01.187.019.056.009.103.028.16.046.046.02.093.047.14.075.047.028.094.066.131.094l.244-.29c-.056-.047-.113-.094-.178-.132-.056-.037-.122-.065-.188-.093a.915.915 0 0 0-.215-.057c-.085-.018-.178-.018-.263-.018-.159 0-.309.028-.459.093a1.078 1.078 0 0 0-.59.61c-.057.14-.085.29-.085.43v.01c0 .15.028.3.085.45.103.272.318.487.59.59.15.057.31.085.469.085.094 0 .178-.01.272-.019.159-.028.318-.094.459-.187.065-.038.122-.085.178-.132v-.918h-.928v.318h-.01zm-3.58.24-1.258-1.57h-.382v2.268h.403v-1.61l1.297 1.61h.353v-2.268h-.413v1.57zm-15.35-.249h.563v.412a.8.8 0 0 1-.234.122 1.056 1.056 0 0 1-.3.047.9.9 0 0 1-.31-.056.798.798 0 0 1-.234-.16.747.747 0 0 1-.15-.243.9.9 0 0 1-.056-.31v-.009a.812.812 0 0 1 .206-.543.787.787 0 0 1 .225-.169.59.59 0 0 1 .281-.066c.066 0 .122 0 .188.02.056.009.103.027.16.046.046.019.093.047.14.075.047.028.084.066.131.094l.244-.29a1.9 1.9 0 0 0-.169-.123c-.056-.037-.122-.065-.187-.093a.915.915 0 0 0-.216-.057c-.084-.018-.178-.018-.262-.018-.16 0-.31.028-.46.093a1.078 1.078 0 0 0-.59.61c-.056.14-.085.29-.085.43v.01c0 .15.029.3.085.45.103.272.319.487.59.59.15.057.31.085.469.085.094 0 .187-.01.272-.028.16-.029.318-.094.459-.188.066-.037.122-.084.178-.131v-.919h-.937v.32zm-15.793-.023h1.067v-.358h-1.067v-.582h1.204v-.358h-1.578v2.268h1.596v-.359h-1.222v-.61zm-2.807.01a.614.614 0 0 0 .167-.145.8.8 0 0 0 .111-.194.754.754 0 0 0 .037-.252v-.01a.876.876 0 0 0-.046-.271.62.62 0 0 0-.389-.378 1.173 1.173 0 0 0-.361-.058h-.963v2.268h.38v-.795h.472l.528.795h.444l-.583-.863a.567.567 0 0 0 .203-.097zm-1.074-.194v-.765h.556a.52.52 0 0 1 .333.097c.084.067.12.174.12.28v.01a.356.356 0 0 1-.12.281.566.566 0 0 1-.324.107l-.565-.01zm10.022-.777a1.145 1.145 0 0 0-.355-.244 1.29 1.29 0 0 0-.458-.093 1.128 1.128 0 0 0-1.057.693c-.056.14-.084.29-.084.44v.01c0 .15.028.299.084.44a1.089 1.089 0 0 0 1.047.683 1.127 1.127 0 0 0 1.066-.693c.056-.14.084-.29.084-.44v-.01c0-.15-.028-.3-.084-.44a1.778 1.778 0 0 0-.243-.346zm-.094.805a.813.813 0 0 1-.205.544.6.6 0 0 1-.234.168.817.817 0 0 1-.3.066.664.664 0 0 1-.298-.066.747.747 0 0 1-.383-.412.813.813 0 0 1-.057-.3v-.009a.813.813 0 0 1 .206-.543.6.6 0 0 1 .234-.169.74.74 0 0 1 .598 0 .747.747 0 0 1 .383.412.826.826 0 0 1 .056.31zm1.79-1.142v2.268h.376v-.921h1.082v-.359h-1.082v-.62h1.22v-.368h-1.597zM19.613 5.897V8.65l-7.056 4.009v5.023l1.062-.599 1.09-.628 1.337-.753.816-.464v-1.217l-2.152 1.217v-2.753l2.152-1.217 2.751-1.565v6.723l-1.15.657-2.417 1.372-1.336.763h-.01l-2.143 1.217-.334.193L9.807 22V11.47l2.751-1.564 7.056-4.01zM0 5.897l2.714 1.568v7.859l.824.477 2.395 1.392 2.734 1.578v2.775L7.3 20.758l-2.453-1.422-3.703-2.143L0 16.521V5.897zM9.693 0l4.699 2.723 4.31 2.498-.73.42-7.92 4.587-.359.205-.36-.215-7.92-4.587-.729-.42 4.31-2.488L9.693 0zm-1.38 7.252-.138.068-.089.057c-.385.275-.356.683.09.938.466.273 1.235.273 1.712 0 .476-.273.467-.722 0-.995-.425-.249-1.099-.271-1.576-.068zm2.723-1.571-.137.067-.089.057c-.385.274-.356.674.09.93.466.272 1.235.272 1.712 0 .467-.274.467-.713 0-.987-.425-.248-1.099-.27-1.576-.067zM4.48 5.037l-.137.067-.089.057c-.384.276-.347.684.09.939.476.273 1.235.273 1.711 0 .477-.274.467-.722 0-.996-.424-.248-1.098-.27-1.575-.067zm9.135-.86c-.445.255-.475.655-.09.937l.09.059.134.067c.47.204 1.145.181 1.578-.067.477-.274.467-.723 0-.996s-1.236-.273-1.712 0zm-6.548-.654c-.476.273-.476.722 0 .996.467.283 1.236.283 1.712 0 .477-.274.477-.723 0-.996-.466-.273-1.235-.273-1.712 0zM9.79 1.952c-.476.273-.476.722 0 .995.425.249 1.099.271 1.576.068l.137-.068.088-.056c.385-.276.347-.684-.088-.94-.467-.272-1.236-.272-1.713 0z" fill="#FFF" fill-rule="evenodd"></path>
-                     </svg>
-                  </button>
-               </span>
-               <span title="LUCKY STREAK">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="35px" height="20px" viewBox="0 0 35 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <g id="Jackpot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                           <g id="Provider-Logos" transform="translate(-755.000000, -137.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                              <path d="M761.33829,156.888372 L761.33829,148.962791 L759.851301,148.962791 L759.851301,147.176744 L764.776952,147.176744 L764.776952,148.962791 L763.289963,148.962791 L763.289963,156.888372 L761.33829,156.888372 Z M767.490706,147.176744 C768.605948,147.176744 769.405204,147.4 769.907063,147.827907 C770.408922,148.255814 770.650558,148.962791 770.650558,149.911628 C770.650558,150.6 770.520446,151.15814 770.260223,151.586047 C770,151.995349 769.628253,152.293023 769.107807,152.460465 L770.966543,156.888372 L768.921933,156.888372 L767.342007,152.869767 L767.342007,156.888372 L765.483271,156.888372 L765.483271,147.176744 L767.490706,147.176744 Z M767.620818,148.646512 L767.472119,148.646512 L767.472119,148.646512 C767.434944,148.646512 767.39777,148.646512 767.379182,148.665116 L767.360595,151.381395 L767.583643,151.381395 L767.583643,151.381395 C768.011152,151.381395 768.327138,151.269767 768.531599,151.027907 C768.736059,150.786047 768.847584,150.451163 768.847584,149.986047 C768.847584,149.52093 768.754647,149.186047 768.550186,148.962791 C768.364312,148.75814 768.048327,148.646512 767.620818,148.646512 Z M771.486989,156.888372 L771.486989,147.176744 L775.576208,147.176744 L775.576208,148.962791 L773.364312,148.962791 L773.364312,150.934884 L775.371747,150.934884 L775.371747,152.72093 L773.364312,152.72093 L773.364312,154.990698 L775.576208,154.990698 L775.576208,156.888372 L771.486989,156.888372 Z M780.204461,147.176744 L782.360595,156.888372 L780.408922,156.888372 L780.074349,155.176744 L778.122677,155.176744 L777.825279,156.888372 L775.910781,156.888372 L778.178439,147.176744 L780.204461,147.176744 Z M779.144981,149.186047 C779.052045,149.911628 778.94052,150.655814 778.828996,151.4 C778.717472,152.144186 778.605948,152.906977 778.494424,153.669767 L779.776952,153.669767 C779.64684,153 779.516729,152.274419 779.423792,151.530233 C779.312268,150.786047 779.219331,150.004651 779.144981,149.186047 Z M782.806691,156.869767 L782.806691,147.176744 L784.684015,147.176744 L784.684015,151.418605 L786.579926,147.176744 L788.587361,147.176744 L786.598513,151.604651 L788.66171,156.869767 L786.598513,156.869767 L784.684015,152.144186 L784.684015,156.869767 L782.806691,156.869767 Z M757.67658,137.297674 L757.67658,143.213953 L759.572491,143.213953 L759.572491,145.334884 L755.185874,145.334884 L755.185874,137.297674 L757.67658,137.297674 Z M756.412639,143.827907 C756.171004,143.827907 755.98513,144.013953 755.98513,144.255814 C755.98513,144.497674 756.171004,144.683721 756.412639,144.683721 C756.635688,144.683721 756.840149,144.497674 756.840149,144.255814 C756.840149,144.013953 756.654275,143.827907 756.412639,143.827907 Z M757.583643,143.827907 C757.342007,143.827907 757.156134,144.013953 757.156134,144.255814 C757.156134,144.497674 757.342007,144.683721 757.583643,144.683721 C757.825279,144.683721 758.011152,144.497674 758.011152,144.255814 C758.011152,144.013953 757.825279,143.827907 757.583643,143.827907 Z M758.754647,143.827907 C758.513011,143.827907 758.327138,144.013953 758.327138,144.255814 C758.327138,144.497674 758.513011,144.683721 758.754647,144.683721 C758.996283,144.683721 759.182156,144.497674 759.182156,144.255814 C759.182156,144.013953 758.996283,143.827907 758.754647,143.827907 Z M756.412639,142.637209 C756.171004,142.637209 755.98513,142.823256 755.98513,143.065116 C755.98513,143.306977 756.171004,143.493023 756.412639,143.493023 C756.635688,143.493023 756.840149,143.288372 756.840149,143.065116 C756.840149,142.823256 756.654275,142.637209 756.412639,142.637209 Z M756.412639,141.446512 C756.171004,141.446512 755.98513,141.632558 755.98513,141.874419 C755.98513,142.116279 756.171004,142.302326 756.412639,142.302326 C756.635688,142.302326 756.840149,142.097674 756.840149,141.874419 C756.840149,141.632558 756.654275,141.446512 756.412639,141.446512 Z M756.412639,140.255814 C756.171004,140.255814 755.98513,140.44186 755.98513,140.683721 C755.98513,140.925581 756.171004,141.111628 756.412639,141.111628 C756.635688,141.111628 756.840149,140.925581 756.840149,140.683721 C756.840149,140.44186 756.654275,140.255814 756.412639,140.255814 Z M756.412639,139.065116 C756.171004,139.065116 755.98513,139.251163 755.98513,139.493023 C755.98513,139.734884 756.171004,139.92093 756.412639,139.92093 C756.635688,139.92093 756.840149,139.734884 756.840149,139.493023 C756.840149,139.251163 756.654275,139.065116 756.412639,139.065116 Z M756.412639,137.893023 C756.171004,137.893023 755.98513,138.07907 755.98513,138.32093 C755.98513,138.562791 756.171004,138.748837 756.412639,138.748837 C756.635688,138.748837 756.840149,138.544186 756.840149,138.32093 C756.840149,138.07907 756.654275,137.893023 756.412639,137.893023 Z M762.565056,137.27907 L762.565056,141.986047 C762.565056,142.376744 762.639405,142.655814 762.769517,142.823256 C762.899628,142.990698 763.122677,143.083721 763.438662,143.083721 C763.773234,143.083721 763.996283,142.990698 764.126394,142.823256 C764.256506,142.637209 764.330855,142.376744 764.330855,141.986047 L764.330855,141.986047 L764.330855,137.27907 L766.802974,137.27907 L766.802974,142.209302 C766.802974,142.693023 766.728625,143.139535 766.561338,143.511628 C766.412639,143.902326 766.189591,144.237209 765.892193,144.497674 C765.594796,144.75814 765.241636,144.962791 764.832714,145.111628 C764.423792,145.24186 763.959108,145.316279 763.438662,145.316279 C762.918216,145.316279 762.453532,145.260465 762.04461,145.111628 C761.635688,144.962791 761.282528,144.75814 760.98513,144.497674 C760.687732,144.218605 760.464684,143.902326 760.315985,143.511628 C760.148699,143.12093 760.074349,142.693023 760.074349,142.209302 L760.074349,142.209302 L760.074349,137.27907 L762.565056,137.27907 Z M763.457249,143.809302 C763.215613,143.809302 763.02974,143.995349 763.02974,144.237209 C763.02974,144.47907 763.215613,144.665116 763.457249,144.665116 C763.698885,144.665116 763.903346,144.47907 763.884758,144.237209 C763.884758,143.995349 763.698885,143.809302 763.457249,143.809302 Z M762.286245,143.548837 C762.04461,143.548837 761.858736,143.734884 761.858736,143.976744 C761.858736,144.218605 762.04461,144.404651 762.286245,144.404651 C762.527881,144.404651 762.713755,144.2 762.713755,143.976744 C762.713755,143.734884 762.527881,143.548837 762.286245,143.548837 Z M764.628253,143.511628 C764.386617,143.511628 764.200743,143.697674 764.200743,143.939535 C764.200743,144.181395 764.386617,144.386047 764.628253,144.367442 C764.869888,144.367442 765.055762,144.181395 765.055762,143.939535 C765.055762,143.697674 764.869888,143.511628 764.628253,143.511628 Z M761.561338,142.562791 C761.319703,142.562791 761.133829,142.748837 761.133829,142.990698 C761.133829,143.232558 761.319703,143.418605 761.561338,143.418605 C761.802974,143.418605 761.988848,143.213953 761.988848,142.990698 C761.988848,142.748837 761.802974,142.562791 761.561338,142.562791 Z M765.35316,142.544186 C765.111524,142.544186 764.925651,142.730233 764.925651,142.972093 C764.925651,143.195349 765.111524,143.4 765.35316,143.4 C765.594796,143.4 765.780669,143.213953 765.780669,142.972093 C765.780669,142.730233 765.594796,142.544186 765.35316,142.544186 Z M761.263941,141.409302 C761.022305,141.409302 760.836431,141.595349 760.836431,141.837209 C760.836431,142.07907 761.022305,142.265116 761.263941,142.265116 C761.505576,142.265116 761.69145,142.060465 761.69145,141.837209 C761.69145,141.595349 761.505576,141.409302 761.263941,141.409302 Z M765.650558,141.390698 C765.408922,141.390698 765.223048,141.576744 765.223048,141.818605 C765.223048,142.04186 765.408922,142.246512 765.650558,142.246512 C765.892193,142.246512 766.078067,142.060465 766.078067,141.818605 C766.078067,141.576744 765.892193,141.390698 765.650558,141.390698 Z M761.263941,140.218605 C761.022305,140.218605 760.836431,140.404651 760.836431,140.646512 C760.836431,140.888372 761.022305,141.074419 761.263941,141.074419 C761.505576,141.074419 761.69145,140.888372 761.69145,140.646512 C761.69145,140.404651 761.505576,140.218605 761.263941,140.218605 Z M765.650558,140.2 C765.408922,140.2 765.223048,140.386047 765.223048,140.627907 C765.223048,140.869767 765.408922,141.055814 765.650558,141.055814 C765.892193,141.055814 766.078067,140.869767 766.078067,140.627907 C766.078067,140.386047 765.892193,140.2 765.650558,140.2 Z M761.263941,139.027907 C761.022305,139.027907 760.836431,139.213953 760.836431,139.455814 C760.836431,139.697674 761.022305,139.883721 761.263941,139.883721 C761.505576,139.883721 761.69145,139.697674 761.69145,139.455814 C761.69145,139.213953 761.505576,139.027907 761.263941,139.027907 Z M765.650558,139.009302 C765.408922,139.009302 765.223048,139.195349 765.223048,139.437209 C765.223048,139.67907 765.408922,139.865116 765.650558,139.865116 C765.892193,139.865116 766.078067,139.67907 766.078067,139.437209 C766.078067,139.195349 765.892193,139.009302 765.650558,139.009302 Z M761.263941,137.855814 C761.022305,137.855814 760.836431,138.04186 760.836431,138.283721 C760.836431,138.525581 761.022305,138.711628 761.263941,138.711628 C761.505576,138.711628 761.69145,138.506977 761.69145,138.283721 C761.69145,138.04186 761.505576,137.855814 761.263941,137.855814 Z M765.650558,137.837209 C765.408922,137.837209 765.223048,138.023256 765.223048,138.265116 C765.223048,138.488372 765.408922,138.693023 765.650558,138.693023 C765.892193,138.693023 766.078067,138.506977 766.078067,138.265116 C766.078067,138.023256 765.892193,137.837209 765.650558,137.837209 Z M771.765799,137 C772.639405,137 773.364312,137.148837 773.903346,137.446512 C774.442379,137.762791 774.888476,138.190698 775.204461,138.786047 L775.204461,138.786047 L773.475836,140.386047 C773.141264,139.623256 772.60223,139.251163 771.821561,139.213953 C771.561338,139.213953 771.319703,139.269767 771.096654,139.362791 C770.873606,139.474419 770.687732,139.604651 770.520446,139.772093 C770.35316,139.95814 770.241636,140.144186 770.148699,140.386047 C770.055762,140.627907 770.018587,140.869767 770.018587,141.148837 C770.018587,141.427907 770.055762,141.688372 770.148699,141.911628 C770.241636,142.134884 770.371747,142.339535 770.520446,142.506977 C770.687732,142.693023 770.873606,142.823256 771.096654,142.916279 C771.319703,143.009302 771.561338,143.065116 771.840149,143.065116 C772.304833,143.065116 772.67658,142.972093 772.95539,142.748837 C773.234201,142.525581 773.438662,142.246512 773.568773,141.930233 L773.568773,141.930233 L775.371747,143.232558 C775.204461,143.530233 775.018587,143.809302 774.795539,144.069767 C774.572491,144.311628 774.312268,144.534884 774.01487,144.72093 C773.717472,144.906977 773.3829,145.037209 773.011152,145.148837 C772.639405,145.260465 772.230483,145.316279 771.765799,145.316279 C771.152416,145.316279 770.594796,145.223256 770.092937,145.018605 C769.572491,144.813953 769.144981,144.534884 768.773234,144.162791 C768.401487,143.790698 768.122677,143.344186 767.918216,142.84186 C767.713755,142.32093 767.620818,141.781395 767.620818,141.167442 C767.620818,140.553488 767.713755,139.976744 767.918216,139.474419 C768.122677,138.972093 768.401487,138.525581 768.773234,138.153488 C769.144981,137.781395 769.591078,137.502326 770.092937,137.297674 C770.613383,137.093023 771.171004,137 771.765799,137 Z M771.747212,143.809302 C771.505576,143.809302 771.319703,143.995349 771.319703,144.237209 C771.319703,144.47907 771.505576,144.665116 771.747212,144.665116 C771.988848,144.665116 772.174721,144.47907 772.174721,144.237209 C772.174721,143.995349 771.988848,143.809302 771.747212,143.809302 Z M772.899628,143.604651 C772.657993,143.604651 772.472119,143.790698 772.472119,144.032558 C772.472119,144.274419 772.657993,144.460465 772.899628,144.460465 C773.122677,144.460465 773.327138,144.274419 773.327138,144.032558 C773.327138,143.790698 773.141264,143.604651 772.899628,143.604651 Z M770.576208,143.530233 C770.334572,143.530233 770.148699,143.716279 770.148699,143.95814 C770.148699,144.2 770.334572,144.386047 770.576208,144.386047 C770.817844,144.386047 771.022305,144.2 771.003717,143.95814 C771.003717,143.716279 770.817844,143.530233 770.576208,143.530233 Z M773.847584,142.934884 C773.605948,142.934884 773.420074,143.12093 773.420074,143.362791 C773.420074,143.604651 773.605948,143.790698 773.847584,143.790698 C774.089219,143.790698 774.275093,143.604651 774.275093,143.362791 C774.275093,143.12093 774.089219,142.934884 773.847584,142.934884 Z M769.64684,142.84186 C769.405204,142.84186 769.219331,143.027907 769.219331,143.269767 C769.219331,143.511628 769.405204,143.697674 769.64684,143.697674 C769.888476,143.697674 770.092937,143.511628 770.074349,143.269767 C770.074349,143.027907 769.888476,142.84186 769.64684,142.84186 Z M769.052045,141.911628 C768.810409,141.911628 768.624535,142.097674 768.624535,142.339535 C768.624535,142.581395 768.810409,142.767442 769.052045,142.767442 C769.29368,142.767442 769.479554,142.581395 769.479554,142.339535 C769.479554,142.097674 769.29368,141.911628 769.052045,141.911628 Z M768.847584,140.75814 C768.605948,140.75814 768.420074,140.944186 768.420074,141.186047 C768.420074,141.427907 768.605948,141.613953 768.847584,141.613953 C769.089219,141.613953 769.275093,141.409302 769.275093,141.186047 C769.275093,140.944186 769.089219,140.75814 768.847584,140.75814 Z M769.052045,139.623256 C768.810409,139.623256 768.624535,139.809302 768.624535,140.051163 C768.624535,140.293023 768.810409,140.47907 769.052045,140.47907 C769.29368,140.47907 769.479554,140.293023 769.479554,140.051163 C769.479554,139.809302 769.29368,139.623256 769.052045,139.623256 Z M769.665428,138.693023 C769.423792,138.693023 769.237918,138.87907 769.237918,139.12093 C769.237918,139.362791 769.423792,139.548837 769.665428,139.548837 C769.907063,139.548837 770.092937,139.362791 770.092937,139.12093 C770.092937,138.87907 769.888476,138.693023 769.665428,138.693023 Z M773.866171,138.6 C773.624535,138.6 773.438662,138.786047 773.438662,139.027907 C773.438662,139.269767 773.624535,139.455814 773.866171,139.455814 C774.107807,139.455814 774.29368,139.269767 774.29368,139.027907 C774.29368,138.786047 774.107807,138.6 773.866171,138.6 Z M770.594796,138.004651 C770.35316,138.004651 770.167286,138.190698 770.167286,138.432558 C770.167286,138.674419 770.35316,138.860465 770.594796,138.860465 C770.836431,138.860465 771.022305,138.674419 771.022305,138.432558 C771.022305,138.190698 770.817844,138.004651 770.594796,138.004651 Z M772.899628,137.930233 C772.657993,137.930233 772.472119,138.116279 772.472119,138.35814 C772.472119,138.6 772.657993,138.786047 772.899628,138.786047 C773.141264,138.786047 773.327138,138.6 773.327138,138.35814 C773.327138,138.116279 773.122677,137.930233 772.899628,137.930233 Z M771.747212,137.725581 C771.505576,137.725581 771.319703,137.911628 771.319703,138.153488 C771.319703,138.395349 771.505576,138.581395 771.747212,138.581395 C771.988848,138.581395 772.174721,138.395349 772.174721,138.153488 C772.174721,137.911628 771.988848,137.725581 771.747212,137.725581 Z M778.531599,137.297674 L778.531599,138.897674 L779.256506,137.297674 L782.04461,137.297674 L779.869888,141.074419 L782.118959,145.334884 L779.349442,145.334884 L778.531599,143.437209 L778.531599,145.334884 L776.040892,145.334884 L776.040892,137.297674 L778.531599,137.297674 Z M780.63197,144.051163 C780.520446,143.846512 780.241636,143.772093 780.037175,143.902326 C779.832714,144.032558 779.758364,144.293023 779.888476,144.497674 C780.018587,144.702326 780.27881,144.776744 780.483271,144.646512 C780.687732,144.516279 780.762082,144.255814 780.63197,144.051163 Z M777.230483,143.827907 C776.988848,143.827907 776.802974,144.013953 776.802974,144.255814 C776.802974,144.497674 776.988848,144.683721 777.230483,144.683721 C777.472119,144.683721 777.67658,144.497674 777.657993,144.255814 C777.657993,144.013953 777.472119,143.827907 777.230483,143.827907 Z M780.018587,143.027907 C779.888476,142.823256 779.628253,142.767442 779.423792,142.87907 C779.219331,143.009302 779.144981,143.269767 779.275093,143.474419 C779.405204,143.67907 779.665428,143.753488 779.869888,143.623256 C780.074349,143.493023 780.148699,143.232558 780.018587,143.027907 Z M777.230483,142.637209 C776.988848,142.637209 776.802974,142.823256 776.802974,143.065116 C776.802974,143.306977 776.988848,143.493023 777.230483,143.493023 C777.472119,143.493023 777.67658,143.288372 777.657993,143.065116 C777.657993,142.823256 777.472119,142.637209 777.230483,142.637209 Z M779.386617,142.023256 C779.275093,141.818605 778.996283,141.762791 778.791822,141.874419 C778.587361,142.004651 778.513011,142.265116 778.643123,142.469767 C778.773234,142.674419 779.033457,142.748837 779.237918,142.618605 C779.442379,142.488372 779.516729,142.227907 779.386617,142.023256 Z M777.230483,141.446512 C776.988848,141.446512 776.802974,141.632558 776.802974,141.874419 C776.802974,142.116279 776.988848,142.302326 777.230483,142.302326 C777.472119,142.302326 777.67658,142.097674 777.657993,141.874419 C777.657993,141.632558 777.472119,141.446512 777.230483,141.446512 Z M778.624535,140.869767 C778.420074,140.739535 778.159851,140.813953 778.02974,141.018605 C777.918216,141.223256 777.973978,141.483721 778.178439,141.613953 C778.3829,141.744186 778.643123,141.669767 778.773234,141.465116 C778.903346,141.260465 778.828996,141 778.624535,140.869767 Z M777.230483,140.255814 C776.988848,140.255814 776.802974,140.44186 776.802974,140.683721 C776.802974,140.925581 776.988848,141.111628 777.230483,141.111628 C777.472119,141.111628 777.67658,140.925581 777.657993,140.683721 C777.657993,140.44186 777.472119,140.255814 777.230483,140.255814 Z M779.237918,139.846512 C779.033457,139.716279 778.773234,139.790698 778.643123,139.995349 C778.513011,140.2 778.587361,140.460465 778.791822,140.590698 C778.996283,140.72093 779.256506,140.665116 779.386617,140.44186 C779.498141,140.237209 779.442379,139.976744 779.237918,139.846512 Z M777.230483,139.065116 C776.988848,139.065116 776.802974,139.251163 776.802974,139.493023 C776.802974,139.734884 776.988848,139.92093 777.230483,139.92093 C777.472119,139.92093 777.67658,139.734884 777.657993,139.493023 C777.657993,139.251163 777.472119,139.065116 777.230483,139.065116 Z M779.851301,138.84186 C779.64684,138.730233 779.386617,138.786047 779.256506,138.990698 C779.126394,139.195349 779.200743,139.455814 779.405204,139.586047 C779.609665,139.716279 779.869888,139.64186 780,139.437209 C780.111524,139.232558 780.055762,138.972093 779.851301,138.84186 Z M777.230483,137.893023 C776.988848,137.893023 776.802974,138.07907 776.802974,138.32093 C776.802974,138.562791 776.988848,138.748837 777.230483,138.748837 C777.472119,138.748837 777.67658,138.544186 777.657993,138.32093 C777.657993,138.07907 777.472119,137.893023 777.230483,137.893023 Z M780.464684,137.818605 C780.260223,137.688372 780,137.762791 779.869888,137.967442 C779.758364,138.172093 779.814126,138.432558 780.018587,138.562791 C780.223048,138.693023 780.483271,138.637209 780.613383,138.413953 C780.743494,138.209302 780.669145,137.948837 780.464684,137.818605 Z M785.111524,137.297674 L786.133829,139.474419 L787.156134,137.297674 L790,137.297674 L787.39777,141.744186 L787.39777,145.334884 L784.888476,145.334884 L784.888476,141.744186 L782.286245,137.297674 L785.111524,137.297674 Z M786.133829,143.827907 C785.892193,143.827907 785.70632,144.013953 785.70632,144.255814 C785.70632,144.497674 785.892193,144.683721 786.133829,144.683721 C786.356877,144.683721 786.561338,144.497674 786.561338,144.255814 C786.561338,144.013953 786.375465,143.827907 786.133829,143.827907 Z M786.133829,142.506977 C785.892193,142.506977 785.70632,142.693023 785.70632,142.934884 C785.70632,143.15814 785.892193,143.362791 786.133829,143.362791 C786.356877,143.362791 786.561338,143.15814 786.561338,142.934884 C786.561338,142.693023 786.375465,142.506977 786.133829,142.506977 Z M786.133829,141.24186 C785.892193,141.24186 785.70632,141.427907 785.70632,141.669767 C785.70632,141.911628 785.892193,142.097674 786.133829,142.097674 C786.356877,142.097674 786.561338,141.893023 786.561338,141.669767 C786.561338,141.427907 786.375465,141.24186 786.133829,141.24186 Z M787.007435,140.181395 C786.784387,140.069767 786.524164,140.162791 786.431227,140.386047 C786.319703,140.609302 786.412639,140.869767 786.635688,140.962791 C786.858736,141.074419 787.118959,140.981395 787.211896,140.75814 C787.32342,140.534884 787.230483,140.274419 787.007435,140.181395 Z M785.836431,140.386047 C785.743494,140.181395 785.483271,140.088372 785.260223,140.181395 C785.055762,140.293023 784.962825,140.534884 785.055762,140.75814 C785.148699,140.962791 785.408922,141.055814 785.63197,140.962791 C785.836431,140.869767 785.929368,140.609302 785.836431,140.386047 Z M785.223048,139.232558 C785.111524,139.027907 784.869888,138.934884 784.64684,139.027907 C784.442379,139.139535 784.349442,139.381395 784.442379,139.604651 C784.535316,139.809302 784.795539,139.902326 785.018587,139.809302 C785.241636,139.716279 785.334572,139.455814 785.223048,139.232558 Z M787.639405,138.990698 C787.416357,138.87907 787.156134,138.972093 787.063197,139.195349 C786.951673,139.418605 787.04461,139.67907 787.267658,139.772093 C787.490706,139.883721 787.750929,139.790698 787.843866,139.567442 C787.936803,139.362791 787.843866,139.102326 787.639405,138.990698 Z M788.234201,137.855814 C788.011152,137.744186 787.750929,137.837209 787.657993,138.060465 C787.546468,138.283721 787.639405,138.544186 787.862454,138.637209 C788.085502,138.748837 788.345725,138.655814 788.438662,138.432558 C788.550186,138.209302 788.457249,137.948837 788.234201,137.855814 Z M784.591078,138.060465 C784.479554,137.855814 784.237918,137.762791 784.01487,137.855814 C783.810409,137.967442 783.717472,138.209302 783.810409,138.432558 C783.921933,138.637209 784.163569,138.730233 784.386617,138.637209 C784.609665,138.544186 784.702602,138.283721 784.591078,138.060465 Z M755.148699,156.553488 L755.148699,154.544186 C755.390335,154.748837 755.63197,154.916279 755.873606,155.027907 C756.115242,155.139535 756.33829,155.195349 756.579926,155.195349 C756.914498,155.195349 757.174721,155.102326 757.360595,154.934884 C757.546468,154.767442 757.639405,154.525581 757.639405,154.227907 C757.639405,153.855814 757.379182,153.465116 756.877323,153.037209 C756.728625,152.925581 756.635688,152.813953 756.561338,152.75814 C755.966543,152.218605 755.557621,151.753488 755.334572,151.325581 C755.111524,150.897674 755,150.413953 755,149.893023 C755,149.055814 755.241636,148.386047 755.70632,147.865116 C756.171004,147.344186 756.802974,147.083721 757.565056,147.083721 C757.843866,147.083721 758.104089,147.12093 758.364312,147.195349 C758.624535,147.269767 758.903346,147.4 759.200743,147.548837 L759.200743,149.260465 C758.866171,149.093023 758.587361,148.981395 758.401487,148.925581 C758.215613,148.869767 758.048327,148.832558 757.899628,148.832558 C757.620818,148.832558 757.39777,148.925581 757.211896,149.093023 C757.026022,149.260465 756.951673,149.502326 756.951673,149.781395 C756.951673,150.023256 757.026022,150.265116 757.156134,150.469767 C757.286245,150.693023 759.163569,152.44186 759.349442,152.813953 C759.535316,153.186047 759.628253,153.632558 759.628253,154.153488 C759.628253,155.027907 759.386617,155.734884 758.884758,156.237209 C758.3829,156.75814 757.713755,157 756.840149,157 C756.505576,157 756.208178,156.962791 755.929368,156.888372 C755.63197,156.813953 755.371747,156.702326 755.148699,156.553488" id="Combined-Shape"></path>
-                           </g>
-                        </g>
-                     </svg>
-                  </button>
-               </span>
-               <span title="ATMOSFERA"><button class="btn s-big accordion-button   " type="button" data-badge="">ATMOSFERA</button></span>
-               <span title="Vivo Gaming">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="81" height="16" viewBox="0 0 81 16" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M26.847.227c2.465.771 3.954 3.309 3.443 5.871-.51 2.563-2.853 4.317-5.42 4.059-2.568-.258-4.526-2.445-4.53-5.059a5.134 5.134 0 0 1 .397-1.988C21.74.702 24.382-.544 26.847.227zM13.457.97l.782 1.538 1.864 3.685 1.865-3.685L18.75.97h1.712l-.777 1.538-3.582 7.068-3.581-7.068L11.744.97h1.712zm8.277 2v4.085l3.5 2.047V5.018l-3.5-2.048zm7.297.02-3.482 2.019v4.083l3.482-2.037V2.989zm-2.513 3.92.057.004c.108.024.182.143.183.327a.892.892 0 0 1-.36.715.348.348 0 0 1-.065.03L26.271 8c-.138.01-.238-.116-.24-.331a.893.893 0 0 1 .36-.715.295.295 0 0 1 .127-.043zm1.695-.849.057.004c.108.024.182.143.183.328a.892.892 0 0 1-.36.715.348.348 0 0 1-.065.03l-.062.013c-.138.01-.238-.116-.24-.332a.892.892 0 0 1 .36-.715.295.295 0 0 1 .127-.043zm-5.699-.06c.218.173.353.443.37.736.001.148-.048.246-.125.28l-.05.013a.285.285 0 0 1-.183-.062.997.997 0 0 1-.355-.611l-.014-.124.005-.083c.028-.204.174-.273.352-.149zm4.852-.546.056.004c.109.024.182.143.183.328a.893.893 0 0 1-.36.715.348.348 0 0 1-.064.03l-.062.013c-.119.008-.209-.083-.233-.245l-.007-.087.01-.122a.88.88 0 0 1 .35-.593.294.294 0 0 1 .127-.043zm-4.187 0 .057.004c.039.008.081.027.126.058.217.172.353.442.369.735.002.149-.047.246-.125.28l-.05.013a.285.285 0 0 1-.183-.061 1.01 1.01 0 0 1-.368-.736c-.003-.178.068-.284.174-.293zm.848-.485.056.004c.04.008.082.027.127.058.217.172.352.442.368.735.002.149-.046.247-.124.28l-.05.013a.286.286 0 0 1-.183-.061 1.01 1.01 0 0 1-.369-.736c-.002-.178.068-.283.175-.293zm2.49-.242.058.004c.108.024.182.143.183.328a.892.892 0 0 1-.36.715.348.348 0 0 1-.065.03l-.062.013c-.138.01-.238-.116-.24-.332a.892.892 0 0 1 .36-.715.294.294 0 0 1 .127-.043zm1.696-.849.057.004c.108.024.182.143.183.328a.892.892 0 0 1-.36.715.349.349 0 0 1-.065.03l-.061.013c-.14.01-.239-.116-.24-.332a.892.892 0 0 1 .359-.715.295.295 0 0 1 .127-.043zm-2.83-2.672-3.49 1.482 3.49 2.043 3.505-2.033-3.506-1.492zm-.567 1.192c.313-.128.664-.128.978 0 .317.148.317.387 0 .535a1.288 1.288 0 0 1-.978 0c-.317-.148-.317-.387 0-.535zM8.717.97 7.94 2.509 4.36 9.576.777 2.508 0 .97h1.712l.782 1.538L4.36 6.193l1.864-3.685L7.006.97h1.711zm.727 8.607V.97h1.574v8.606H9.444zm23.325-5.03a2.77 2.77 0 0 0 2.767 2.77H38.3v-1.65h-2.765V4.133h4.298v4.716h-4.298a4.3 4.3 0 0 1-4.298-4.303A4.3 4.3 0 0 1 35.536.242h4.298v1.534h-4.298a2.77 2.77 0 0 0-2.767 2.77zm16.509 4.302h-1.712l-.783-1.538-1.864-3.684-1.864 3.684-.783 1.538h-1.711l.777-1.538L44.919.242 48.5 7.31l.778 1.538zM58.722.242v8.606h-1.537V3.37L55.68 4.53l-1.256.971-1.256-.97-1.506-1.16v5.477h-1.536V.242l1.536 1.186 2.762 2.131 2.761-2.131L58.722.242zm1.21 8.606V.242h1.575v8.606h-1.574zM71.193.242v8.606l-1.536-1.186L64.133 3.4v5.448h-1.537V.273l1.537 1.186 5.523 4.262V.242h1.537zm2.743 4.303a2.77 2.77 0 0 0 2.767 2.77h2.765V5.667h-2.765V4.132H81v4.716h-4.298a4.3 4.3 0 0 1-4.298-4.303A4.3 4.3 0 0 1 76.702.242H81v1.534h-4.298a2.77 2.77 0 0 0-2.767 2.77zm-52.868 8.303h.504v2.702h.828V16h-1.332v-3.152zm2.906 0h.484V16h-.484v-3.152zm2.924 2.571h.01l.37-2.57h.45L27.244 16h-.732l-.482-3.152h.496l.37 2.571zm2.892-1.242h.67v.45h-.67v.923h.843V16H29.3v-3.152h1.332v.45h-.843v.879zm5.556-1.329L35.84 16h-.49l-.083-.572h-.594l-.084.572h-.445l.494-3.152h.708zm-.374.559h-.009L34.734 15h.466l-.23-1.593zm2.078-.559h1.453v.45h-.491V16h-.47v-2.701h-.492v-.45zm5.086 0h.484V16h-.484v-3.152zm2.058 0h1.453v.45h-.492V16h-.47v-2.701h-.491v-.45zm3.636 0c.474 0 .718.282.718.775v.097h-.46v-.128c0-.22-.09-.303-.244-.303-.155 0-.244.083-.244.303 0 .225.098.392.417.67.407.356.536.611.536.963 0 .493-.249.775-.727.775s-.726-.282-.726-.775v-.19h.46v.22c0 .22.098.3.253.3s.252-.08.252-.3c0-.224-.097-.39-.416-.668-.408-.357-.536-.612-.536-.964 0-.493.244-.775.717-.775zm5.064 0c.487 0 .697.239.697.725v.112c0 .325-.094.527-.304.63v.01c.252.103.35.338.35.67v.258c0 .486-.243.747-.713.747h-.74v-3.152h.71zm-.03 1.733h-.21v.969h.27c.158 0 .244-.077.244-.311v-.275c0-.293-.09-.383-.304-.383zm.017-1.283h-.226v.833h.184c.175 0 .282-.08.282-.333v-.176c0-.225-.073-.324-.24-.324zm2.94.879h.67v.45h-.67v.923h.844V16h-1.332v-3.152h1.332v.45h-.844v.879zm3.149-1.329c.474 0 .717.282.717.775v.097h-.46v-.128c0-.22-.09-.303-.244-.303-.155 0-.244.083-.244.303 0 .225.098.392.417.67.407.356.536.611.536.963 0 .493-.248.775-.727.775-.478 0-.726-.282-.726-.775v-.19h.46v.22c0 .22.098.3.253.3s.252-.08.252-.3c0-.224-.097-.39-.416-.668-.408-.357-.536-.612-.536-.964 0-.493.244-.775.718-.775zm2.174 0h1.453v.45h-.491V16h-.47v-2.701h-.492v-.45z" fill="#FFF" fill-rule="nonzero"></path>
-                     </svg>
-                  </button>
-               </span>
-               <span title="XPG">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="38" height="20" viewBox="0 0 38 20" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M3.14 0c.142.024.286.042.426.075.57.134 1.032.448 1.433.862.328.34.572.731.814 1.129.597.999 1.261 1.957 1.988 2.867.26.337.555.645.88.92.27.216.54.2.773-.052.444-.483.884-.97 1.32-1.46.344-.389.685-.781 1.017-1.179.32-.384.59-.808.802-1.261.276-.588.759-.893 1.403-.912.465-.015.901.097 1.263.408a1.41 1.41 0 0 1 .084 2.06 1.993 1.993 0 0 1-.809.495c-1.423.483-2.639 1.307-3.8 2.223a3.017 3.017 0 0 0-.35.355.897.897 0 0 0-.134.21.304.304 0 0 0 .067.389c.258.252.542.475.847.667.99.646 2.062 1.112 3.184 1.474.32.093.612.263.85.496.384.395.466.87.328 1.382-.21.777-.738 1.226-1.524 1.376a1.846 1.846 0 0 1-2.102-1.056 4.418 4.418 0 0 1-.27-.688 2.412 2.412 0 0 0-.336-.71 9.23 9.23 0 0 0-1.837-1.926.473.473 0 0 0-.574 0 6.927 6.927 0 0 0-1.128 1.044c-.777.874-1.407 1.846-1.977 2.86-.231.412-.457.828-.667 1.25-.43.867-1.121 1.412-2.042 1.68-.59.17-1.183.188-1.764-.028-.776-.289-1.193-.86-1.29-1.672A.268.268 0 0 0 0 13.235v-.274c.005-.015.01-.03.013-.044.038-.18.087-.359.148-.533.16-.377.446-.653.773-.892.451-.329.955-.56 1.475-.757.54-.205 1.079-.403 1.589-.672a16.178 16.178 0 0 0 2.855-1.937c.35-.281.677-.591.977-.926.114-.135.112-.238 0-.375a.736.736 0 0 0-.1-.105c-.16-.134-.32-.268-.484-.403a10.699 10.699 0 0 0-3.099-1.72c-.492-.174-1-.3-1.498-.456a4.472 4.472 0 0 1-1.245-.58c-.595-.414-.836-.984-.715-1.69C.852.915 1.506.258 2.46.061c.124-.025.25-.04.373-.061h.308zM38 10.785c-.014.045-.026.09-.042.134a.774.774 0 0 1-.704.506c-1.408 0-2.816-.007-4.223 0a5.597 5.597 0 0 1-1.694-.256 5.472 5.472 0 0 1-2.322-1.379c-.63-.633-1.056-1.38-1.214-2.264a4.044 4.044 0 0 1 .354-2.548c.59-1.21 1.564-1.987 2.814-2.443a5.73 5.73 0 0 1 1.972-.342h4.198c.325 0 .594.128.765.414.04.084.073.171.096.261v.629a.811.811 0 0 1-.202.403c-.197.198-.442.269-.712.269h-3.95a2.957 2.957 0 0 0-2.151.887 2.459 2.459 0 0 0 .073 3.577c.583.538 1.281.792 2.067.807.423.006.847.005 1.27 0 .15-.003.301-.019.45-.048.52-.106.796-.415.823-.941.02-.375.01-.752.014-1.128 0-.048.004-.096.014-.144.075-.336.404-.584.785-.592.234-.006.472-.01.703 0 .301 0 .58.161.727.423.036.077.065.156.088.238v3.537zm0 5.788a.243.243 0 0 1-.052.017.65.65 0 0 1-.08 0H.035v-.296h37.839a.798.798 0 0 1 .124.018v.26zm0 3.159a.255.255 0 0 1-.265.213c-.208.005-.31-.09-.31-.3V18.266h-.02c-.023.06-.047.122-.068.183-.166.435-.33.871-.493 1.31-.057.15-.135.202-.294.202a.264.264 0 0 1-.279-.202l-.54-1.432a.162.162 0 0 0-.046-.073v1.4c0 .247-.214.373-.437.258a.25.25 0 0 1-.135-.248v-1.256c0-.172-.004-.344 0-.515a.938.938 0 0 1 .04-.233.21.21 0 0 1 .194-.15 3.22 3.22 0 0 1 .41-.007c.142.007.216.108.261.231.072.194.14.39.21.584l.304.856.034.09c.017-.041.028-.067.037-.094l.497-1.394c.08-.223.16-.281.404-.281h.162c.186 0 .263.054.33.223l.003 2.015zm-38-.049c.08-.201.24-.346.367-.515.117-.157.242-.308.368-.47l-.337-.434-.27-.344c-.124-.168-.059-.347.145-.403a.326.326 0 0 1 .391.144l.389.574c.014.022.031.041.052.067.156-.219.311-.428.457-.643.108-.159.224-.19.423-.135.17.047.219.228.11.366-.198.252-.396.504-.595.754a.067.067 0 0 0 0 .103c.208.264.404.537.622.793a.247.247 0 0 1-.15.42c-.176.038-.28 0-.383-.149-.16-.226-.318-.453-.481-.688-.018.02-.033.038-.046.056l-.464.64a.366.366 0 0 1-.445.124.27.27 0 0 1-.153-.179v-.08zM16.888 6.816V3.02c0-.437.257-.74.693-.812.058-.01.117-.015.177-.015 2.105 0 4.212-.007 6.319 0 .809 0 1.55.247 2.151.806.725.672 1.018 1.5.81 2.472-.124.581-.472 1.036-.928 1.407-.58.473-1.289.76-2.035.827-.257.026-.516.022-.775.024-.453.004-.906.004-1.359 0a.867.867 0 0 1-.742-.371.616.616 0 0 1-.114-.371c0-.143.008-.286 0-.428-.025-.44.307-.703.61-.77.103-.023.208-.034.313-.035.386-.004.771.005 1.157-.003.337-.007.65-.092.91-.32.3-.263.308-.642.018-.916a1.297 1.297 0 0 0-.91-.34c-.989-.006-1.976-.006-2.96 0a1.116 1.116 0 0 0-.786.312.664.664 0 0 0-.212.504c0 1.897 0 3.793.003 5.69a.777.777 0 0 1-.591.734.351.351 0 0 1-.088.006h-.938a.723.723 0 0 1-.723-.72V6.815zm1.076 11.437v1.398c0 .246-.202.37-.428.268a.24.24 0 0 1-.141-.242v-1.75c.003-.085.014-.17.034-.252.02-.093.1-.162.196-.166.135-.012.27-.015.405-.009.154.007.23.115.276.247l.209.584c.101.288.204.576.307.864.006.019.015.037.03.07l.212-.596c.108-.3.215-.6.321-.902.077-.215.162-.274.39-.272.09-.003.178 0 .266.011.158.023.224.107.224.264v1.91c0 .178-.087.263-.27.264-.181.002-.293-.093-.294-.269v-1.423l-.016-.003c-.068.174-.132.348-.197.523l-.37.987a.262.262 0 0 1-.28.196.265.265 0 0 1-.294-.197l-.54-1.432-.032-.078-.008.005zm4.68.072V19.658c0 .115-.018.22-.135.269a.395.395 0 0 1-.405-.04.245.245 0 0 1-.075-.213V17.9a1.5 1.5 0 0 1 0-.175.237.237 0 0 1 .153-.192.473.473 0 0 1 .588.156l.998 1.388.062.08c0-.045.005-.073.005-.1v-1.273c0-.152.04-.222.152-.264.142-.054.337-.028.405.067a.293.293 0 0 1 .053.163c.005.627.005 1.255 0 1.885 0 .198-.103.3-.3.32a.448.448 0 0 1-.458-.201c-.318-.457-.652-.902-.98-1.352l-.063-.076zm-16.527.684v.667c0 .189-.11.29-.317.29-.207 0-.321-.103-.322-.289v-1.74a.834.834 0 0 1 .026-.191c.028-.115.129-.186.278-.19.225-.004.45-.004.675 0 .24 0 .48 0 .718.023.126.015.247.053.359.113.212.1.335.326.305.558a.561.561 0 0 1-.405.52l-.049.02c.285.084.343.168.366.484.01.127.03.254.06.38.04.174-.012.273-.186.316-.254.064-.45-.084-.458-.344a2.17 2.17 0 0 0-.024-.304c-.037-.208-.14-.3-.351-.309-.212-.008-.443-.004-.675-.004zm-.013-.412a.239.239 0 0 0 .038.006c.229 0 .458.004.687 0a.718.718 0 0 0 .21-.045.246.246 0 0 0 .17-.233c.015-.193-.074-.314-.27-.33-.195-.017-.387-.012-.58-.016h-.252c0 .036-.004.062-.004.088v.53zm20.869.482h-.376a.788.788 0 0 1-.2-.026c-.1-.03-.139-.1-.134-.21a.18.18 0 0 1 .149-.177.418.418 0 0 1 .104-.012h.752c.202 0 .267.067.27.269 0 .295.007.59.006.885a.177.177 0 0 1-.056.11.244.244 0 0 1-.37-.074c-.024-.05-.038-.104-.06-.165a.897.897 0 0 1-.5.274c-.33.067-.671.034-.982-.095-.402-.173-.607-.493-.654-.916-.052-.435.036-.826.384-1.123.201-.165.446-.268.705-.297.296-.052.6-.029.885.067a.86.86 0 0 1 .378.24c.05.061.09.132.116.207a.186.186 0 0 1-.067.202.338.338 0 0 1-.412-.003.375.375 0 0 1-.054-.059c-.24-.35-.867-.29-1.082-.064a.893.893 0 0 0-.183.289 1.026 1.026 0 0 0-.033.604c.085.38.435.605.84.545.18-.013.347-.1.46-.24.044-.074.082-.15.114-.23zm-13.145.594a.833.833 0 0 1-.427.256c-.472.1-.93.067-1.327-.24-.27-.214-.376-.516-.395-.851-.022-.378.068-.72.353-.989.215-.19.486-.308.773-.336.318-.054.646-.016.944.108.138.057.258.15.348.269.092.129.09.269 0 .35a.338.338 0 0 1-.411-.006.635.635 0 0 1-.082-.088c-.21-.306-.934-.297-1.167.093-.168.28-.203.856.096 1.127.299.27.883.246 1.11-.068.04-.068.074-.14.102-.215h-.362a.9.9 0 0 1-.203-.022.188.188 0 0 1-.15-.201c.004-.103.057-.186.162-.19.32-.009.641-.008.96.004.11.004.154.086.155.21V19.747c.004.134-.032.192-.135.217-.135.033-.237-.01-.29-.127-.021-.053-.035-.105-.054-.164zm19.445.304c-.23.004-.46-.038-.674-.124a1.034 1.034 0 0 1-.611-.657 1.48 1.48 0 0 1-.043-.787c.063-.344.297-.632.62-.765a1.778 1.778 0 0 1 1.527.024c.383.187.578.514.607.934.028.445-.108.828-.473 1.106-.276.207-.596.272-.953.27zm.81-1.251h-.014c0-.043.003-.086 0-.129-.027-.328-.217-.559-.532-.627-.1-.02-.202-.028-.304-.022-.345.02-.595.216-.659.538-.026.147-.03.298-.01.447.045.36.242.55.6.601.083.01.166.012.25.005a.655.655 0 0 0 .619-.52c.024-.096.032-.196.047-.293h.002zM9.72 20a5.258 5.258 0 0 1-.592-.113c-.41-.126-.66-.41-.748-.83-.087-.42-.036-.831.274-1.167a1.25 1.25 0 0 1 .77-.373c.353-.062.716-.02 1.044.123.447.202.713.667.657 1.153-.067.726-.57 1.173-1.33 1.183h-.073L9.721 20zm.014-.45c.364-.009.612-.17.712-.479.026-.079.042-.16.049-.243.04-.448-.143-.82-.635-.88-.418-.053-.76.144-.855.512-.059.226-.042.464.047.68.07.19.235.331.435.37.081.019.165.026.247.04zm-6.458-.495v.569c0 .268-.174.399-.437.326a.253.253 0 0 1-.202-.256v-1.78a.632.632 0 0 1 .026-.167c.033-.123.124-.19.283-.192.338-.005.675-.005 1.012-.003.086 0 .172.005.258.018.082.012.163.032.242.06.286.087.48.354.472.652a.693.693 0 0 1-.437.672 1.285 1.285 0 0 1-.516.1h-.614l-.087.001zm.005-.42c.227 0 .446.007.663 0 .124 0 .24-.064.307-.169a.292.292 0 0 0-.145-.44 1.218 1.218 0 0 0-.337-.055c-.16-.009-.322 0-.486 0l-.002.664zm12.59-1.122c.051 0 .102.004.153.008.117.005.22.08.26.188.263.627.524 1.254.783 1.882.073.18.023.305-.13.365a.32.32 0 0 1-.431-.162c-.043-.101-.087-.201-.126-.304a.079.079 0 0 0-.088-.06h-.877a.08.08 0 0 0-.09.059c-.042.11-.09.218-.134.328a.244.244 0 0 1-.23.16c-.126.008-.254 0-.322-.119a.283.283 0 0 1-.014-.206c.067-.19.149-.373.23-.557.187-.431.386-.856.563-1.291.09-.215.22-.323.453-.291zm-.384 1.535h.723l-.34-.914h-.02l-.363.914zm15.02.93a1.63 1.63 0 0 1-.713-.153c-.405-.201-.575-.545-.6-.976-.024-.388.073-.735.362-1.012.246-.234.552-.327.883-.343.306-.014.607.028.87.194.09.061.174.134.247.216a.346.346 0 0 1 .075.148c.056.21-.128.363-.361.299a.612.612 0 0 1-.163-.099.217.217 0 0 1-.047-.054c-.17-.246-.41-.312-.689-.25-.29.068-.458.263-.525.543-.055.224-.036.46.054.672.171.418.859.521 1.112.156.032-.043.067-.084.104-.123a.326.326 0 0 1 .418-.064c.095.053.127.134.097.255a.605.605 0 0 1-.235.328c-.258.194-.554.266-.89.262zm-9.057-1.224v.894c0 .118-.014.23-.134.288a.4.4 0 0 1-.387-.01.229.229 0 0 1-.118-.208v-1.941a.225.225 0 0 1 .18-.237.633.633 0 0 1 .26-.004c.135.029.196.123.197.283v.74l.002.195zm7.042.487c.195.005.349.167.344.362a.358.358 0 0 1-.346.355.36.36 0 0 1 0-.717h.002z" fill="#FFF" fill-rule="nonzero"></path>
-                     </svg>
-                  </button>
-               </span>
-               <span title="Fashion TV"><button class="btn s-big accordion-button   " type="button" data-badge="">Fashion TV</button></span><span title="SAGAMING"><button class="btn s-big accordion-button   " type="button" data-badge="">SAGAMING</button></span>
-               <span title="SuperSpade">
-                  <button class="btn s-big accordion-button   " type="button" data-badge="">
-                     <svg width="96px" height="22px" viewBox="0 0 96 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <g id="Jackpot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                           <g id="Provider-Logos" transform="translate(-1270.000000, -286.000000)" fill="#FFFFFF" fill-rule="nonzero">
-                              <path d="M1287.81973,294.089075 C1289.09781,295.649178 1290.74334,297.348804 1290.37589,299.929951 C1289.87744,303.411646 1286.41064,304.714903 1283.64679,303.446526 C1283.23461,303.259441 1282.85438,303.008936 1282.40066,302.75209 C1282.74522,303.99151 1283.30417,305.162088 1284.05258,306.211588 C1284.52866,306.845777 1285.1038,307.407034 1285.63101,308 L1285.63101,308 L1276.84739,308 L1276.84739,308 L1277.18585,307.604924 L1277.18585,307.604924 L1277.36182,307.413376 C1278.6431,306.11646 1279.43231,304.550014 1280.03301,302.691842 C1278.79647,303.608244 1277.54395,304.058518 1276.12847,303.884116 C1274.74277,303.721241 1273.50001,302.960126 1272.73197,301.803978 C1275.47875,301.547762 1278.14818,300.759154 1280.58898,299.482848 L1280.58898,299.482848 L1280.71039,299.600173 C1280.35466,300.179398 1279.99786,300.759681 1279.64,301.34102 L1279.64,301.34102 L1282.74574,301.34102 L1281.59227,299.397233 L1281.67854,299.28625 C1282.59556,299.837994 1283.52217,300.006054 1284.33695,299.203805 C1284.93378,298.638611 1285.07873,297.748331 1284.69162,297.025368 L1284.69162,297.025368 Z M1281.22802,286 L1286.49372,292.481407 C1287.49701,291.336696 1287.40754,290.261747 1286.21893,288.99337 C1287.34683,289.224849 1288.06895,289.789276 1288.11688,290.635918 C1288.12689,291.114726 1288.02748,291.589564 1287.82612,292.024791 C1287.27335,293.293168 1286.3052,294.244451 1285.33066,295.160853 C1284.95363,295.512828 1284.56062,295.829922 1284.12607,296.197752 C1283.15792,295.008648 1282.20255,293.841741 1281.20246,292.617757 L1281.20246,292.617757 L1280.78708,293.125108 C1279.91159,294.2064 1279.02972,295.28452 1278.16062,296.368982 C1277.21484,297.532718 1277.29152,298.496685 1278.45458,299.539925 C1278.09991,299.676276 1277.78359,299.815797 1277.45448,299.923609 C1275.73546,300.491208 1274.00366,301.011242 1272.16642,300.982704 C1271.80496,300.972176 1271.44723,300.906949 1271.10561,300.789276 C1269.96172,300.415105 1269.67416,299.378207 1270.38988,298.388873 C1270.48893,299.701643 1270.83082,300.069472 1271.94914,300.101182 C1271.95109,299.423504 1272.01526,298.747412 1272.14085,298.081291 C1272.31162,297.372245 1272.61864,296.70256 1273.0451,296.108965 C1275.69712,292.750937 1278.40665,289.424618 1281.09701,286.091957 C1281.13792,286.057603 1281.18175,286.026835 1281.22802,286 L1281.22802,286 Z M1365.91053,297.098299 C1365.78721,296.412976 1365.37129,295.81406 1364.76985,295.455751 C1362.56835,294.187374 1360.0665,295.411358 1359.80769,297.903719 C1359.64154,299.48919 1360.24544,300.757567 1361.51393,301.274431 C1362.73463,301.729825 1364.08272,301.716254 1365.29386,301.236379 C1365.42252,301.175414 1365.51483,301.057973 1365.54309,300.919285 C1365.57504,300.488037 1365.54309,300.053618 1365.54309,299.552609 C1365.38777,299.6282 1365.22502,299.687705 1365.05741,299.730182 C1364.38472,299.856974 1363.7032,299.932242 1363.01887,299.955319 C1362.42137,299.955319 1362.10505,299.517728 1362.08907,298.943788 L1366,298.943788 L1366,297.440761 C1365.97763,297.326607 1365.9361,297.215624 1365.91053,297.098299 Z M1362.16256,297.497838 C1362.1276,297.254867 1362.1998,297.008728 1362.3607,296.822337 C1362.5216,296.635947 1362.7556,296.527369 1363.0029,296.524359 C1363.5333,296.502162 1363.88797,296.86682 1363.91353,297.497838 L1362.16256,297.497838 Z M1341.37136,295.122802 C1340.94127,295.323618 1340.5351,295.571427 1340.16038,295.861632 C1340.10906,295.701016 1340.04162,295.54592 1339.95908,295.398674 C1339.88879,295.28452 1339.75778,295.141828 1339.63956,295.135486 C1339.12833,295.106947 1338.6107,295.135486 1338.07391,295.135486 L1338.07391,304.185356 L1340.24345,304.185356 L1340.24345,300.878063 L1340.42558,301.023926 C1341.57585,302.010089 1343.17665,301.721534 1343.8125,300.345344 C1344.4389,299.02861 1344.43538,297.502114 1343.80291,296.188239 C1343.41229,295.242624 1342.33867,294.772194 1341.37136,295.122802 Z M1341.86342,299.226002 C1341.82895,299.55002 1341.55269,299.795401 1341.22438,299.7936 C1340.88103,299.847934 1340.54892,299.646145 1340.44156,299.317959 C1340.21784,298.648857 1340.21784,297.925948 1340.44156,297.256846 C1340.53519,296.94623 1340.83888,296.746193 1341.16367,296.781205 C1341.4938,296.753322 1341.79066,296.980466 1341.84745,297.30441 C1341.92413,297.621505 1341.95608,297.973479 1342.00721,298.293745 C1341.95608,298.617181 1341.93052,298.927933 1341.86342,299.226002 L1341.86342,299.226002 Z M1312.87333,295.132315 C1312.45475,295.332868 1312.06031,295.579649 1311.69749,295.867973 C1311.64107,295.696021 1311.57164,295.528542 1311.4898,295.366965 C1311.43229,295.265494 1311.30768,295.138657 1311.20863,295.132315 C1310.6942,295.110118 1310.17657,295.132315 1309.63658,295.132315 L1309.63658,304.175843 L1311.78376,304.175843 L1311.78376,300.881234 L1311.98186,301.046123 C1313.14492,301.997406 1314.75211,301.680311 1315.37198,300.316806 C1315.95347,299.03425 1315.95347,297.565923 1315.37198,296.283367 C1315.1956,295.801035 1314.83275,295.408376 1314.36378,295.192334 C1313.8948,294.976292 1313.3584,294.954692 1312.87333,295.132315 Z M1313.39415,299.25454 C1313.35052,299.561472 1313.08971,299.792132 1312.77747,299.799942 C1312.4315,299.853877 1312.09764,299.649157 1311.99145,299.317959 C1311.72957,298.627072 1311.72957,297.865289 1311.99145,297.174402 C1312.08248,296.867174 1312.40708,296.691203 1312.71676,296.781205 C1312.97929,296.840365 1313.20841,296.998394 1313.3558,297.221966 C1313.46677,297.561033 1313.5344,297.912587 1313.5571,298.268377 C1313.4932,298.636206 1313.46764,298.946959 1313.39415,299.248198 L1313.39415,299.25454 Z M1356.39841,300.668781 C1356.5009,300.860133 1356.61618,301.04446 1356.74349,301.220525 C1356.83296,301.328337 1356.96396,301.467858 1357.08218,301.4742 C1357.56146,301.502739 1358.04074,301.4742 1358.52961,301.4742 L1358.52961,292.811185 L1356.36007,292.811185 L1356.36007,295.829922 C1355.91503,295.260656 1355.20346,294.962379 1354.48197,295.042656 C1353.76047,295.122932 1353.13313,295.570183 1352.82617,296.223119 C1352.16538,297.594736 1352.19021,299.19435 1352.89327,300.545114 C1353.21944,301.213426 1353.91971,301.620383 1354.66661,301.57567 C1355.36225,301.587509 1356.01564,301.24535 1356.39841,300.668781 L1356.39841,300.668781 Z M1355.62517,299.822139 C1355.32615,299.786122 1355.0555,299.628865 1354.87749,299.38772 C1354.51506,298.71959 1354.51506,297.915464 1354.87749,297.247334 C1355.03238,297.007235 1355.29368,296.855182 1355.58044,296.838282 C1355.89048,296.891145 1356.16462,297.069074 1356.3377,297.329778 C1356.46674,297.653878 1356.54227,297.996511 1356.56136,298.34448 C1356.50066,298.661574 1356.46551,298.978668 1356.38882,299.295762 C1356.31353,299.643329 1355.97964,299.873475 1355.62517,299.822139 L1355.62517,299.822139 Z M1299.07004,296.692419 C1298.63549,296.476794 1298.19456,296.273854 1297.7632,296.05823 C1297.49481,295.92188 1297.19446,295.763332 1297.27753,295.401845 C1297.36061,295.040357 1297.71847,295.005477 1298.03799,294.98328 C1298.11627,294.976993 1298.19505,294.98342 1298.27124,295.002306 L1300.10209,295.430383 C1300.30659,294.919862 1300.52066,294.387143 1300.7635,293.791006 C1299.60401,293.228699 1298.29004,293.06152 1297.02511,293.315365 C1295.87164,293.565869 1295.20704,294.20957 1295.06006,295.18305 C1294.88113,296.349957 1295.2997,297.196598 1296.33814,297.792736 C1296.55542,297.916402 1296.78547,298.014702 1297.01233,298.10983 C1297.39149,298.268739 1297.7588,298.454177 1298.11148,298.664745 C1298.28722,298.785241 1298.4949,299.080138 1298.45337,299.241856 C1298.35681,299.472766 1298.16096,299.648506 1297.91977,299.720669 C1297.61419,299.793631 1297.29554,299.793631 1296.98996,299.720669 C1296.32217,299.574805 1295.66715,299.371865 1294.9674,299.181609 C1294.9674,299.685788 1294.98977,300.212165 1294.9674,300.732199 C1294.94823,301.030268 1295.08562,301.144422 1295.33165,301.23955 C1296.32451,301.606976 1297.40018,301.695843 1298.44059,301.496397 C1299.77938,301.261747 1300.59735,300.456327 1300.73794,299.359181 C1300.89131,298.119343 1300.41203,297.351975 1299.07004,296.692419 Z M1334.19813,294.98328 C1334.28863,294.955246 1334.3856,294.955246 1334.47611,294.98328 C1335.06403,295.119631 1335.65194,295.262323 1336.28459,295.414529 C1336.48909,294.897665 1336.71275,294.34275 1336.94281,293.768809 C1335.78962,293.21209 1334.48457,293.045047 1333.22678,293.293168 C1332.05734,293.546843 1331.37995,294.196887 1331.24256,295.141828 C1331.07002,296.349957 1331.47901,297.180744 1332.56218,297.783223 C1332.8817,297.957625 1333.20122,298.100317 1333.52074,298.258864 C1333.81187,298.372982 1334.08941,298.518672 1334.3483,298.693283 C1334.52292,298.830843 1334.62517,299.039631 1334.62628,299.260882 C1334.54787,299.469503 1334.37503,299.629287 1334.15978,299.69213 C1333.84501,299.76483 1333.51826,299.770234 1333.20122,299.707985 C1332.53342,299.568464 1331.87841,299.362352 1331.16588,299.168925 C1331.16588,299.701643 1331.1499,300.247045 1331.16588,300.789276 C1331.18206,300.942777 1331.2695,301.079988 1331.40232,301.160277 C1332.62952,301.679523 1334.00727,301.728113 1335.26852,301.296627 C1336.20237,301.021397 1336.86189,300.194379 1336.91724,299.229173 C1337.06885,298.236684 1336.53039,297.266748 1335.60402,296.863649 C1335.04485,296.578265 1334.47611,296.318247 1333.92014,296.029692 C1333.65175,295.893341 1333.31305,295.696743 1333.47601,295.373306 C1333.57826,295.195734 1333.94251,295.100605 1334.19813,294.98328 Z M1305.85346,298.081291 C1305.841,298.483471 1305.77985,298.882704 1305.67134,299.270395 C1305.56843,299.652281 1305.19297,299.89659 1304.79904,299.837994 C1304.61389,299.831496 1304.43924,299.751058 1304.3147,299.614933 C1304.19017,299.478807 1304.12632,299.298534 1304.13764,299.115019 C1304.0961,298.541078 1304.07693,297.967138 1304.07054,297.393197 C1304.07054,296.651196 1304.07054,295.909196 1304.07054,295.15134 L1301.8978,295.15134 C1301.8978,296.736812 1301.8307,298.290574 1301.92016,299.837994 C1301.98087,300.90343 1302.8276,301.528106 1303.91397,301.572499 C1304.75686,301.66395 1305.58635,301.310122 1306.09949,300.640242 C1306.15679,300.842287 1306.23273,301.038659 1306.32635,301.226867 C1306.39807,301.343975 1306.51251,301.429151 1306.64587,301.464687 C1307.0964,301.490055 1307.55331,301.464687 1308.04537,301.464687 L1308.04537,295.157682 L1305.83749,295.157682 C1305.85985,296.147016 1305.87902,297.120496 1305.85346,298.081291 Z M1350.03037,295.3194 C1348.58933,294.74546 1347.18024,295.030845 1345.75518,295.582589 C1345.99163,296.105794 1346.19931,296.568752 1346.39422,296.977803 C1346.9846,296.823177 1347.58298,296.700388 1348.18673,296.609974 C1348.7427,296.552897 1348.95358,296.825598 1348.92163,297.456616 C1348.62603,297.432817 1348.32897,297.432817 1348.03336,297.456616 C1347.41159,297.519313 1346.79803,297.645769 1346.20251,297.833958 C1345.31744,298.151052 1344.96916,299.048429 1345.18963,300.09484 C1345.33054,300.963447 1346.09923,301.59328 1346.98534,301.566157 C1347.84353,301.662653 1348.69058,301.309591 1349.22198,300.6339 C1349.30647,300.824164 1349.40583,301.007581 1349.51913,301.182473 C1349.60396,301.314188 1349.73481,301.410172 1349.88658,301.452003 C1350.30515,301.486884 1350.73012,301.452003 1351.20301,301.452003 C1351.20301,299.933122 1351.22537,298.487172 1351.20301,297.044393 C1351.21545,296.282208 1350.74717,295.593351 1350.03037,295.3194 Z M1348.21549,299.99337 C1347.89597,300.056789 1347.55728,300.031421 1347.43905,299.676276 C1347.37365,299.514298 1347.37838,299.33273 1347.45214,299.174326 C1347.5259,299.015922 1347.66218,298.894679 1347.82887,298.839147 C1348.18206,298.742204 1348.54196,298.671195 1348.90565,298.626694 C1349.03346,299.473335 1348.81619,299.876045 1348.21549,299.99337 Z M1320.3565,295.043528 C1318.56399,294.831075 1317.19963,295.642837 1316.87692,297.221966 C1316.75549,297.908309 1316.74578,298.609538 1316.84816,299.298933 C1316.94358,300.143328 1317.49093,300.870816 1318.27961,301.201499 C1319.58006,301.778611 1320.90927,301.692995 1322.22889,301.23955 C1322.3551,301.177056 1322.44484,301.059867 1322.47172,300.922456 C1322.50367,300.491208 1322.47172,300.05996 1322.47172,299.562122 C1322.31513,299.63813 1322.15139,299.698669 1321.98286,299.742865 C1321.30932,299.862895 1320.62814,299.936006 1319.94432,299.96166 C1319.38196,299.96166 1319.08481,299.562122 1318.98575,298.940617 L1322.89988,298.940617 C1322.89988,298.534736 1322.89988,298.208129 1322.89988,297.884693 C1322.89988,296.19141 1322.03717,295.243298 1320.3565,295.043528 Z M1319.11037,297.501009 C1319.06718,297.254699 1319.13761,297.002153 1319.30228,296.812938 C1319.46694,296.623724 1319.70845,296.517805 1319.96029,296.524359 C1320.21487,296.514503 1320.46047,296.6185 1320.62946,296.807708 C1320.79845,296.996916 1320.873,297.251377 1320.83258,297.501009 L1319.11037,297.501009 Z M1326.16857,296.172384 C1326.05994,295.877486 1325.98325,295.623811 1325.87142,295.389161 C1325.82349,295.281349 1325.70208,295.141828 1325.60622,295.135486 C1325.13972,295.110118 1324.67322,295.135486 1324.18435,295.135486 L1324.18435,301.477371 L1326.33792,301.477371 C1326.33792,301.331508 1326.35709,301.211012 1326.35709,301.090516 C1326.35709,300.186797 1326.35709,299.28625 1326.35709,298.385702 C1326.35709,297.583453 1326.76608,297.187086 1327.57447,297.149034 C1327.85564,297.149034 1328.13682,297.149034 1328.4851,297.149034 C1328.549,296.483136 1328.61291,295.826751 1328.67681,295.15134 C1327.56488,294.824733 1326.80123,295.294033 1326.16857,296.172384 Z M1357.86181,303.684347 C1357.76276,303.747766 1357.6701,303.827039 1357.57744,303.893629 C1356.98313,303.367253 1356.44634,303.360911 1355.88398,303.76045 L1354.98932,303.500432 L1354.98932,306.51917 L1355.81369,306.51917 C1355.81369,306.297204 1355.81369,306.113289 1355.81369,305.926204 C1355.81931,305.462442 1355.8556,304.999546 1355.92232,304.540502 C1356.01426,304.358013 1356.18906,304.230568 1356.39202,304.19804 C1356.52302,304.19804 1356.71154,304.391467 1356.8042,304.543673 C1356.8585,304.705976 1356.87382,304.878629 1356.84893,305.047852 C1356.84893,305.539349 1356.84893,306.027674 1356.84893,306.51917 L1357.68288,306.51917 C1357.68288,306.129144 1357.68288,305.773998 1357.68288,305.418853 C1357.67518,305.111499 1357.71395,304.804736 1357.79791,304.508792 C1357.90172,304.328477 1358.08792,304.210029 1358.29636,304.191698 C1358.42417,304.191698 1358.59991,304.416835 1358.6702,304.575382 C1358.72047,304.754763 1358.73673,304.941853 1358.71813,305.127126 C1358.71813,305.586913 1358.71813,306.046699 1358.71813,306.550879 L1359.55847,306.512828 C1359.55847,305.786682 1359.59681,305.117613 1359.55847,304.451715 C1359.49137,303.586048 1358.60949,303.199193 1357.86181,303.684347 Z M1350.52882,303.481407 L1350.78763,302.847218 C1349.65972,302.377919 1348.52862,302.561833 1347.95987,303.268954 C1347.42411,304.092981 1347.42286,305.151669 1347.95668,305.976939 C1348.45832,306.649178 1349.61179,306.801384 1350.78763,306.35111 L1350.78763,304.391467 L1349.23476,304.391467 L1349.23476,305.025656 L1349.9377,305.101758 L1349.9377,305.831075 C1349.44884,305.942058 1349.0047,305.961084 1348.65962,305.542519 C1348.33804,305.012524 1348.32586,304.352511 1348.62767,303.811185 C1349.14529,303.091381 1349.83546,303.29115 1350.52882,303.481407 Z M1353.55787,303.608244 C1352.94987,303.408943 1352.28583,303.468643 1351.72382,303.773133 L1351.98264,304.283655 C1353.2032,304.055347 1353.32462,304.093399 1353.22877,304.638801 C1352.85516,304.673446 1352.48389,304.72956 1352.11683,304.806861 C1351.57684,304.949553 1351.37874,305.311041 1351.47779,305.872297 C1351.49781,306.093348 1351.60991,306.296066 1351.78706,306.431531 C1351.96421,306.566997 1352.19031,306.622903 1352.41079,306.58576 C1352.72948,306.536685 1353.04216,306.454858 1353.34379,306.341597 L1354.14259,306.601614 C1354.14259,305.773998 1354.14259,305.076391 1354.14259,304.381954 C1354.15293,304.020417 1353.9105,303.699627 1353.55787,303.608244 Z M1352.74949,305.976939 C1352.56924,305.945363 1352.4169,305.826322 1352.34369,305.659844 C1352.2702,305.34275 1352.6057,305.177861 1353.2703,305.215912 C1353.30545,305.71375 1353.12971,305.995964 1352.74949,305.976939 Z M1361.77594,303.506774 C1360.91004,303.452868 1360.36366,303.865091 1360.23585,304.667339 C1360.01538,306.046699 1360.87489,306.839435 1362.28078,306.569905 C1362.83994,306.462093 1362.89746,306.363794 1362.74728,305.786682 C1361.68967,306.14817 1361.02826,305.932545 1361.11773,305.27616 L1362.99012,305.27616 C1362.99012,305.079562 1362.99012,304.959066 1362.99012,304.832228 C1362.97414,304.02998 1362.5364,303.557509 1361.77594,303.506774 Z M1361.11134,304.689536 C1361.11134,304.305852 1361.29666,304.106082 1361.63535,304.106082 C1361.97404,304.106082 1362.16256,304.305852 1362.16256,304.689536 L1361.11134,304.689536 Z M1365.49835,304.274142 C1365.56226,304.115595 1365.63255,303.957048 1365.77634,303.601903 C1365.22227,303.564707 1364.66667,303.555182 1364.11163,303.573364 C1363.77059,303.600326 1363.49976,303.869096 1363.47259,304.207553 C1363.39127,304.572059 1363.57406,304.94406 1363.91353,305.104929 C1364.14998,305.225425 1364.40879,305.311041 1364.63245,305.450562 C1364.74748,305.523494 1364.80819,305.675699 1364.89126,305.789853 C1364.76026,305.853272 1364.62287,305.976939 1364.49825,305.967426 C1364.16276,305.938887 1363.83365,305.856443 1363.34478,305.764485 C1363.49176,306.08158 1363.57484,306.45258 1363.70904,306.474777 C1364.1981,306.563598 1364.69935,306.563598 1365.18842,306.474777 C1365.41208,306.420871 1365.63894,306.068896 1365.72841,305.805708 C1365.84517,305.463021 1365.68249,305.088138 1365.35137,304.936869 C1365.1309,304.816374 1364.88807,304.740271 1364.67079,304.619775 C1364.53387,304.526722 1364.40651,304.420511 1364.29057,304.302681 L1364.36725,304.13145 L1365.49835,304.274142 Z" id="Combined-Shape"></path>
-                           </g>
-                        </g>
-                     </svg>
-                  </button>
-               </span>
-               <span title="Live Vegas"><button class="btn s-big accordion-button   " type="button" data-badge="">Live Vegas</button></span><span title="Microgaming"><button class="btn s-big accordion-button   " type="button" data-badge="">Microgaming</button></span><span title="Yeebet Live"><button class="btn s-big accordion-button   " type="button" data-badge="">Yeebet Live</button></span>
-            </div>
-         </div>
-         <i class="accordion-items-container-arrow bc-i-small-arrow-down"></i>
-      </div>
-      <div class="live-casino-search casino-title-search">
-         <div class="page-view-more">
-            <h3 class="view-title-more ellipsis">OYUNLAR</h3>
-         </div>
-         <div class="sport-search-bc ">
-            <div class="ss-icon-holder-bc"><i class="ss-icon-bc bc-i-search"></i></div>
-         </div>
-      </div>
-      <div class="casino-category-types casino-category-types-full" id="casino_games_container">
-         <div class="infinite-scroll-component__outerdiv">
-            <div class="infinite-scroll-component casino-category-games" style="height: auto; overflow: auto;">
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon3/b17bcb4681a64f3c08debda9ee09d33c_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Turkish Lighting roulette" title="Turkish Lighting roulette" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon3/dad22c495c8d13f98c3351f04e3beb55_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Crazy Time" title="Crazy Time" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/5c73ac73cb1d18dd842f1726aec8c407_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Lightning Lotto" title="Lightning Lotto" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/76f8a222625b3e47e6e41126ded96551_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Gonzo's Treasure Map" title="Gonzo's Treasure Map" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/ce512468f5571af93bfeaf751f7c4744_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Mega Roulette" title="Mega Roulette" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/cee16970fe3c70cf90d47a8def9081e4_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="MONOPOLY Big Baller" title="MONOPOLY Big Baller" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/f6733ba79aa196d600f1b9785a5aa4c8_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Salon Privé Blackjack A" title="Salon Privé Blackjack A" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/f90e2c1d46d5affd31b94d4694057148_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Power Blackjack" title="Power Blackjack" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon3/d652b3375dd913d29845c8ad3f920e1a_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Speed Blackjack" title="Speed Blackjack" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c9b3f156785154448683f720c44d51f5_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Turkish Roulette" title="Turkish Roulette" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/5907e833f2244b0aace19767ffef26c9_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Andar Bahar" title="Andar Bahar" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/aa10d4c229032f10ef8197c2f2d894b1_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Russian Poker" title="Russian Poker" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/97b96a1cdf41e7a9ab6d1fd098547204_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Gravity Sic Bo" title="Gravity Sic Bo" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/7f9595da547a2e8ac9f51df55cb35fd7_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Oasis Blackjack" title="Oasis Blackjack" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/6077a3239e2be737822f7a4f1036f173_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Snakes &amp; Ladders Live" title="Snakes &amp; Ladders Live" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/3319e44cdf5ce36da268fadd392beb0a_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Auto Mega Roulette" title="Auto Mega Roulette" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/8d4ddb2aa650fcf78fd56031b8347623_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Speed Blackjack 30 - Emerald" title="Speed Blackjack 30 - Emerald" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/5dcfecfc41aa0a2d896995ec864a477f_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Privé Lounge Blackjack 1" title="Privé Lounge Blackjack 1" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  badge-top" data-badge="En İyi"><img src="https://cmsbetconstruct.com/content/images/casino/icon3/7d4cef1de595d93a5ac0c02a0d635989_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Cashout Blackjack" title="Cashout Blackjack" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/3848823aa98428dc810770cf66f7c581_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Roulette 6 - Turkish" title="Roulette 6 - Turkish" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/87abf9b46f567a638dcdc2fbd6f38dbd_casinoGameIcon3.gif" class="casino-game-item-image-bc" alt="Diamond Fruits" title="Diamond Fruits" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/7370aa495dc77595037b230808ccbe4a_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="True/False Live Trivia" title="True/False Live Trivia" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/c0afe62bfe99a757a4c3747fef08acbc_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Italian Live Trivia" title="Italian Live Trivia" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/5cf5da84b573ae39d9978ea8bb292cbc_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Big Bad Wolf" title="Big Bad Wolf" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/e2395ad24827d4bfdafe7a5f9a1bc64f_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Jade Baccarat" title="Jade Baccarat" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/7ab7349f6196496138816d24e71975f2_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Mega Wheel" title="Mega Wheel" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/23c24d23867d639ea123e7d997c0196b_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Mega Fire Blaze Lucky Ball" title="Mega Fire Blaze Lucky Ball" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/6b84ac11e6b1a541c1b66fc873974db3_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Prize Point Live Trivia" title="Prize Point Live Trivia" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/991a5ace34d28c519757f1c100c9a810_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Sweet Bonanza CandyLand" title="Sweet Bonanza CandyLand" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-               <div class="casino-game-item-content">
-                  <div class="casino-game-item  " data-badge=""><img src="https://cmsbetconstruct.com/content/images/casino/icon3/50338ce4d240337aa110712053b1f2df_casinoGameIcon3.webp" class="casino-game-item-image-bc" alt="Gold Vault Roulette" title="Gold Vault Roulette" loading="eager"><i class="casino-game-item-fav-bc bc-i-favorite null"></i></div>
-               </div>
-            </div>
+         <div class="right_19adb">
+            <button class="btn_14f47 btn-notification_f1872" aria-label="notification button"><i class="icon-bottom-notification"></i><span>Bildirimler</span><span class="amount_25806">0</span></button><button class="btn_14f47" aria-label="cart button"><i class="icon-bottom-invoice"></i><span>Bahis Slip</span><span class="amount_25806">0</span></button>
+            <button aria-label="live support button" class="btn_14f47 btn-live-support_3d5b3">
+               <i class="icon-bottom-headset"></i>
+               <div class="live-support-text_37253"><span>Destek</span><i class="online_87616">Online</i></div>
+            </button>
          </div>
       </div>
    </div>
