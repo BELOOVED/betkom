@@ -108,10 +108,8 @@ div:where(.swal2-icon).swal2-warning {
     color: #ea2323 !important;
 }
     </style>
-      <script type="text/javascript" src="https://cdn4-client.btkmcdn.com/build/themes/web/turkish/betkom/script.js?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294"></script>
       <link rel="stylesheet" href="https://cdn1-client.btkmcdn.com/build/themes/web/turkish/betkom/css/style.css?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294" id="current_theme">
-      <script type="text/javascript" src="https://cdn2-client.btkmcdn.com/build/themes/web/turkish/betkom/js/bundle.js?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294" crossorigin="anonymous"></script>
-      <title>Betkom Canlı bahis ve Casino Oyunları</title>
+       <title>Betkom Canlı bahis ve Casino Oyunları</title>
       <meta property="og:title" content="Betkom Canlı bahis ve Casino Oyunları">
       <meta property="og:site_name" content="betkom.com">
       <style type="text/css" data-styled-components="" data-styled-components-is-local="true"></style>
