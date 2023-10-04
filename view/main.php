@@ -48,7 +48,9 @@
          };
          
       </script>
+      <script type="text/javascript" src="https://cdn4-client.btkmcdn.com/build/themes/web/turkish/betkom/script.js?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294"></script>
       <link rel="stylesheet" href="https://cdn1-client.btkmcdn.com/build/themes/web/turkish/betkom/css/style.css?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294" id="current_theme">
+      <script type="text/javascript" src="https://cdn2-client.btkmcdn.com/build/themes/web/turkish/betkom/js/bundle.js?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294" crossorigin="anonymous"></script>
       <script id="XOXChatWidgetClient" src="https://widget-xox.ichatline.online/lib/chatline-widget.iframe.js?_t=1696405557419" async=""></script><script>
          (function (w, d, s, o, f, js, fjs) {
          	w['chatline-widget'] = o; w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };  w[o].l = Date.now();
@@ -359,83 +361,83 @@
                                     </svg>
                                  </button>
                                  <div class="slick-list">
-                                    <div class="slick-track" style="width: 9906px; opacity: 1; transform: translate3d(-3048px, 0px, 0px);">
-                                       <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                    <div class="slick-track" style="width: 17784px; opacity: 1; transform: translate3d(-3420px, 0px, 0px);">
+                                       <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png"></a></div>
                                        </div>
-                                       <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970769_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970769_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                                        </div>
-                                       <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316481_tr_TR_100-yatirim-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316481_tr_TR_100-yatirim-slider.jpg"></a></div>
                                        </div>
-                                       <div data-index="1" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="1" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316709_tr_TR_kombine-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316709_tr_TR_kombine-slider.jpg"></a></div>
                                        </div>
-                                       <div data-index="2" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="2" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696080596_tr_TR_23-05_arasi_ek_freespin_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696080596_tr_TR_23-05_arasi_ek_freespin_slider.png"></a></div>
                                        </div>
-                                       <div data-index="3" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="3" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696078221_tr_TR_5_payfix_yatirim_bonusu_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696078221_tr_TR_5_payfix_yatirim_bonusu_slider.png"></a></div>
                                        </div>
-                                       <div data-index="4" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="4" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005819_tr_TR_ana_sayfa_ust_banner-1.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005819_tr_TR_ana_sayfa_ust_banner-1.png"></a></div>
                                        </div>
-                                       <div data-index="5" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="5" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005833_tr_TR_ana_sayfa_ust_banner-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005833_tr_TR_ana_sayfa_ust_banner-2.png"></a></div>
                                        </div>
-                                       <div data-index="6" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 381px;">
+                                       <div data-index="6" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026617_tr_TR_ana_sayfa_ust_banner-8-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026617_tr_TR_ana_sayfa_ust_banner-8-2.png"></a></div>
                                        </div>
-                                       <div data-index="7" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 381px;">
+                                       <div data-index="7" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970784_tr_TR_ana_sayfa_ust_banner-10.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970784_tr_TR_ana_sayfa_ust_banner-10.png"></a></div>
                                        </div>
-                                       <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026612_tr_TR_ana_sayfa_ust_banner-11.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026612_tr_TR_ana_sayfa_ust_banner-11.png"></a></div>
                                        </div>
-                                       <div data-index="9" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="9" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005839_tr_TR_ana_sayfa_ust_banner-3.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005839_tr_TR_ana_sayfa_ust_banner-3.png"></a></div>
                                        </div>
-                                       <div data-index="10" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="10" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png"></a></div>
                                        </div>
-                                       <div data-index="11" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 381px;">
+                                       <div data-index="11" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970769_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970769_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                                        </div>
-                                       <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316481_tr_TR_100-yatirim-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316481_tr_TR_100-yatirim-slider.jpg"></a></div>
                                        </div>
-                                       <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316709_tr_TR_kombine-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316709_tr_TR_kombine-slider.jpg"></a></div>
                                        </div>
-                                       <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696080596_tr_TR_23-05_arasi_ek_freespin_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696080596_tr_TR_23-05_arasi_ek_freespin_slider.png"></a></div>
                                        </div>
-                                       <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696078221_tr_TR_5_payfix_yatirim_bonusu_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696078221_tr_TR_5_payfix_yatirim_bonusu_slider.png"></a></div>
                                        </div>
-                                       <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005819_tr_TR_ana_sayfa_ust_banner-1.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005819_tr_TR_ana_sayfa_ust_banner-1.png"></a></div>
                                        </div>
-                                       <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005833_tr_TR_ana_sayfa_ust_banner-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005833_tr_TR_ana_sayfa_ust_banner-2.png"></a></div>
                                        </div>
-                                       <div data-index="18" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="18" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026617_tr_TR_ana_sayfa_ust_banner-8-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026617_tr_TR_ana_sayfa_ust_banner-8-2.png"></a></div>
                                        </div>
-                                       <div data-index="19" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="19" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970784_tr_TR_ana_sayfa_ust_banner-10.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970784_tr_TR_ana_sayfa_ust_banner-10.png"></a></div>
                                        </div>
-                                       <div data-index="20" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="20" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026612_tr_TR_ana_sayfa_ust_banner-11.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1695026612_tr_TR_ana_sayfa_ust_banner-11.png"></a></div>
                                        </div>
-                                       <div data-index="21" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="21" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005839_tr_TR_ana_sayfa_ust_banner-3.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005839_tr_TR_ana_sayfa_ust_banner-3.png"></a></div>
                                        </div>
-                                       <div data-index="22" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="22" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png"></a></div>
                                        </div>
-                                       <div data-index="23" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 381px;">
+                                       <div data-index="23" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970769_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694970769_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                                        </div>
                                     </div>
@@ -707,125 +709,8 @@
                      <div class="providers-container_1f448">
                         <div class="slick-slider slick-initialized" dir="ltr">
                            <div class="slick-list">
-                              <div class="slick-track" style="width: 2712px; opacity: 1; transform: translate3d(-678px, 0px, 0px);">
-                                 <div data-index="-6" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
-                                                   <path d="M0 6.66667V0L6.66667 3.33333L0 6.66667Z" fill="currentColor"></path>
-                                                   <path d="M0 13.3337V6.66699L6.66667 10.0003L0 13.3337Z" fill="currentColor"></path>
-                                                   <path d="M6.66675 9.99967V3.33301L13.3334 6.66634L6.66675 9.99967Z" fill="currentColor"></path>
-                                                   <path d="M0 19.9997V13.333L6.66667 16.6663L0 19.9997Z" fill="currentColor"></path>
-                                                   <path d="M6.66675 16.6667V10L13.3334 13.3333L6.66675 16.6667Z" fill="currentColor"></path>
-                                                   <path d="M13.3333 13.3337V6.66699L19.9999 10.0003L13.3333 13.3337Z" fill="currentColor"></path>
-                                                </svg>
-                                             </div>
-                                             Playson
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="-5" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20">
-                                                   <g>
-                                                      <path d="M2.96942 6.27518L7.85805 8.50274C7.74315 8.42783 5.41824 6.89652 4.70184 5.68469C3.96517 4.44422 4.01924 3.52543 4.64102 2.63749C5.2628 1.74955 6.80373 1.18991 9.14666 1.33753C11.4896 1.48515 14.0668 2.1792 15.9998 3.88017C15.9998 3.88017 14.3507 1.01364 10.1537 0.211632C5.95667 -0.590379 2.72612 1.02907 0.86303 2.68817C0.369662 3.12883 0.115093 3.54747 0.0317383 3.94847C0.0700363 5.16911 2.96942 6.27518 2.96942 6.27518Z" fill="currentColor"></path>
-                                                      <path d="M4.64102 17.3645C4.01698 16.4766 3.96517 15.5578 4.70184 14.3173C5.43852 13.0769 7.86255 11.4971 7.86255 11.4971L2.96942 13.7268C2.96942 13.7268 0.0677835 14.8329 0.0317383 16.0535C0.115093 16.4546 0.369662 16.8732 0.86303 17.3138C2.72612 18.973 5.95441 20.5902 10.1514 19.7882C14.3507 18.9884 15.9998 16.1218 15.9998 16.1218C14.0668 17.8228 11.4896 18.5191 9.14666 18.6645C6.80373 18.8121 5.2628 18.2547 4.64102 17.3645Z" fill="currentColor"></path>
-                                                      <path d="M2.96967 13.7263L7.8628 11.4966C7.8628 11.4966 9.25279 10.7695 9.25279 10.049C9.25279 10.0336 9.25279 10.0159 9.25054 10.0005C9.25054 9.9851 9.25279 9.96748 9.25279 9.95205C9.25279 9.23157 7.8628 8.50447 7.8628 8.50447C7.8628 8.50447 7.86055 8.50226 7.85829 8.50226L2.96967 6.2747C2.96967 6.2747 0.0702822 5.17084 0.0319842 3.9502C-0.200057 5.05847 0.876793 6.01691 1.76441 6.83875C2.95164 7.93381 3.4788 9.02225 3.46979 10.0005C3.4788 10.9788 2.95164 12.0672 1.76441 13.1645C0.876793 13.9841 -0.200057 14.9426 0.0319842 16.0531C0.0680294 14.8324 2.96967 13.7263 2.96967 13.7263Z" fill="currentColor"></path>
-                                                   </g>
-                                                </svg>
-                                             </div>
-                                             Endorphina
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="-4" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20">
-                                                   <path d="M1.58242 20H13.0549L15.478 10.3286C15.478 10.2817 15.478 10.2817 15.5275 10.1878L18 0H6.62637L4.5989 7.98122L2.17582 5.53991L0 14.2254L3.70879 11.784L1.58242 20ZM5.48901 9.62441L7.66484 1.03286H17.2088L15.033 9.62441H13.0055C13.0055 9.62441 12.8571 9.85916 12.7582 9.85916C12.7582 9.85916 12.6099 10 12.7582 10C12.9066 10 12.9066 10.3756 12.9066 10.3756H14.9341L12.6593 19.108H2.96703L5.24176 10.3756H7.17033L7.41758 9.67136H5.48901V9.62441ZM1.43407 12.5352L2.71978 7.46479L5.14286 9.9061L1.43407 12.5352Z" fill="currentColor"></path>
-                                                   <path d="M13.5494 3.42688C13.7967 3.66162 14.0439 4.4128 13.945 4.88228C13.6978 5.8682 13.0549 8.26256 13.0549 8.26256C12.9066 8.63815 12.5604 9.48322 12.1648 9.71796C12.1648 9.71796 12.0165 9.85881 12.1648 9.85881C12.6593 10.2344 12.4121 11.1734 12.4121 11.1734L11.7692 13.8494C11.6209 14.5536 11.0275 16.8541 8.20878 16.7602H6.03296L9.5934 2.72266H12.1648C12.6593 2.81655 13.2527 3.05129 13.5494 3.42688ZM12.2637 5.02313C12.2637 4.55364 11.8681 4.4128 11.6209 4.3189H10.978L9.84065 9.06068C9.84065 9.06068 10.4835 9.06068 10.5824 9.06068C10.978 8.91984 11.2253 8.82594 11.3242 8.35646L12.2637 5.02313ZM10.7308 11.6428C10.7308 11.6428 10.8791 11.1734 10.8791 11.0325C10.8791 10.7978 10.6319 10.563 10.3846 10.563C10.1374 10.563 9.4945 10.563 9.4945 10.563L8.20878 15.3048H8.80219C9.19779 15.3048 9.6923 15.164 9.84065 15.0701C9.989 14.9292 10.0879 14.6945 10.0879 14.6006L10.7308 11.6428Z" fill="currentColor"></path>
-                                                </svg>
-                                             </div>
-                                             Betsoft
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="-3" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="20" viewBox="0 0 14 20">
-                                                   <g>
-                                                      <path d="M7.02501 1.44282L13.35 16.7507L10.4625 19.4721H3.58751L0.65 16.7507L7.02501 1.44282ZM7.02501 0L0 16.8915L3.3625 20H10.7L14 16.8915L7.02501 0Z" fill="currentColor"></path>
-                                                      <path d="M6.56254 12.9619C5.61256 12.3871 2.60005 13.7009 2.60005 13.7009L1.42505 16.5162L2.83755 17.8534C3.17505 17.5367 8.05005 13.8769 6.56254 12.9619Z" fill="currentColor"></path>
-                                                      <path d="M7.29998 3.44824C7.29998 3.44824 6.54995 5.59489 5.86245 7.50689C4.89995 10.1579 5.19998 10.9087 6.48746 10.5333C8.33745 10.0054 9.67498 9.12566 10.1125 11.0729C10.575 13.3251 8.36247 15.4834 6.44995 17.0905C5.62495 17.7826 4.66245 18.4512 4.07495 18.85H10.25L12.7125 16.4922L7.29998 3.44824Z" fill="currentColor"></path>
-                                                   </g>
-                                                </svg>
-                                             </div>
-                                             Spearhead
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
-                                                   <g>
-                                                      <path d="M0.0946827 12.7772L0.521979 13.027C1.90257 13.8406 3.39555 14.2645 5.02098 14.2617C7.92659 14.2547 10.8322 14.2617 13.7357 14.2617C14.0476 14.2617 14.048 14.2617 14.0485 13.9555C14.0485 13.7025 14.0485 13.4495 14.0485 13.1966C14.0485 12.8875 14.0485 12.8875 13.716 12.8875H11.9056C9.00851 12.8875 6.11144 12.8865 3.21437 12.8846C2.64137 12.8846 2.06794 12.8274 1.56202 12.5348C0.600174 11.9746 0.0254608 11.1515 0.0160603 10.0712C-0.0125685 6.83472 0.00580499 3.59742 0.00580499 0.360524C0.00580499 0.0164627 0.0228968 0 0.390372 0C3.40993 0 6.43063 0 9.45247 0C12.1346 0.00411556 14.4416 0.952754 16.4601 2.61009C17.3624 3.34756 18.1696 4.18653 18.8645 5.10906C19.3397 5.74204 19.6683 6.45732 19.937 7.21747C19.8809 7.19283 19.8261 7.16536 19.773 7.13516C18.662 6.43057 17.4519 5.97086 16.1307 5.80171C15.8018 5.76102 15.4705 5.74095 15.1389 5.74162C12.1724 5.73696 9.20563 5.736 6.23877 5.73874H6.01359V7.11417H16.8067C18.3407 7.11417 19.3298 7.76484 19.867 9.14561C19.9479 9.35379 19.9904 9.57399 19.9926 9.79628C20.0003 13.0926 20.002 16.389 19.9977 19.6856C19.9977 19.9634 19.9648 19.9979 19.6811 19.9979C16.5058 19.9955 13.3306 20.0115 10.1558 19.9811C8.46541 19.9646 6.89339 19.4749 5.4299 18.6666C3.69166 17.706 2.29227 16.3832 1.1172 14.8391C0.652732 14.2287 0.33696 13.5291 0.0489623 12.8225L0.0946827 12.7772Z" fill="currentColor"></path>
-                                                   </g>
-                                                </svg>
-                                             </div>
-                                             Spinomenal
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12">
-                                                   <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1433 1.71431C19.6167 1.71431 20.0005 1.33055 20.0005 0.857157C20.0005 0.383762 19.6167 0 19.1433 0C18.6699 0 18.2862 0.383762 18.2862 0.857157C18.2862 1.33055 18.6699 1.71431 19.1433 1.71431ZM3.14358 2.85716C3.61698 2.85716 4.00074 2.4734 4.00074 2C4.00074 1.52661 3.61698 1.14285 3.14358 1.14285C2.67019 1.14285 2.28642 1.52661 2.28642 2C2.28642 2.4734 2.67019 2.85716 3.14358 2.85716ZM20.0005 3.14293C20.0005 3.61632 19.6167 4.00009 19.1433 4.00009C18.6699 4.00009 18.2862 3.61632 18.2862 3.14293C18.2862 2.66953 18.6699 2.28577 19.1433 2.28577C19.6167 2.28577 20.0005 2.66953 20.0005 3.14293ZM3.14358 5.14295C3.61698 5.14295 4.00074 4.75919 4.00074 4.2858C4.00074 3.8124 3.61698 3.42864 3.14358 3.42864C2.67019 3.42864 2.28642 3.8124 2.28642 4.2858C2.28642 4.75919 2.67019 5.14295 3.14358 5.14295ZM0.857157 6.28584C1.33055 6.28584 1.71431 5.90208 1.71431 5.42868C1.71431 4.95529 1.33055 4.57152 0.857157 4.57152C0.383762 4.57152 0 4.95529 0 5.42868C0 5.90208 0.383762 6.28584 0.857157 6.28584ZM4.00074 6.57153C4.00074 7.04492 3.61698 7.42868 3.14358 7.42868C2.67019 7.42868 2.28642 7.04492 2.28642 6.57153C2.28642 6.09813 2.67019 5.71437 3.14358 5.71437C3.61698 5.71437 4.00074 6.09813 4.00074 6.57153ZM0.857157 8.57157C1.33055 8.57157 1.71431 8.18781 1.71431 7.71441C1.71431 7.24102 1.33055 6.85726 0.857157 6.85726C0.383762 6.85726 0 7.24102 0 7.71441C0 8.18781 0.383762 8.57157 0.857157 8.57157ZM4.00074 8.85728C4.00074 9.33067 3.61698 9.71444 3.14358 9.71444C2.67019 9.71444 2.28642 9.33067 2.28642 8.85728C2.28642 8.38388 2.67019 8.00012 3.14358 8.00012C3.61698 8.00012 4.00074 8.38388 4.00074 8.85728ZM0.857157 10.8573C1.33055 10.8573 1.71431 10.4736 1.71431 10.0002C1.71431 9.52677 1.33055 9.14301 0.857157 9.14301C0.383762 9.14301 0 9.52677 0 10.0002C0 10.4736 0.383762 10.8573 0.857157 10.8573ZM3.14358 12.0002C3.61698 12.0002 4.00074 11.6164 4.00074 11.1431C4.00074 10.6697 3.61698 10.2859 3.14358 10.2859C2.67019 10.2859 2.28642 10.6697 2.28642 11.1431C2.28642 11.6164 2.67019 12.0002 3.14358 12.0002ZM20.0005 5.42868C20.0005 5.90208 19.6167 6.28584 19.1433 6.28584C18.6699 6.28584 18.2862 5.90208 18.2862 5.42868C18.2862 4.95529 18.6699 4.57152 19.1433 4.57152C19.6167 4.57152 20.0005 4.95529 20.0005 5.42868ZM19.1433 8.57157C19.6167 8.57157 20.0005 8.18781 20.0005 7.71441C20.0005 7.24102 19.6167 6.85726 19.1433 6.85726C18.6699 6.85726 18.2862 7.24102 18.2862 7.71441C18.2862 8.18781 18.6699 8.57157 19.1433 8.57157ZM20.0005 10.0002C20.0005 10.4736 19.6167 10.8573 19.1433 10.8573C18.6699 10.8573 18.2862 10.4736 18.2862 10.0002C18.2862 9.52677 18.6699 9.14301 19.1433 9.14301C19.6167 9.14301 20.0005 9.52677 20.0005 10.0002ZM6.28456 5.42868C6.28456 5.90208 5.90079 6.28584 5.4274 6.28584C4.95401 6.28584 4.57024 5.90208 4.57024 5.42868C4.57024 4.95529 4.95401 4.57152 5.4274 4.57152C5.90079 4.57152 6.28456 4.95529 6.28456 5.42868ZM7.71382 7.42868C8.18722 7.42868 8.57098 7.04492 8.57098 6.57153C8.57098 6.09813 8.18722 5.71437 7.71382 5.71437C7.24043 5.71437 6.85667 6.09813 6.85667 6.57153C6.85667 7.04492 7.24043 7.42868 7.71382 7.42868ZM13.1438 6.57153C13.1438 7.04492 12.7601 7.42868 12.2867 7.42868C11.8133 7.42868 11.4295 7.04492 11.4295 6.57153C11.4295 6.09813 11.8133 5.71437 12.2867 5.71437C12.7601 5.71437 13.1438 6.09813 13.1438 6.57153ZM14.5705 6.28584C15.0439 6.28584 15.4276 5.90208 15.4276 5.42868C15.4276 4.95529 15.0439 4.57152 14.5705 4.57152C14.0971 4.57152 13.7133 4.95529 13.7133 5.42868C13.7133 5.90208 14.0971 6.28584 14.5705 6.28584ZM17.7141 4.2858C17.7141 4.75919 17.3303 5.14295 16.8569 5.14295C16.3835 5.14295 15.9998 4.75919 15.9998 4.2858C15.9998 3.8124 16.3835 3.42864 16.8569 3.42864C17.3303 3.42864 17.7141 3.8124 17.7141 4.2858ZM16.8569 7.42868C17.3303 7.42868 17.7141 7.04492 17.7141 6.57153C17.7141 6.09813 17.3303 5.71437 16.8569 5.71437C16.3835 5.71437 15.9998 6.09813 15.9998 6.57153C15.9998 7.04492 16.3835 7.42868 16.8569 7.42868ZM17.7141 8.85728C17.7141 9.33067 17.3303 9.71444 16.8569 9.71444C16.3835 9.71444 15.9998 9.33067 15.9998 8.85728C15.9998 8.38388 16.3835 8.00012 16.8569 8.00012C17.3303 8.00012 17.7141 8.38388 17.7141 8.85728ZM16.8569 12.0002C17.3303 12.0002 17.7141 11.6164 17.7141 11.1431C17.7141 10.6697 17.3303 10.2859 16.8569 10.2859C16.3835 10.2859 15.9998 10.6697 15.9998 11.1431C15.9998 11.6164 16.3835 12.0002 16.8569 12.0002ZM10.0002 8.57157C10.4736 8.57157 10.8574 8.18781 10.8574 7.71441C10.8574 7.24102 10.4736 6.85726 10.0002 6.85726C9.52685 6.85726 9.14309 7.24102 9.14309 7.71441C9.14309 8.18781 9.52685 8.57157 10.0002 8.57157ZM1.71431 3.14293C1.71431 3.61632 1.33055 4.00009 0.857157 4.00009C0.383762 4.00009 0 3.61632 0 3.14293C0 2.66953 0.383762 2.28577 0.857157 2.28577C1.33055 2.28577 1.71431 2.66953 1.71431 3.14293ZM6.28456 3.14293C6.28456 3.61632 5.90079 4.00009 5.4274 4.00009C4.95401 4.00009 4.57024 3.61632 4.57024 3.14293C4.57024 2.66953 4.95401 2.28577 5.4274 2.28577C5.90079 2.28577 6.28456 2.66953 6.28456 3.14293ZM7.71382 5.14295C8.18722 5.14295 8.57098 4.75919 8.57098 4.2858C8.57098 3.8124 8.18722 3.42864 7.71382 3.42864C7.24043 3.42864 6.85667 3.8124 6.85667 4.2858C6.85667 4.75919 7.24043 5.14295 7.71382 5.14295ZM13.1438 4.2858C13.1438 4.75919 12.7601 5.14295 12.2867 5.14295C11.8133 5.14295 11.4295 4.75919 11.4295 4.2858C11.4295 3.8124 11.8133 3.42864 12.2867 3.42864C12.7601 3.42864 13.1438 3.8124 13.1438 4.2858ZM14.5705 4.00009C15.0439 4.00009 15.4276 3.61632 15.4276 3.14293C15.4276 2.66953 15.0439 2.28577 14.5705 2.28577C14.0971 2.28577 13.7133 2.66953 13.7133 3.14293C13.7133 3.61632 14.0971 4.00009 14.5705 4.00009ZM17.7141 2C17.7141 2.4734 17.3303 2.85716 16.8569 2.85716C16.3835 2.85716 15.9998 2.4734 15.9998 2C15.9998 1.52661 16.3835 1.14285 16.8569 1.14285C17.3303 1.14285 17.7141 1.52661 17.7141 2ZM10.8574 5.42868C10.8574 5.90208 10.4736 6.28584 10.0002 6.28584C9.52685 6.28584 9.14309 5.90208 9.14309 5.42868C9.14309 4.95529 9.52685 4.57152 10.0002 4.57152C10.4736 4.57152 10.8574 4.95529 10.8574 5.42868ZM0.857157 1.71431C1.33055 1.71431 1.71431 1.33055 1.71431 0.857157C1.71431 0.383762 1.33055 0 0.857157 0C0.383762 0 0 0.383762 0 0.857157C0 1.33055 0.383762 1.71431 0.857157 1.71431Z" fill="currentColor"></path>
-                                                </svg>
-                                             </div>
-                                             Matrix Studios
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="0" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 113px;">
-                                    <div>
-                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
-                                          <div class="provider-item_bf75c">
-                                             <div class="provider-icon-wrapper_3e8e5">
-                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12">
-                                                   <g>
-                                                      <path d="M8.90889 11.9992C8.77765 11.9974 8.65173 11.9329 8.55595 11.8185L0.142046 1.08598C0.0950579 1.02652 0.0582115 0.95533 0.0338172 0.876867C0.00942284 0.798403 -0.0019933 0.71436 0.000284596 0.630007C0.000777061 0.545825 0.0145146 0.462625 0.0406835 0.385333C0.0668525 0.308042 0.104921 0.238232 0.152634 0.180038C0.198833 0.121974 0.253606 0.0761684 0.313783 0.0452735C0.37396 0.0143785 0.438346 -0.000992616 0.503213 4.96688e-05H8.91477C9.04652 0.00201042 9.17241 0.0698154 9.26536 0.188883C9.35831 0.307951 9.4109 0.46877 9.41182 0.636757V11.3693C9.41132 11.4535 9.39759 11.5367 9.37142 11.614C9.34525 11.6913 9.30718 11.7611 9.25947 11.8193C9.16474 11.9357 9.03814 12.0006 8.90653 12L8.90889 11.9992Z" fill="currentColor"></path>
-                                                      <path d="M11.0913 11.9992C11.2225 11.9974 11.3485 11.9329 11.4442 11.8185L19.8558 1.08598C19.9032 1.02678 19.9405 0.955703 19.9653 0.877227C19.9901 0.798752 20.0019 0.714577 19.9999 0.630007C19.9994 0.545825 19.9857 0.462625 19.9595 0.385333C19.9333 0.308042 19.8953 0.238232 19.8476 0.180038C19.8014 0.121974 19.7466 0.0761684 19.6864 0.0452735C19.6262 0.0143785 19.5619 -0.000992616 19.497 4.96688e-05H11.0854C10.9537 0.00201042 10.8278 0.0698154 10.7348 0.188883C10.6419 0.307951 10.5893 0.46877 10.5884 0.636757V11.3693C10.5889 11.4535 10.6026 11.5367 10.6288 11.614C10.6549 11.6913 10.693 11.7611 10.7407 11.8193C10.8355 11.9357 10.9621 12.0006 11.0937 12L11.0913 11.9992Z" fill="currentColor"></path>
-                                                   </g>
-                                                </svg>
-                                             </div>
-                                             Wazdan
-                                          </div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div data-index="1" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 113px;">
+                              <div class="slick-track" style="width: 4186px; opacity: 1; transform: translate3d(-1288px, 0px, 0px);">
+                                 <div data-index="-8" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -842,7 +727,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="2" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 113px;">
+                                 <div data-index="-7" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -858,7 +743,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="3" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 113px;">
+                                 <div data-index="-6" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -877,7 +762,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="4" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 113px;">
+                                 <div data-index="-5" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -895,7 +780,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="5" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 113px;">
+                                 <div data-index="-4" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -910,7 +795,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="6" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 113px;">
+                                 <div data-index="-3" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -928,7 +813,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="7" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 113px;">
+                                 <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -944,7 +829,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 113px;">
+                                 <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -958,7 +843,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="9" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="0" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -975,7 +860,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="10" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="1" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -992,7 +877,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="11" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="2" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -1008,7 +893,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="3" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -1027,7 +912,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="4" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -1045,7 +930,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="5" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -1060,7 +945,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="6" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -1078,7 +963,7 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="7" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
@@ -1094,7 +979,157 @@
                                        </div>
                                     </div>
                                  </div>
-                                 <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 113px;">
+                                 <div data-index="8" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12">
+                                                   <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1433 1.71431C19.6167 1.71431 20.0005 1.33055 20.0005 0.857157C20.0005 0.383762 19.6167 0 19.1433 0C18.6699 0 18.2862 0.383762 18.2862 0.857157C18.2862 1.33055 18.6699 1.71431 19.1433 1.71431ZM3.14358 2.85716C3.61698 2.85716 4.00074 2.4734 4.00074 2C4.00074 1.52661 3.61698 1.14285 3.14358 1.14285C2.67019 1.14285 2.28642 1.52661 2.28642 2C2.28642 2.4734 2.67019 2.85716 3.14358 2.85716ZM20.0005 3.14293C20.0005 3.61632 19.6167 4.00009 19.1433 4.00009C18.6699 4.00009 18.2862 3.61632 18.2862 3.14293C18.2862 2.66953 18.6699 2.28577 19.1433 2.28577C19.6167 2.28577 20.0005 2.66953 20.0005 3.14293ZM3.14358 5.14295C3.61698 5.14295 4.00074 4.75919 4.00074 4.2858C4.00074 3.8124 3.61698 3.42864 3.14358 3.42864C2.67019 3.42864 2.28642 3.8124 2.28642 4.2858C2.28642 4.75919 2.67019 5.14295 3.14358 5.14295ZM0.857157 6.28584C1.33055 6.28584 1.71431 5.90208 1.71431 5.42868C1.71431 4.95529 1.33055 4.57152 0.857157 4.57152C0.383762 4.57152 0 4.95529 0 5.42868C0 5.90208 0.383762 6.28584 0.857157 6.28584ZM4.00074 6.57153C4.00074 7.04492 3.61698 7.42868 3.14358 7.42868C2.67019 7.42868 2.28642 7.04492 2.28642 6.57153C2.28642 6.09813 2.67019 5.71437 3.14358 5.71437C3.61698 5.71437 4.00074 6.09813 4.00074 6.57153ZM0.857157 8.57157C1.33055 8.57157 1.71431 8.18781 1.71431 7.71441C1.71431 7.24102 1.33055 6.85726 0.857157 6.85726C0.383762 6.85726 0 7.24102 0 7.71441C0 8.18781 0.383762 8.57157 0.857157 8.57157ZM4.00074 8.85728C4.00074 9.33067 3.61698 9.71444 3.14358 9.71444C2.67019 9.71444 2.28642 9.33067 2.28642 8.85728C2.28642 8.38388 2.67019 8.00012 3.14358 8.00012C3.61698 8.00012 4.00074 8.38388 4.00074 8.85728ZM0.857157 10.8573C1.33055 10.8573 1.71431 10.4736 1.71431 10.0002C1.71431 9.52677 1.33055 9.14301 0.857157 9.14301C0.383762 9.14301 0 9.52677 0 10.0002C0 10.4736 0.383762 10.8573 0.857157 10.8573ZM3.14358 12.0002C3.61698 12.0002 4.00074 11.6164 4.00074 11.1431C4.00074 10.6697 3.61698 10.2859 3.14358 10.2859C2.67019 10.2859 2.28642 10.6697 2.28642 11.1431C2.28642 11.6164 2.67019 12.0002 3.14358 12.0002ZM20.0005 5.42868C20.0005 5.90208 19.6167 6.28584 19.1433 6.28584C18.6699 6.28584 18.2862 5.90208 18.2862 5.42868C18.2862 4.95529 18.6699 4.57152 19.1433 4.57152C19.6167 4.57152 20.0005 4.95529 20.0005 5.42868ZM19.1433 8.57157C19.6167 8.57157 20.0005 8.18781 20.0005 7.71441C20.0005 7.24102 19.6167 6.85726 19.1433 6.85726C18.6699 6.85726 18.2862 7.24102 18.2862 7.71441C18.2862 8.18781 18.6699 8.57157 19.1433 8.57157ZM20.0005 10.0002C20.0005 10.4736 19.6167 10.8573 19.1433 10.8573C18.6699 10.8573 18.2862 10.4736 18.2862 10.0002C18.2862 9.52677 18.6699 9.14301 19.1433 9.14301C19.6167 9.14301 20.0005 9.52677 20.0005 10.0002ZM6.28456 5.42868C6.28456 5.90208 5.90079 6.28584 5.4274 6.28584C4.95401 6.28584 4.57024 5.90208 4.57024 5.42868C4.57024 4.95529 4.95401 4.57152 5.4274 4.57152C5.90079 4.57152 6.28456 4.95529 6.28456 5.42868ZM7.71382 7.42868C8.18722 7.42868 8.57098 7.04492 8.57098 6.57153C8.57098 6.09813 8.18722 5.71437 7.71382 5.71437C7.24043 5.71437 6.85667 6.09813 6.85667 6.57153C6.85667 7.04492 7.24043 7.42868 7.71382 7.42868ZM13.1438 6.57153C13.1438 7.04492 12.7601 7.42868 12.2867 7.42868C11.8133 7.42868 11.4295 7.04492 11.4295 6.57153C11.4295 6.09813 11.8133 5.71437 12.2867 5.71437C12.7601 5.71437 13.1438 6.09813 13.1438 6.57153ZM14.5705 6.28584C15.0439 6.28584 15.4276 5.90208 15.4276 5.42868C15.4276 4.95529 15.0439 4.57152 14.5705 4.57152C14.0971 4.57152 13.7133 4.95529 13.7133 5.42868C13.7133 5.90208 14.0971 6.28584 14.5705 6.28584ZM17.7141 4.2858C17.7141 4.75919 17.3303 5.14295 16.8569 5.14295C16.3835 5.14295 15.9998 4.75919 15.9998 4.2858C15.9998 3.8124 16.3835 3.42864 16.8569 3.42864C17.3303 3.42864 17.7141 3.8124 17.7141 4.2858ZM16.8569 7.42868C17.3303 7.42868 17.7141 7.04492 17.7141 6.57153C17.7141 6.09813 17.3303 5.71437 16.8569 5.71437C16.3835 5.71437 15.9998 6.09813 15.9998 6.57153C15.9998 7.04492 16.3835 7.42868 16.8569 7.42868ZM17.7141 8.85728C17.7141 9.33067 17.3303 9.71444 16.8569 9.71444C16.3835 9.71444 15.9998 9.33067 15.9998 8.85728C15.9998 8.38388 16.3835 8.00012 16.8569 8.00012C17.3303 8.00012 17.7141 8.38388 17.7141 8.85728ZM16.8569 12.0002C17.3303 12.0002 17.7141 11.6164 17.7141 11.1431C17.7141 10.6697 17.3303 10.2859 16.8569 10.2859C16.3835 10.2859 15.9998 10.6697 15.9998 11.1431C15.9998 11.6164 16.3835 12.0002 16.8569 12.0002ZM10.0002 8.57157C10.4736 8.57157 10.8574 8.18781 10.8574 7.71441C10.8574 7.24102 10.4736 6.85726 10.0002 6.85726C9.52685 6.85726 9.14309 7.24102 9.14309 7.71441C9.14309 8.18781 9.52685 8.57157 10.0002 8.57157ZM1.71431 3.14293C1.71431 3.61632 1.33055 4.00009 0.857157 4.00009C0.383762 4.00009 0 3.61632 0 3.14293C0 2.66953 0.383762 2.28577 0.857157 2.28577C1.33055 2.28577 1.71431 2.66953 1.71431 3.14293ZM6.28456 3.14293C6.28456 3.61632 5.90079 4.00009 5.4274 4.00009C4.95401 4.00009 4.57024 3.61632 4.57024 3.14293C4.57024 2.66953 4.95401 2.28577 5.4274 2.28577C5.90079 2.28577 6.28456 2.66953 6.28456 3.14293ZM7.71382 5.14295C8.18722 5.14295 8.57098 4.75919 8.57098 4.2858C8.57098 3.8124 8.18722 3.42864 7.71382 3.42864C7.24043 3.42864 6.85667 3.8124 6.85667 4.2858C6.85667 4.75919 7.24043 5.14295 7.71382 5.14295ZM13.1438 4.2858C13.1438 4.75919 12.7601 5.14295 12.2867 5.14295C11.8133 5.14295 11.4295 4.75919 11.4295 4.2858C11.4295 3.8124 11.8133 3.42864 12.2867 3.42864C12.7601 3.42864 13.1438 3.8124 13.1438 4.2858ZM14.5705 4.00009C15.0439 4.00009 15.4276 3.61632 15.4276 3.14293C15.4276 2.66953 15.0439 2.28577 14.5705 2.28577C14.0971 2.28577 13.7133 2.66953 13.7133 3.14293C13.7133 3.61632 14.0971 4.00009 14.5705 4.00009ZM17.7141 2C17.7141 2.4734 17.3303 2.85716 16.8569 2.85716C16.3835 2.85716 15.9998 2.4734 15.9998 2C15.9998 1.52661 16.3835 1.14285 16.8569 1.14285C17.3303 1.14285 17.7141 1.52661 17.7141 2ZM10.8574 5.42868C10.8574 5.90208 10.4736 6.28584 10.0002 6.28584C9.52685 6.28584 9.14309 5.90208 9.14309 5.42868C9.14309 4.95529 9.52685 4.57152 10.0002 4.57152C10.4736 4.57152 10.8574 4.95529 10.8574 5.42868ZM0.857157 1.71431C1.33055 1.71431 1.71431 1.33055 1.71431 0.857157C1.71431 0.383762 1.33055 0 0.857157 0C0.383762 0 0 0.383762 0 0.857157C0 1.33055 0.383762 1.71431 0.857157 1.71431Z" fill="currentColor"></path>
+                                                </svg>
+                                             </div>
+                                             Matrix Studios
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="9" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12">
+                                                   <g>
+                                                      <path d="M8.90889 11.9992C8.77765 11.9974 8.65173 11.9329 8.55595 11.8185L0.142046 1.08598C0.0950579 1.02652 0.0582115 0.95533 0.0338172 0.876867C0.00942284 0.798403 -0.0019933 0.71436 0.000284596 0.630007C0.000777061 0.545825 0.0145146 0.462625 0.0406835 0.385333C0.0668525 0.308042 0.104921 0.238232 0.152634 0.180038C0.198833 0.121974 0.253606 0.0761684 0.313783 0.0452735C0.37396 0.0143785 0.438346 -0.000992616 0.503213 4.96688e-05H8.91477C9.04652 0.00201042 9.17241 0.0698154 9.26536 0.188883C9.35831 0.307951 9.4109 0.46877 9.41182 0.636757V11.3693C9.41132 11.4535 9.39759 11.5367 9.37142 11.614C9.34525 11.6913 9.30718 11.7611 9.25947 11.8193C9.16474 11.9357 9.03814 12.0006 8.90653 12L8.90889 11.9992Z" fill="currentColor"></path>
+                                                      <path d="M11.0913 11.9992C11.2225 11.9974 11.3485 11.9329 11.4442 11.8185L19.8558 1.08598C19.9032 1.02678 19.9405 0.955703 19.9653 0.877227C19.9901 0.798752 20.0019 0.714577 19.9999 0.630007C19.9994 0.545825 19.9857 0.462625 19.9595 0.385333C19.9333 0.308042 19.8953 0.238232 19.8476 0.180038C19.8014 0.121974 19.7466 0.0761684 19.6864 0.0452735C19.6262 0.0143785 19.5619 -0.000992616 19.497 4.96688e-05H11.0854C10.9537 0.00201042 10.8278 0.0698154 10.7348 0.188883C10.6419 0.307951 10.5893 0.46877 10.5884 0.636757V11.3693C10.5889 11.4535 10.6026 11.5367 10.6288 11.614C10.6549 11.6913 10.693 11.7611 10.7407 11.8193C10.8355 11.9357 10.9621 12.0006 11.0937 12L11.0913 11.9992Z" fill="currentColor"></path>
+                                                   </g>
+                                                </svg>
+                                             </div>
+                                             Wazdan
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="10" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="20" viewBox="0 0 14 20">
+                                                   <g>
+                                                      <path d="M7.91728 7.79242C5.74452 7.92697 6.72012 10.7465 9.12217 10.5976C11.4719 10.4521 10.2322 7.64909 7.91728 7.79242Z" fill="currentColor"></path>
+                                                      <path d="M7 6.05085C5.61553 6.05085 4.26215 6.4599 3.11101 7.22628C1.95986 7.99266 1.06266 9.08194 0.532845 10.3564C0.00303135 11.6308 -0.13559 13.0332 0.134507 14.3861C0.404603 15.739 1.07129 16.9818 2.05025 17.9572C3.02922 18.9326 4.2765 19.5969 5.63437 19.866C6.99224 20.1351 8.3997 19.997 9.67879 19.4691C10.9579 18.9412 12.0511 18.0473 12.8203 16.9003C13.5895 15.7533 14 14.4049 14 13.0254C14 11.1757 13.2625 9.40164 11.9497 8.09366C10.637 6.78567 8.85652 6.05085 7 6.05085ZM7 19.269C5.76091 19.2693 4.54958 18.9034 3.51921 18.2176C2.48883 17.5319 1.6857 16.5571 1.21137 15.4165C0.737034 14.276 0.612815 13.0209 0.854416 11.81C1.09602 10.5991 1.69259 9.48679 2.56868 8.61372C3.44478 7.74066 4.56104 7.14606 5.77631 6.90512C6.99158 6.66419 8.25126 6.78773 9.39605 7.26014C10.5408 7.73255 11.5193 8.5326 12.2077 9.55911C12.8962 10.5856 13.2636 11.7925 13.2636 13.0271C13.2636 14.6824 12.6037 16.2699 11.4291 17.4404C10.2545 18.611 8.66132 19.2687 7 19.269ZM6.7889 1.18183C5.12709 2.43341 5.41591 4.35279 5.41591 4.35279C5.41591 4.35279 4.37142 1.65138 3.01496 0C2.83197 2.12587 3.50055 4.94261 3.50055 4.94261C3.50055 4.94261 2.65118 3.19622 0.569924 3.09847C2.29622 4.08699 2.96591 5.86798 3.11914 6.34576C4.14789 5.71305 5.32436 5.35834 6.5326 5.3166C6.39646 4.87177 5.91252 2.99742 6.7889 1.18183Z" fill="currentColor"></path>
+                                                   </g>
+                                                </svg>
+                                             </div>
+                                             Pragmatic Play
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="11" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+                                                   <g>
+                                                      <path d="M17.7888 4.58263C17.7765 4.54938 17.7693 4.51691 17.757 4.48286C17.0171 2.44857 14.2059 1.83212 10.9651 2.76166L10.4336 2.39017C12.029 1.61798 13.6179 1.21485 14.9494 1.32516C16.9354 1.49388 17.9067 2.76166 17.7888 4.58263ZM14.9075 8.85561C12.8296 11.8227 9.07463 13.8765 6.51946 13.6639C3.96863 13.4474 3.5817 10.8688 5.66026 7.90174C5.70149 7.8409 5.74633 7.78089 5.78973 7.72005L5.79629 11.4399C5.78256 12.3856 6.59473 12.8293 7.17838 12.4538L14.8178 7.22851C15.4152 6.79456 15.3523 5.82365 14.7896 5.44972L11.692 3.45031C12.5295 3.16804 13.3331 3.03502 14.0469 3.09423C16.5999 3.3108 16.9839 5.88854 14.9075 8.85562L14.9075 8.85561ZM5.19095 15.2602C2.84624 15.0623 1.9111 13.329 2.5215 10.9686C2.51781 11.362 2.57286 11.7392 2.70304 12.0896C3.61937 14.6162 7.7331 14.9585 11.8902 12.8609C11.9756 12.8179 12.0602 12.7709 12.1441 12.7287C9.81021 14.4183 7.2102 15.4281 5.19095 15.2602V15.2602ZM7.89221 2.05113L13.0206 5.67603C13.3996 5.93073 13.4452 6.59422 13.0416 6.88866L7.86111 10.4316C7.4655 10.6871 6.91078 10.383 6.92163 9.73651L6.89705 2.70165C6.91948 2.1144 7.43731 1.75994 7.89222 2.05113H7.89221ZM19.7633 3.35623C18.6886 0.394012 14.2248 -0.258134 9.39436 1.65855L7.25071 0.1523C6.58317 -0.275161 5.82089 0.245579 5.78401 1.11186L5.78545 3.55819C1.62255 6.35575 -0.791591 10.383 0.236119 13.2178C1.42728 16.4923 6.76253 16.9417 12.1535 14.218C17.5459 11.4958 20.9523 6.63234 19.7633 3.35623Z" fill="currentColor"></path>
+                                                   </g>
+                                                </svg>
+                                             </div>
+                                             Playtech Casino
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+                                                   <path d="M0 6.66667V0L6.66667 3.33333L0 6.66667Z" fill="currentColor"></path>
+                                                   <path d="M0 13.3337V6.66699L6.66667 10.0003L0 13.3337Z" fill="currentColor"></path>
+                                                   <path d="M6.66675 9.99967V3.33301L13.3334 6.66634L6.66675 9.99967Z" fill="currentColor"></path>
+                                                   <path d="M0 19.9997V13.333L6.66667 16.6663L0 19.9997Z" fill="currentColor"></path>
+                                                   <path d="M6.66675 16.6667V10L13.3334 13.3333L6.66675 16.6667Z" fill="currentColor"></path>
+                                                   <path d="M13.3333 13.3337V6.66699L19.9999 10.0003L13.3333 13.3337Z" fill="currentColor"></path>
+                                                </svg>
+                                             </div>
+                                             Playson
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 20">
+                                                   <g>
+                                                      <path d="M2.96942 6.27518L7.85805 8.50274C7.74315 8.42783 5.41824 6.89652 4.70184 5.68469C3.96517 4.44422 4.01924 3.52543 4.64102 2.63749C5.2628 1.74955 6.80373 1.18991 9.14666 1.33753C11.4896 1.48515 14.0668 2.1792 15.9998 3.88017C15.9998 3.88017 14.3507 1.01364 10.1537 0.211632C5.95667 -0.590379 2.72612 1.02907 0.86303 2.68817C0.369662 3.12883 0.115093 3.54747 0.0317383 3.94847C0.0700363 5.16911 2.96942 6.27518 2.96942 6.27518Z" fill="currentColor"></path>
+                                                      <path d="M4.64102 17.3645C4.01698 16.4766 3.96517 15.5578 4.70184 14.3173C5.43852 13.0769 7.86255 11.4971 7.86255 11.4971L2.96942 13.7268C2.96942 13.7268 0.0677835 14.8329 0.0317383 16.0535C0.115093 16.4546 0.369662 16.8732 0.86303 17.3138C2.72612 18.973 5.95441 20.5902 10.1514 19.7882C14.3507 18.9884 15.9998 16.1218 15.9998 16.1218C14.0668 17.8228 11.4896 18.5191 9.14666 18.6645C6.80373 18.8121 5.2628 18.2547 4.64102 17.3645Z" fill="currentColor"></path>
+                                                      <path d="M2.96967 13.7263L7.8628 11.4966C7.8628 11.4966 9.25279 10.7695 9.25279 10.049C9.25279 10.0336 9.25279 10.0159 9.25054 10.0005C9.25054 9.9851 9.25279 9.96748 9.25279 9.95205C9.25279 9.23157 7.8628 8.50447 7.8628 8.50447C7.8628 8.50447 7.86055 8.50226 7.85829 8.50226L2.96967 6.2747C2.96967 6.2747 0.0702822 5.17084 0.0319842 3.9502C-0.200057 5.05847 0.876793 6.01691 1.76441 6.83875C2.95164 7.93381 3.4788 9.02225 3.46979 10.0005C3.4788 10.9788 2.95164 12.0672 1.76441 13.1645C0.876793 13.9841 -0.200057 14.9426 0.0319842 16.0531C0.0680294 14.8324 2.96967 13.7263 2.96967 13.7263Z" fill="currentColor"></path>
+                                                   </g>
+                                                </svg>
+                                             </div>
+                                             Endorphina
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20">
+                                                   <path d="M1.58242 20H13.0549L15.478 10.3286C15.478 10.2817 15.478 10.2817 15.5275 10.1878L18 0H6.62637L4.5989 7.98122L2.17582 5.53991L0 14.2254L3.70879 11.784L1.58242 20ZM5.48901 9.62441L7.66484 1.03286H17.2088L15.033 9.62441H13.0055C13.0055 9.62441 12.8571 9.85916 12.7582 9.85916C12.7582 9.85916 12.6099 10 12.7582 10C12.9066 10 12.9066 10.3756 12.9066 10.3756H14.9341L12.6593 19.108H2.96703L5.24176 10.3756H7.17033L7.41758 9.67136H5.48901V9.62441ZM1.43407 12.5352L2.71978 7.46479L5.14286 9.9061L1.43407 12.5352Z" fill="currentColor"></path>
+                                                   <path d="M13.5494 3.42688C13.7967 3.66162 14.0439 4.4128 13.945 4.88228C13.6978 5.8682 13.0549 8.26256 13.0549 8.26256C12.9066 8.63815 12.5604 9.48322 12.1648 9.71796C12.1648 9.71796 12.0165 9.85881 12.1648 9.85881C12.6593 10.2344 12.4121 11.1734 12.4121 11.1734L11.7692 13.8494C11.6209 14.5536 11.0275 16.8541 8.20878 16.7602H6.03296L9.5934 2.72266H12.1648C12.6593 2.81655 13.2527 3.05129 13.5494 3.42688ZM12.2637 5.02313C12.2637 4.55364 11.8681 4.4128 11.6209 4.3189H10.978L9.84065 9.06068C9.84065 9.06068 10.4835 9.06068 10.5824 9.06068C10.978 8.91984 11.2253 8.82594 11.3242 8.35646L12.2637 5.02313ZM10.7308 11.6428C10.7308 11.6428 10.8791 11.1734 10.8791 11.0325C10.8791 10.7978 10.6319 10.563 10.3846 10.563C10.1374 10.563 9.4945 10.563 9.4945 10.563L8.20878 15.3048H8.80219C9.19779 15.3048 9.6923 15.164 9.84065 15.0701C9.989 14.9292 10.0879 14.6945 10.0879 14.6006L10.7308 11.6428Z" fill="currentColor"></path>
+                                                </svg>
+                                             </div>
+                                             Betsoft
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="20" viewBox="0 0 14 20">
+                                                   <g>
+                                                      <path d="M7.02501 1.44282L13.35 16.7507L10.4625 19.4721H3.58751L0.65 16.7507L7.02501 1.44282ZM7.02501 0L0 16.8915L3.3625 20H10.7L14 16.8915L7.02501 0Z" fill="currentColor"></path>
+                                                      <path d="M6.56254 12.9619C5.61256 12.3871 2.60005 13.7009 2.60005 13.7009L1.42505 16.5162L2.83755 17.8534C3.17505 17.5367 8.05005 13.8769 6.56254 12.9619Z" fill="currentColor"></path>
+                                                      <path d="M7.29998 3.44824C7.29998 3.44824 6.54995 5.59489 5.86245 7.50689C4.89995 10.1579 5.19998 10.9087 6.48746 10.5333C8.33745 10.0054 9.67498 9.12566 10.1125 11.0729C10.575 13.3251 8.36247 15.4834 6.44995 17.0905C5.62495 17.7826 4.66245 18.4512 4.07495 18.85H10.25L12.7125 16.4922L7.29998 3.44824Z" fill="currentColor"></path>
+                                                   </g>
+                                                </svg>
+                                             </div>
+                                             Spearhead
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
+                                    <div>
+                                       <div tabindex="-1" style="width: 100%; display: inline-block;">
+                                          <div class="provider-item_bf75c">
+                                             <div class="provider-icon-wrapper_3e8e5">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+                                                   <g>
+                                                      <path d="M0.0946827 12.7772L0.521979 13.027C1.90257 13.8406 3.39555 14.2645 5.02098 14.2617C7.92659 14.2547 10.8322 14.2617 13.7357 14.2617C14.0476 14.2617 14.048 14.2617 14.0485 13.9555C14.0485 13.7025 14.0485 13.4495 14.0485 13.1966C14.0485 12.8875 14.0485 12.8875 13.716 12.8875H11.9056C9.00851 12.8875 6.11144 12.8865 3.21437 12.8846C2.64137 12.8846 2.06794 12.8274 1.56202 12.5348C0.600174 11.9746 0.0254608 11.1515 0.0160603 10.0712C-0.0125685 6.83472 0.00580499 3.59742 0.00580499 0.360524C0.00580499 0.0164627 0.0228968 0 0.390372 0C3.40993 0 6.43063 0 9.45247 0C12.1346 0.00411556 14.4416 0.952754 16.4601 2.61009C17.3624 3.34756 18.1696 4.18653 18.8645 5.10906C19.3397 5.74204 19.6683 6.45732 19.937 7.21747C19.8809 7.19283 19.8261 7.16536 19.773 7.13516C18.662 6.43057 17.4519 5.97086 16.1307 5.80171C15.8018 5.76102 15.4705 5.74095 15.1389 5.74162C12.1724 5.73696 9.20563 5.736 6.23877 5.73874H6.01359V7.11417H16.8067C18.3407 7.11417 19.3298 7.76484 19.867 9.14561C19.9479 9.35379 19.9904 9.57399 19.9926 9.79628C20.0003 13.0926 20.002 16.389 19.9977 19.6856C19.9977 19.9634 19.9648 19.9979 19.6811 19.9979C16.5058 19.9955 13.3306 20.0115 10.1558 19.9811C8.46541 19.9646 6.89339 19.4749 5.4299 18.6666C3.69166 17.706 2.29227 16.3832 1.1172 14.8391C0.652732 14.2287 0.33696 13.5291 0.0489623 12.8225L0.0946827 12.7772Z" fill="currentColor"></path>
+                                                   </g>
+                                                </svg>
+                                             </div>
+                                             Spinomenal
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 161px;">
                                     <div>
                                        <div tabindex="-1" style="width: 100%; display: inline-block;">
                                           <div class="provider-item_bf75c">
