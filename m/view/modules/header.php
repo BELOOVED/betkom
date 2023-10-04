@@ -45,7 +45,6 @@ div:where(.swal2-icon).swal2-warning {
 }
     </style>
     <script src="assets/js/app.js"></script>
-    <script src="assets/js/script.js"></script>
 
       <style>
         .bottommenu{
