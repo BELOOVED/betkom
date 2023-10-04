@@ -319,26 +319,7 @@ div:where(.swal2-icon).swal2-warning {
                </div>
             </div>
             <div class="header-container_2ccda fixed_f9a92">
-               <div class="notification_content_ticker_23ec7">
-                  <span class="notification_icon_539b5"></span>
-                  <div class="content_header_ticker_0afcf">
-                     <p class="header_ticker_a10f7">
-                        <span>
-                     <div><p>SİZ İSTEDİNİZ BİZ YAPTIK!.. HER AYIN 5'İ,15'İ VE 25'İNDE VERMİŞ OLDUĞUMUZ %100 1001TL YATIRIM BONUSUNU, BU AYIN 3'Ü VE 4'ÜNDE DE GÜNDE BİRER KEZ 1001TL OLARAK DAĞITIYORUZ...</p>
-                     </div></span></p>
-                  </div>
-                  <button class="close-button_ff8c3">
-                     <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M16.026 4L11 9.026L5.974 4L4 5.974L9.026 11L4 16.026L5.974 18L11 12.974L16.026 18L18 16.026L12.974 11L18 5.974L16.026 4Z" fill="url(#paint0_linear_690_4746)"></path>
-                        <defs>
-                           <linearGradient id="paint0_linear_690_4746" x1="6.89855" y1="7.77966" x2="21" y2="7.77966" gradientUnits="userSpaceOnUse">
-                              <stop stop-color="#E5DC93"></stop>
-                              <stop offset="1" stop-color="#C19E6B"></stop>
-                           </linearGradient>
-                        </defs>
-                     </svg>
-                  </button>
-               </div>
+               
                <header class="header_5b53f">
                   <button class="header-burger_889cf">
                      <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="header-burger-icon_e5ccf">
