@@ -5,34 +5,67 @@ if ($detect->isMobile()) {
    exit; // Yönlendirme sonrası scriptin geri kalanını çalıştırmamak için exit kullanılır.
 }
  ?>
-<html lang="tr" dir="">
+
+
+
+<html lang="tr">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="description" content="" data-reactroot="">
+      <meta name="keywords" content="" data-reactroot="">
       <meta name="robots" data-reactroot="">
+      <link rel="canonical" data-reactroot="">
+      <meta property="og:description" content="" data-reactroot="">
+      <meta property="og:url" data-reactroot="">
       <meta charset="UTF-8">
       <meta name="google" content="notranslate">
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
       <link rel="apple-touch-icon" sizes="76x76" href="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/apple-touch-icon.png?v=2">
       <link rel="icon" type="image/png" sizes="32x32" href="https://cdn2-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-32x32.png?v=2">
       <link rel="icon" type="image/png" sizes="16x16" href="https://cdn3-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-16x16.png?v=2">
-     
-      <link rel="stylesheet" href="https://cdn1-client.btkmcdn.com/build/themes/web/turkish/betkom/css/style.css?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294" id="current_theme">
-      
-      <meta name="description" content="Betkom.com | Canlı mərc | İdman mərcləri | Kazino | Poker. Ən çox qazandıran və yeni nəsil məşhur oyunların yeganə ünvanı Betkom-ə xoş gəlmisiniz. ✅ 2500 TL ilk depozit bonusu, Tək depozit üçün üç Bonus, Hədiyyələr, Bir Birindən cəzb edici bonuslar və s.">
-      <meta name="keywords" content="Betkom, Sportsbook, sports betting, live betting, Games, Live Games">
-      <link rel="canonical" href="https://betkom.com/en/">
-      <meta property="og:site_name" content="betkom.com">
-      <meta property="og:description" content="Betkom.com | Canlı mərc | İdman mərcləri | Kazino | Poker. Ən çox qazandıran və yeni nəsil məşhur oyunların yeganə ünvanı Betkom-ə xoş gəlmisiniz. ✅ 2500 TL ilk depozit bonusu, Tək depozit üçün üç Bonus, Hədiyyələr, Bir Birindən cəzb edici bonuslar və s.">
-      <meta property="og:url" content="https://betkom.com/en/">
-      <title>Betkom Canlı bahis ve Casino Oyunları</title>
-      <meta property="og:title" content="Betkom Canlı bahis ve Casino Oyunları">
-      <style type="text/css" data-styled-components="" data-styled-components-is-local="true"></style>
+      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript">  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
+         d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
+         s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
+         ,'script','_gs');
+         
+         _gs('GSN-526908-Q');
+         _gs('set', 'anonymizeIP', true);
+      </script><script type="text/javascript" src="https://19c3d3d6-6ad8-4c01-88e3-2e22c978469c.snippet.antillephone.com/apg-seal.js"></script><script crossorigin="anonymous" type="text/javascript" src="https://widget.stkcdn.com/widget/main.js?1.7"></script><script type="text/javascript" src="https://cdn3-client.btkmcdn.com//config/web/cache_tr_TR.js?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294"></script>
+      <script type="text/javascript">
+         Configurator = {
+         	language                : "tr_TR",
+         	translate_language      : "tr_TR",
+                   entity_language      	: "tr_TR",
+         	important_content_blocks: ["APPLICATION_STATE"],
+         	theme                   : 'turkish/betkom',
+         	device_type             : 'web',
+         	public                  : PublicConfig,
+         	blocks_data             : BlocksData,
+         	error_status            : false,
+         	no_found_league         : false,
+         	no_found_event          : false,
+         	no_found_sport          : '',
+         	no_found_country        : false,
+         	timezone               : 'Europe/Istanbul',
+         	currency                : 'TRY',
+         	currency_symbol         : '₺',
+         	timezone_offset         : -180,
+         	odds_format             : 'floating_format',
+                   default_offset          : 180,
+                   profit_hint          	: 0,
+                   domain             		: 'betkom.com',
+                   cms_currency     		: 'EUR',
+                   cms_currency_symbol     : '€',
+                   version           		: '1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294',
+                   source_state            : {},
+                   country            		: ''
+         
+         };
+         
+      </script>
       <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
       <script src="/assets/js/script.js"></script>
-      <script crossorigin="anonymous" type="text/javascript" src="https://widget.stkcdn.com/widget/main.js?1.7"></script>
-      <script type="text/javascript" src="https://cdn3-client.btkmcdn.com//config/web/cache_en_US.js?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294"></script>
-      <script type="text/javascript" src="https://cdn2-client.btkmcdn.com/build/themes/web/turkish/betkom/js/bundle.js?r=1696319036__d0f5e4ab33eb8ad891e821de0a85a26c__72d473b011fc9a580051f639bc75f294" crossorigin="anonymous"></script>
       <script src="/assets/js/app.js"></script>
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
     <!-- Add the slick-theme.css if you want default styling -->
@@ -76,6 +109,13 @@ div:where(.swal2-icon).swal2-warning {
     color: #ea2323 !important;
 }
     </style>
+      <script type="text/javascript" src="https://cdn4-client.btkmcdn.com/build/themes/web/turkish/betkom/script.js?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294"></script>
+      <link rel="stylesheet" href="https://cdn1-client.btkmcdn.com/build/themes/web/turkish/betkom/css/style.css?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294" id="current_theme">
+      <script type="text/javascript" src="https://cdn2-client.btkmcdn.com/build/themes/web/turkish/betkom/js/bundle.js?r=1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294" crossorigin="anonymous"></script>
+      <title>Betkom Canlı bahis ve Casino Oyunları</title>
+      <meta property="og:title" content="Betkom Canlı bahis ve Casino Oyunları">
+      <meta property="og:site_name" content="betkom.com">
+      <style type="text/css" data-styled-components="" data-styled-components-is-local="true"></style>
    </head>
    <body class="light">
       <div id="app" class="root  ">
@@ -206,7 +246,7 @@ div:where(.swal2-icon).swal2-warning {
                                                 </g>
                                              </svg>
                                           </span>
-                                          <span class="nav-menu-link-title_c5443">In-Play</span>
+                                          <span class="nav-menu-link-title_c5443">Canlı Bahis</span>
                                        </a>
                                     </li>
                                     <li class="nav-menu-item_cc4ed">
@@ -219,7 +259,7 @@ div:where(.swal2-icon).swal2-warning {
                                                 </g>
                                              </svg>
                                           </span>
-                                          <span class="nav-menu-link-title_c5443">Virtual</span>
+                                          <span class="nav-menu-link-title_c5443">Sanal</span>
                                        </a>
                                     </li>
                                     <li class="nav-menu-item_cc4ed">
@@ -249,7 +289,7 @@ div:where(.swal2-icon).swal2-warning {
                                                 </g>
                                              </svg>
                                           </span>
-                                          <span class="nav-menu-link-title_c5443">Live Casino</span>
+                                          <span class="nav-menu-link-title_c5443">Canlı Casino</span>
                                        </a>
                                     </li>
                                     <li class="nav-menu-item_cc4ed">
@@ -327,7 +367,7 @@ div:where(.swal2-icon).swal2-warning {
                                                 </g>
                                              </svg>
                                           </span>
-                                          <span class="nav-menu-link-title_c5443">Other Games</span>
+                                          <span class="nav-menu-link-title_c5443">Diğer Oyunlar</span>
                                        </a>
                                     </li>
                                     <li class="nav-menu-item_cc4ed"><a href="/tr/promo/" id="PROMOTIONS" class="nav-menu-link_107c2 promo_3bbaa"><span class="nav-menu-link-title_c5443">Promosyonlar</span></a></li>

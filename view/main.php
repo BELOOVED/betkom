@@ -3,7 +3,7 @@
                <div class="home_4cdc7">
                   <div class="home-container_b2d9b container_01a5e">
                      <div class="">
-                        <div class="main-slider_f2957" style="height: 15% !important;">
+                        <div class="main-slider_f2957">
                            <div class="slick-wrapper_cfa57">
                               <div class="slick-slider slick-initialized" dir="ltr">
                                  <button class="slick-arrow slick-prev" style="display: block;">
@@ -14,7 +14,7 @@
                                     </svg>
                                  </button>
                                  <div class="slick-list">
-                                    <div class="slick-track" style="width: 17784px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
+                                    <div class="slick-track" style="width: 17784px; opacity: 1; transform: translate3d(-2052px, 0px, 0px);">
                                        <div data-index="-2" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 684px;">
                                           <div><a class="swiper-slide" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696075870_tr_TR_egt_cok_yakinda_slider.png"></a></div>
                                        </div>
@@ -24,16 +24,16 @@
                                        <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316481_tr_TR_100-yatirim-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316481_tr_TR_100-yatirim-slider.jpg"></a></div>
                                        </div>
-                                       <div data-index="1" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
+                                       <div data-index="1" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316709_tr_TR_kombine-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696316709_tr_TR_kombine-slider.jpg"></a></div>
                                        </div>
-                                       <div data-index="2" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
+                                       <div data-index="2" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696080596_tr_TR_23-05_arasi_ek_freespin_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696080596_tr_TR_23-05_arasi_ek_freespin_slider.png"></a></div>
                                        </div>
-                                       <div data-index="3" class="slick-slide slick-active slick-current" tabindex="-1" aria-hidden="false" style="outline: none; width: 684px;">
+                                       <div data-index="3" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696078221_tr_TR_5_payfix_yatirim_bonusu_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1696078221_tr_TR_5_payfix_yatirim_bonusu_slider.png"></a></div>
                                        </div>
-                                       <div data-index="4" class="slick-slide slick-active" tabindex="-1" aria-hidden="false" style="outline: none; width: 684px;">
+                                       <div data-index="4" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
                                           <div><a class="swiper-slide" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005819_tr_TR_ana_sayfa_ust_banner-1.png" alt="https://cdn2-platform.btkmcdn.com//sliders/desk_main/1694005819_tr_TR_ana_sayfa_ust_banner-1.png"></a></div>
                                        </div>
                                        <div data-index="5" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 684px;">
@@ -117,15 +117,15 @@
                               </svg>
                            </div>
                            <div class="title-wrapper_97786">
-                              <span>Sports</span>
+                              <span>Spor</span>
                               <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="#1FE1FF"></path>
                                  <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="#1FE1FF"></path>
                                  <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="#1FE1FF"></path>
                               </svg>
                            </div>
-                           <div class="subtitle_10bd2">Bets</div>
-                           <div class="link_bef2a">Play Now</div>
+                           <div class="subtitle_10bd2">Bahisler</div>
+                           <div class="link_bef2a">Hemen Oyna</div>
                         </div>
                         <div class="page-card_755bf LIVE_8db5c">
                            <div class="icon-wrapper_2b7e3">
@@ -140,15 +140,15 @@
                               </svg>
                            </div>
                            <div class="title-wrapper_97786">
-                              <span>Live</span>
+                              <span>Canlı</span>
                               <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="#1FE1FF"></path>
                                  <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="#1FE1FF"></path>
                                  <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="#1FE1FF"></path>
                               </svg>
                            </div>
-                           <div class="subtitle_10bd2">Bets</div>
-                           <div class="link_bef2a">Play Now</div>
+                           <div class="subtitle_10bd2">Bahisler</div>
+                           <div class="link_bef2a">Hemen Oyna</div>
                         </div>
                         <div class="page-card_755bf CASINO_b50a0">
                            <div class="icon-wrapper_2b7e3">
@@ -168,7 +168,7 @@
                               </svg>
                            </div>
                            <div class="subtitle_10bd2">Slots</div>
-                           <div class="link_bef2a">Play Now</div>
+                           <div class="link_bef2a">Hemen Oyna</div>
                         </div>
                         <div class="page-card_755bf LIVE_CASINO_75674">
                            <div class="icon-wrapper_2b7e3">
@@ -197,7 +197,7 @@
                               </svg>
                            </div>
                            <div class="title-wrapper_97786">
-                              <span>Live</span>
+                              <span>Canlı</span>
                               <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="#1FE1FF"></path>
                                  <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="#1FE1FF"></path>
@@ -205,7 +205,7 @@
                               </svg>
                            </div>
                            <div class="subtitle_10bd2">Casino</div>
-                           <div class="link_bef2a">Play Now</div>
+                           <div class="link_bef2a">Hemen Oyna</div>
                         </div>
                         <div class="page-card_755bf POKER_75443">
                            <div class="icon-wrapper_2b7e3">
@@ -217,15 +217,15 @@
                               </svg>
                            </div>
                            <div class="title-wrapper_97786">
-                              <span>Poker Lobby</span>
+                              <span>Poker Lobi</span>
                               <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="#1FE1FF"></path>
                                  <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="#1FE1FF"></path>
                                  <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="#1FE1FF"></path>
                               </svg>
                            </div>
-                           <div class="subtitle_10bd2">Private</div>
-                           <div class="link_bef2a">Play Now</div>
+                           <div class="subtitle_10bd2">Özel</div>
+                           <div class="link_bef2a">Hemen Oyna</div>
                         </div>
                      </div>
                      <div class="page-cards_e8637">
@@ -247,7 +247,7 @@
                               </svg>
                            </div>
                            <div class="subtitle_10bd2">Özel</div>
-                           <div class="link_bef2a">Play</div>
+                           <div class="link_bef2a">Hemen oyna</div>
                         </div>
                         <div class="page-card_755bf VIRTUAL_d76d3">
                            <div class="icon-wrapper_2b7e3">
@@ -259,15 +259,15 @@
                               </svg>
                            </div>
                            <div class="title-wrapper_97786">
-                              <span>Virtual</span>
+                              <span>Sanal</span>
                               <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="#1FE1FF"></path>
                                  <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="#1FE1FF"></path>
                                  <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="#1FE1FF"></path>
                               </svg>
                            </div>
-                           <div class="subtitle_10bd2">Bets</div>
-                           <div class="link_bef2a">Play</div>
+                           <div class="subtitle_10bd2">Bahisler</div>
+                           <div class="link_bef2a">Hemen oyna</div>
                         </div>
                         <div class="page-card_755bf PROMOTIONS_1e29c">
                            <div class="icon-wrapper_2b7e3">
@@ -280,15 +280,15 @@
                               </svg>
                            </div>
                            <div class="title-wrapper_97786">
-                              <span>Promotions</span>
+                              <span>Promosyonlar</span>
                               <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path opacity="0.2" d="M5.20754 4.26624L0.876957 0.256442C0.720672 0.111734 0.479328 0.111734 0.323043 0.256442C0.148793 0.417785 0.148793 0.693327 0.323043 0.854669L4.00754 4.26624C4.43499 4.66203 4.43499 5.33797 4.00754 5.73376L0.323043 9.14533C0.148793 9.30667 0.148793 9.58222 0.323043 9.74356C0.479328 9.88827 0.720673 9.88827 0.876958 9.74356L5.20754 5.73376C5.63499 5.33797 5.63499 4.66203 5.20754 4.26624Z" fill="#1FE1FF"></path>
                                  <path opacity="0.6" d="M10.2075 4.26624L5.87696 0.256442C5.72067 0.111734 5.47933 0.111734 5.32304 0.256442C5.14879 0.417785 5.14879 0.693327 5.32304 0.854669L9.00754 4.26624C9.43499 4.66203 9.43499 5.33797 9.00754 5.73376L5.32304 9.14533C5.14879 9.30667 5.14879 9.58222 5.32304 9.74356C5.47933 9.88827 5.72067 9.88827 5.87696 9.74356L10.2075 5.73376C10.635 5.33797 10.635 4.66203 10.2075 4.26624Z" fill="#1FE1FF"></path>
                                  <path d="M15.2075 4.26624L10.877 0.256442C10.7207 0.111734 10.4793 0.111734 10.323 0.256442C10.1488 0.417785 10.1488 0.693327 10.323 0.854669L14.0075 4.26624C14.435 4.66203 14.435 5.33797 14.0075 5.73376L10.323 9.14533C10.1488 9.30667 10.1488 9.58222 10.323 9.74356C10.4793 9.88827 10.7207 9.88827 10.877 9.74356L15.2075 5.73376C15.635 5.33797 15.635 4.66203 15.2075 4.26624Z" fill="#1FE1FF"></path>
                               </svg>
                            </div>
-                           <div class="subtitle_10bd2">Special Bonuses</div>
-                           <div class="link_bef2a">Play Now</div>
+                           <div class="subtitle_10bd2">Özel Bonuslar</div>
+                           <div class="link_bef2a">Hemen Oyna</div>
                         </div>
                      </div>
                      <div class="additional-section_0af15">
@@ -301,9 +301,9 @@
                               </svg>
                            </div>
                            <div class="content_39646">
-                              <div class="additional-title_20d26">Our Mobile Apps</div>
-                              <div class="additional-text_9418b">Fast &amp; Safe</div>
-                              <div class="additional-button_c81b5">Download Now</div>
+                              <div class="additional-title_20d26">Mobil Uygulamalar</div>
+                              <div class="additional-text_9418b">Hızlı &amp; Güvenli</div>
+                              <div class="additional-button_c81b5">Hemen İndir</div>
                            </div>
                         </div>
                         <div class="additional-item_da8b8 live_tv_09f9a">
@@ -318,9 +318,9 @@
                               </svg>
                            </div>
                            <div class="content_39646">
-                              <div class="additional-title_20d26">Live Matches</div>
-                              <div class="additional-text_9418b">Live Broadcast List</div>
-                              <div class="additional-button_c81b5">Watch Now</div>
+                              <div class="additional-title_20d26">Canlı Yayın</div>
+                              <div class="additional-text_9418b">Canlı Yayın Listesi</div>
+                              <div class="additional-button_c81b5">Hemen İzle</div>
                            </div>
                         </div>
                      </div>
