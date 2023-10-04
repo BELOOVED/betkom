@@ -1,0 +1,420 @@
+.casino-game-item {
+	background: transparent !important;
+  }
+  .m-nav-items-list-item-bc.active, .m-nav-items-list-item-bc:hover {
+	border: 1px solid transparent !important;
+	background: transparent !important;
+  }
+  .m-nav-items-list-item-bc:not(.active) {
+	background: transparent !important;
+	border: 1px solid transparent;
+  }
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.is-home-page{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }    
+	 
+	 
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.has-sub-navigation.page-full-size.casino-slots.compact-footer{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }   
+	 
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.live-casino-games.page-full-size.compact-footer{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }   
+	 
+  div#root.layout-bc .theme-default.smart-panel-is-visible.betslip-Hidden.skill-games-page.page-full-size.compact-footer.skill-games{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }   
+	 
+	 
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.has-sub-navigation.page-full-size.hide-tab-navigation-footer-mobile.compact-footer.virtual-sports{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }   
+	 
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.page-full-size.tv-games.compact-footer{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }   
+	 
+  div#root.layout-bc.theme-default.smart-panel-is-visible.e-sports.compact-footer.page-full-size.sportsbook.betslip-Fixed{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }   
+	 
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden{   
+  max-width: 1670px !important; margin-left:auto !important; margin-right:auto !important;   
+  }    
+	 
+  div#root.layout-bc:not(.page-full-size) .layout-content-holder-bc, .layout-bc:not(.page-full-size) .layout-footer-holder-bc {   
+  padding:0 !important;   
+  }    
+	 
+  .header-bc {   
+  padding:0 !important;   
+  }   
+	 
+	 
+  .overlay-header { 
+	  display: flex; 
+	  align-items: center; 
+	  height: 49px; 
+	  line-height: 49px; 
+	  padding: 0 10px; 
+	  color: #cea634; 
+	  font-size: 40px; 
+	  font-weight: 500; 
+  } 
+   
+  .promotions-article-title { 
+	  height: 34px; 
+	  margin-top: 1px; 
+	  padding: 0 10px; 
+	  color: #cea634; 
+	  background: rgba(var(--b-sc-rgb),.1); 
+	  font-size: 15px; 
+	  line-height: 34px; 
+  }
+  .livechat_button { 
+  position: fixed;
+  bottom: 10px;
+  right: 0;
+  }
+  .livechat_button img {
+  width: 180px;
+  }
+  #chat-widget-minimized{
+	opacity: 0;
+  }
+  .entrance-f-error-message-bc {
+  
+	background: #162642 !important;
+   
+  }
+  .user-profile-nav-item {
+	text-transform: uppercase !important;
+  }
+  .btn.s-big {
+	height: 40px;
+	font-size: 16px !important;
+	width: 200px !important;
+  }
+  @media screen and (max-width: 1680px)
+  .accordion-items .accordion-button {
+	font-size: 12px;
+	border: 2px solid #dac795 !important;
+  }
+  .accordion-items .accordion-button {
+	  max-width: 167px !important;
+  }
+  .btn.s-big {
+	  border: 2px solid #dac795bf !important;
+  }
+  .accordion-items .accordion-button {
+	max-width: 184px !important;
+  }
+  .accordion-items-container {
+	border-top: 2px solid #dac795 !important;
+  }
+  .accordion-items {
+	margin-top: 20px !important;
+  }
+  .nav-menu-container .nav-menu > li {
+	text-transform: uppercase !important;
+  }
+  .btn.a-outline {
+	background: #dac795 !important;
+  }
+  
+  .btn.s-big.accordion-button:hover {
+	background: #dac795 !important;
+  }
+  .promotionsArticleThumbnail-bc { 
+	backdrop-filter: blur(10px) !important; 
+	box-shadow: inset -5px 0px 4px 0px rgb(0 0 0) !important; 
+	border-radius:16px !important
+  }
+  
+  .promotionsListEl-bc:hover {
+	background: url(https://cmsbetconstruct.com/storage/medias/betzula-18748519/media_18748519_025d27dd0729e873890a45c8feca3f72.gif) !important;
+	background-size: cover!important; 
+	border-radius: 10px !important;
+  }
+  
+  .promotionsArticleThumbnail-bc:hover{
+	opacity: 0.8 !important;
+  }
+  
+  .promotionsListEl-bc:hover .promotionsArticleThumbnail-bc {
+	  -webkit-transform: scale(1) !important;
+	  transform: scale(1) !important;
+  }
+  
+  .promotions-article-title.ellipsis{
+  display: none;
+  }
+  body {
+	background-image: url(https://cmsbetconstruct.com/storage/medias/betzula-18748519/media_18748519_d4b536f0222bde4a120756b34a79072c.jpeg) !important;
+  }
+  .btn.s-big {
+	height: 40px;
+	font-size: 13px !important;
+  }
+  #lcqualitybadge {
+	padding-left: 45% !important;
+	background: #091a38 !important;
+	padding-bottom: 10px !important;
+  }
+  .m-nav-items-list-item-bc {
+	width: 247px !important;
+	float: left !important;
+	margin-bottom: 10px !important;
+  }
+  .m-block-nav-items-bc {
+	display: unset !important;
+  }
+  .payment-logo {
+	width: 185px !important;
+  }
+  .popup-holder-bc.user-profile-container > .popup-middleware-bc > .popup-inner-bc {
+	width: 1415px !important;
+	height: 89vh !important;
+  }
+  .payment-logo {
+	width: 160px !important;
+  }
+  .dep-w-info-bc > .horizontal-sl-list {
+	margin-top: 5px !important;
+  }
+  .horizontal-items-expanded .horizontal-sl-item-bc {
+	height: 30px !important;
+  }
+  .deposit-method-description {
+	line-height: 14px !important;
+  }
+  .deposit-method-description {
+	margin: 10px 0 !important;
+  }
+  .m-nav-items-list-item-bc {
+	margin-bottom: 0px !important;
+  }
+  .popup-holder-bc.user-profile-container > .popup-middleware-bc > .popup-inner-bc {
+	width: 1575px !important;
+	height: 95vh !important;
+  }
+  .WithdrawAmount-Row {
+	padding: 5px 20px !important;
+  }
+  .form-control-label-bc.inputs {
+	height: 45px !important;
+  }
+  .deposit-method-description {
+	max-width: 100% !important;
+  }
+  .informative-widget-container i {
+	font-size: 15px !important;
+	color: rgba(var(--b-sc-rgb),.7);
+	padding-left: 10px !important;
+  }
+  .product-banner-icon-bc.bc-i-telegram {
+	color: #08C !important;
+  }
+  .product-banner-icon-bc.bc-i-whatsapp {
+	color: #25D366 !important;
+  }
+  .btn.s-small.sign-in {
+	background: #7dbb21 !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	text-decoration: none !important;
+  }
+  .header-custom-buttons + .sign-in {
+	min-height: 29px !important;
+  }
+  .loyaltyButtons-bc {
+	display: none !important;
+  }
+  
+  .loyaltyPointsCurrentPlanProgressBar-bc::after {
+	background: #aeaeae !important;
+  }
+  
+  .loyaltyPointsCurrentPlanTitle-bc {
+	color: #BEA557 !important;
+  }
+  .loyaltyPointsCurrentPlanLabel-bc {
+	color: white !important;
+  }
+  .loyaltyNum-bc.ellipsis {
+	color: white !important;
+  }
+  
+  .hdr-dynamic-content .product-banner-container-bc .product-banner-info-bc.product-banner-bc {
+  width: 75px;
+  }
+  
+  .hdr-dynamic-content .product-banner-container-bc {
+  grid-gap: 58px;
+  margin-top: 18px;
+  }
+  
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.is-home-page{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  }  
+   
+   
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.has-sub-navigation.page-full-size.casino-slots.compact-footer{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  } 
+   
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.live-casino-games.page-full-size.compact-footer{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  } 
+   
+  div#root.layout-bc .theme-default.smart-panel-is-visible.betslip-Hidden.skill-games-page.page-full-size.compact-footer.skill-games{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  } 
+   
+   
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.has-sub-navigation.page-full-size.hide-tab-navigation-footer-mobile.compact-footer.virtual-sports{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  } 
+   
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden.page-full-size.tv-games.compact-footer{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  } 
+   
+  div#root.layout-bc.theme-default.smart-panel-is-visible.e-sports.compact-footer.page-full-size.sportsbook.betslip-Fixed{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  } 
+   
+  div#root.layout-bc.theme-default.smart-panel-is-visible.betslip-Hidden{ 
+  max-width: 1470px !important; margin-left:auto !important; margin-right:auto !important; 
+  }  
+  
+   
+  div#root.layout-bc:not(.page-full-size) .layout-content-holder-bc, .layout-bc:not(.page-full-size) .layout-footer-holder-bc { 
+  padding:0 !important; 
+  }  
+   
+  .header-bc { 
+  padding:0 !important; 
+  } 
+  
+  .informative-widget {
+	  padding: 0px !important;
+  }
+  
+  
+  .informative-widget-container {
+	padding: 5px !important;
+  }
+  
+  .carousel-count-arrow-container i {
+	width: auto !important;
+	height: auto !important;
+	background: transparent !important;
+  }
+  
+  .carousel-arrow-right.bc-i-small-arrow-right {
+	margin-right: 20px !important;
+  }
+  
+  .hm-row-bc:not(:first-child:empty) + .hm-row-bc {
+	margin-top: 0px !important;
+  }
+  
+  .nav-menu-container.header-navigation:first-child .nav-menu-other > .nav-menu-item > i, .nav-menu-container.header-navigation:first-child .nav-menu > li > .nav-menu-item > i {
+	color: #dac795 !important;
+  }
+  
+  .header-bc {
+	background: #1f2e48 !important;
+	border-radius: 10px !important;
+  }
+  
+  .hdr-logo-bc {
+	padding-left: 10px !important;
+  }
+  
+  .hdr-time-bc {
+	margin-right: 10px !important;
+  }
+  
+  .nav-menu-container.header-navigation:first-child .nav-menu-other > .nav-menu-item, .nav-menu-container.header-navigation:first-child .nav-menu > li > .nav-menu-item {
+	padding: 0 10px !important;
+  }
+  
+  .nav-menu-container .nav-menu-other .nav-menu-item, .nav-menu-container .nav-menu .nav-menu-item {
+	font-size: 14px !important;
+  }
+  
+  .nav-menu > li:nth-child(11) > .nav-menu-item >span {
+	  color: transparent !important;
+  }
+  .bc-i-promotions {
+	  color: transparent !important;
+  }
+  
+  #root > div.layout-header-holder-bc > header > div.nav-content-bc > div > nav > ul.nav-menu.nav-menu-hide-items > li:nth-child(11) {
+	float: right;
+	position: absolute;
+	right: 0;
+	background: url(https://cmsbetconstruct.com/storage/medias/betzula-18748519/media_18748519_d354c024d3b4c3c79cccf17d71cf1b11.gif) !important;
+	  background-repeat: repeat;
+	  background-size: auto;
+	background-repeat: repeat;
+	background-size: auto;
+	background-repeat: repeat;
+	background-size: auto;
+	width: 160px;
+	height: 36px;
+	background-repeat: no-repeat !important;
+	background-size: 100% 100% !important;
+  }
+  
+  #root > div.layout-header-holder-bc > header > div.nav-content-bc > div > nav > ul.nav-menu.nav-menu-hide-items > li:nth-child(11) a:hover{
+	  float: right;
+	  position: absolute;
+	  right: 0px;
+	  background: url(https://cmsbetconstruct.com/storage/medias/betzula-18748519/media_18748519_d354c024d3b4c3c79cccf17d71cf1b11.gif) !important;
+	  width: 160px;
+	  height: 36px;
+	  background-repeat: no-repeat !important;
+	  background-size: 100% 100% !important;
+  }
+  
+  
+  .nav-menu-container.header-navigation:first-child .nav-menu-other > .nav-menu-item.active, .nav-menu-container.header-navigation:first-child .nav-menu > li:nth-child(11) > .nav-menu-item.active {
+  background: transparent !important;
+  }
+  
+  #root > div.layout-header-holder-bc > header > div.nav-content-bc > div > nav > ul.nav-menu.nav-menu-hide-items > li:nth-child(11) a {
+	color: transparent !important;
+  }
+  
+  .btn.a-color {
+	color: #1f2e48 !important;
+  }
+  
+  .hdr-user-bc .bc-i-deposit, .hdr-user-bc .bc-i-wallet {
+	background: #7dbb21 !important;
+  }
+  .product-banner-info-bc::before {
+	background: transparent !important;
+  }
+  
+  .m-nav-items-list-item-bc {
+	width: 240px !important;
+	float: left !important;
+  }
+  .dep-w-info-bc .m-block-nav-items-bc {
+	  overflow: scroll;
+	max-height: 250px;
+  }
+  .sdr-image-bc {
+	border-radius: 20px !important;
+  }
+  .carousel-viewport {
+	border-radius: 20px !important;
+  }
+  .footer-bc {
+	padding: 22px 10px 10px 15px !important;
+  }

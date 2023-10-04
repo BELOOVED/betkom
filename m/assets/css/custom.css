@@ -1,0 +1,122 @@
+.promotions-article-title
+{
+    display: none !important;
+}
+
+.promotionsArticleThumbnail-bc{
+    border-radius: 12px;
+}
+body {
+  background-image: url(https://cmsbetconstruct.com/storage/medias/betzula-18748519/media_18748519_d4b536f0222bde4a120756b34a79072c.jpeg) !important;
+}
+.btn a-color  header-icon-text bc-i-wallet{
+display:none;
+}
+.livechat_button{display:none;}
+#comm100-float-button-2{
+  display:none;
+}
+.crypto-wallet-switcher-container {
+  display: none !important;
+}
+.nav-ico-w-row-bc {
+  height: 70px !important;
+}
+
+.payment-logo {
+  max-width: 108% !important;
+}
+
+.m-block-nav-items-bc {
+  display: inline !important;
+ 
+}
+
+.m-nav-list-item-title-bc {
+  width: 100% !impotant;
+}
+.informative-widget-container i {
+  font-size: 15px !important;
+  color: rgba(var(--b-sc-rgb),.7);
+  padding-left: 10px !important;
+}
+.product-banner-icon-bc.bc-i-telegram {
+  color: #08C !important;
+}
+.product-banner-icon-bc.bc-i-whatsapp {
+  color: #25D366 !important;
+}
+
+.informative-widget-container {
+    padding: 13px 0px 13px 0px !important;
+    margin-left: -39%;
+}
+.btn.s-small.sign-in {
+  background: #7dbb21 !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  text-decoration: none !important;
+}
+.header-custom-buttons + .sign-in {
+  min-height: 29px !important;
+}
+.loyaltyButtons-bc {
+  display: none !important;
+}
+
+.loyaltyPointsCurrentPlanProgressBar-bc::after {
+  background: #aeaeae !important;
+}
+
+.loyaltyPointsCurrentPlanTitle-bc {
+  color: #BEA557 !important;
+}
+.loyaltyPointsCurrentPlanLabel-bc {
+  color: white !important;
+}
+.loyaltyNum-bc.ellipsis {
+  color: white !important;
+}
+.informative-widget-container {
+  margin-left: -16% !important;
+}
+
+a.tab-nav-item-bc.badge-.count-blink-even {
+  background-color: #1f2e48 !important;
+  border-radius: 50% !important;
+  height: 80px !important;
+  box-shadow: 0px -1px 14px 1px #dac795 !important;
+  color: #fff !important;
+}
+
+.tab-navigation-w-bc {
+  background: #1f2e48 !important;
+}
+
+.tab-nav-icon-bc {
+  color: #dac795 !important;
+}
+
+[dir="ltr"] .hdr-dynamic-content .hm-row-bc > .e-p-close-icon-bc {
+  right: 7px !important;
+}
+
+.hdr-dynamic-content .hm-row-bc > .e-p-close-icon-bc {
+  top: 12px !important;
+}
+
+.informative-widget-container {
+  padding: 6px 0px 7px 0px !important;
+}
+
+.btn.s-small {
+  height: 25px !important;
+}
+
+.header-custom-buttons + .sign-in {
+  min-height: 23px !important;
+}
+
+.product-banner-container-bc.col-4.product-banner-without-titles.product-banner-container-bc.col-4 {
+    grid-template-columns: repeat(5,1fr) !important;
+}

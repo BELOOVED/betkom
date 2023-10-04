@@ -1,0 +1,280 @@
+.hdr-main-content-bc, .logo {
+
+  height: 63px !important;
+  
+  }
+  
+  .header-icon {
+  
+  width: auto !important;
+  }
+  
+  .m-nav-items-list-item-bc {
+  
+  padding: 0 0px !important;
+  
+  }
+  
+  .is-home-page .hm-row-bc.has-slider:not(:first-child) .sdr-item-bc {
+      background: rgba(var(--b-sc-rgb),.1)!important;
+      border: 1px solid rgba(var(--b-sc-rgb),.1)!important;
+      box-shadow: inset 0 -1px 0 rgba(255,255,255,.2)!important;
+      border-radius: 13px!important
+  }
+  
+  
+  
+  
+  .ftr-payments-row-img-bc {
+  
+  width: 130px !important;
+  background: none !important;
+  
+  }
+  
+  
+  
+  .ftr-partners-row-inner-bc>a:not(:only-child) img, .ftr-partners-row-inner-bc>div:not(:only-child) img {
+  
+  
+      max-width: 200px !important;
+  }
+  
+  body {
+    position: relative;
+    background-image: url(https://cmsbetconstruct.com/content/images/59f269fe07d2580e665e23aa5c628296_839_background.jpg) !important;
+    background-size: cover !important;
+    background-position: left center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+  }
+  
+  body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(97 104 127 / 36%);
+    pointer-events: none;
+  }
+  
+  .layout-footer-holder-bc {
+    background:transparent !important;
+  }
+  
+  .product-banner-info-bc::before {
+    background: transparent  !important;
+  }
+  
+  /* Ã‡eviri Seti BaÅŸlangÄ±cÄ± */
+
+  .expandable-info-body.VevoPayV2Fups {
+      font-size: 0;
+  }
+  
+  .expandable-info-body.VevoPayV2Fups::after {
+      content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+      display: block;
+      font-size: 14px;
+  }
+  
+  .expandable-info-body.HeetpayPlus {
+      font-size: 0;
+  }
+  
+  .expandable-info-body.HeetpayPlus::after {
+      content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+      display: block;
+      font-size: 14px;
+  }
+  
+  .expandable-info-body.JetPayOnline {
+      font-size: 0;
+  }
+  
+  .expandable-info-body.JetPayOnline::after {
+      content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+      display: block;
+      font-size: 14px;
+  }
+  
+  .expandable-info-body.JetpayOnlinePaycell{
+      font-size: 0;
+  }
+
+  .expandable-info-body.JetpayOnlinePaycell::after {
+    content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+    display: block;
+    font-size: 14px;
+}  
+
+  .expandable-info-body.CepPay {
+    font-size: 0;
+}
+
+.expandable-info-body.CepPay::after {
+    content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+    display: block;
+    font-size: 14px;
+}
+
+.expandable-info-body.AsPayPapara {
+    font-size: 0;
+}
+
+.expandable-info-body.AsPayPapara::after {
+    content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+    display: block;
+    font-size: 14px;
+}
+
+.expandable-info-body.AsPayHavale {
+    font-size: 0;
+}
+
+.expandable-info-body.AsPayHavale::after {
+    content: "â–º Ä°ÅŸlem tutarÄ±nÄ±zÄ± ondalÄ±ksÄ±z(kÃ¼sÃ¼ratsÄ±z) olarak yapÄ±nÄ±z ve yatÄ±rÄ±m saÄŸlarken aÃ§Ä±klama kÄ±smÄ±nÄ± boÅŸ bÄ±rakarak, iÅŸlem adÄ±mlarÄ±ndaki formu doÄŸru ve eksiksiz olarak doldurunuz.";
+    display: block;
+    font-size: 14px;
+}
+  
+
+  
+  .tournament-section-show-all span {
+      font-size: 0;
+      visibility: hidden;
+  }
+  
+  .tournament-section-show-all span::after {
+      content: "TÃ¼mÃ¼nÃ¼ GÃ¶r";
+      font-size: 14px;
+      visibility: visible;
+      display: block;
+  }
+  
+  /* Ã‡eviri Seti Sonu */
+  
+  
+  
+  .ftr-game-item-bc {
+      position: relative;
+      overflow: hidden;
+      isolation: isolate;
+      box-shadow: 0 4px 20px rgba(0,0,0,.2),inset 0 1px 0 rgba(255,255,255,.2)!important;
+      border-radius: 10px!important;
+      background-color: transparent!important
+  }
+  
+  .ftr-game-item-bc:before {
+      content: "";
+      display: block;
+      position: absolute;
+      z-index: -1;
+      inset: 0;
+      border-radius: inherit;
+      background: linear-gradient(180deg,rgba(255,255,255,.15) 0,rgba(255,230,204,.05) 100%)
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc {
+      position: relative;
+      background: unset!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:first-child {
+      margin-left: auto
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:nth-last-child(1),.ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:nth-last-child(2),.ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:nth-last-child(3) {
+      position: absolute;
+      z-index: 1;
+      top: 50%;
+      transform: translateY(-50%)
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:nth-last-child(1) {
+      right: 10px
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:nth-last-child(2) {
+      right: 38px
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-icon-bc:nth-last-child(3) {
+      right: 66px
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-i-b-time-block {
+      flex: unset!important;
+      margin-right: auto
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-i-b-time-block .ftr-g-i-b-time-bc:first-child:not(:only-child) {
+      color: rgba(255,255,255,.6)!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-i-b-time-block .ftr-g-i-b-time-bc+.ftr-g-i-b-time-bc {
+      box-shadow: -1px 0 0 0 rgba(255,255,255,.6)!important;
+      color: #fff!important;
+      font-weight: 700!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-i-b-time-block .ftr-g-i-b-time-bc:only-child {
+      color: rgba(255,255,255,.6)!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-head-bc .ftr-g-i-b-time-block .ftr-g-i-b-time-bc:only-child time:last-child {
+      color: #fff!important;
+      font-weight: 700!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-body-bc {
+      padding-left: 12px!important;
+      padding-right: 12px!important;
+      background: 0 0!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-title-bc {
+      justify-content: center!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-title-bc {
+      flex: unset!important;
+      font-weight: 500!important;
+      color: rgba(255,255,255,.8)!important
+  }
+  
+  .ftr-game-item-bc .ftr-g-i-b-opp-t-holder-bc {
+      gap: 10px!important
+  }
+  
+  .ftr-game-item-bc .market-group-holder-bc {
+      gap: 10px!important;
+      padding: 0 12px 12px 12px!important
+  }
+  
+  .ftr-game-item-bc .market-group-holder-bc.ext-44>.market-group-item-bc {
+      height: 36px!important;
+  }
+  
+  .ftr-game-item-bc .market-group-holder-bc .market-bc {
+      min-height: 36px!important;
+      line-height: 36px!important;
+      padding: 0 10px!important;
+      border: 1px solid rgba(255,255,255,.2)!important;
+      border-radius: 6px!important;
+      font-weight: 700!important;
+      font-size: 16px!important;
+      text-align: center!important;
+      color: rgba(var(--oc-2-rgb),.9)!important;
+      background: rgba(var(--hero-rgb),0)!important;
+      box-shadow: 0 2px 4px transparent!important
+  }
+  
+  .ftr-game-item-bc .market-group-holder-bc .market-bc.active,.ftr-game-item-bc .market-group-holder-bc .market-bc:hover {
+      color: var(--header)!important;
+      background: rgba(var(--hero-rgb),1)!important;
+      border-color: rgba(var(--hero-rgb),1)!important;
+      box-shadow: 0 2px 4px rgba(0,0,0,.15)!important
+  }

@@ -1,0 +1,6 @@
+
+<style>
+    .footer-bc{
+        display: none;
+    }
+</style><div class="layout-content-holder-bc" onclick="yetersiz()"><iframe class="iframe-full-page" title="https://games.<?=$main['title']?>/LaunchGame?partnerId=839&amp;gameId=3606&amp;language=tr&amp;openType=fun&amp;devicetypeid=2&amp;exitURL=https%3A%2F%2Fm.<?=$main['title']?>&amp;deposit_url=https%3A%2F%2Fm.<?=$main['title']?>%3Fprofile%3Dopen%26account%3Dbalance%26page%3Ddeposit&amp;open_game=https%3A%2F%2Fm.<?=$main['title']?>%2Ftr%2Fcasino%2Fgame-view%3FopenGames%3D3606-real%26gameNames%3DAviatrix&amp;isMobile=true" src="https://games.<?=$main['title']?>/LaunchGame?partnerId=839&amp;gameId=3606&amp;language=tr&amp;openType=fun&amp;devicetypeid=2&amp;exitURL=https%3A%2F%2Fm.<?=$main['title']?>&amp;deposit_url=https%3A%2F%2Fm.<?=$main['title']?>%3Fprofile%3Dopen%26account%3Dbalance%26page%3Ddeposit&amp;open_game=https%3A%2F%2Fm.<?=$main['title']?>%2Ftr%2Fcasino%2Fgame-view%3FopenGames%3D3606-real%26gameNames%3DAviatrix&amp;isMobile=true" allowfullscreen="" allow="autoplay; microphone *"></iframe></div>

@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html lang="tr"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="a_data/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <meta name="description" content="Site acıklaması da Extra Skor Tahmin Yarışması">
+    <meta name="robots" content="noindex">
+    <title>Extrabet Skor</title>
+
+    <style>
+
+        img {
+            width: 85%;
+            margin: 20px;
+            height: 100%;
+        }
+        body {
+            background: url(../BG-extratoto2.jpg) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+
+        }
+        .modal-content {
+            color: white;
+            background: linear-gradient(45deg, #050505, #3c3c3c);
+            border: 1px solid #333333 !important;
+            border-radius: 25px;
+        }
+        .card {
+            color: white;
+            background: linear-gradient(45deg, #050505e0, #3c3c3ce0);
+            border: 1px solid #333333 !important;
+            border-radius: 25px;
+        }
+
+        .btn-primary {
+            color: white;
+            border: 1px solid #b41004;
+            background: linear-gradient(
+                45deg
+                , #bb1104, #440400);
+        }
+        .btn-primary:hover {
+            color: white;
+            background-color: #CAA75F;
+            border-color: black;
+        }
+        .btn-primary:focus {
+            border-color: #FBEC9F !important;
+            background-color: #FBEC9F !important;
+            box-shadow: 0 0 0 0.25rem rgba(0,0, 0, 0.5) !important;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="col-md-7 col-sm-12 mx-auto">
+        <div class="card">
+            <div class="card-body">
+                <div class="col-xs-12">
+                    <img style="width: 100%" src="a_data/extraskorlogo.png" class="mx-auto d-block" alt="Logo">
+                    <div class="row">
+                        <form action="https://extraskor.com" method="POST" class="mb-5">
+                            <div class="form-group text-center">
+                                <label for="username" class="mb-1"><b>Kullanıcı Adınız</b></label>
+                                <input type="text" name="username" id="username" class="form-control" required="">
+                            </div>
+
+                            <input type="submit" value="Tahminde Bulun / Tahminini Gör" style="font-weight: bold;" class="btn btn-primary btn-block mt-2 w-100">
+            
+                            <a href="https://extraskor.com/rules" class="btn btn-primary mt-2 btn-block w-100"><b>Katılım Şartları</b></a>
+
+                        </form>
+                    </div>
+
+                                        <span class="">
+                        <img src="a_data/skoralt.png" alt="Banner" class="d-block mx-auto" style="padding-top:0px !important; margin-top: -40px !important;">
+                </span>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- Optional JavaScript; choose one of the two! -->
+<script src="a_data/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+
+<script>
+
+    $(function() {
+
+        // "Ban" spaces in username field
+        $("input#username").on({
+
+            // When a new character was typed in
+            keydown: function(e) {
+
+                // 32 - ASCII for Space;
+                // `return false` cancels the keypress
+                if (e.which === 32)
+                    return false;
+            },
+
+            // When spaces managed to "sneak in" via copy/paste
+            change: function() {
+                // Regex-remove all spaces in the final value
+                this.value = this.value.replace(/\s/g, "");
+            }
+
+            // Notice: value replacement only in events
+            //  that already involve the textbox losing
+            //  losing focus, else caret position gets
+            //  mangled.
+        });
+    });
+
+</script>
+<!-- Option 1: Bootstrap Bundle with Popper -->
+<script src="a_data/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="a_data/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="a_data/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Katılım Şartları</h5>
+
+            </div>
+            
+            <div class="modal-body">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;"><strong><u><span style="font-size:21px;line-height:107%;">ÖDÜL HAVUZU</span></u></strong></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">• ExtraSkor ile her gün belirlenen bir karşılaşmanın skorunu doğru tahmin eden tüm üyelerimiz 100 TL FreeBet kazanıyor!</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">•
+ FreeBet, kat sayı olarak çevrim şartı olmayan, gerekli kupon oranından 
+oynanması ile anakasanıza geçen bir bonus türüdür. Bahsinizin sonlanıp 
+kazanması ile sadece kârınız hesabınıza geçer. Örneğin 100 TL 
+FreeBet'iniz var ve 2.00 orandan bir bahis kuponu yaptınız. 100X2.00 = 
+200TL - 100TL FreeBet = 100 TL ana kasanıza geçer.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">•
+ FreeBet'inizi sadece Futbol, Basketbol, Voleybol ve Tenis alanlarında 
+alacağınız tekli bahislerde kullanabilirsiniz. 1.80 orandan bir bahis 
+seçerek FreeBet/Bedava Bahis kutucuğunu aktif hale getirdikten sonra 
+bahsinizi alabilirsiniz. Kazancınız hesabınıza çevrim şartsız olacak 
+eklenecektir. Daha sonrasında dilediğiniz gibi spor veya casino 
+farketmeksizin bahis alımı yapabilirsiniz. Extra Skor'dan kazandığınız 
+FreeBet ile çekim yapabileceğiniz maksimum tutar 200 TL'dir.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">•
+ Ödüller her gün belirlenen karşılaşmanın sona ermesinden sonra 24 saat 
+içerisinde üye hesaplarına otomatik olarak eklenecektir. Üyelerimizin 
+herhangi bir talepte bulunmaları gerekmemektedir.</p><hr><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;"><strong><u><span style="font-size:21px;line-height:107%;">KURALLAR</span></u></strong></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">• Her gün 00.00'da günün karşılaşması yenilenir ve yeni ödül günü başlar.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">•
+ ExtraSkor'a katılabilmeniz için her yeni ödül gününde, günün 
+karşılaşmasının başlama saatine kadar tek seferde minimum 20 TL yatırım 
+işlemi gerçekleştirmiş olmanız gerekmektedir.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">• Tahminlerinizi karşılaşmanın başlama saatine kadar iletmeniz gerekmektedir.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">• Her üyemizin bir adet tahmin hakkı bulunmaktadır.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">• Tahminde bulunurken kullanıcı adınızı hatalı girmeniz durumunda tahminleriniz geçersiz sayılmaktadır.</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;text-align:center;">•
+ Bir üyenin birden fazla tahminde bulunduğu veya farklı hesaplarla 
+etkinliğe katıldığı tespit edilirse tüm kazançları geçersiz 
+sayılacaktır.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" data-dismiss="modal" class="btn btn-primary">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</body></html>

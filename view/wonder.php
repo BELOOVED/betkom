@@ -1,0 +1,1 @@
+<div class="layout-content-holder-bc"><iframe allowfullscreen="" allow="autoplay; microphone *" title="https://luckywheel.bahiscasino430.com/?langId=tr&amp;partnerId=1866572&amp;SourceId=0" src="https://luckywheel.bahiscasino430.com/?langId=tr&amp;partnerId=1866572&amp;SourceId=0" style="height: 100%; width: 100%;"></iframe></div>

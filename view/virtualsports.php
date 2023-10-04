@@ -1,0 +1,1 @@
+<div class="layout-content-holder-bc"><iframe allowfullscreen="" allow="autoplay; microphone *" class="iframe-full-page virtual-sports" title="https://vs.<?=$main['title']?>.com" src="https://vs.<?=$main['title']?>.com"></iframe></div>
