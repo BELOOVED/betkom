@@ -1,4 +1,4 @@
-<div class="main-content-wrapper_9d176">
+<div class="main-content-wrapper_9d176" onclick="yetersiz()">
    <div class="">
       <div class="container_0fb5e">
       <nav class="">

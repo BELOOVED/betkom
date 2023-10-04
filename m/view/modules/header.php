@@ -379,18 +379,18 @@ div:where(.swal2-icon).swal2-warning {
                      <?php if(isset($us['id'])){ ?>
                       <div class="user-block-container_e430e">
                         <div class="user-vidgets-block_8f756">
-                            <a class="notifications_e7a0c">
+                            <a class="notifications_e7a0c" href="notifications">
                               <svg width="14" height="18" viewBox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                                   <path d="M9.4246 15.6348C9.4246 16.5302 8.96252 17.2156 8.21206 17.6636C7.46183 18.1113 6.53742 18.1113 5.7886 17.6636C5.03791 17.2156 4.57605 16.5302 4.57605 15.6348" fill="#D6DAFF"></path>
                                   <path d="M6.99977 0C7.66103 0 8.19363 0.421202 8.19363 1.06893C8.19363 1.47662 8.20741 1.78082 8.45538 1.85874C10.5641 2.5166 11.9163 4.05859 11.9163 6.06111V9.42687C11.9163 10.9689 12.5269 11.281 13.2953 11.8709C14.4081 12.7236 14.1541 14.4994 12.8771 14.4982H1.12289C-0.154098 14.4994 -0.408142 12.7236 0.704702 11.8709C1.47221 11.281 2.08373 10.9689 2.08373 9.42687V6.06111C2.08373 4.05859 3.43591 2.5166 5.54462 1.85874C5.79189 1.78082 5.80637 1.47662 5.80637 1.06893C5.8066 0.421202 6.33944 0 6.99977 0V0Z" fill="#D6DAFF"></path>
                               </svg>
                             </a>
-                            <div class="user-info-wrapper_99bcb">
+                            <div class="user-info-wrapper_99bcb" onclick="window.location.href = 'deposit'">
                               <div class="user-info_c4fd7">
                                   <div class="user-name_5d830"><?=$us['login'] ?></div>
                                   <div class="user-balance_99919">₺ <?=$us['balance'] ?></div>
                               </div>
-                              <div class="user-avatar_59913">
+                              <div class="user-avatar_59913" onclick="window.location.href = 'account'">
                                   <img src="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/mobi/turkish/betkom/img/account/default-avatar.png" alt="avatar" class="avatar_ede4a">
                                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none" class="verified-icon_65bbb">
                                     <circle cx="8" cy="8" r="8" fill="white"></circle>

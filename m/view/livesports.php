@@ -1,4 +1,4 @@
-<div class="main-content-wrapper_9d176">
+<div class="main-content-wrapper_9d176" onclick="yetersiz()">
    <div class="search-filter-wrapper_97e20">
       <div class="search_72171">
          <input type="text" placeholder="Ara" class="search-input_4a0b8" value="">

@@ -1,4 +1,4 @@
-<div class="main-content-wrapper_9d176">
+<div class="main-content-wrapper_9d176" onclick="yetersiz()">
    <div class="virtual-wrapper_5a950">
       <ul class="menu_642ae">
          <li class="item_911db active_634e2">

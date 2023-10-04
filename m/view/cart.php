@@ -1,4 +1,4 @@
-<div class="main-content-wrapper_9d176">
+<div class="main-content-wrapper_9d176" onclick="yetersiz()">
    <div class="cart-bg_0eb90">
       <div class="cart_f8ffe">
          <div class="cart-tabs_2aefe">

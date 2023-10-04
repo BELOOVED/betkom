@@ -114,13 +114,13 @@
                </div>
                <div class="right-menu_ea7b3"></div>
             </div>
-            <div class="links-wrapper_471ba"><a href="/tr/account/deposits/" class="link_6b6cf active_37cdc">Yatırım</a><a href="/tr/account/withdraws/" class="link_6b6cf">Çekim</a><a href="/tr/account/history/deposit_withdraw/" class="link_6b6cf">Geçmiş</a></div>
+            <div class="links-wrapper_471ba"><a href="deposit" class="link_6b6cf active_37cdc">Yatırım</a><a href="withdraw" class="link_6b6cf">Çekim</a><a href="history" class="link_6b6cf">Geçmiş</a></div>
             <div class="payment_plugins_20d53">
                <div class="payment_plugins_content_682c2">
                   <div class="group_b2d25">
                      <button class="title_83b8d"><span>Tavsiye Edilen Para Yatırma Yöntemleri</span><span class="group-state-icon_c6b8a open_68162"></span></button>
                      <div class="plugins_54794">
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/havale'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.bank_transfer/fixfin_bank_transfer_194.svg" alt="HAVALE / EFT" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -138,7 +138,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/havale'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.kolaypay_havale/fixfin_kolaypay_havale_193.svg" alt="Kolaypay Havale" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -156,7 +156,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/payfix'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.payfix/fixfin_payfix_195.png" alt="Payfix" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -174,7 +174,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.aninda_mefete/fixfin_aninda_mefete_196.svg" alt="Anında Mefete" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -192,7 +192,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.cryptocurrency/fixfin_cryptocurrency_192.svg" alt="Kripto Para" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -210,7 +210,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/papara'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.kolaypay_papara/fixfin_kolaypay_papara_204.svg" alt="Kolaypay Papara" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -233,7 +233,7 @@
                   <div class="group_b2d25">
                      <button class="title_83b8d"><span>Havale Para Yatırma Yöntemleri</span><span class="group-state-icon_c6b8a open_68162"></span></button>
                      <div class="plugins_54794">
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/havale'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.ultrapay_bank_transfer/fixfin_ultrapay_bank_transfer_211.svg" alt="Ultrapay Havale" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -251,7 +251,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/havale'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.vegapay_havale/fixfin_vegapay_havale_201.svg" alt="Vegapay Havale" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -269,7 +269,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/havale'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.sistem_nakit_bank_transfer/fixfin_sistem_nakit_bank_transfer_214.svg" alt="Fixfin Sistem Nakit Havale" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -287,7 +287,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/havale'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.multipay_bank_transfer/fixfin_multipay_bank_transfer_206.svg" alt="Multipay Havale" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -310,7 +310,7 @@
                   <div class="group_b2d25">
                      <button class="title_83b8d"><span>Papara Para Yatırma Yöntemleri</span><span class="group-state-icon_c6b8a open_68162"></span></button>
                      <div class="plugins_54794">
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/papara'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.multipay_papara/fixfin_multipay_papara_208.svg" alt="Multipay Papara" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -328,7 +328,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/papara'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.ultrapay_papara/fixfin_ultrapay_papara_212.svg" alt="Ultrapay Papara" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -346,7 +346,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/papara'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.paparasn/fixfin_paparasn_199.svg" alt="Papara SN" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -364,7 +364,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/papara'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.vegapay_papara/fixfin_vegapay_papara_202.svg" alt="Vegapay Papara" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -382,7 +382,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="window.location.href = '/payment/papara'">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.aninda_papara/fixfin_aninda_papara_215.svg" alt="Anında Papara" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -405,7 +405,7 @@
                   <div class="group_b2d25">
                      <button class="title_83b8d"><span>Kredi Kartı Para Yatırma Yöntemleri</span><span class="group-state-icon_c6b8a open_68162"></span></button>
                      <div class="plugins_54794">
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.kolaypay_credit_card/fixfin_kolaypay_credit_card_197.svg" alt="Kolaypay Kredi Kartı" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -423,7 +423,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.sistem_nakit_credit_card/fixfin_sistem_nakit_credit_card_203.svg" alt="Kredi Kartı SN" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -446,7 +446,7 @@
                   <div class="group_b2d25">
                      <button class="title_83b8d"><span>Sanal Ödeme Sistemleri Para Yatırma Yöntemleri</span><span class="group-state-icon_c6b8a open_68162"></span></button>
                      <div class="plugins_54794">
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.multipay_hayhay/fixfin_multipay_hayhay_209.svg" alt="Multipay Hayhay" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -464,7 +464,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.ceppay/fixfin_ceppay_198.svg" alt="Payco" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -482,7 +482,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.popypara/fixfin_popypara_200.svg" alt="Popypara" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -500,7 +500,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.multipay_paycell/fixfin_multipay_paycell_210.svg" alt="Multipay Paycell" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -518,7 +518,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.sanalpays/fixfin_sanalpays_205.svg" alt="Sanalpays" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -536,7 +536,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.multipay_pep/fixfin_multipay_pep_207.svg" alt="Multipay Pep" class="deposit_ico_f7dd8"></div>
                               <div class="">
@@ -554,7 +554,7 @@
                            </div>
                            <div class="payment-plugins-bottom_8fe5f">PARA YATIR</div>
                         </div>
-                        <div class="payment-plugins-item_d5c88">
+                        <div class="payment-plugins-item_d5c88" onclick="guncelleniyor()">
                            <div class="payment-plugins-top_0f50e">
                               <div class="payment-plugins-img_8a44f"><img src="https://betkom9.com/api//resources/media/payment_provider_images/fixfin.fastline_qr/fixfin_fastline_qr_216.png" alt="Fastline QR" class="deposit_ico_f7dd8"></div>
                               <div class="">

@@ -1,4 +1,4 @@
-<div class="main-content-wrapper_9d176">
+<div class="main-content-wrapper_9d176" onclick="yetersiz()">
    <div class="background-wrapper_eee74">
       <img src="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/mobi/turkish/betkom/img/casino/3d_slots_bg.png" alt="" class="background-wrapper__image_94a95">
       <div class="background-wrapper__content_bab95">
