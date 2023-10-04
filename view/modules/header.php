@@ -23,45 +23,7 @@ if ($detect->isMobile()) {
       <link rel="apple-touch-icon" sizes="76x76" href="https://cdn1-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/apple-touch-icon.png?v=2">
       <link rel="icon" type="image/png" sizes="32x32" href="https://cdn2-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-32x32.png?v=2">
       <link rel="icon" type="image/png" sizes="16x16" href="https://cdn3-client.btkmcdn.com/build/stylesSrc/themes/common/turkish/betkom/img/icons/favicon-16x16.png?v=2">
-      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript">  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
-         d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
-         s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
-         ,'script','_gs');
-         
-         _gs('GSN-526908-Q');
-         _gs('set', 'anonymizeIP', true);
-      </script>  <script type="text/javascript">
-         Configurator = {
-         	language                : "tr_TR",
-         	translate_language      : "tr_TR",
-                   entity_language      	: "tr_TR",
-         	important_content_blocks: ["APPLICATION_STATE"],
-         	theme                   : 'turkish/betkom',
-         	device_type             : 'web',
-         	public                  : PublicConfig,
-         	blocks_data             : BlocksData,
-         	error_status            : false,
-         	no_found_league         : false,
-         	no_found_event          : false,
-         	no_found_sport          : '',
-         	no_found_country        : false,
-         	timezone               : 'Europe/Istanbul',
-         	currency                : 'TRY',
-         	currency_symbol         : '₺',
-         	timezone_offset         : -180,
-         	odds_format             : 'floating_format',
-                   default_offset          : 180,
-                   profit_hint          	: 0,
-                   domain             		: 'betkom.com',
-                   cms_currency     		: 'EUR',
-                   cms_currency_symbol     : '€',
-                   version           		: '1696319036__fa2aa34138ca9e4d8080843b5b522fb7__72d473b011fc9a580051f639bc75f294',
-                   source_state            : {},
-                   country            		: ''
-         
-         };
-         
-      </script>
+      
       <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
       <script src="/assets/js/script.js"></script>
