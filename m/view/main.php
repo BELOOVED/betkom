@@ -8,7 +8,7 @@
                   </button>
                   <div class="slick-list">
                      <div class="slick-track slider-slickone" style="width: 9375px; opacity: 1; transform: translate3d(0px, 0px, 0px);">
-                        <div data-index="-1" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="-1" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                         </div>
                         <div data-index="0" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
@@ -47,40 +47,40 @@
                         <div data-index="11" class="slick-slide" tabindex="-1" aria-hidden="true" style="outline: none; width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                         </div>
-                        <div data-index="12" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="12" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316811_tr_TR_100-yatirim-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316811_tr_TR_100-yatirim-slider.jpg"></a></div>
                         </div>
-                        <div data-index="13" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="13" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316820_tr_TR_kombine-slider.jpg" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696316820_tr_TR_kombine-slider.jpg"></a></div>
                         </div>
-                        <div data-index="14" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="14" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696078365_tr_TR_5_payfix_yatirim_bonusu_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696078365_tr_TR_5_payfix_yatirim_bonusu_slider.png"></a></div>
                         </div>
-                        <div data-index="15" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="15" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696080644_tr_TR_23-05_arasi_ek_freespin_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696080644_tr_TR_23-05_arasi_ek_freespin_slider.png"></a></div>
                         </div>
-                        <div data-index="16" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="16" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006030_tr_TR_ana_sayfa_ust_banner-1.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006030_tr_TR_ana_sayfa_ust_banner-1.png"></a></div>
                         </div>
-                        <div data-index="17" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="17" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006035_tr_TR_ana_sayfa_ust_banner-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006035_tr_TR_ana_sayfa_ust_banner-2.png"></a></div>
                         </div>
-                        <div data-index="18" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="18" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026785_tr_TR_ana_sayfa_ust_banner-8-2.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026785_tr_TR_ana_sayfa_ust_banner-8-2.png"></a></div>
                         </div>
-                        <div data-index="19" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="19" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006040_tr_TR_ana_sayfa_ust_banner-3.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694006040_tr_TR_ana_sayfa_ust_banner-3.png"></a></div>
                         </div>
-                        <div data-index="20" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="20" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026780_tr_TR_ana_sayfa_ust_banner-11.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1695026780_tr_TR_ana_sayfa_ust_banner-11.png"></a></div>
                         </div>
-                        <div data-index="21" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="21" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970635_tr_TR_ana_sayfa_ust_banner-10.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970635_tr_TR_ana_sayfa_ust_banner-10.png"></a></div>
                         </div>
-                        <div data-index="22" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="22" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696075901_tr_TR_egt_cok_yakinda_slider.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1696075901_tr_TR_egt_cok_yakinda_slider.png"></a></div>
                         </div>
-                        <div data-index="23" tabindex="-1" class="slick-slide slick-cloned" aria-hidden="true" style="width: 375px;">
+                        <div data-index="23" tabindex="-1" class="slick-slide " aria-hidden="true" style="width: 375px;">
                            <div><a class="swiper-slide main-slide_5bbfa" href="/tr/"><img src="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png" alt="https://cdn2-platform.btkmcdn.com//sliders/mobi_main/1694970569_tr_TR_ana_sayfa_ust_banner-7.png"></a></div>
                         </div>
                      </div>
