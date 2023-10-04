@@ -26,7 +26,7 @@
     grid-row: 2;
     align-self: center;
     justify-self: center;
-    background: #282C37 !important;
+    background: #1e1e20 !important;
     box-shadow: 1px 1px 20px #333 !important;
     border-radius: 20px !important;
     color: #fff !important;
