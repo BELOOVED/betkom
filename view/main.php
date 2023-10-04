@@ -3,7 +3,7 @@
                <div class="home_4cdc7">
                   <div class="home-container_b2d9b container_01a5e">
                      <div class="">
-                        <div class="main-slider_f2957">
+                        <div class="main-slider_f2957" style="height: 40%">
                            <div class="slick-wrapper_cfa57">
                               <div class="slick-slider slick-initialized" dir="ltr">
                                  <button class="slick-arrow slick-prev" style="display: block;">
