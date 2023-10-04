@@ -35,13 +35,13 @@ div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm {
     border: 0;
     border-radius: 0.25em;
     background: initial;
-    background-color: #ea2323 !important;
+    background-color: #2764ff !important;
     color: #fff !important;
     font-size: 1em;
 }
 div:where(.swal2-icon).swal2-warning {
-    border-color: #ea2323 !important;
-    color: #ea2323 !important;
+    border-color: #2764ff !important;
+    color: #2764ff !important;
 }
     </style>
     <script src="assets/js/app.js"></script>
